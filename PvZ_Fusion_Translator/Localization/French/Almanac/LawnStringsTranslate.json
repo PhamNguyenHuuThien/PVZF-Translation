@@ -479,16 +479,16 @@
         {
             "seedType": 1000,
             "name": "Pisto-Tournesol",
-            "introduce": "<size=36><color=black>\"En fait, Le Tournesol derrière moi est ma sœur Expliqua Pisto-Pois à tout le monde. \"Nous sommes inséparables depuis la naissance. Elle adore produire des soleils, et j'adore détruire du zombie à ses côtés.\" Ce Pisto-Pois tient énormément à sa sœur et vaporisera de rayons de soleil n'importe quel zombie qui osera s'en approcher.</color>< /taille>",
-            "info": "<size=36>Le Pois-tournesol peut tirer des Balles de Soleil qui produiront du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>100/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les balles lâchent 5 soleils lorsqu'elles touchent des zombies.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Tournesol</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>\"En fait, Le Tournesol derrière moi est ma sœur Expliqua Pisto-Pois à tout le monde. \"Nous sommes inséparables depuis la naissance. Elle adore produire des soleils, et j'adore détruire du zombie à ses côtés.\" Ce Pisto-Pois tient énormément à sa sœur et vaporisera en rayons de soleil n'importe quel zombie qui osera s'en approcher.</color>< /taille>",
+            "info": "<size=36>Le Pois-tournesol peut tirer des Balles de Soleil qui produiront du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>100/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les balles lâchent 5 soleils lorsqu'elles touchent des zombies.</size>",
+            "cost": "\n<size=36></color>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Tournesol</color>"
         },
         {
             "seedType": 1001,
             "name": "Pisto-cerise",
-            "introduce": "<size=36><color=black>\"Tu penses que j'ai des problèmes de colère brûlants ? Moi ? Bah ! Tu es rouge et chaud ! Toute ta famille est rouge !\" Cherryshooter détestait être taquiné sur la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. C'était juste un heureux incident. Après avoir mangé des cerises spéciales, Pistopois s'est retrouvé rouge et brûlant, et étonnamment, il pouvait tirer des cerises.</color></size>",
-            "info": "<size=36>Pisto-cerise pneu des cerises puissantes.\n\n<color=black>Dégâts : </color><color=#8B0000>60/1.5 Secondes</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Cerise Explosive</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>« Tu crois que j’ai des problèmes de colère brûlants ? Moi ? Bah ! C’est toi qui es rouge et chaud ! Toute ta famille est rouge ! » Pisto-cerise détestait qu’on se moque de la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. Ce fut simplement un heureux accident. Après avoir mangé des cerises spéciales, Pisto-Pois devint rouge et ardent, et, à sa grande surprise, il pouvait tirer des cerises.</color></size></align>",
+            "info": "<size=36>Pisto-cerise tire des cerises puissantes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-Pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1002,
@@ -507,9 +507,9 @@
         {
             "seedType": 1004,
             "name": "Pois-noix",
-            "introduce": "<size=36><color=black>\"Non... ne me traite pas de moche, sinon... attends... je vais te vaporiser.\" Pea-nut a toujours eu du mal avec son apparence \" unique \". Mais il croit fermement que ce qu’il y a à l’intérieur d’une plante compte plus que son apparence. En quête de conseils, il a humblement demandé conseil au senior Bowling Nut et a finalement maîtrisé la technique consistant à faire rouler des noix comme des boules de bowling.</color></size>",
-            "info": "<size=36>Pois-noix tire des mini-noix qui peuvent pénétrer les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes (Piercing) </color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Noix</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>« Non... ne me traite pas de moche, sinon... attends... je vais te vaporiser. » Pois-noix a toujours eu du mal avec son apparence « unique ». Mais il croit fermement que ce qu’il y a à l’intérieur d’une plante compte plus que son apparence. En quête de sagesse, il a humblement demandé conseil à l’expérimenté Noix de Bowling et a fini par maîtriser la technique consistant à faire rouler les noix comme des boules de bowling.</color></size></align>",
+            "info": "<size=36>Pois-noix tire des mini-noix capables de traverser les zombies.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s (Perçant)</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-Pois + Noix</color></size>"
         },
         {
             "seedType": 1005,
@@ -528,9 +528,9 @@
         {
             "seedType": 1007,
             "name": "Pois-mine",
-            "introduce": "<size=36><color=black>Pea Mine n'a peut-être pas d'yeux, mais il a sa propre façon de détecter les zombies. \"Je le sens...\" murmura-t-il, \"Les zombies se rapprochent... se rapprochent... se rapprochent...\" Le rythme cardiaque de Pea Mine s'accéléra, tout comme sa vitesse de tir. De plus en plus vite… jusqu'à ce que, avec un \" bang \", Pea Mine explose en un feu d'artifice au goût de pomme de terre.</color></size>",
-            "info": "<size=36>Pois-mine peut attaquer avant d'être déterreée.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Attaque plus rapidement à mesure que les zombies se rapprochent. Lors de l'explosion, libère 36 projectiles dans toutes les directions.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Mine Patate</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Pois-mine n’a peut-être pas d’yeux, mais il a sa propre manière de sentir les zombies. « Je le sens… » murmura-t-il, « Les zombies se rapprochent… se rapprochent… se rapprochent… » Le rythme de son cœur s’accéléra, tout comme sa cadence de tir. De plus en plus vite… jusqu’à ce qu’un « bang » retentisse : Pois-mine explosa dans un feu d’artifice au goût de pomme de terre.</color></size></align>",
+            "info": "<size=36>Pois-mine peut attaquer avant d’être déterrée.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante de petite taille (évite les projectiles tirés en ligne droite).\n<color=black>•</color> La fusion rend 50 Soleils.\n<color=black>•</color> Attaque plus rapidement à mesure que les zombies se rapprochent, avec un intervalle minimal de 0,5 seconde. Lorsqu’elle explose, inflige 1 800 dégâts aux zombies dans un petit rayon et libère 36 projectiles dans toutes les directions.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-Pois + Mine Patate</color></size>"
         },
         {
             "seedType": 1008,
@@ -556,9 +556,9 @@
         {
             "seedType": 1011,
             "name": "Pisto-mordeur",
-            "introduce": "<size=36><color=black>Mordeur a toujours envié la capacité de Chomp-shooter à cracher les restes de zombies, et il a essayé d'apprendre l'astuce plus d'une fois. Cependant, il ne savait pas que le secret n'était pas une compétence spéciale : c'était juste que la bouche du Chomp-shooter était légèrement déformée, provoquant la fuite de morceaux de zombie pendant la mastication.</color></size>",
-            "info": "<size=36>Pisto-mordeur peut tirer des morceaux après avoir mordu.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color>\n<color=black>Spécial : </color><color=#8B0000>Crache des parties de zombie qui roulent après avoir mordu et qui infligent 80 dégâts.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Mordeur</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Mordeur a toujours envié la capacité du Pisto-mordeur à recracher les restes de zombies, et il a tenté d’apprendre l’astuce plus d’une fois. Il ignorait cependant que le secret ne venait pas d’une compétence particulière : c’est juste que la bouche du Pisto-mordeur est légèrement déformée, laissant échapper des morceaux de zombie pendant la mastication.</color></size></align>",
+            "info": "<size=36>Pisto-mordeur peut tirer des morceaux après avoir mordu.\n\n<color=black>Dégâts : </color><color=#8B0000>Insta-kill (Dévoration) ; 80/3 s (Morceau de zombie)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>30 s</color>\n<color=black>Spécial : </color><color=#8B0000>Crache des morceaux de zombie roulants pendant la mastication, infligeant chacun 80 dégâts et traversant indéfiniment les ennemis.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-Pois + Mordeur</color></size>"
         },
         {
             "seedType": 1012,
@@ -717,9 +717,9 @@
         {
             "seedType": 1034,
             "name": "Pois Geleur",
-            "introduce": "<size=36><color=black>Le pois mange-tout à sang froid montre rarement ses émotions aux autres plantes. Certains disent que son cœur est encore plus froid que les petits pois surgelés qu'il cuit. Snow Pea ne veut pas se comporter ainsi, mais chaque fois qu'il ouvre la bouche, les balles qu'il lance plongent l'atmosphère autour de lui à des températures glaciales.</color></size>",
-            "info": "<size=36>Pois Geleur tirent des pois congelés qui endommagent et ralentissent l'ennemi.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque balle ajoutera 10 points Cryo.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Champi-glace</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Le Pois Geleur, montre rarement ses émotions aux autres plantes. Certains disent que son cœur est encore plus froid que les pois glacés qu’il tire. Il ne veut pas donner cette impression, mais chaque fois qu’il ouvre la bouche, les projectiles qu’il lance font chuter la température ambiante jusqu’à des niveaux glacials.</color></size></align>",
+            "info": "<size=36>Les Pois Geleurs tirent des pois de gelé qui infligent des dégâts et ralentissent les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque pois inflige un effet de gel et ajoute 10 points Cryo. Inflige ×4 dégâts aux zombies gelés.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-Pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1035,
@@ -2127,6 +2127,41 @@
             "introduce": "<align=justified><size=36><color=black>Malgré son apparence terrifiante, le Dévoreur de Tombe tient à préciser qu’il adore les chatons et passe son temps libre à faire du bénévolat dans un centre de réhabilitation pour zombies. « C’est simplement la bonne chose à faire », dit-il.</color>",
             "info": "<size=36>Plantez un Dévore-Tombe sur une tombe pour la retirer.\n\n<color=black>Spécial : </color><color=#8B0000>Plantez le Dévore-Tombe sur une pierre tombale pour la supprimer, ce qui prend 5 s. Il se transforme en paquet de graines s’il n’est pas planté sur une tombe.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7,5 s</color>"
+        },
+        {
+            "seedType": 1298,
+            "name": "Champi-Pois",
+            "introduce": "<align=justified><size=36><color=black>« Tirer ou ne pas tirer de pois ? » Telle est la question pour Champi-Pois. Depuis son plus jeune âge, il a refusé de tirer des pois. Il a déclaré qu’il préférait aider les autres plantes. Lorsqu’on lui a demandé d’où venait ce désir d’aider, il a répondu : « Lampignon a toujours été un grand modèle pour moi en grandissant. »\n\n— Écrit par Berfy Boy</color>",
+            "info": "<size=36>Lanceur à longue portée ; ses vapeurs peuvent aussi donner plus d’élan aux projectiles.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Dispose d’une portée sur toute la ligne. Lorsqu’il émet ses vapeurs, il propulse les projectiles droits devant lui, augmentant leur vitesse et leur infligeant +1 dégât toutes les 0,02 s. L’effet est cumulable.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-Pois + Champi-Fumée</color>"
+        },
+        {
+            "seedType": 1267,
+            "name": "Hypno-Pois",
+            "introduce": "<align=justified><size=36><color=black>« Transformer les zombies en alliés ne suffit pas. Il faut aussi les équiper d’un peu de puissance de feu supplémentaire… et les rendre un peu plus stylés au passage ! » déclare Hypno-Pois d’un ton envoûtant.\n\n— Écrit par Mr. Etc.</color>",
+            "info": "<size=36>Tire des pois hypnotiques qui transforment les zombies vaincus en Hypno-Zombies alliés.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Hypno-Zombie de type Hypno-Pois lorsqu’il tue un zombie.\n<color=black>•</color> Ses capacités ne fonctionnent pas sur les lignes aquatiques.\n<color=black>•</color> Hypno-Zombie : 270 PV, tire un pois hypnotique infligeant 20 dégâts toutes les 1,5 s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois + Champi Hypno</color>"
+        },
+        {
+            "seedType": 1194,
+            "name": "Pois Maudit",
+            "introduce": "<align=justified><size=36><color=black>Pois Maudit et Champi-furieux sont de grands amis — l’un est impulsif, l’autre plutôt détendu. Mais ensemble, ils forment le duo parfait. « Nous sommes peut-être opposés, mais chacun fait ressortir le meilleur de l’autre. »</color>",
+            "info": "<size=36>Un Tire-Pois dont la puissance augmente avec le temps, et le partenaire idéal du Champi Frénétique.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques traversent les armures de type 2. Ses dégâts augmentent de 1 à chaque tir, jusqu’à un maximum de 60. Si un Champi Frénétique est planté une case derrière lui, Pois Maudit gagne la vitesse d’attaque du champignon, et celui-ci reçoit en retour la puissance d’attaque du pois.</color>",
+            "cost": "<size=36>\nFormule de fusion : <color=#8B0000>Pisto-Pois + Champi-mort</color>"
+        },
+        {
+            "seedType": 1216,
+            "name": "Drone Pois",
+            "introduce": "<align=justified><size=36><color=black>Drone Pois se considère comme l’avenir de la guerre des jardins. « Les drones de soutien aérien — l’arme d’une nouvelle ère. » Malheureusement, il a peu de temps pour promouvoir ses idées : il cumule trois emplois pour rembourser son prêt de culture hors-sol.</color>",
+            "info": "<size=36>Un drone Tire-Pois qui augmente la puissance de feu lorsqu’il se coordonne avec les plantes tirant en ligne droite en dessous de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante. Si le tireur directement en dessous attaque plus d’une fois toutes les 1,5 secondes, Drone Pois synchronise sa cadence de tir sur la sienne.</color>",
+            "cost": "<size=36>\nFormule de fusion : <color=#8B0000>Pisto-Pois + Troufle</color>"
+        },
+        {
+            "seedType": 1318,
+            "name": "Citrouille Pois",
+            "introduce": "<align=justified><size=36><color=black>Des zombies ont apporté un « char » ? Montrez-leur la forteresse mitrailleuse vivante — Citrouille Pois ! Quant aux munitions… eh bien, le concepteur a oublié d’en installer ! Pas de problème ! Les pois voisins pourront « partager » un peu de leurs projectiles !</color>",
+            "info": "<size=36>Copie le comportement de la plante Pisto-Pois placée à l’intérieur.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>?/3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Si une plante de la famille des Pois est placée à l’intérieur, elle tire toutes les 3 secondes, en reproduisant le nombre, les dégâts et le type de projectiles de cette plante. Ces tirs sont considérés comme provenant de la plante interne.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-Pois + Citrouille</color>"
         }
     ]
 }
