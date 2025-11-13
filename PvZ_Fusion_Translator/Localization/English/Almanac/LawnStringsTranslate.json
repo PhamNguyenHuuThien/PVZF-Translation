@@ -1425,7 +1425,7 @@
             "seedType": 1068,
             "name": "Frost Cattail",
             "introduce": "<align=justified><size=36><color=black>\"I'm not just a cat... I'm... I'm a super blue cat!\" declared Frost Cattail. \"Do you have some cold catnip...?\" His love for catnip shines through, and he has an undeniable fascination with all things cool.</color></size>",
-            "info": "<size=36>Frost Cattail can attack any zombie in the lane and deal extra damage to chilled targets.\n\n<color=black>Damage: </color><color=#8B0000>40×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Deals ×2 damage to chilled zombies. Deals ×4 damage to frozen zombies.</color></size>",
+            "info": "<size=36>Frost Cattail can attack any zombie in the lane and deal extra damage to chilled targets.\n\n<color=black>Damage: </color><color=#8B0000>40×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Deals ×2 damage to chilled zombies. Deals ×4 damage to frozen zombies and prioritizes them.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Cattail</color>"
         },
         {
@@ -2447,7 +2447,7 @@
             "seedType": 1214,
             "name": "Doomwarp-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Time travel personnel have passed through, complete. The time tunnel has exited the target world, complete. Observed impact is within the expected range, complete. Proceed to the next step, destroy the tunnel to prevent use by others or organizations.\" — \"Time Planning Bureau\"</color>",
-            "info": "<size=36>Doomwarp-shroom possesses the power of hyperspace bending. Its explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion reduces the countdown of zombies with the Chronoshift effect by 30s.</color>",
+            "info": "<size=36>Doomwarp-shroom possesses the power of hyperspace bending. Its explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion applies the Chronoshift effect for 30s or resets the remaining duration to 30s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chrono Core > Dormant-shroom</color>"
         },
         {
@@ -2545,7 +2545,7 @@
             "seedType": 1228,
             "name": "Icy Squash",
             "introduce": "<align=justified><size=36><color=black>To tame its hot temper, Icy Squash locked itself in the freezer for three days and nights. Now it keeps the mood ice-cold — so cold that the other plants don't dare say a word to 'set it off.' As for zombies… let's just say, no one's allowed to 'break the ice' with it.</color>",
-            "info": "<size=36>Squash imbued with freezing power.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Upon landing deals 600 damage to zombies in a 3×3 area and freezes them for 4s.</color>",
+            "info": "<size=36>Squash imbued with freezing power.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Upon landing deals additional 600 damage to zombies in a 3×3 area and freezes them for 4s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Ice-shroom</color>"
         },
         {
@@ -3222,8 +3222,8 @@
         },
         {
             "seedType": 1325,
-            "name": "[poll result 1]",
-            "introduce": "<align=justified><size=36><color=black>As rare as a polar sunrise, this frosty innovator spends all his time perfecting his craft of dessert-making. His signature Sunny Orange sundae, loved by plants and zombies alike (even if it drains the last of their warmth).</color>",
+            "name": "Sundae-shroom",
+            "introduce": "<align=justified><size=36><color=black>As rare as a polar sunrise, this frosty innovator spends all his time perfecting his craft of dessert-making. His signature sundae is the Sunny Orange Delight, loved by plants and zombies alike (even if it drains the last of their warmth).</color>",
             "info": "<size=36>Gradually melts, releasing cold and sunlight in stages.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> At each sun production, makes all frozen zombies drop 15 sun.\n<color=black>•</color> For the first two sun production cycles, triggers Ice-shroom effects that inflict chill but don't freeze. On the third cycle, triggers full Ice-shroom effect, then disappears.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Ice-shroom</color>"
         },
@@ -3292,9 +3292,9 @@
         },
         {
             "seedType": 1335,
-            "name": "[poll result 2]",
-            "introduce": "<align=justified><size=36><color=black>[poll result 2] looks down on his fellow Chompers. He thinks they're rude, picky eaters, and lazy freeloaders who produce nothing for the garden, unlike him, with his dazzling, radiant skin.</color>",
-            "info": "<size=36>Devours hypnotized zombies and converts them into Hypno-shrooms.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>12s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Only targets Hypnotized Zombies and drops a Hypno-shroom seed packet on a successful devour (no digestion required for the seed packet).\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Chomper.</color>",
+            "name": "Hypno Chomper",
+            "introduce": "<align=justified><size=36><color=black>Hypno Chomper looks down on his fellow Chompers. He thinks they're rude, picky eaters, and lazy freeloaders who produce nothing for the garden, unlike him, with his dazzling, radiant skin.</color>",
+            "info": "<size=36>Devours hypnotized zombies and converts them into Hypno-shrooms.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Also targets Hypnotized zombies and drops a Hypno-shroom seed packet on a successful devour of a Hypnotized zombie, then digests for 10s.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Chomper.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Hypno-shroom</color>"
         },
         {
