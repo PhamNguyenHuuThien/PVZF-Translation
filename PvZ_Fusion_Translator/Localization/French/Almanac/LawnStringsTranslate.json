@@ -31,7 +31,7 @@
         {
             "seedType": 4,
             "name": "Mine Patate",
-            "introduce": "<size=36><color=black>Certaines personnes disent que Mine Patate est paresseux, qu'il laisse tout à la dernière minute. La mienne Patate ne dit rien. Il est trop occupé à réfléchir à sa stratégie d'investissement.</color></size>",
+            "introduce": "<size=36><color=black>Certaines personnes disent que Mine Patate est paresseux, qu'elle remet tout à la dernière minute. La mienne Patate ne dit rien. Elle est trop occupé à réfléchir à sa stratégie d'investissement.</color></size>",
             "info": "<size=36>Les Mines Patates sont puissantes mais mettent du temps à s'amorcer. Plantez-les devant les zombies, elles exploseront à leur contact.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
         },
@@ -1682,10 +1682,10 @@
         },
         {
             "seedType": 1163,
-            "name": "Mine d'Espelette",
-            "introduce": "<size=36><color=#3D1400>Mine d'Espelette est une assistante compétente de Mine Suralimentée, mais la plupart de ses plats reçoivent de mauvaises notes de la part des clients. \" Que se passe-t-il... \" Mine d'Espelette se sent vraiment coupable mais ne sait pas pourquoi. La vérité est qu'elle n'est pas sensible aux saveurs épicées et ajoute toujours trop de piment.</color>",
-            "info": "<size=36>Se divise en 7 Mine Patates dans sa voie. \n\n<color=#3D1400>Dégâts : </color><color=red>1 800</color>\n<color=#3D1400>Spécial : </color><color=red>Engendre 7 Mine Patates dans sa voie en cas de défaite.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Mine Patate + Jalapeno</color>",
-            "cost": ""
+            "name": "Mine d’Espelette",
+            "introduce": "<align=justified><size=36><color=black>Mine d’Espelette est une assistante compétente de la Mine Suralimentée, mais la plupart de ses plats reçoivent de mauvaises critiques de la part des clients. \" Que se passe-t-il... \" Mine d’Espelette se sent coupable, sans comprendre pourquoi. En réalité, elle n’est pas sensible aux saveurs épicées et ajoute toujours trop de piment.</color></size>",
+            "info": "<size=36>Se divise en 7 Mines Patates sur sa ligne.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Fait apparaître jusqu’à 7 Mines Patates sur sa ligne après sa destruction, celles-ci ne nécessitant que 5 secondes pour s’armer.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Jalapeño</color></size>"
         },
         {
             "seedType": 1164,
@@ -1738,10 +1738,10 @@
         },
         {
             "seedType": 1171,
-            "name": "Champi-patate",
-            "introduce": "<size=36><color=#3D1400>Pourquoi Champi-Patate explose-t-il après quelques attaques ? Son explication est assez touchante : \"Chaque attaque que je fais me brûle la vie !\" Mais la vérité est que c’est juste un magicien qui ne veut pas faire beaucoup de travail. Après quelques attaques, il décide d'utiliser un feu d'artifice de pomme de terre pour effectuer une grande transformation en \" champignon \".</color>",
-            "info": "<size=36>\"Consomme des PV pour lancer des spores puissantes !\n\n<color=#3D1400>Dégâts :</color> <color=red>600/3 secondes</color>\n<color=#3D1400>Spécial :</color> <color=red>Chaque attaque coûte 75 PV. Si elle est maintenue en vie pendant 20 secondes après avoir été plantée, sa lumière rouge s'éteindra avec une puissance d'attaque réduite de 90 %, mais les attaques ne coûteront plus de PV. À sa mort, elle inflige 600 dégâts aux zombies proches.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Champi-peureux + Mine Patate</color>\"",
-            "cost": ""
+            "name": "Champi-Patate",
+            "introduce": "<align=justified><size=36><color=black>Pourquoi Champi-Patate explose-t-il après quelques attaques ? Son explication est plutôt touchante : \" Chaque attaque que je lance brûle un peu de ma vie ! \" Mais la vérité, c’est qu’il s’agit simplement d’un magicien paresseux. Après quelques attaques, il préfère utiliser un feu d’artifice de pomme de terre pour exécuter une grande transformation… fongique.</color></size>",
+            "info": "<size=36>Consomme de la Robustesse pour tirer des spores à haut dégât !\n\n<color=black>Dégâts : </color><color=#8B0000>600/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque consomme 75 points de Robustesse. S’il survit plus de 20 secondes après avoir été planté, sa lumière rouge s’éteint, ses attaques infligent 90 % de dégâts en moins mais ne consomment plus de Robustesse. À sa mort, il inflige 600 dégâts aux zombies proches.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-Peureux + Mine Patate</color></size>"
         },
         {
             "seedType": 1172,
