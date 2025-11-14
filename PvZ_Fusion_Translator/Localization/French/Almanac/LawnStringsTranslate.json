@@ -549,9 +549,9 @@
         {
             "seedType": 1010,
             "name": "Noix-mine",
-            "introduce": "<size=36><color=black>Auparavant considéré comme petit et faible, Mine-nut était maintenant grand et fort, doté de grands yeux et d'une chair ferme. Pourtant, sous cet extérieur robuste, il se sentait fragile et craignait de retrouver sa taille antérieure. Les zombies ont plaisanté : \"Si vous prenez une autre bouchée, vous allez exploser !\"</color></size>",
-            "info": "<size=36>Noix-mine peut exploser lorsqu'il est mangé et une fois lorsqu'il est brisé.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>500 / Explosion, 1800 / Mort</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Mine Patate</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Auparavant considéré comme petit et faible, la Petite Noix était maintenant grande et forte, doté de grands yeux et d'une chair ferme. Pourtant, sous cet extérieur robuste, elle se sentait fragile et craignait de retrouver sa taille antérieure. Les zombies ont plaisanté : \"Si vous prenez une autre bouchée, vous allez exploser !\"</color></size>",
+            "info": "<size=36>Petite Noix peut exploser lorsqu'elle est mangé et une fois lorsqu'elle est détruite.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>500 / Explosion, 1800 / Mort</color>\n></size>",
+            "cost": "<color=black>Recette de Fusion : </color><color=#8B0000>Noix + Mine Patate</color>"
         },
         {
             "seedType": 1011,
@@ -563,9 +563,9 @@
         {
             "seedType": 1012,
             "name": "Noix Mordeuse",
-            "introduce": "<size=36><color=black>En tant que jeune plante, Chomp-nut était notoirement pointilleux en matière de nourriture, n'avalant jamais de zombies en une seule bouchée, ce qui frustrait ses parents. Après beaucoup de persuasion, Chomp-nut a finalement appris à consommer les zombies entiers, tout comme ses prédécesseurs. \"Je ne suis pas difficile ! Je veux juste imiter la façon dont les zombies mangent. Je devrais essayer quelque chose de nouveau, non ? Ce n'est certainement pas parce que je n'ai pas de cou !\" Dit Chomp-nut en mâchant un zombie.</color></size>",
-            "info": "<size=36>Noix Mordeuse peut restaurer sa robustesse après avoir mangé des zombies\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Mordeur</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>En tant que jeune plante, la Noix Mordeuse était notoirement pointilleuse en matière de nourriture, n'avalant jamais de zombies en une seule bouchée, ce qui frustrait ses parents. Après beaucoup de persuasion, la Noix Mordeuse a finalement appris à consommer les zombies entiers, tout comme ses prédécesseurs. \"Je ne suis pas difficile ! Je veux juste imiter la façon dont les zombies mangent. Je devrais essayer quelque chose de nouveau, non ? Ce n'est certainement pas parce que je n'ai pas de cou !\" Dit Chomp-nut en mâchant un zombie.</color></size>",
+            "info": "<size=36>Noix Mordeuse peut restaurer sa robustesse après avoir mangé des zombies\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color></size>\n",
+            "cost": "<color=black>Recette de Fusion : </color><color=#8B0000>Noix + Mordeur</color>"
         },
         {
             "seedType": 1013,
@@ -1501,9 +1501,9 @@
         {
             "seedType": 1147,
             "name": "Hypno-noix",
-            "introduce": "<size=36><color=black>Hypno-noix a un faible pour les zombies : \"Il y a quelque chose d'étrangement agréable dans la façon dont ils me mordillent. Ce n'est pas comme gratter une démangeaison… appelons simplement cela de l'affection due à un contact prolongé.\" dit-il avec philosophie.</color>",
-            "info": "<size=36>Charme les zombies et invoque un zombie boîte mystère charmé toutes les 30 secondes !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque fois qu'il est mordu, il y a 4% de chances de charmer le zombie. De plus, il peut récupérer 100 points de vie lorsqu'il est touché par une spore de champignon Trippy et stocke une spore de cette couleur à chaque fois qu'il est touché (jusqu'à 3). Lorsqu'il collecte 7 couleurs de spores différentes, il en consomme une de chaque et invoque un zombie boîte mystère dorée charmé, puis guérit complètement.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Champi-hypno</color>",
-            "cost": "<size=36>"
+            "introduce": "<size=36><color=black>Hypno-noix a un faible pour les zombies : \"Il y a quelque chose d'étrangement agréable dans la façon dont ils me mordillent. Ce n'est pas comme gratter une démangeaison… appelons plutôt cela de l'affection due à un contact prolongé.\" dit-il avec philosophie.</color>",
+            "info": "<size=36>Charme les zombies et invoque un zombie boîte mystère charmé toutes les 30 secondes !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque fois qu'il est mordu, il y a 4% de chances de charmer le zombie. De plus, il peut récupérer 100 points de vie lorsqu'il est touché par une spore de champignon Trippy et stocke une spore de cette couleur à chaque fois qu'il est touché (jusqu'à 3). Lorsqu'il collecte 7 couleurs de spores différentes, il en consomme une de chaque et invoque un zombie boîte mystère dorée charmé, puis guérit complètement.</color>\n",
+            "cost": "<size=36><color=black>Recette de Fusion : </color><color=#8B0000>Noix + Champi-hypno</color>"
         },
         {
             "seedType": 1148,
@@ -2162,6 +2162,20 @@
             "introduce": "<align=justified><size=36><color=black>Des zombies ont apporté un \" char \" ? Montrez-leur la forteresse mitrailleuse vivante — Citrouille Pois ! Quant aux munitions… eh bien, le concepteur a oublié d’en installer ! Pas de problème ! Les pois voisins pourront \" partager \" un peu de leurs projectiles !</color>",
             "info": "<size=36>Copie le comportement de la plante Pisto-Pois placée à l’intérieur.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>?/3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Si une plante de la famille des Pois est placée à l’intérieur, elle tire toutes les 3 secondes, en reproduisant le nombre, les dégâts et le type de projectiles de cette plante. Ces tirs sont considérés comme provenant de la plante interne.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Citrouille</color>"
+        },
+        {
+            "seedType": 1293,
+            "name": "Noix de mer",
+            "introduce": "<align=justified><size=36><color=black>La Noix de mer adore passer du temps avec les Perles d’eau, les regarder absorber l’eau et grandir, son corps rond miroitant de reflets arc-en-ciel dans leurs yeux innocents. « Le temps est comme un papillon bleu voletant au-dessus du ruisseau~ Une fois envolé, on ne le revoit jamais~ »</color>",
+            "info": "<size=36>Grossit en absorbant l’eau, puis roule en avant pour écraser les zombies.\n\n<color=black>Résistance : </color><color=#8B0000>2000 (initiale), 6000 (max)</color>\n<color=black>Spécial : </color><color=#8B0000>Grandit après 10 et 20 secondes, augmentant ses PV et sa durabilité de 2000 à chaque fois. Après 30 secondes, se transforme en noix roulante infligeant 600 dégâts toutes les 0,02 s au contact.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Noix + Champi-mer</color>"
+        },
+        {
+            "seedType": 1262,
+            "name": "Noix Chou",
+            "introduce": "<align=justified><size=36><color=black>Chaque année, les choux trépignent d'impatience à l’idée de germer, mais Noix Chou fait toujours exception. Il s’enroule bien serré avant de sortir. « Les zombies n’ont pas la patience de retirer couche après couche. Fais-moi confiance. »</color>",
+            "info": "<size=36>Développe un bouclier temporaire et riposte en lançant un chou après avoir subi une certaine quantité de dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> En subissant des dégâts, emmagasine une Charge de Riposte égale à 1× les dégâts reçus. Si les dégâts dépassent 100/500/1000, stocke respectivement 2/3/4× les dégâts.\n<color=black>•</color> La jauge de Riposte est limitée à ses PV maximum.\n<color=black>•</color> Quand la jauge dépasse 1000, consomme toutes les charges pour lancer un chou infligeant la même quantité de dégâts et obtient un bouclier équivalent qui se dissipe entièrement en 5 s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Noix + Cata-chou</color>"
         }
     ]
 }
