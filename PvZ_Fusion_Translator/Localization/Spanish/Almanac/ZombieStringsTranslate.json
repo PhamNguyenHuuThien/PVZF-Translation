@@ -165,8 +165,8 @@
     },
     {
       "theZombieType": 27,
-      "name": "Yeti con Beluga",
-      "introduce": "<size=39><color=#3D1400>La beluga del Zombi Yeti tiene habilidades de salto impresionantes. El Zombi con Delfín está celoso y siempre quiere usarla, pero el Zombi Yeti se niega. Dr. Edgar comenta: \"El Zombi Yeti no controla su ballena; siempre quiere esconderse, pero la ballena va en la otra dirección.\"</color></size>",
+      "name": "Yeti con Ballena",
+      "introduce": "<size=39><color=#3D1400>La ballena del Zombi Yeti tiene habilidades de salto impresionantes. El Zombi con Delfín está celoso y siempre quiere usarla, pero el Zombi Yeti se niega. Dr. Edgar comenta: \"El Zombi Yeti no controla su ballena; siempre quiere esconderse, pero la ballena va en la otra dirección.\"</color></size>",
       "info": "<size=39>Salta tres casillas hacia adelante y luego regresa, atacando tus plantas desde atrás.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características: </color><color=#4B0082>No puede ser bloqueado por Nuez Alta.</color></size>"
     },
     {
@@ -377,7 +377,7 @@
      "theZombieType": 67,
      "name": "Islabestia",
      "introduce": "<size=39><color=#3D1400>La Islabestia era una vez un pequeño Copitobestia. Salió a jugar a la playa y se cubrió de arena, lo que lo convirtió en una pequeña bestia hecha de arena. \"En cuanto a por qué las plantas a veces lo ignoran, es porque uso la arena para cubrirme y así no me ven\", dijo Islabestia con orgullo.</color>",
-     "info": "<size=39>Inocente a primera vista, pero puede hacerte perder. Rápido.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>500</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Lleva la mayoria de características que Copitobestia. Tiene 2/3 de chances de ignorar plantas y un 1/3 de probabilidad de ignorar daño completamente.</color>"
+     "info": "<size=39>Inocente a primera vista, pero puede hacerte perder. Rápido.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>500</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Lleva la mayoria de características que Copitobestia. Tiene 2/3 de chances de ignorar plantas y un 1/3 de probabilidad de ignorar daño completamente. Puede ignorar un máximo de 3 plantas.</color>"
    },
    {
      "theZombieType": 68,
@@ -408,6 +408,24 @@
      "name": "Zombi Condenador",
      "introduce": "<size=39><color=#3D1400>\"Soy la muerte. Seré quien traiga desesperación y dolor a tus cultivos... o al menos eso dice la etiqueta de esta elegante escalera\", dice el Zombi Escalera Maldita. \"Solo soy el obrero de la construcción aquí, eh.\"</color>",
      "info": "<size=39>Condena a la planta que tiene su escalera roja a sufrir todo el daño que el reciba.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720 + 1350 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Tras colocar su escalera en una planta, dicha planta absorbera el daño de el Zombi Condenador. Si el daño transferido supera 8000 o si el Zombi Condenador muere, la escalera se eliminará automáticamente. Estas escaleras, en cualquier estado, no pueden ser atraidas por Magnetosetas.</color>"
+   },
+   {
+    "theZombieType": 73,
+    "name": "Necroflama",
+   "introduce": "<size=39><color=#3D1400>\"Estoy harta de todas las reglas del jardín. Las plantas deberían crecer siguiendo su propio corazón.\" solía decir la Necroflama a sus compañeros, pero las demás plantas no la tomaban en serio. Tal vez ha llegado el momento de abandonar todas las preocupaciones y convertirse en una hierba libre, pensó ella. \"No soy una planta, ni un zombi, ni una herramienta. Yo soy simplemente yo.\"</color></size>",
+   "info": "<size=39>Esta Endoflama que ha perdido su poder es tan difícil de eliminar como una mala hierba.</color>\n\n<color=#3D1400>Características:</color> <color=red>\n- Actua como un obstáculo en el campo más que una planta. No puede ser eliminada o movida, y, los zombis la ignorarán.\n- Absorbe cualquier proyectil proveniente de una planta y recibirá 30 de daño.\n- Tras 10 segundos de estar en el campo, invoca aleatoriamente un Vegezombi. Luego invoca otro cada 15 segundos, y al morir, invoca otro más.\n- Al usar fertilizante en ella, desaparece y deja caer un Regalo Planta.</color></size>"
+ },
+ {
+     "theZombieType": 74,
+     "name": "Vegezombi Cautivapeño",
+     "introduce": "<size=39><color=#3D1400>En su primera aparición en el Certamen de Belleza de Zombis Hipnotizados, el Vegezombi Cautivapeño obtuvo elogios unánimes de todos los jueces y se llevó el primer lugar con facilidad. Tanto jueces planta como zombi la llamaron \"ardiente\" y \"picante\". Aparte de unos pocos concursantes misteriosamente desaparecidos, fue un evento impecable.</color>",
+     "info": "<size=39>Quema zombis hipnotizados en su línea.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inmune a ser aturdida. Explota tras un tiempo, liberando llamas que infligen 1800 de daño a solamente zombis hipnotizados en su línea.</color>"
+   },
+   {
+     "theZombieType": 75,
+     "name": "Cautivapeño Minero",
+     "introduce": "<size=39><color=#3D1400>El Cautivapeño Minero destaca por escabullirse detrás de las defensas, usando su pico con infusión mágica para convertir plantas en zombis. Pero esos zombis recién creados son justos de corazón: no les gustan las tácticas de emboscada y se volverán contra el… sin darse cuenta de que también están \"emboscando a la emboscador\".</color>",
+     "info": "<size=39>Utiliza su pico para convertir plantas en zombis hipnotizados, luego quemándolos con llamas autodestructivas.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1500</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Inmune a ser aturdido. Si su pico no ha sido quitado, sus ataques convertirán plantas no-defensivas en zombis hipnotizados aleatorios. Aplica 500 progreso de minería a plantas defensivas.\n- Al llegar al lado trasero de tu defensa, se autodestruirá como el Vegezombi Cautivapeño después de un tiempo corto, liberando llamas que infligen 1800 de daño a solamente zombis hipnotizados en su línea.</color>"
    },
    {
       "theZombieType": 100,
@@ -489,8 +507,8 @@
     },
     {
       "theZombieType": 113,
-      "name": "Vegezombi con Beluga",
-      "introduce": "<size=39><color=#3D1400>¿Que hace este zombi tan especial como el Yeti con Beluga? El Vegezombi responde: \u0022A mi simplemente me gusta jugar búmeran.\u0022</color>",
+      "name": "Vegezombi con Ballena",
+      "introduce": "<size=39><color=#3D1400>¿Que hace este zombi tan especial como el Yeti con Ballena? El Vegezombi responde: \u0022A mi simplemente me gusta jugar búmeran.\u0022</color>",
       "info": "<size=39>Dispara guisantes detrás de tus plantas.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Especial: </color><color=#4B0082>Dispara guisantes a tus plantas antes y después de saltar.</color>"
     },
     {
@@ -623,13 +641,13 @@
       "theZombieType": 209,
       "name": "Pogozombi Bromista",
       "introduce": "<size=39><color=#3D1400>\u0022En realidad, mi apariencia es solo para seguir la moda.\u0022 Cuando se habla de su genial aspecto, el Pogozombi Bromista siempre se encoge de hombros, pero todos saben que tiene un pasado amoroso inolvidable.</color></size>",
-      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>270+3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Si muere mientras está saltando, se autodestruye y se convierte en el Payazombi.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Siempre explota sin importar su estado; tiempo de carga reducido\n- Los zombis payasos afectados por su explosión se convierten en Pogozombis Bromistas</color></size>"
+      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>270+3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Si muere mientras está saltando, se autodestruye y se convierte en el Payazombi.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Siempre explota sin importar su estado; tiempo de carga reducido\n- Los Payazombis afectados por su explosión se convierten en Pogozombis Bromistas</color></size>"
     },
     {
       "theZombieType": 210,
       "name": "Nuez Kírov",
       "introduce": "<size=39><color=#3D1400>\u0022¿Tiburones?, ¿Durabilidad mecánica? Eso no importa,\u0022 dice la Nuez Kírov. \u0022Lo que importa es tener una armadura, yo soy Kírov\u0022.</color></size>",
-      "info": "<size=39>La Nuez Kírov puede girar.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Zomboliche</color></size>"
+      "info": "<size=39>La Nuez Kírov rebota tras chocar con una planta.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Suelta un Fragmento Kírov al morir. Solo puedes ocupar este fragmento en una Nuez.</color></size>"
     },
     {
       "theZombieType": 211,
@@ -651,8 +669,8 @@
     },
     {
       "theZombieType": 214,
-      "name": "Explotozombi con Beluga",
-      "introduce": "<size=39><color=#3D1400>Explotozombi con Beluga siempre se despierta de muy mal humor, especialmente cuando un compañero que monta una ballena lo arrastra al trabajo. Impulsado por la rabia, está listo para destruir cualquier planta en su camino antes de regresar para una siesta.</color>",
+      "name": "Explotozombi con Ballena",
+      "introduce": "<size=39><color=#3D1400>Explotozombi con Ballena siempre se despierta de muy mal humor, especialmente cuando un compañero que monta una ballena lo arrastra al trabajo. Impulsado por la rabia, está listo para destruir cualquier planta en su camino antes de regresar para una siesta.</color>",
       "info": "<size=39>¡Salta y demuele desde detrás de tu defensa disparando cerezas explosivas!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Comienza a disparar cerezas explosivas 3 segundos después de entrar en tu campo.</color>"
     },
     {
@@ -713,7 +731,7 @@
       "theZombieType": 224,
       "name": "Payasa Zorpresa",
       "introduce": "<size=39><color=#3D1400>La Payasa Zorpresa disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.</color>",
-      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Inmune a ser hipnotizado y devorado.\n- Aplasta plantas.\n- Explota al morir e inflige daño físico.\n- Emerge de su caja a intervalos regulares, causando uno de los siguientes efectos aleatorios:\n - 1. Invoca Payazombis en cada casilla de la quinta columna y en cada columna a su derecha.\n - 2. Lo mismo, pero invoca Pogozombis Bromistas\n - 3. Libera una explosión en su columna e inflige daño físico.</color></size>"
+      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Inmune a ser hipnotizado y devorado.\n- Aplasta plantas.\n- Explota al morir e inflige daño físico.\n- Emerge de su caja a intervalos regulares, causando uno de los siguientes efectos aleatorios:\n  - 1. Invoca Payazombis en cada casilla de la quinta columna y en cada columna a su derecha.\n  - 2. Lo mismo, pero invoca Pogozombis Bromistas\n  - 3. Libera una explosión en su columna e inflige daño físico.</color></size>"
     },
     {
       "theZombieType": 225,
@@ -750,6 +768,60 @@
      "name": "Vegezombi del Apocalipsis",
      "introduce": "<size=39><color=#3D1400>El Vegezombi de la Oscuridad y el Lethal-Star Abanderado se conocen desde hace mucho tiempo. Han atacado jardines juntos, entrenado soldados juntos y competido por el puesto de teniente general. En su tiempo libre, también disfrutan de una emocionante partida de ajedrez chino real, con sus subordinados actuando como piezas y los dos generales al mando, aunque a menudo no pueden resistirse a salir corriendo de las nueve casillas.</color>",
      "info": "<size=39>General caido; ya no es un líder.\n\n<color=#3D1400>Daño: </color><color=#4B0082>100 (Mordisco) 80 cada 0,1s (Guisantes)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>18000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inmune a ser empujado.</color>"
+   },
+   {
+     "theZombieType": 231,
+     "name": "Guerrero del Apocalipsis",
+     "introduce": "<size=39><color=#3D1400>La guerra es la mejor piedra de afilar para un comandante. Una vez degradado y derrotado, el Vegezombi del Apocalipsis regresó de un entrenamiento infernal junto con su corcel, listo para reconstruir su plataforma de mando sobre los cadáveres de sus enemigos.</color>",
+     "info": "<size=39>\"Vengan, mis guerreros caidos… A por sus almas!\"\n\n<color=#3D1400>Daño: </color><color=#4B0082>500 (Estocada)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>90000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Zombi Jefe. Aplasta plantas y normalmente se mueve arriba y abajo en la ultima columna hacia la derecha. Periódicamente, usa uno de los siguientes movimientos:\n  1. Mueve su bandera para invocar un zombi en cada línea.\n  2. Carga hacia adelante y da una estocada con su espada, luego se da la vuelta y da otro.\n  3. Hace tres estocadas anchas adelante.\n  4. Invoca un Fantasma del Apocalipsis en todas las líneas que cargan hacia tus plantas, provocando 1000 de daño a tus plantas durante el camino.\n  5. Salta a un lugar aleatorio en una zona izquierda o central, aplastando plantas, luego regresa a donde estaba antes.</color>"
+   },
+   {
+     "theZombieType": 232,
+     "name": "Fantasma del Apocalipsis",
+     "introduce": "<size=39><color=#3D1400>\"¡Ha regresado!\" claman los zombis con asombro. \"¡No, ha regresado!\" entran en pánico las plantas. Mientras tanto, el Dr. Zomboss admira orgullosamente con su proyector de hologramas, asegurando de que brillará en la guerra zombi de venganza.</color>",
+     "info": "<size=39>Un ejército de hologramas que atacan tus defensas a pesar de ser simples proyecciones.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>15000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Inmune a ser ralentizado, congelado, aturdido o a ser empujado. Ignora plantas mientras carga hacia ellas, entregando 1000 de daño a cualquier planta que se le cruce.\n- No activa los podadoras y no puede hacer que pierdas tu partida.</color>"
+   },
+   {
+     "theZombieType": 233,
+     "name": "Zombistein Prismático",
+     "introduce": "<size=39><color=#3D1400>Hace mucho tiempo, el Maestro Zomboss buscó entrenar soldados más versátiles al infundir a sus Zombisteins con el poder de la luz y sus colores, solo para ver que sucedía. El experimento fue un éxito… en su mayoría. Mientras que los Zombisteins Carmesí, Azufre y Esmeralda se unieron rápidamente gracias a su nueva fuerza, el Zombistein Índigo por la marea se encontró excluido. \"Ya tenemos un conjunto perfecto de colores de señal sin ti.\" murmuraron los otros tres. \"Rojo, amarillo, verde. Tú solo eres… azul extra.\"</color>",
+     "info": "<size=39>Un Zombistein completamente armado, con su color de ojo indicando su habilidad.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>16000+16000 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- No lanza Zombiditos. Al aplastar, causa 3600 de daño a zombis hipnotizados. Gana una de cuatro apariencias (color de ojo) al aparecer, cada cual con sus respectivas habilidades:\n  - Zombistein Carmesí: Inmune al Efecto Pirogénico, tiene una reducción de daño inherente del 66%.\n  - Zombistein Índigo: Inmune a ser ralentizado, congelado y empujado; tiene el doble de velocidad. Cada aplaste cuenta como 5 ataques.\n  - Zombistein Azufre: Inmune a ser aturdido; salta una distancia pequeña cada vez que aplasta y hace un aplaste adicional.\n  - Zombistein Esmeralda: Inmune al envenenamiento; recupera 10% de su máxima durabilidad tras aplastar.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Su apariencia no importará. Obtendrá todas sus habilidades a la vez\n- Su rango de ataque se extiende por una casilla</color>"
+   },
+   {
+     "theZombieType": 234,
+     "name": "Arca del Patito <size=20>(y Zombidito)",
+     "introduce": "<size=39><color=#3D1400>Como jefe de todos los Zombiditos, reina supremo en su mundo. No necesita ser tan sabio como el Zombi Becario, ni tan elegante como Zombi Jackson, simplemente hace lo que le place: montar su querida lancha dorada apodada Arca del Patito y causar grandes problemas a esas molestas plantas. No hace falta explicación: ¡zarparemos y abrazaremos la aventura!</color>",
+     "info": "<size=39>El último Zombidito al final de tu odisea. Pilotea la lujuriosa Arca del Patito.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>48000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Invulnerable a ser aturdido y ser enredado.\n- Aplasta plantas rapidamente.\nTiene una reducción de daño para si mismo de 80%.\n- Al estar presente, todos los zombis reciben un 20% de aumento en sus velocidades de movimiento y un 20% de probabilidad de reducir el daño recibido a 1.\n- Al ser derrotado, lanza el Rey Zombidito a terreno cercano.</color>"
+   },
+   {
+     "theZombieType": 235,
+     "name": "Rey Zombidito",
+     "introduce": "<size=39><color=#3D1400>Incluso en medio de feroces batallas, el Rey Zombidito todavía desea algo de tiempo libre: ningún cerebro que perseguir, ninguna planta con la que luchar, solo un paseo tranquilo, reflexionando sobre qué broma hacer a sus súbditos en ocasiones como Halloween. Pero el llamado del deber como miembro de la realeza siempre lo regresa al trono, listo para liderar la próxima carga.</color>",
+     "info": "<size=39>Intenta escapar de manera anticlimática. Si vuelve de su escape, pasarás un mal rato...\n\n<color=#3D1400>Dureza: </color><color=#4B0082>18000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Invulnerable a ser aturdido y empujado, pero pierde su reducción de daño.\n- Por cada otro minijefe presente, gana una reducción de daño del 20%.\n- Al salir del campo, vuelve de nuevo en una Arca del Patito nueva.</color>"
+   },
+   {
+     "theZombieType": 236,
+     "name": "Ovni Criogénico",
+     "introduce": "<size=39><color=#3D1400>Este nuevo modelo del Ovni Invernal está equipado con un avanzado emisor antigravedad y un sensor de plantas que le permite volar y combatir de forma completamente autónoma. Su piloto ni siquiera necesita operarlo ni permanecer despierto. Entonces, ¿por qué mantener un piloto? \"Algunos zombis son demasiado tontos para hacer cualquier otra cosa\", dijo el Dr. Zomboss mientras soldaba la cabina.</color>",
+     "info": "<size=39>Equipado con dos armas de la clásica ciencia ficción.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Cada 2 segundos, se fija en la planta más cercana dentro de un radio de 2,5 casillas y dispara un Rayo Disolvedor, infligiendo 300 de daño (prioriza plantas que no sean Calabazas, Macetas y Aéreas)\n- Al estar cerca de una planta, se desplaza directamente sobre ella y desata un Drenador Sifón que inflige 10 de daño cada 0,02 s a todas las plantas en esa casilla. Si el Ovni Criogénico está hipnotizado, el daño se convierte en curación por la misma cantidad.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Los Rayos Disolvedores ahora fijan a la planta más lejana dentro de su alcance.\n- Rango del Drenador Sifón: 1 Casilla → Área de 3x3</color>"
+   },
+   {
+     "theZombieType": 237,
+     "name": "Sub-Ballena",
+     "introduce": "<size=39><color=#3D1400>Pintado de rosa, este enorme submarino estaba pensado para ocultarse entre los Submarinones, pero toda la pintura rosa fue confundida con jugo de cerebro y tomada por los zombis. No quedó ni una sola gota.</color>",
+     "info": "<size=39>Se potencia con explosiones cereza de zombis.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>9000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Hereda todas las características de Submarinón.\n- Cuando una explosión de cereza provocada por un zombi impacta con una planta, haciendo daño por salpicadura, todas las Sub-Ballenas recuperan 150 PS y ganan x0,3 de velocidad hasta un límite de x8.\n- Los Puntos Enredadera en Sub-Ballenas no excederán de 10.</color>"
+   },
+   {
+     "theZombieType": 238,
+     "name": "Jinete Hielabestia",
+     "introduce": "<size=39><color=#3D1400>Las Hielabestias adultas protegen instintivamente a los jóvenes de su manada. Aprovechando este rasgo, un Yombi curioso se disfrazó de Copitobestia y logró domesticar a uno. ¿El precio? Probablemente tendrá que vivir como un Copitobestia por el resto de su vida (o, no-vida).</color>",
+     "info": "<size=39>Monta una Hielabestia que empuja tus defensas hacia atrás.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>9000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Invulnerable al congelamiento básico, pero sí al congelamiento profundo.\n- Al estar en contacto con una planta titán o anti-aplaste, el Jinete Hielabestia intentará aplastarlos. En cambio, empuja todas las plantas en su línea una casilla atrás.\n- Si es incapaz de empujar (bloqueado por plantas o no hay espacio), instantáneamente destruye la planta que está más a la izquierda.\n- Plantas aéreas no son afectadas al ser empujadas.\n- Al tener PS bajo la mitad de su durabilidad, salta 2,2 casillas hacia adelante.</color>"
+   },
+   {
+     "theZombieType": 239,
+     "name": "Payazombi Acuático",
+     "introduce": "<size=39><color=#3D1400>El primer zombi en usar un pogo y cajitas sorpresa sobre el agua. ¿Cómo lo logró? \"¡Ciencia! ¡La tercera ley de Newton, nitroglicerina y resortes! ¡Oh, sí!\" ¿Es un genio o un maníaco? ¡Quién sabe!</color>",
+     "info": "<size=39>Utiliza su pogo como una moto acuática, acelerando hacia tus plantas rápidamente.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Es muy rápido. Al chocar contra una planta, muere instantáneamente y suelta un montón de cajitas sorpresa que explotan dentro de un radio de 3,5 casllas, por un total de (plantas atacadas x líneas del mapa) cajitas.\n- Siempre explotará al morir.</color>"
    },
    {
       "theZombieType": 300,
