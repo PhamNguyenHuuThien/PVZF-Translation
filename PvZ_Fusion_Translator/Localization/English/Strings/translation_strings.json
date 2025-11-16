@@ -1612,7 +1612,7 @@
   "僵尸回血，僵尸分裂": "Zombie Regen + Zombie Split",
   "僵尸回血，僵尸加血": "Zombie Regen + Zombie Toughness UP",
   "出怪加速，更多僵尸，僵尸加血": "More Zombies + Zombie Spawn Speed UP + Zombie Toughness UP",
-  "僵尸加速，强力减伤，僵尸加血": "Zombie Speed UP + Strong DMG Reduction + Zombie Toughness UP",
+  "僵尸加速，强力减伤，僵尸回血": "Zombie Speed UP + Strong DMG Reduction + Zombie Regen",
   "僵尸回血，僵尸加血，植物重伤": "Zombie Regen + Zombie Toughness UP + Plant Defense DOWN",
   "僵尸分裂，僵尸加速，强力减伤": "Zombie Speed UP + Strong DMG Reduction + Zombie Split",
   "植物重伤，僵尸回血，僵尸陨星": "Zombie Regen + Plant Defense DOWN + Zombie Meteor",
