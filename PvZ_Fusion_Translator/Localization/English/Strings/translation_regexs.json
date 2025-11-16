@@ -235,5 +235,6 @@
   "^(\\d+)级$": "Level {0}",
   "历史最高：第(\\d+)关": "Highest Record: Level {0}",
   "关卡制作中：([^\\s]+)": "Editing Level for: {0}",
-  "当前偏好：([^\\s]+)": "Current Favorite: {0}"
+  "当前偏好：([^\\s]+)": "Current Favorite: {0}",
+  "第(\\d+)关\n场景：([^\\s]+)\n总波数：(\\d+)波\n特殊环境：([^\\s]+)\n难度：(\\d+)": "Level {0}\nScene: {1}\nTotal Waves: {2}\nModifiers: {3}\nDifficulty: {4}"
 }
