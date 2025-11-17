@@ -1563,8 +1563,8 @@
         },
         {
             "seedType": 1087,
-            "name": "Jack O' Lantern",
-            "introduce": "<align=justified><size=36><color=black>Jack O' Lantern insists that he frequently encounters ghosts, but do they truly exist? Who can say for certain? Perhaps he was simply dragged into another round of Halloween festivities by someone eager for a good scare.</color></size>",
+            "name": "Jack O' Plantern",
+            "introduce": "<align=justified><size=36><color=black>Jack O' Plantern insists that he frequently encounters ghosts, but do they truly exist? Who can say for certain? Perhaps he was simply dragged into another round of Halloween festivities by someone eager for a good scare.</color></size>",
             "info": "<size=36>In a small area, dispels fog like a Plantern and increase the Lumos Level for the Lumos plants inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 area. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Plantern > Pumpkin</color>"
         },
