@@ -1,387 +1,387 @@
 {
     "Welcome": {
         "achievement": 0,
-        "Name": "Try out the core mechanic of the game.",
-        "Text": "Plants vs Zombies: Fusion"
+        "Name": "게임의 핵심 메커니즘을 체험해보세요.",
+        "Text": "식물 vs 좀비:\n퓨전"
     },
     "PeaSunflower": {
         "achievement": 1,
-        "Name": "Discover Pea Sunflower.",
-        "Text": "The Age of Fusion"
+        "Name": "태양슈터를 발견하세요.",
+        "Text": "[융합]의 시대"
     },
     "GatlingPea": {
         "achievement": 2,
-        "Name": "Discover Gatling Pea",
-        "Text": "Getting an Upgrade"
+        "Name": "개틀링 콩을 발견하세요.",
+        "Text": "더 좋은 개틀링"
     },
     "TwinFlower": {
         "achievement": 3,
-        "Name": "Discover Twin Sunflower",
-        "Text": "Isn't this Twin Sunflower?"
+        "Name": "쌍둥이 해바라기를 발견하세요.",
+        "Text": "이거 쌍둥이 해바라기 아니야?"
     },
     "SuperGatling": {
         "achievement": 4,
-        "Name": "Discover Pea Commando",
-        "Text": "Big Brother is Very Angry"
+        "Name": "특전자 콩을 발견하세요.",
+        "Text": "형님께서\n엄청 빡치셨다"
     },
     "CherryPaper": {
         "achievement": 5,
-        "Name": "Blow up 4 or more plants with a single Cherry Bomb.",
-        "Text": "Demolition Expert"
+        "Name": "폭발성 체리탄 하나로 4개 이상의 식물을 폭파시키세요.",
+        "Text": "철거 전문가"
     },
     "BigWallNut": {
         "achievement": 6,
-        "Name": "Place a Wall-nut on top of another Wall-nut.",
-        "Text": "How did it run away?"
+        "Name": "호두에다 또 호두를 조합하세요",
+        "Text": "어떻게 도망쳤을까?"
     },
     "CherryPaper95": {
         "achievement": 9,
-        "Name": "Encounter Gatling Cherry Newspaper Zombie.",
-        "Text": "Big Sale on Cherries!"
+        "Name": "신문지 체리 개틀링 좀비를 만나세요.",
+        "Text": "체리 폭탄세일!"
     },
     "Puff": {
         "achievement": 7,
-        "Name": "Use a Scaredy-shroom or Fume-shroom to spread the Puff-Shroom.",
-        "Text": "Where did I come from?"
+        "Name": "뻐끔 버섯을 증식시킬려면 겁쟁이 버섯이나 가스 버섯을 조합해보세요.",
+        "Text": "버글링들"
     },
     "SunBomb": {
         "achievement": 8,
-        "Name": "Use Solar Bomb to explode 10 zombies at once.",
-        "Text": "One Light a Day"
+        "Name": "태양 폭탄을 이용해서 10마리를 한번에 폭파시키세요.",
+        "Text": "하루를 밝게"
     },
     "BigWallNut2": {
         "achievement": 10,
-        "Name": "Use Wall-nut to crush 10 zombies at once.",
-        "Text": "Steamroller"
+        "Name": "거대 호두로 좀비 10마리를 한번에 처리하세요. ",
+        "Text": "호두롤러"
     },
     "BigWallNut3": {
         "achievement": 11,
-        "Name": "Use Wall-nut to deal 20,000 damage at the same zombie.",
-        "Text": "Wall-nut Roller"
+        "Name": "거대 호두로 같은 좀비에게 20,000의 데미지를 입히세요.",
+        "Text": "무서운 구르기"
     },
     "HypnoShroom": {
         "achievement": 12,
-        "Name": "Use Hypno-shroom to hypnotize a zombie.",
-        "Text": "Sorry! Not this time!"
+        "Name": "좀비를 매혹상태로 만들려면 최면 버섯을 사용하세요.",
+        "Text": "오늘은 안돼!"
     },
     "JacksonZombie": {
         "achievement": 13,
-        "Name": "Encounter Michael Zombie",
-        "Text": "Michael is Here Too"
+        "Name": "마이클 좀비를 만나세요.",
+        "Text": "마이클도 여기 있어요"
     },
     "ScaredyHypno": {
         "achievement": 14,
-        "Name": "Use Trippy-shroom to forcefully hypnotize zombies.",
-        "Text": "Concept God"
+        "Name": "몽릉 버섯으로 좀비를 강제로 매혹 상태로 만드세요.",
+        "Text": "그 발상\n특이히네"
     },
     "HypnoNut": {
         "achievement": 15,
-        "Name": "Summon a Golden Mystery-box Zombie from Hypno-nut.",
-        "Text": "It Looks Delicious"
+        "Name": "최면 호두로 골드 럭키박스 좀비를 소환하세요.",
+        "Text": "난 누구?!"
     },
     "LilyPad": {
         "achievement": 16,
-        "Name": "Make Lily Pad produce a Plant",
-        "Text": "The young lotus has just revealed its pointed tip."
+        "Name": "수련잎이 식물을 생성하게 하세요",
+        "Text": "어린 연꽃의\n뾰족한 끝"
     },
     "ThreePeater": {
         "achievement": 17,
-        "Name": "Plant a Threepeater on the edge lanes, making it shoot 2 peas per row in its lane.",
-        "Text": "The trajectory is leaning left."
+        "Name": "가장자리 열에 삼발슈터를 심어, 해당 열에서 각 줄마다 콩 2개를 발사하게 해보세요.",
+        "Text": "궤적이 왼쪽으로 기울어지네요"
     },
     "SquashKelp": {
         "achievement": 18,
-        "Name": "Discover Mangle Kelp",
-        "Text": "Creature from the Depths"
+        "Name": "스쿼시 켈프를 발견하세요.",
+        "Text": "심해의 생물"
     },
     "ThreeSpike": {
         "achievement": 19,
-        "Name": "Use Weed-spreader to burst tires.",
-        "Text": "Why do we still need Spikerock?"
+        "Name": "스파이크 삼발슈터로 타이어를 터뜨리세요.",
+        "Text": "내 타이어!"
     },
     "SunSeaShroom": {
         "achievement": 20,
-        "Name": "Discover the Sea Sun-shroom",
-        "Text": "Isn't this Sun-shroom?"
+        "Name": "태양 바다 버섯을 발견하세요.",
+        "Text": "수영장의 햇빛"
     },
     "StarBlover": {
         "achievement": 21,
-        "Name": "Use Starblover to attract star projectiles.",
-        "Text": "Star Attractor"
+        "Name": "스타로버로 별 투사체를 모으세요.",
+        "Text": "별따먹자"
     },
     "MagnetShroom": {
         "achievement": 22,
-        "Name": "Utilize the Magnetic System.",
-        "Text": "Breadth-first Search"
+        "Name": "자기장 시스템을 활용하세요.",
+        "Text": "너비 우선 탐색\n알고리즘"
     },
     "CornCabbage": {
         "achievement": 23,
-        "Name": "Discover Taco-pult.",
-        "Text": "Taco-pult is Your Lie"
+        "Name": "타코 펄트를 발견하세요.",
+        "Text": "데이브가 보면\n환장할듯"
     },
     "GarlicCorn": {
         "achievement": 24,
-        "Name": "Poison a Zombie",
-        "Text": "Who's eating garlic?"
+        "Name": "좀비를 독 디버프에 걸리게하세요.",
+        "Text": "누가 마늘\n먹었니?"
     },
     "CabbageUmbrella": {
         "achievement": 25,
-        "Name": "Use Umbrella Kale to bounce catapult projectiles.",
-        "Text": "Fun Bounce"
+        "Name": "양배추 우산잎으로 곡사형 투사체를 튕겨내세요",
+        "Text": "공놀이의 달인"
     },
     "GoldMelon": {
         "achievement": 26,
-        "Name": "Let a rain of golden melon fall from the sky.",
-        "Text": "A Hail of Melons."
+        "Name": "하늘에서 황금 멜론 비가 내리게 하세요.",
+        "Text": "하늘에서 멜론이 내린다면?"
     },
     "SquashTorch": {
         "achievement": 27,
-        "Name": "Use Squashed Torchwood to produce a Squash.",
-        "Text": "Blazing Squash"
+        "Name": "스쿼시 횃불 나무로 스쿼시를 생산해보세요",
+        "Text": "뜨거운 그루터기"
     },
     "UltimateTorch": {
         "achievement": 28,
-        "Name": "Discover Squashed Infernowood.",
-        "Text": "This Spicy Squash is Warm"
+        "Name": "스쿼시 지옥불나무를 발견하세요",
+        "Text": "헬's 키친"
     },
     "Superkelp": {
         "achievement": 29,
-        "Name": "Discover Krakerberus.",
-        "Text": "Squash Has Gotten Stronger"
+        "Name": "켈프베로스를 발견하세요",
+        "Text": "심해공포증"
     },
     "DarkThreePeater": {
         "achievement": 30,
-        "Name": "Try to ignite a Threepeater.",
-        "Text": "Dance With Fire"
+        "Name": "삼발슈터를 점화시켜보세요",
+        "Text": "불꽃춤"
     },
     "AshThreePeater": {
         "achievement": 31,
-        "Name": "Light another fire on Scorched Threepeater.",
-        "Text": "Burning Rod"
+        "Name": "잿빛 삼발슈터를 한번 더 점화시키세요.",
+        "Text": "타버린 몸"
     },
     "SuperThreePeater": {
         "achievement": 32,
-        "Name": "Let Threepeater rise from the ashes.",
-        "Text": "Rebirth From The Flames"
+        "Name": "삼발슈터를 재에서 부활하게 하세요.",
+        "Text": "날아오르라\n주작이여"
     },
     "MagnetCactus": {
         "achievement": 33,
-        "Name": "Use Magnethorn to crash airships.",
-        "Text": "Aegis Cruiser"
+        "Name": "자석 선인장으로 비행선을 격추시키세요.",
+        "Text": "포스를 쓰거라"
     },
     "SuperStar": {
         "achievement": 34,
-        "Name": "Watch a meteor fall from the sky.",
-        "Text": "When heaven moves, all follows."
+        "Name": "메테오를 하늘에서 떨어지게 해보세요.",
+        "Text": "원시좀비들이\n멸종한 이유"
     },
     "UltimateStar": {
         "achievement": 35,
-        "Name": "Discover Magnetar.",
-        "Text": "Level 1436"
+        "Name": "중성자 스타푸르츠를 발견하세요.",
+        "Text": "나 혼자만\n1436레벨"
     },
     "MagnetShroom2": {
         "achievement": 36,
-        "Name": "Connect 50 Plants in a Magnetic System.",
-        "Text": "Magneto"
+        "Name": "50개의 식물을 자기장 시스템으로 연결하세요.",
+        "Text": "매그니토"
     },
     "UltimateStar2": {
         "achievement": 37,
-        "Name": "Make Magnetar's meteor damage exceed more 1800.",
-        "Text": "Star Child"
+        "Name": "중성자 스타푸르츠의 메테오 데미지가 1800을 넘도록 만드세요.",
+        "Text": "스타크래프트"
     },
     "HypnoMagnet": {
         "achievement": 38,
-        "Name": "Summon a Mecha Gargantuar from a Hypno Magnet.",
-        "Text": "Steel Flood"
+        "Name": "최면 자석 버섯으로 메카-가르강튀아를 소환하세요.",
+        "Text": "강철 연금술"
     },
     "SunMagnet": {
         "achievement": 39,
-        "Name": "Use Solar Magnet to produce a metal object.",
-        "Text": "Self-Sufficient"
+        "Name": "태양 자석 버섯에게 금속 물체를 줘보세요.",
+        "Text": "자급자족"
     },
     "SuperCherryShooter": {
         "achievement": 40,
-        "Name": "Discover Explod-o-shooter.",
-        "Text": "Did he just shoot a cherrybomb?"
+        "Name": "체리슈터를 발견하세요.",
+        "Text": "너, 방금 체리를 쏜거야?"
     },
     "UltimateGatling": {
         "achievement": 41,
-        "Name": "Discover Gatling Cherrybomber.",
-        "Text": "Lawn Bomber"
+        "Name": "체리 개틀링을 발견하세요..",
+        "Text": "잔디밭의 화력담당"
     },
     "HypnoEmperor": {
         "achievement": 42,
-        "Name": "Discover Empress-Shroom.",
-        "Text": "Magical Empress"
+        "Name": "여왕 버섯을 발견하세요.",
+        "Text": "일종의 마법이란다"
     },
     "CobCannon": {
         "achievement": 43,
-        "Name": "Discover Cob Cannon",
-        "Text": "The Calmness of the Older Generation"
+        "Name": "옥수수 대포를 발견하세요.",
+        "Text": "여전히 날카로운 그대로"
     },
     "IceCannon": {
         "achievement": 44,
-        "Name": "Use Cryo Cannon to fuse Plants.",
-        "Text": "Frozen"
+        "Name": "얼음 옥수수 대포로 식물을 조합해보세요.",
+        "Text": "아이스 에이지"
     },
     "FireCannon": {
         "achievement": 45,
-        "Name": "Use Pyro Cannon to fuse Plants.",
-        "Text": "Burnt"
+        "Name": "화염 옥수수 대포로 식물을 조합해보세요.",
+        "Text": "불타는 세상"
     },
     "UltimateCannon": {
         "achievement": 46,
-        "Name": "Discover Cob-livion Cannon.",
-        "Text": "Nuclear Strike"
+        "Name": "망각 옥수수 대포를 발견하세요.",
+        "Text": "CAUTION!"
     },
     "SuperUmbrella": {
         "achievement": 47,
-        "Name": "Make money using Alchemist Umbrella.",
-        "Text": "Transmutation"
+        "Name": "연금술사 우산잎에게 코인을 사용하세요.",
+        "Text": "돈은 항상 옳다"
     },
     "EmeraldUmbrella": {
         "achievement": 48,
-        "Name": "Use Midas Umbrella to mock the trident.",
-        "Text": "Come and hit me!"
+        "Name": "마이더스 우산잎으로 삼지창을 막으세요.",
+        "Text": "날따름"
     },
     "RedEmeraldUmbrella": {
         "achievement": 49,
-        "Name": "Use Aegis Umbrella to reflect zombie projectiles.",
-        "Text": "Sorry! It doesn't work everyday!"
+        "Name": "에이기스 우산으로 좀비의 투사체를 반사하세요.",
+        "Text": "투사체\n되받아치기"
     },
     "Plantern": {
         "achievement": 50,
-        "Name": "Make a Plant's Lumos Level greater than 10.",
-        "Text": "Brightly Lit"
+        "Name": "식물의 빛 레벨을 10레벨 이상 만드세요.",
+        "Text": "빛나는 세상"
     },
     "SuperFume": {
         "achievement": 51,
-        "Name": "Discover Doomberg-shroom",
-        "Text": "Dark Mushroom"
+        "Name": "혹한 버섯을 발견하세요.",
+        "Text": "밤의 파수꾼"
     },
     "UltimateFume": {
         "achievement": 52,
-        "Name": "Discover Doominator-shroom",
-        "Text": "Mushrooms! I'm back!"
+        "Name": "파멸자 버섯을 발견하세요.",
+        "Text": "도미니언"
     },
     "UltimteGloom": {
         "achievement": 53,
-        "Name": "Discover Oblivion-shroom",
-        "Text": "One Mushroom, Five Lanes"
+        "Name": "망각 버섯을 발견하세요.",
+        "Text": "방사성 버섯"
     },
     "CattailPlant": {
         "achievement": 54,
-        "Name": "Put Fertilizer on a Lily Pad.",
-        "Text": "Cats Have Nine Lives"
+        "Name": "수련잎에게 비료를 줘보세요.",
+        "Text": "고양이는 목숨이 아홉 개"
     },
     "CattailGirl": {
         "achievement": 55,
-        "Name": "Discover Cattail Girl.",
-        "Text": "This Plant is a Girl?"
+        "Name": "캣테일 걸을 발견하세요.",
+        "Text": "넌 식물이야? 소녀야?"
     },
     "Cattailour": {
         "achievement": 56,
-        "Name": "Discover Magicat Nettle.",
-        "Text": "This is a Cat-astrophe!"
+        "Name": "마법 고양이 둥지를 발견하세요.",
+        "Text": "고양이-아포스트로피"
     },
     "WallNut": {
         "achievement": 57,
-        "Name": "Use Wall-nut to defend against Zombies.",
-        "Text": "Catchy"
+        "Name": "호두를 이용해 좀비를 막으세요.",
+        "Text": "넌 못 지나간다"
     },
     "SuperChomper": {
         "achievement": 58,
-        "Name": "Discover Chewzilla",
-        "Text": "Doesn't look easy to bully."
+        "Name": "먹깨비질라를 발견하세요",
+        "Text": "터프가이"
     },
     "UltimateChomper": {
         "achievement": 59,
-        "Name": "Discover Cherryzilla",
-        "Text": "Scarlet Beast"
+        "Name": "체리질라를 발견하세요.",
+        "Text": "전쟁의 신"
     },
     "UltimateTallNut": {
         "achievement": 60,
-        "Name": "Use Obsidian-nut to defend against explosions.",
-        "Text": "Ice Bucket Challenge"
+        "Name": "폭발을 막으려면 흑요석 키다리 호두를 사용하세요.",
+        "Text": "아이스 버킷 챌린지"
     },
     "SuperMachineNut": {
         "achievement": 61,
-        "Name": "Heal Giga Mecha-nut until its health exceeds 1 million.",
-        "Text": "Giga ex Machina"
+        "Name": "기가 메카 호두의 체력이 100만을 넘을 때까지 회복하세요.",
+        "Text": "아픈 건 싫으니까\n체력에 올인"
     },
     "SuperSunNut": {
         "achievement": 62,
-        "Name": "Spawn a Giant-nut from Twin Solar-nut.",
-        "Text": "Give Me Some Sunshine"
+        "Name": "쌍둥이 해바라기 호두로 거대 해바라기 호두를 소환하세요.",
+        "Text": "나에게 햇빛을 주세요"
     },
     "UltimatePumpkin": {
         "achievement": 63,
-        "Name": "Use Laser Pumpkin to defend against airborne Zombies.",
-        "Text": "Mighty Pumpkin"
+        "Name": "레이저 호박으로 공중 좀비를 막으세요..",
+        "Text": "에임 고수"
     },
     "MelonJump": {
         "achievement": 64,
-        "Name": "Use an Umbrella Plant to bounce off a Pogo Melon Zombie back to the ground.",
-        "Text": "Heaven and Earth"
+        "Name": "우산잎류 식물을 사용해서 멜론콩콩 좀비를 튕겨내세요.",
+        "Text": "하늘과 땅"
     },
     "IronNut": {
         "achievement": 65,
-        "Name": "Discover Buck-nut",
-        "Text": "Bring It On!"
+        "Name": "양동이 호두를 발견하세요.",
+        "Text": "하드웨어 획득"
     },
     "Sub": {
         "achievement": 999,
-        "Name": "Stay tuned for the next updates!",
-        "Text": "Stay Tuned!"
+        "Name": "다음 업데이트를 기대하세요!",
+        "Text": "계속 지켜봐\n주시기 바랍니다!"
     },
     "WelcomeChallenge": {
         "achievement": 1000,
-        "Name": "Here are some advanced challenges.",
-        "Text": "Go Ahead Bravely"
+        "Name": "몇 가지 도전 업적은 다음과 같습니다.",
+        "Text": "용감하게\n나아가자!"
     },
     "Travel": {
         "achievement": 1001,
-        "Name": "Finish Odyssey: Survival.",
-        "Text": "Time to travel"
+        "Name": "오디세이: 서바이벌 완료하기",
+        "Text": "어드벤처 타임~\n모험할 시간"
     },
     "Travel2": {
         "achievement": 1002,
-        "Name": "Finish Odyssey: Last Stand.",
-        "Text": "Popular Attractions"
+        "Name": "오디세이: 최후의 방어선 완료하기.",
+        "Text": "핫한 관광지"
     },
     "Travel3": {
         "achievement": 1003,
-        "Name": "Finish Odyssey: Purgatory.",
-        "Text": "A Narrow Escape From Death"
+        "Name": "오디세이: 연옥 완료하기.",
+        "Text": "우리는 낙원을\n찾았을까?"
     },
     "Travel_noBuff": {
         "achievement": 1004,
-        "Name": "Finish Odyssey Mode without selecting any modifiers.",
-        "Text": "Odyssey Master"
+        "Name": "아무런 버프를 선택하지 않고 오디세이 모드를 깨세요.",
+        "Text": "오디세이 마스터"
     },
     "Travel_noNut": {
         "achievement": 1005,
-        "Name": "Finish Odyssey Mode without using Cherryzilla, Obsidian-nut, Giga Mecha-nut, and Twin Solar-nut.",
-        "Text": "The Best Defense is a Good Offense"
+        "Name": "체리질라, 흑요석 키다리 호두, 기가 메카 호두, 쌍둥이 해바라기 호두을 사용하지 않고 오디세이 모드를 완료하세요.",
+        "Text": "최고의 방어는\n공격"
     },
     "Travel_sun": {
         "achievement": 1006,
-        "Name": "Spend more than 1 million Sun in a single round of Odyssey Mode.",
-        "Text": "Radiant Sun"
+        "Name": "오디세이 모드 한 라운드에 100만 태양 이상을 소모하세요.",
+        "Text": "빛나는 태양"
     },
     "Travel_fast": {
         "achievement": 1007,
-        "Name": "Finish Odyssey Mode in under 40 minutes.",
-        "Text": "Speedrunner"
+        "Name": "40분 안에 오디세이 모드를 완료하세요.",
+        "Text": "스피드런"
     },
     "SuperMachineNut_health": {
         "achievement": 1008,
-        "Name": "Heal Giga Mecha-nut until its health exceeds 100 million.",
-        "Text": "Do you have nothing better to do?"
+        "Name": "기가 메카 호두의 체력이 1억을 넘을 때까지 회복시키세요.",
+        "Text": "할게 없니?"
     },
     "SuperDamage": {
         "achievement": 1009,
-        "Name": "Take down an Abyssal Gargantuar under 10 seconds without Corruption Buff.",
-        "Text": "Absolute Power"
+        "Name": "10초 안에 버프 없이 심연의 가르강튀아를 처치하세요",
+        "Text": "절대 권력"
     }
 }
