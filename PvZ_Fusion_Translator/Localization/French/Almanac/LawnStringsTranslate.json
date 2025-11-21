@@ -184,8 +184,8 @@
         },
         {
             "seedType": 26,
-            "name": "Cata-chou",
-            "introduce": "<size=36><color=black>Certains disent que l'amour est comme un chou ; il faut le peler couche par couche pour voir le cœur de l'autre personne. Mais Cata-chou a quelques réserves à ce sujet, car il est lui-même toujours célibataire.</color>",
+            "name": "Lance-chou",
+            "introduce": "<size=36><color=black>Certains disent que l'amour est comme un chou ; il faut le peler couche par couche pour voir le cœur de l'autre personne. Mais le Lance-chou a quelques réserves à ce sujet, car il est lui-même toujours célibataire.</color>",
             "info": "<size=36>Lance des choux pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<couleur=noir>",
             "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
         },
@@ -198,8 +198,8 @@
         },
         {
             "seedType": 28,
-            "name": "Cata-graine",
-            "introduce": "<size=36><color=black>Les plantes sont curieuses de savoir d'où vient le beurre de Cata-graine. Cata-graine ne le sait pas non plus, mais cela ne l'empêche pas d'en faire du pop-corn pendant son temps libre pour gagner un peu d'argent supplémentaire.</color>",
+            "name": "Lance-maïs",
+            "introduce": "<size=36><color=black>Les plantes sont curieuses de savoir d'où vient le beurre du Lance-maïs. Le Lance-maïs ne le sait pas non plus, mais cela ne l'empêche pas d'en faire du pop-corn pendant son temps libre pour gagner un peu d'argent supplémentaire.</color>",
             "info": "<size=36>Lance des graines de maïs pour attaquer les zombies et peut aussi lancer du beurre pour les immobiliser.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3 ​​Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1 chance sur 4 de lancer du beurre, faisant 40 de dégâts et immobilisant les zombies pendant 4 secondes.<color=#8B0000></color>",
             "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
         },
@@ -212,9 +212,9 @@
         },
         {
             "seedType": 30,
-            "name": "Feuille-Parapluie",
-            "introduce": "<size=36><color=black>Autrefois passeur de renom, Feuille-Parapluie était une superstar de la 114ème Plant-Zombie NBA. Mais en vieillissant, il a découvert qu'il devenait chauve.</color>",
-            "info": "<size=36>Dévie les basket-balls.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut dévier les ballons de basket dans une zone de 3×3.</color>",
+            "name": "Ombrelle",
+            "introduce": "<size=36><color=black>Autrefois passeur de renom, Ombrelle était une superstar de la 114ème Plant-Zombie NBA. Mais en vieillissant, elle a découvert qu'elle devenait chauve.</color>",
+            "info": "<size=36>Dévie les basket-balls.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut dévier les projectils dans une zone de 3×3.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
         },
         {
@@ -226,8 +226,8 @@
         },
         {
             "seedType": 32,
-            "name": "Cata-melon",
-            "introduce": "<size=36><color=black>Pendant les pauses, Cata-melon adore diviser son bras de melon en deux, le grignotant pour se rafraîchir. \"Tu veux goûter ?\" \" demande-t-il gaiement aux zombies, tandis que les plantes alentour, étouffantes de chaleur, ne peuvent que baver d'envie.</color>",
+            "name": "Lance-pastèque",
+            "introduce": "<size=36><color=black>Pendant les pauses, le Lance-pastèque adore couper sa pastèque en deux, le grignotant pour se rafraîchir. \"Tu veux goûter ?\" \" demande-t-il gaiement aux zombies, tandis que les plantes alentour, étouffantes de chaleur, ne peuvent que baver d'envie.</color>",
             "info": "<size=36>Lance des pastèques sur les zombies pour causer des dégâts.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>",
             "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
         },
@@ -466,7 +466,7 @@
             "seedType": 923,
             "name": "Parapluie de Rubis",
             "introduce": "<size=36><color=black>Beaucoup remettent en question la relation entre Parapluie d'Émeraude et Aegis Umbrella. \" Nous sommes frères ! \" \" déclare Aegis avec confiance, en frappant sa verrière. \"Mon cher frère aîné traverse juste une période difficile émotionnellement.\"</color>",
-            "info": "<size=36>Reflète les projectiles des zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de la Parapluie d'Émeraude. Vous pouvez basculer entre les deux avec les Cata-melons et les Cata-chous. Aegis perd la capacité d'améliorer les projectiles lancés, mais bénéficie désormais d'une réduction des dégâts de 90 % et peut refléter les projectiles de zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Parapluie d'Émeraude + Cata-melon</color>",
+            "info": "<size=36>Reflète les projectiles des zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de la Parapluie d'Émeraude. Vous pouvez basculer entre les deux avec les Lance-pastèques et les Lance-chous. Aegis perd la capacité d'améliorer les projectiles lancés, mais bénéficie désormais d'une réduction des dégâts de 90 % et peut refléter les projectiles de zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Parapluie d'Émeraude + Lance-pastèque</color>",
             "cost": ""
         },
         {
@@ -1251,76 +1251,76 @@
             "name": "Cata-Soleil",
             "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Cata-Soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Cata-Soleil se contente de sourire : \" D’où pensez-vous que viennent les Soleils de la cour avant ? \"</color></size>",
             "info": "<size=36>Lance des choux solaires pour attaquer les zombies et peut aussi générer du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>50/5s</color>\n<color=black>Spécial : </color><color=#8B0000>Rend 100 Soleil lors de la fusion. Chaque tir rebondit une fois après avoir touché un zombie. Pour chaque tranche de 200 Soleil, il peut rebondir une fois supplémentaire ; chaque rebond fait perdre 5 Soleil.</color></size>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Cata-chou + Tournesol</color></size>"
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-chou + Tournesol</color></size>"
         },
         {
             "seedType": 1112,
             "name": "Pot de Chou",
-            "introduce": "<size=36><color=black>\"Je ne suis pas seulement un pot pour contenir des choux, et Cata-chou n'est pas la plante la plus faible ! Cata-chou et moi sommes les meilleurs amis\", dit Cabbage Pot avec assurance. Leur amitié est peut-être née parce que... l'un d'eux est chauve et l'autre est déjà chauve.</color>",
-            "info": "<size=36>Donne un bonus de vitesse d'attaque de 50% pour n'imorte quelle plante de type choux en haut d'elle.\n\n<color=black>Spécial : </color><color=#8B0000>Accorde une augmentation de vitesse d'attaque de 50 % aux plantes de type Chou.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-chou + Pot de Fleur</color>",
+            "introduce": "<size=36><color=black>\"Je ne suis pas seulement un pot pour contenir des choux, et Lance-chou n'est pas la plante la plus faible ! Lance-chou et moi sommes les meilleurs amis\", dit Cabbage Pot avec assurance. Leur amitié est peut-être née parce que... l'un d'eux est chauve et l'autre est déjà chauve.</color>",
+            "info": "<size=36>Donne un bonus de vitesse d'attaque de 50% pour n'imorte quelle plante de type choux en haut d'elle.\n\n<color=black>Spécial : </color><color=#8B0000>Accorde une augmentation de vitesse d'attaque de 50 % aux plantes de type Chou.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Pot de Fleur</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1113,
             "name": "Cata-taco",
-            "introduce": "<size=36><color=black>Taco-pult se demande toujours pourquoi, malgré l'apprentissage des compétences de Cata-graine et ses bonnes performances sur le champ de bataille, Dave a du mal à le regarder et l'évite même. En vérité, c'est parce que Taco-pult ressemble trop à un taco, et chaque fois que Dave le voit, il a juste envie de le prendre dans ses bras et de le manger.</color>",
-            "info": "<size=36>Lance des tacos qui peuvent rebondir une fois et peut aussi lancer du beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles rebondissent une fois. A 1/4 de chance de lancer du beurre, infligeant 80 dégâts et immobilisant les zombies pendant 4 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-chou + Cata-graine</color>",
+            "introduce": "<size=36><color=black>Taco-pult se demande toujours pourquoi, malgré l'apprentissage des compétences de Lance-maïs et ses bonnes performances sur le champ de bataille, Dave a du mal à le regarder et l'évite même. En vérité, c'est parce que Taco-pult ressemble trop à un taco, et chaque fois que Dave le voit, il a juste envie de le prendre dans ses bras et de le manger.</color>",
+            "info": "<size=36>Lance des tacos qui peuvent rebondir une fois et peut aussi lancer du beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles rebondissent une fois. A 1/4 de chance de lancer du beurre, infligeant 80 dégâts et immobilisant les zombies pendant 4 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-maïs</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1114,
             "name": "Pot de Grain",
-            "introduce": "<size=36><color=black>Kernel Pot pense qu'il est plus que simplement délicieux. Selon lui, le maïs beurré fournit plus de nutriments que le sol, notamment pour les champignons. La plante préférée de Kernel Pot est la Cata-graine, sa nourriture préférée est le beurre, son récipient préféré est une tasse et sa chanson préférée est \"Buttercup\".</color>",
-            "info": "<size=36>Augmente la chance de lancer du beurre de chaque plante type maïs au dessus d'elle de 25% à 50%.\n\n<color=black>Spécial : </color><color=#8B0000>Augmente les chances de beurre de 1/4 à 1/2.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Cata-graine</color>",
+            "introduce": "<size=36><color=black>Kernel Pot pense qu'il est plus que simplement délicieux. Selon lui, le maïs beurré fournit plus de nutriments que le sol, notamment pour les champignons. La plante préférée de Kernel Pot est la Lance-maïs, sa nourriture préférée est le beurre, son récipient préféré est une tasse et sa chanson préférée est \"Buttercup\".</color>",
+            "info": "<size=36>Augmente la chance de lancer du beurre de chaque plante type maïs au dessus d'elle de 25% à 50%.\n\n<color=black>Spécial : </color><color=#8B0000>Augmente les chances de beurre de 1/4 à 1/2.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Lance-maïs</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1115,
             "name": "Parapluie de Beurre",
             "introduce": "<size=36><color=black>\"Protéger les plantes qui m'entourent est mon devoir.\" En tant que cosplayer professionnel, \"Umbrella Husk\" est si doué que personne ne se rend compte qu'il est en fait un épi de maïs avec une perruque en beurre, qui adore se tenir sur la tête.</color>",
-            "info": "<size=36>Repousse les zombies entraînent de s'approcher et les immobilisent avec du beurre.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité et les immobilise pendant 4 secondes ; les reculs réduisent sa résistance :\n1Zombie : -100 PV\n2~4 zombies : -150 PV\n5 zombies ou plus : -250 PV</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-graine + Feuille-Parapluie</color>",
+            "info": "<size=36>Repousse les zombies entraînent de s'approcher et les immobilisent avec du beurre.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité et les immobilise pendant 4 secondes ; les reculs réduisent sa résistance :\n1Zombie : -100 PV\n2~4 zombies : -150 PV\n5 zombies ou plus : -250 PV</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-maïs + Ombrelle</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1116,
             "name": "Melon Glacé",
-            "introduce": "<size=36><color=black>Winter Melon a avoué un jour à Cata-melon : \"Je n'ai pas toujours été aussi glaciale. Un jour, je suis juste allée au congélateur pour une glace, et... eh bien, nous y sommes.\" </couleur>",
-            "info": "<size=36>Lances des melons gelés qui gèlent les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Applique 50 points Cryo aux zombies touchés. Les zombies touchés dans la zone d'éclaboussure gagnent 5 points Cryo. Inflige 4x dégâts aux zombies gelés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-melon + Champi-glace</color>",
+            "introduce": "<size=36><color=black>Winter Melon a avoué un jour à Lance-pastèque : \"Je n'ai pas toujours été aussi glaciale. Un jour, je suis juste allée au congélateur pour une glace, et... eh bien, nous y sommes.\" </couleur>",
+            "info": "<size=36>Lances des melons gelés qui gèlent les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Applique 50 points Cryo aux zombies touchés. Les zombies touchés dans la zone d'éclaboussure gagnent 5 points Cryo. Inflige 4x dégâts aux zombies gelés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Champi-glace</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1117,
             "name": "Cata-gousse",
             "introduce": "<size=36><color=black>\"Dans les années 90, les gens croyaient largement que la meilleure façon de lutter contre les zombies était de semoule de maïs et de sang de chien noir. Pour nous, les plantes, l'Ail est une ressource stratégique\", explique Clove-pult avec une attitude sage.</color>",
-            "info": "<size=36>A une chance de lancer un beurre à l'ail qui immobilise les zombies pendant 4 secondes et les force à changer de chemin, finissant qu'ils accumulent les points de poison pour appliquer l'effet de poison.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3 ​​Secondes</color>\n<color=black>Système Poison : </color><color=#8B0000>Chaque attaque accumule 1 point Poison, avec un maximum de 5. À 5 points, le debuff Empoisonné est appliqué. A 1/4 de chance de lancer du beurre Ail, immobilisant les zombies pendant 4 secondes, forçant un changement de voie et supprimant le plafond des points de poison. Les zombies perdent (20 × Poison Point) HP / seconde lorsqu'ils sont empoisonnés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-graine + Ail</color>",
+            "info": "<size=36>A une chance de lancer un beurre à l'ail qui immobilise les zombies pendant 4 secondes et les force à changer de chemin, finissant qu'ils accumulent les points de poison pour appliquer l'effet de poison.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3 ​​Secondes</color>\n<color=black>Système Poison : </color><color=#8B0000>Chaque attaque accumule 1 point Poison, avec un maximum de 5. À 5 points, le debuff Empoisonné est appliqué. A 1/4 de chance de lancer du beurre Ail, immobilisant les zombies pendant 4 secondes, forçant un changement de voie et supprimant le plafond des points de poison. Les zombies perdent (20 × Poison Point) HP / seconde lorsqu'ils sont empoisonnés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-maïs + Ail</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1118,
             "name": "Cata-oignon",
             "introduce": "<size=36><color=black>\"La combinaison de chou et d'Ail est fraîche, délicieuse et saine, et elle est simple à préparer. Ajouter quelques gousses d'Ail avant de servir rehausse la saveur\", explique le chef Ail. Manger Ail aurait également un effet sur la prévention de la chute des cheveux.</color>",
-            "info": "<size=36>Lance un projectile qui rebondit une fois, et chaque fois qu'il touche un zombie avec des points de poison supérieurs à 0, il peut rebondir à nouveau. Il n'y a pas de limite aux temps de rebond et chaque coup ajoute 1 point de poison.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque coup de zombie ajoute 1 point de poison. Voir Pulte de clou de girofle pour plus de détails.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-chou + Ail</color>",
+            "info": "<size=36>Lance un projectile qui rebondit une fois, et chaque fois qu'il touche un zombie avec des points de poison supérieurs à 0, il peut rebondir à nouveau. Il n'y a pas de limite aux temps de rebond et chaque coup ajoute 1 point de poison.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque coup de zombie ajoute 1 point de poison. Voir Pulte de clou de girofle pour plus de détails.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Ail</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1119,
             "name": "Cata-ail",
             "introduce": "<size=36><color=black>Peu de gens osent prendre des airs devant Ail-pult. La plupart font un détour lorsqu'ils le voient, même s'il n'a pas l'intention de se montrer intimidant. Il ne recherche plus la popularité qu'il avait en tant que chef, mais il espère se faire des amis qui apprécient les bienfaits de l'allicine. Aujourd'hui, les plantes embrassent enfin son charme unique, Ail et tout.</color>",
-            "info": "<size=36>Accumule 1 point de poison pour tous les zombies dans le rayon d'éclaboussure d'Ail ; chaque point de poison ajoute 5 dégâts aux attaques éclaboussantes.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque coup ajoute 1 point de poison à la cible ; reportez-vous à Clove-pult.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ail + Cata-melon</color>",
+            "info": "<size=36>Accumule 1 point de poison pour tous les zombies dans le rayon d'éclaboussure d'Ail ; chaque point de poison ajoute 5 dégâts aux attaques éclaboussantes.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque coup ajoute 1 point de poison à la cible ; reportez-vous à Clove-pult.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ail + Lance-pastèque</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1120,
             "name": "Canon à Épi",
             "introduce": "<size=36><color=black>Cob Cannon est une véritable puissance intellectuelle : la rumeur dit qu'il a étudié à Harvard et a travaillé dans un prestigieux cabinet d'avocats à New York. Connu pour son immense puissance, un seul tir de Cob Cannon peut décimer une vaste zone de zombies. Cependant, la véritable source de sa formidable énergie reste un mystère.</color>",
-            "info": "<size=36>Peut être tiré manuellement pour lancer des épis de maïs mortels qui causent des dommages au crémateur.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Doit être planté au-dessus de deux Cata-graines.</color>",
+            "info": "<size=36>Peut être tiré manuellement pour lancer des épis de maïs mortels qui causent des dommages au crémateur.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Doit être planté au-dessus de deux Lance-maïss.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>50 Secondes</color>"
         },
         {
             "seedType": 1121,
             "name": "Cata-maïs",
             "introduce": "<size=36><color=black>On voit souvent la Pulte de maïs fronçant les sourcils. Lorsqu'on lui demande pourquoi, il ne répond rien. \"Les gens n'arrêtent pas de me demander si le maïs au beurre est collant ou sucré\", soupire Corn-pult. \"Pourquoi me demander ? Je n'en mange pas. Seuls les zombies le sauraient.\"</color>",
-            "info": "<size=36>Lance de gros cors sur les zombies ; parfois ils sont beurrés.\n\n<color=black>Dégâts : </color><color=#8B0000>100/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer un maïs au beurre, immobilisant la cible principale pendant 4 secondes et les zombies à portée de projection pendant (4 / propagation totale des éclaboussures) secondes (minimum de 0,5).</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-melon + Cata-graine</color>",
+            "info": "<size=36>Lance de gros cors sur les zombies ; parfois ils sont beurrés.\n\n<color=black>Dégâts : </color><color=#8B0000>100/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer un maïs au beurre, immobilisant la cible principale pendant 4 secondes et les zombies à portée de projection pendant (4 / propagation totale des éclaboussures) secondes (minimum de 0,5).</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Lance-maïs</color>",
             "cost": "<size=36>"
         },
         {
@@ -1341,35 +1341,35 @@
             "seedType": 1124,
             "name": "Cata-pastèque",
             "introduce": "<size=36><color=black>\"Enlevez l'extérieur vert et vous trouverez un cœur de roses à l'intérieur.\" Cette phrase signifie ne pas entrer au hasard dans un salon de coiffure inconnu : ce serait une décision époustouflante.\n\nMelon Pot : \"Après avoir fini une pastèque, porter l'écorce sur la tête est quelque chose que tout le monde faisait quand on était enfant.\" Pot de Fleur remarque : \"Honnêtement, c'est un peu idiot.\"</color>",
-            "info": "<size=36>Tire des melons qui rebondissent une fois.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-chou + Cata-melon</color>",
+            "info": "<size=36>Tire des melons qui rebondissent une fois.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-pastèque</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1125,
             "name": "Pot de Melon",
-            "introduce": "<size=36><color=black>Frugal Melon Pot ne supporte pas de voir Cata-melon lancer des melons sans penser au coût, alors après avoir vaincu les zombies, Melon Pot récupère secrètement les fragments de melon brisés éparpillés sur le sol. \"C'est ce qu'on appelle la culture hors-sol\", a expliqué Melon Pot. \"On ne peut pas faire pousser n'importe quelle plante dans le sol ici ; chaque centimètre carré de sol est précieux.\"</color>",
-            "info": "<size=36>Double les dégâts causés par les éclaboussures des melons au-dessus, sans atténuation ; les dégâts restent aux 2/3 des dégâts de base.\n\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Cata-melon</color>",
+            "introduce": "<size=36><color=black>Frugal Melon Pot ne supporte pas de voir Lance-pastèque lancer des melons sans penser au coût, alors après avoir vaincu les zombies, Melon Pot récupère secrètement les fragments de melon brisés éparpillés sur le sol. \"C'est ce qu'on appelle la culture hors-sol\", a expliqué Melon Pot. \"On ne peut pas faire pousser n'importe quelle plante dans le sol ici ; chaque centimètre carré de sol est précieux.\"</color>",
+            "info": "<size=36>Double les dégâts causés par les éclaboussures des melons au-dessus, sans atténuation ; les dégâts restent aux 2/3 des dégâts de base.\n\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Lance-pastèque</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1126,
             "name": "Cata-salade",
             "introduce": "<size=36><color=black>\"Quand j'étais petite, tout le monde me demandait quel genre de Pult je voulais être\", explique Salad-pult. \"Ils pensaient qu'on ne pouvait pas tout avoir. Mais j'ai décidé que je voulais tout, même à l'époque.\"</color>",
-            "info": "<size=36>Peut catapulter des projectiles mixtes en succession rapide.\n\n<color=black>Dégâts : </color><color=#8B0000>140/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. Les projectiles se divisent en un mélange de grains de maïs (1/4 de chance d'obtenir du beurre) et de choux lorsqu'ils touchent des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-chou + Cata-graine + Cata-melon</color>",
+            "info": "<size=36>Peut catapulter des projectiles mixtes en succession rapide.\n\n<color=black>Dégâts : </color><color=#8B0000>140/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. Les projectiles se divisent en un mélange de grains de maïs (1/4 de chance d'obtenir du beurre) et de choux lorsqu'ils touchent des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-maïs + Lance-pastèque</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1127,
             "name": "Parapluie d'Ail",
             "introduce": "<size=36><color=black>\"Viens, fais un câlin à Umbrella Clove. Concentre-toi sur l'ouverture de la porte ; laisse Umbrella Clove s'occuper du reste ! Le camping-car n'a pas d'importance ; c'est le cerveau à l'intérieur qui compte !\" \" dit Umbrella Clove. \"Et encore une chose : combattez les zombies avec les zombies ! Et versez du thé pour Umbrella Clove pendant que vous y êtes ! Zombies, zombies, partez !\"</color>",
-            "info": "<size=36>Repousse les zombies et les force à changer de voie.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité, les forçant à changer de voie ; chaque recul réduit sa résistance. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ail + Feuille-Parapluie</color>",
+            "info": "<size=36>Repousse les zombies et les force à changer de voie.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité, les forçant à changer de voie ; chaque recul réduit sa résistance. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ail + Ombrelle</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1128,
             "name": "Parapluie de Chou",
             "introduce": "<size=36><color=black>Quand on lui a demandé quel était son secret pour réussir, Umbrella Kale a répondu : \"En fait, j'aime vraiment laisser les couilles reposer sur ma tête.\" Elle fit une pause, \"Mais les autres plantes me félicitent toutes comme étant une protectrice de premier ordre.\"</color>",
-            "info": "<size=36>Peut faire rebondir des projectiles de type catapulte. S'il n'y a pas de zombies, il peut stocker des projectiles pendant un certain temps et augmenter considérablement leurs dégâts.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Priorité aux catapultes pour le ciblage et augmente les dégâts des projectiles de 80 %, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-chou + Feuille-Parapluie</color>",
+            "info": "<size=36>Peut faire rebondir des projectiles de type catapulte. S'il n'y a pas de zombies, il peut stocker des projectiles pendant un certain temps et augmenter considérablement leurs dégâts.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Priorité aux catapultes pour le ciblage et augmente les dégâts des projectiles de 80 %, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Ombrelle</color>",
             "cost": "<size=36>"
         },
         {
@@ -1390,28 +1390,28 @@
             "seedType": 1131,
             "name": "Parapluie de Melon",
             "introduce": "<size=36><color=black>\"Donnez-moi un melon ; je vous rembourserai avec gentillesse.\" Umbrella Rind a toujours admiré ce dicton de la poésie ancienne. Les plantes n’ont pas besoin de le soudoyer pour obtenir de l’aide : quoi qu’elles donnent, il le rend. Enfin, sauf les ballons de basket. C'est un fan total de basket-ball.</color>",
-            "info": "<size=36>Dévie les ballons de basket et renvoie un melon catapulté.\n\n<color=#3D1400>Robustesse : </color><color=red>2000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut renvoyer les projectiles de zombies, y compris les explosions, mais perd 200 points de vie à chaque fois. Chaque réflexion stocke une énergie égale aux dégâts du projectile, la libérant sur les zombies pour des dégâts supplémentaires lorsque le recul se produit ; à chaque recul, il perd également de l'endurance. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Feuille-Parapluie + Cata-melon</color>",
+            "info": "<size=36>Dévie les ballons de basket et renvoie un melon catapulté.\n\n<color=#3D1400>Robustesse : </color><color=red>2000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut renvoyer les projectiles de zombies, y compris les explosions, mais perd 200 points de vie à chaque fois. Chaque réflexion stocke une énergie égale aux dégâts du projectile, la libérant sur les zombies pour des dégâts supplémentaires lorsque le recul se produit ; à chaque recul, il perd également de l'endurance. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ombrelle + Lance-pastèque</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1132,
             "name": "Canon à Melon",
             "introduce": "<size=36><color=black>Melon Cannon est un fervent défenseur de la doctrine de la \" puissance de feu écrasante \" : \" Si un seul coup ne suffit pas, essayez-en deux, trois ou même quatre ! \" Cette approche en a fait une puissance sur le champ de bataille et un succès lors des fêtes d'été.</color>",
-            "info": "<size=36>Utilisez manuellement pour lancer un barrage de melons depuis le haut.\n\n<color=black>Dégâts : </color><color=#8B0000>200 / Melon. Jusqu'à 40 melons dans une zone 3x3 sans chute. Frappe aléatoirement dans une grille 5x3.</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Cata-melon</color>",
+            "info": "<size=36>Utilisez manuellement pour lancer un barrage de melons depuis le haut.\n\n<color=black>Dégâts : </color><color=#8B0000>200 / Melon. Jusqu'à 40 melons dans une zone 3x3 sans chute. Frappe aléatoirement dans une grille 5x3.</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Lance-pastèque</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1133,
             "name": "Pot de Feuille",
             "introduce": "<size=36><color=black>D'autres Pot de Fleurs sont intrigués par le feuillage dense d'Umbrella Pot, mais Umbrella Pot dit simplement : \"Je viens de lire le livre <i>Le Guide du Pot pour les soins capillaires</i>. \"</couleur>",
-            "info": "<size=36>Mise en valeur les plantes de type parapluie.\n\n<color=black>Ombrella Husk :</color> <color=#8B0000>+2 secondes d'immobilisation, +50 % de distance de recul</color>\n<color=black>Écorce de parapluie :</color> <color=#8B0000>Double les dégâts des projectiles réfléchis</color>\n<color=black>Girofle de parapluie, Parapluie argenté/doré, Parapluie de Diamant et Parapluie d'Émeraude : </color><color=#8B0000>Double distance de recul</color>\n<color=black>Umbrella Kale :</color> <color=#8B0000>Peut attaquer les zombies sur les voies adjacentes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Feuille-Parapluie</color>",
+            "info": "<size=36>Mise en valeur les plantes de type parapluie.\n\n<color=black>Ombrella Husk :</color> <color=#8B0000>+2 secondes d'immobilisation, +50 % de distance de recul</color>\n<color=black>Écorce de parapluie :</color> <color=#8B0000>Double les dégâts des projectiles réfléchis</color>\n<color=black>Girofle de parapluie, Parapluie argenté/doré, Parapluie de Diamant et Parapluie d'Émeraude : </color><color=#8B0000>Double distance de recul</color>\n<color=black>Umbrella Kale :</color> <color=#8B0000>Peut attaquer les zombies sur les voies adjacentes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Ombrelle</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1134,
             "name": "Chou Argenté",
             "introduce": "<size=36><color=black>En plus d'un extérieur argenté brillant, Silver Cabbage a également un cœur argenté. Silver Cabbage rêve de devenir enseignant et a déjà un slogan en tête : \"Instructeur Silver Cabbage, à votre service.\"</color>",
-            "info": "<size=36>Lance des choux argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Cata-chou</color>",
+            "info": "<size=36>Lance des choux argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Lance-chou</color>",
             "cost": "<size=36>"
         },
         {
@@ -1439,7 +1439,7 @@
             "seedType": 1138,
             "name": "Grain Argenté",
             "introduce": "<size=36><color=black>\"Pourquoi lancer des pièces d'argent sur les zombies ? Pourquoi, pourquoi ? Même si les zombies ne sont que des données de jeu, nous devons quand même leur montrer un dernier respect.\" Silver Kernel était autrefois huissier dans un théâtre, mais après avoir découvert son talent pour donner des conférences, il est entré dans le monde de la parole en public, apportant avec lui son beurre et ses grains de maïs.</color>",
-            "info": "<size=36>Lance des noyaux d'argent et des sacs d'argent pour attaquer les zombies, avec une chance de gagner des pièces.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer un sac d'argent en argent, infligeant 60 dégâts, immobilisant le zombie pendant 4 secondes et laissant tomber 25 pièces.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-graine + Souci</color>",
+            "info": "<size=36>Lance des noyaux d'argent et des sacs d'argent pour attaquer les zombies, avec une chance de gagner des pièces.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer un sac d'argent en argent, infligeant 60 dégâts, immobilisant le zombie pendant 4 secondes et laissant tomber 25 pièces.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-maïs + Souci</color>",
             "cost": "<size=36>"
         },
         {
@@ -1460,7 +1460,7 @@
             "seedType": 1141,
             "name": "Melon Argenté",
             "introduce": "<size=36><color=black>Silver Melon se considère parfois comme le melon le plus précieux, jusqu'à ce qu'il se souvienne du plus prestigieux Golden Melon. \"Un melon est un melon, qu'il soit en argent, doré ou fait d'ail ou d'or\", rit Silver Melon. \"Nous avons tous notre place dans le sol.\"</color>",
-            "info": "<size=36>Lance des melons argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Cata-melon</color>",
+            "info": "<size=36>Lance des melons argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Lance-pastèque</color>",
             "cost": "<size=36>"
         },
         {
@@ -1474,7 +1474,7 @@
             "seedType": 1143,
             "name": "Parapluie Argenté",
             "introduce": "<size=36><color=black>Silver Umbrella a toujours peur que quelqu'un lui vole son argent lorsqu'il est absent, alors il emporte sa fortune partout avec lui, même dans la bataille contre les zombies. Il pense que cela assure la sécurité de son patrimoine, mais cela ne fait qu’ajouter de nouveaux risques. \"C'est mon argent, tu ne peux pas le prendre !\" il se plaint, même si personne ne l'écoute jamais.</color>",
-            "info": "<size=36>Génère de l'argent supplémentaire pour vous lorsqu'il dévie les ballons de basket.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Lâche 25 pièces à chaque activation, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Feuille-Parapluie + Souci</color>",
+            "info": "<size=36>Génère de l'argent supplémentaire pour vous lorsqu'il dévie les ballons de basket.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Lâche 25 pièces à chaque activation, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ombrelle + Souci</color>",
             "cost": "<size=36>"
         },
         {
@@ -1509,14 +1509,14 @@
             "seedType": 1148,
             "name": "Parapluie de Diamant",
             "introduce": "<size=36><color=black>Parapluie de Diamant est un magnat parmi les plantes, fournissant du travail aux zombies et aux plantes. \"Je maximise leur valeur\", déclare-t-il avec une touche dorée à ses lunettes.</color>",
-            "info": "<size=36>Grands risques, grandes récompenses !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A les caractéristiques de Umbrella Clove et Golden Umbrella.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 500 pièces ; repousse tous les zombies à proximité, transformant ceux qui ont moins de 25 % de PV en statues d'argent d'une valeur de 1 000 pièces, ou en statues d'or d'une valeur de 3 000 pièces si elles ont moins de 10 % de PV. Les zombies sans statues lâchent directement des pièces.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Golden Ail + Feuille-Parapluie (ou Golden Umbrella + Ail)</color>",
+            "info": "<size=36>Grands risques, grandes récompenses !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A les caractéristiques de Umbrella Clove et Golden Umbrella.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 500 pièces ; repousse tous les zombies à proximité, transformant ceux qui ont moins de 25 % de PV en statues d'argent d'une valeur de 1 000 pièces, ou en statues d'or d'une valeur de 3 000 pièces si elles ont moins de 10 % de PV. Les zombies sans statues lâchent directement des pièces.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Golden Ail + Ombrelle (ou Golden Umbrella + Ail)</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1149,
             "name": "Melon Enflammé",
             "introduce": "<size=36><color=black>Les plantes ont toujours l'impression que les pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais la pastèque explique : \" Je n'ai pas mis de pétards dans le melon ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
-            "info": "<size=36>Lobs de melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le débuff Enflammé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-melon + Jalapeño</color>",
+            "info": "<size=36>Lobs de melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le débuff Enflammé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Jalapeño</color>",
             "cost": ""
         },
         {
@@ -1901,8 +1901,8 @@
             "seedType": 1207,
             "name": "Bombrelle",
             "introduce": "<align=justified><size=36><color=black>La Bombrelle a adopté une nouvelle coupe de cheveux, ce qui la rend encore plus rebelle et irritable; une vraie délinquante des quartiers nords. Mais ne vous fiez pas à son apparence : derrière ce look nerveux se cache un cœur tendre… elle aide même le coiffeur à ramasser les feuilles tombées.</color>",
-            "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Robustesse : </color><color=#8B0000>600</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de la Feuille-Parapluie.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Bombrelle soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
-            "cost": "<size=36>\nFormule de Fusion: <color=#8B0000>Cerise Explosive+ Feuille-Parapluie</color>"
+            "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Robustesse : </color><color=#8B0000>600</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de l'Ombrelle.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Bombrelle soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
+            "cost": "<size=36>\nFormule de Fusion: <color=#8B0000>Cerise Explosive+ Ombrelle</color>"
         },
         {
             "seedType": 1312,
@@ -2028,7 +2028,7 @@
             "name": "Noix Beurrée",
             "introduce": "<align=justified><size=36><color=black>\" Ils font peur… comme dans les films catastrophes. \" Noix Beurrée tremble en cachant son visage derrière une motte de beurre. Pourtant, la curiosité de pouvoir observer les zombies d’aussi près la ronge. Et, finalement, elle ne peut s’empêcher de jeter un œil derrière son beurre, étudiant ces créatures figées dans la dernière image de leur vie.</color>",
             "info": "<size=36>Les zombies sont immobilisés à chaque bouchée — c’est ce qu’on appelle un vrai \" réveil beurré \".\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’elle est mordue, immobilise le zombie attaquant avec du beurre pendant 2 s.</color>",
-            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noix + Cata-graine</color>"
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noix + Lance-maïs</color>"
         },
         {
             "seedType": 1278,
@@ -2056,7 +2056,7 @@
             "name": "Noix Melon",
             "introduce": "<align=justified><size=36><color=black>Quand les zombies viennent acheter des pastèques, le marchand Aloe Alba leur vend toujours la plus grosse — la Noix Melon. Après que les zombies se soient cassé les dents dessus, Aloe Alba les envoie bien gentiment à la clinique dentaire la plus proche… qui, bien sûr, lui appartient aussi.</color>",
             "info": "<size=36>Fait pousser un bouclier temporaire et riposte avec une pastèque après avoir subi assez de dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle subit des dégâts, stocke 1,5× les dégâts reçus sous forme d’énergie de Riposte. Si les dégâts dépassent 100/500/1000, elle en stocke respectivement 3×/4,5×/6×.\n<color=black>•</color> La jauge de Riposte est limitée aux PV max.\n<color=black>•</color> Quand la jauge de Riposte dépasse 1000, consomme toute l’énergie accumulée pour lancer une pastèque infligeant la même quantité de dégâts et gagne un bouclier équivalent, qui se dissipe totalement en 5 s.</color>",
-            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noix + Cata-melon</color>"
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noix + Lance-pastèque</color>"
         },
         {
             "seedType": 1231,
@@ -2119,7 +2119,7 @@
             "name": "Melon à Ressort",
             "introduce": "<align=justified><size=36><color=black>\" Retenir son souffle, se concentrer… et frapper avec précision ! \" Le Melon à Ressort est d’une patience exemplaire, toujours à l’affût du moment parfait pour agir. Si vous lui demandez comment il reste aussi calme, il citera toujours son mentor : l’Imitateur.</color>",
             "info": "<size=36>Un grand champignon doté de vrilles spiralées qui lancent des pastèques après une charge.\n\n<color=black>Dégâts : </color><color=#8B0000>120/4 s</color>\n<color=black>Portée : </color><color=#8B0000>4 cases devant</color>\n<color=black>Spécial : </color><color=#8B0000>Se charge lorsqu’il n’attaque pas pendant au moins 4,5 s, augmentant ses dégâts à (1 + temps de charge × 0,5) fois les dégâts de base. Temps de charge maximal : 30 s.</color>",
-            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Cata-melon</color>"
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Lance-pastèque</color>"
         },
         {
             "seedType": 239,
@@ -2166,16 +2166,108 @@
         {
             "seedType": 1293,
             "name": "Noix de mer",
-            "introduce": "<align=justified><size=36><color=black>La Noix de mer adore passer du temps avec les Perles d’eau, les regarder absorber l’eau et grandir, son corps rond miroitant de reflets arc-en-ciel dans leurs yeux innocents. « Le temps est comme un papillon bleu voletant au-dessus du ruisseau~ Une fois envolé, on ne le revoit jamais~ »</color>",
+            "introduce": "<align=justified><size=36><color=black>La Noix de mer adore passer du temps avec les Perles d’eau, les regarder absorber l’eau et grandir, son corps rond miroitant de reflets arc-en-ciel dans leurs yeux innocents. \" Le temps est comme un papillon bleu voletant au-dessus du ruisseau~ Une fois envolé, on ne le revoit jamais~ \"</color>",
             "info": "<size=36>Grossit en absorbant l’eau, puis roule en avant pour écraser les zombies.\n\n<color=black>Résistance : </color><color=#8B0000>2000 (initiale), 6000 (max)</color>\n<color=black>Spécial : </color><color=#8B0000>Grandit après 10 et 20 secondes, augmentant ses PV et sa durabilité de 2000 à chaque fois. Après 30 secondes, se transforme en noix roulante infligeant 600 dégâts toutes les 0,02 s au contact.</color>",
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Noix + Champi-mer</color>"
         },
         {
             "seedType": 1262,
             "name": "Noix Chou",
-            "introduce": "<align=justified><size=36><color=black>Chaque année, les choux trépignent d'impatience à l’idée de germer, mais Noix Chou fait toujours exception. Il s’enroule bien serré avant de sortir. « Les zombies n’ont pas la patience de retirer couche après couche. Fais-moi confiance. »</color>",
+            "introduce": "<align=justified><size=36><color=black>Chaque année, les choux trépignent d'impatience à l’idée de germer, mais Noix Chou fait toujours exception. Il s’enroule bien serré avant de sortir. \" Les zombies n’ont pas la patience de retirer couche après couche. Fais-moi confiance. \"</color>",
             "info": "<size=36>Développe un bouclier temporaire et riposte en lançant un chou après avoir subi une certaine quantité de dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> En subissant des dégâts, emmagasine une Charge de Riposte égale à 1× les dégâts reçus. Si les dégâts dépassent 100/500/1000, stocke respectivement 2/3/4× les dégâts.\n<color=black>•</color> La jauge de Riposte est limitée à ses PV maximum.\n<color=black>•</color> Quand la jauge dépasse 1000, consomme toutes les charges pour lancer un chou infligeant la même quantité de dégâts et obtient un bouclier équivalent qui se dissipe entièrement en 5 s.</color>",
-            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Noix + Cata-chou</color>"
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Noix + Lance-chou</color>"
+        },
+        {
+            "seedType": 1302,
+            "name": "Champi-alevin",
+            "introduce": "<align=justified><size=36><color=black>La reproduction et la prolifération sont des instincts fondamentaux du vivant. Sous certaines conditions, les Champi-alevin se rassemblent, forment des bancs capables de résister aux courants et d’embrouiller les prédateurs. Ces dernières années, une technologie permettant un élevage compact a enfin été mise au point et immédiatement utilisée dans les aquariums.</color></size>",
+            "info": "<size=36>Extrêmement reproducteur ; un élément essentiel de l’écosystème fongique marin.\n\n<color=black>Dégâts : </color><color=#8B0000>20×2 (puis ×3)/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Commence en banc de 2.\n<color=black>•</color> Devient un banc de 3 après 15s.\n<color=black>•</color> Ensuite, nourrit la plante située juste devant en lui donnant un Champi-mer toutes les 15s. En cas d’échec, dépose un sachet de graine de Champi-mer.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-gnon > Champi-mer</color></size>"
+        },
+        {
+            "seedType": 1183,
+            "name": "Champi-étoilé",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-étoilé serait partout chez Dave : sur le sol, sur la table, même dans l’assiette. Dave oublie toujours les rappels du Doc — mais peu importe, Daisy adorait les vitamines gélifiées de toute façon !</color></size>",
+            "info": "<size=36>Un petit champignon qui tire des mini-étoiles.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5/2,25 secondes (équivalent au DPS de 10 Pisto-pois)</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse (esquive les projectiles tirés en ligne droite).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Carambole > Champi-gnon</color></size>"
+        },
+        {
+            "seedType": 1281,
+            "name": "Bout de choux",
+            "introduce": "<align=justified><size=36><color=black>On raconte que les Bout de choux possèdent le pouvoir magique de rétrécir les zombies. Et le secret, prétendent-ils, se trouve dans le rebond. Mais seul Bout de maïs connaît la vraie raison : il y a une minuscule noix de beurre cachée à l’intérieur. Les feuilles de chou sont simplement trop épaisses pour qu’elle s’échappe… d’où la nécessité de rebondir pour rétrécir un zombie.</color></size>",
+            "info": "<size=36>Lance de petits choux capables de transmettre l’effet de rétrécissement.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Les tirs rebondissent deux fois. Si un tir touche un zombie déjà rétréci, il gagne la capacité de rétrécir les prochains zombies touchés.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-Chou > Champi-gnon</color></size>"
+        },
+        {
+            "seedType": 1203,
+            "name": "Bout de maïs",
+            "introduce": "<align=justified><size=36><color=black>\" Résultat de l’expérience : une plantation trop dense nuit à la croissance, et les épis ont clairement rétréci. \" Dave se pencha, sortit une loupe et observa Bout de maïs. \" Plus du tout adapté pour faire des rouleaux de maïs. \" Bout de maïs s’indigna : \" Les résultats de cette expérience prouvent surtout que tout ce qui est concentré… meilleur c'est ! \"</color></size>",
+            "info": "<size=36>Un Bout de maïs, capable de lancer parfois une petite noix de beurre qui rétrécit les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse. A 25% de chances de lancer une petite noix de beurre infligeant 40 dégâts, qui réduit la taille et les PV des zombies non rétrécis à 70% de leur valeur. Sinon, la cible est étourdie pendant 1,5 seconde, tandis que les diablotins sont instantanément éliminés. Priorise les zombies non rétrécis.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-maïs > Champi-gnon</color></size>"
+        },
+        {
+            "seedType": 1301,
+            "name": "Champi-ombrelle",
+            "introduce": "<align=justified><size=36><color=black>Comme les autres Ombrelles, les Champi-ombrelles ont de grandes ambitions et sont prêtes à se sacrifier pour protéger le monde. Même s’ils ne sont pas assez grands pour abriter les autres plantes, ils ont trouvé autre chose à défendre : la terre où ils vivent, qu’ils chérissent profondément.</color></size>",
+            "info": "<size=36>Utilise son petit corps pour repousser désespérément les ennemis.\n\n<color=black>Robustesse : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Repousse le premier zombie au contact, puis disparaît.\n<color=black>•</color> Contre les zombies rétrécis, repousse et ne perd que 50 PV.\n<color=black>•</color> Fait apparaître un nouveau Champi-ombrelle sur sa case toutes les 30 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ombrelle > Champi-gnon</color></size>"
+        },
+        {
+            "seedType": 1280,
+            "name": "Bout de pastèque",
+            "introduce": "<align=justified><size=36><color=black>Les Bout de pastèque adorent partager, même avec les zombies. Elles découpent leurs pastèques en petites tranches et les envoient joyeusement. Étrangement, les zombies sont absolument nuls pour les rattraper…</color></size>",
+            "info": "<size=36>Les tranches de pastèque n'éclate plus, mais sont désormais deux fois plus efficaces contre les zombies rétrécis.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Les tranches ne font plus de dégâts de zone, mais infligent le double des dégâts aux zombies rétrécis.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque > Champi-gnon</color></size>"
+        },
+        {
+            "seedType": 1319,
+            "name": "Pois Brûlant",
+            "introduce": "<align=justified><size=36><color=black>Ce Pisto-pois adore les pois grillés au point d’en grignoter même en plein combat. \" Aïe ! Mes pois ! \" — on dirait qu’il vient encore de recracher son goûter par accident.</color></size>",
+            "info": "<size=36>Tire des Pois Brûlants qui Enflammé les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques appliquent l’altération Enflammé.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Jalapeno</color></size>"
+        },
+        {
+            "seedType": 1326,
+            "name": "Champi-comète",
+            "introduce": "<align=justified><size=36><color=black>Chaque année, il participe au concours de fléchettes du jardin — atteignant sans effort les zombies en plein vol, sous l’eau, hypnotisés, ou même en train d’être hypnotisés. Sa précision est parfaite… mais il ne gagne jamais : les juges n’arrivent tout simplement pas à le repérer.</color></size>",
+            "info": "<size=36>Produit du soleil ; lorsqu’il est mordu, libère une Comète Solaire qui ricochera entre les zombies.\n\n<color=black>Production de soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’il est mordu, il hypnotise l’attaquant et invoque une Comète Solaire.\n<color=black>•</color> La Comète Solaire cherche les zombies (en priorisant les hypnotisés) et rebondit jusqu’à 10 fois. Sur un zombie hypnotisé, elle inflige 200 dégâts et fait tomber 25 soleil. Sur un zombie non hypnotisé, elle inflige 100 dégâts et fait tomber 15 soleil.\n<color=black>•</color> Une fois tous ses rebonds terminés ou lorsqu’elle disparaît, elle fait tomber 25 soleil supplémentaires.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1325,
+            "name": "Champi-sundae",
+            "introduce": "<align=justified><size=36><color=black>Aussi rare qu’un lever de soleil polaire, ce virtuose givré consacre tout son temps à perfectionner l’art du dessert glacé. Sa création phare, le \" Délice Orange Ensoleillé \", est adorée aussi bien par les plantes que par les zombies — même si elle leur aspire la moindre once de chaleur.</color></size>",
+            "info": "<size=36>Fond progressivement, libérant du froid et de l’énergie solaire par étapes.\n\n<color=black>Production de soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> À chaque production de soleil, fait tomber 15 soleil de tous les zombies gelés.\n<color=black>•</color> Lors des deux premiers cycles, déclenche les effets du Champi-glace infligeant le froid sans congeler. Au troisième cycle, déclenche l’effet complet du Champi-glace, puis disparaît.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-glace</color></size>"
+        },
+        {
+            "seedType": 1324,
+            "name": "Citrouille Ensoleillée",
+            "introduce": "<align=justified><size=36><color=black>Récemment passionnée de camping, la Citrouille Ensoleillée s’exclame : \" Le camping, c’est génial ! Je peux protéger tout le monde et être leur petit soleil ! \" Qu’il pleuve ou qu’il y ait des zombies, ses camarades adorent l’avoir à leurs côtés.</color></size>",
+            "info": "<size=36>Génère du soleil tout en renforçant les plantes.\n\n<color=black>Robustesse : </color><color=#8B0000>4000 + ?</color>\n<color=black>Production de soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Spécial : </color><color=#8B0000>Octroie 50 PV de Bouclier à toutes les plantes de sa case à chaque production de soleil. Le Bouclier n’a aucune limite maximale.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Tournesol > Citrouille</color></size>"
+        },
+        {
+            "seedType": 1333,
+            "name": "Champi-catalyseur",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-catalyseur a bien failli être exclu du Club des Zombinamis. Les zombies qu’il hypnotisait devenaient systématiquement furieux et destructeurs, ce que le club jugeait contraire à ses valeurs pacifiques. Il s’est défendu en une seule phrase : \" J’aide simplement mes amis zombies à évacuer leur frustration envers le Dr Edgar. \"</color></size>",
+            "info": "<size=36>Le catalyseur qui rend les zombies… beaucoup plus explosifs.\n\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il est mordu, transforme le zombie en Zombie Explose-o-tireur Hypnotisé, puis disparaît.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1332,
+            "name": "Cerise Noire",
+            "introduce": "<align=justified><size=36><color=black>\" On ne peut pas organiser une fête dans le jardin sans permis. \" rappelle calmement la Cerise Noire aux zombies non déclarés. \" La première fois, c’est juste un avertissement. S’ils ne partent pas après ça, j’agis. Enfin… certains ne supportent même pas l’avertissement. \"</color></size>",
+            "info": "<size=36>Déclenche d’abord une explosion de Bombe cerise, puis utilise les cendres pour provoquer une déflagration encore plus puissante de Champi-mort.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Déclenche une explosion de Cerise Explosive lors de la fusion, puis explose comme un Champi-mort après 1,5 s.\n<color=black>•</color> L’explosion de Champi-mort inflige 1800 dégâts Crémateur, augmentés de 300 pour chaque zombie pris dans l’explosion initiale de la Bombe cerise.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive + Champi-mort</color></size>"
+        },
+        {
+            "seedType": 1330,
+            "name": "Triple Pisto-pois Explosif",
+            "introduce": "<align=justified><size=36><color=black>\" Délicieuses cerises ! \" \" Cerises toutes fraîches ! \" \" Cerises pas chères ! \" hurlent sans relâche les trois bouches du Triple Pisto-pois Explosif. Pourtant, leur petit commerce ne décolle jamais. Ceux qui ont osé goûter expliquent que ces cerises sont juste <i>trop</i> collantes.</color></size>",
+            "info": "<size=36>Tire des cerises mi-mûres sur trois lignes. Elles adhèrent aux zombies, mûrissent après un court délai, puis explosent.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les projectiles se collent aux cibles et explosent après 6 secondes, avec un rayon d’éclaboussure d’une case. Chaque zombie ne peut porter qu’une seule cerise mi-mûre.\n<color=black>•</color> Tant qu’elle est collée, la cerise absorbe 25 % de tous les dégâts infligés par des projectiles ou explosions de type cerise, et ajoute cette valeur à son explosion finale.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive + Triple Pisto-pois</color></size>"
         }
+
     ]
 }
