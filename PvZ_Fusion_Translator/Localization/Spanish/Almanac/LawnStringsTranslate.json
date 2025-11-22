@@ -6778,7 +6778,7 @@
    "cost": "<size=39>Costo: <color=red>225, 300</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-    "seedType": 1335,
+    "seedType": 1336,
     "name": "Cautivapeño",
    "introduce": "<size=39><color=#3D1400>\"Soy muy amable\", dijo el Cautivapeño mientras se acomodaba el sombrero. \"Puedo ayudar a los zombis a encontrar la fragilidad escondida en su corazón, guiarlos para que dejen atrás las máscaras innecesarias y se conviertan en nuestros sinceros amigos.\" En cuanto a las llamas ardientes, es solo la magia del encanto, y no harán daño a los frágiles amigos zombis.</color></size>",
    "info": "<size=39>Explota con un encanto ardiente, causando cambios de lado en zombis.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800 (área lineal)\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo\n<color=#3D1400>Especial:</color> <color=red>\n- Hipnotiza todos los zombis con menos de 900 PS en su fila.\n- Hace 1800 de daño a todos los otros zombis en dicha fila.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Jalapeño</color></size>",
