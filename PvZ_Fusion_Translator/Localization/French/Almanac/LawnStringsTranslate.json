@@ -2267,7 +2267,69 @@
             "introduce": "<align=justified><size=36><color=black>\" Délicieuses cerises ! \" \" Cerises toutes fraîches ! \" \" Cerises pas chères ! \" hurlent sans relâche les trois bouches du Triple Pisto-pois Explosif. Pourtant, leur petit commerce ne décolle jamais. Ceux qui ont osé goûter expliquent que ces cerises sont juste <i>trop</i> collantes.</color></size>",
             "info": "<size=36>Tire des cerises mi-mûres sur trois lignes. Elles adhèrent aux zombies, mûrissent après un court délai, puis explosent.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les projectiles se collent aux cibles et explosent après 6 secondes, avec un rayon d’éclaboussure d’une case. Chaque zombie ne peut porter qu’une seule cerise mi-mûre.\n<color=black>•</color> Tant qu’elle est collée, la cerise absorbe 25 % de tous les dégâts infligés par des projectiles ou explosions de type cerise, et ajoute cette valeur à son explosion finale.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive + Triple Pisto-pois</color></size>"
+        },
+        {
+            "seedType": 1291,
+            "name": "Champi-requin",
+            "introduce": "<align=justified><size=36><color=black>\" Je viens de l’immensité de l’océan \", se vante le Champi-requin. \" Avec cette imitation de requin, je peux effrayer n’importe quel prédateur. Une évolution rendue possible uniquement dans les profondeurs marines. \" Il adore raconter ses histoires passées quand il était un Champi-mer, mais ne révèle jamais pourquoi il a quitté la mer : son déguisement attire souvent de vrais requins.</color></size>",
+            "info": "<size=36>Un Champi-fumée cannibale qui se « nourrit » des Pouf-des-Mers, empruntant la menace du Champi-kraken pour repousser les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Utiliser un sachet de graine de Pouf-des-Mers sur lui étend sa portée à toute la ligne pendant 10 s.\n<color=black>•</color> Repousse les zombies qui ont été repoussés par le Champi-kraken au cours des 3 dernières secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée > Champi-mer</color></size>"
+        },
+        {
+            "seedType": 1305,
+            "name": "Champi-méduse",
+            "introduce": "<align=justified><size=36><color=black>\" Suis-je une méduse ? Ou un champignon ? Si tu te trompes… tu travailleras pour moi. \" Le Champi-méduse adore jouer à ce petit jeu avec les zombies sans cervelle — et il n’a jamais perdu. Le plus proche de la bonne réponse fut le professeur Cherryz, qui déclara : \" Je sais que les cuboméduses ne sont pas de vraies méduses… Serais-tu l’une d’elles ? \"</color></size>",
+            "info": "<size=36>Invoque des Zombie Bouée hypnotisés après avoir consommé un Champi-mer.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Après avoir consommé un Champi-mer, invoque un Zombie Bouée hypnotisé qui combat pour vous.\n<color=black>•</color> Lorsqu’il est mordu, hypnotise son attaquant, puis disparaît.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno > Champi-mer</color></size>"
+        },
+        {
+            "seedType": 1205,
+            "name": "Citrouille-hypno",
+            "introduce": "<align=justified><size=36><color=black>Beaucoup de plantes se demandaient comment la Citrouille-hypno n’avait réussi à maîtriser qu’un seul zombie. \" Je suis quelqu’un de fidèle, alors il me faut forcément un zombie fidèle \", répondit-elle en se grattant la tête.</color></size>",
+            "info": "<size=36>La Citrouille-hypno permet à un zombie hypnotisé de rester à vos côtés.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A 4 % de chances d’hypnotiser les zombies qui la mangent. Contraint jusqu’à 1 zombie hypnotisé à rester sur sa case, et utilise ce zombie comme bouclier prioritaire lorsqu’elle est attaquée.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno > Citrouille</color></size>"
+        },
+        {
+            "seedType": 1230,
+            "name": "Ail-hypno",
+            "introduce": "<align=justified><size=36><color=black>L’Ail-hypno ne s’intègre pas vraiment au reste de la famille des ails — il est bien trop populaire pour ça. Aimé et envié par ses semblables, il n’y prête aucune attention. Tout ce qu’il veut, c’est rabattre son petit chapeau sur ses yeux et profiter d’une sieste paisible dès qu’il le peut.</color></size>",
+            "info": "<size=36>Un Ail coiffé d’un petit champignon hypnotique.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Les zombies hypnotisés qui le touchent changent immédiatement de ligne.\n<color=black>•</color> Lorsqu’il est mordu, hypnotise son attaquant, le force à changer de ligne, puis redevient un Ail normal.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ail + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1286,
+            "name": "Pastèque-hypno",
+            "introduce": "<align=justified><size=36><color=black>La Pastèque-hypno adore se faire des amis, peindre et mixer des boissons. Elle est la star d’un petit bar, et son jus de pastèque givré version hypno dépasse même les cocktails classiques en popularité. Certains de ses fans les plus excentriques se sont même déguisés en zombies juste pour pouvoir y goûter.</color></size>",
+            "info": "<size=36>Projette des pastèques hypnotiques capables de retourner des hordes de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les impacts directs comme les éclaboussures ont 25 % de chances d’hypnotiser les zombies ayant moins de 50 % de leurs PV max.\n<color=black>•</color> Lorsqu’elle est mordue, hypnotise son attaquant, puis redevient une simple Lance-pastèque.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1294,
+            "name": "Champi-ermite",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-ermite dérive tel un récif dissimulé : timide, immobile, mais dangereux pour les imprudents. Lorsque l’eau autour de lui s’agite, il s’éveille et se défend avec férocité, puis se replonge sous les vagues comme si de rien n’était.</color></size>",
+            "info": "<size=36>Trop timide pour attaquer tant qu’il n’a pas vu un Champi-mer plonger.\n\n<color=black>Dégâts : </color><color=#8B0000>20/0,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Se cache par défaut. Utiliser un sachet de graine de Pouf-des-Mers sur lui le pousse à attaquer pendant 10 secondes, après quoi il se recroqueville de nouveau.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux > Champi-mer</color></size>"
+        },
+        {
+            "seedType": 1273,
+            "name": "Champi-camouflé",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-camouflé prend soin de ses amis. Même s’il pourrait s’envoler loin du danger, disparaître au-dessus des nuages et échapper aux zombies, il ne peut tout simplement pas abandonner ses racines. Pour les protéger, il les couvre de ses feuilles et supplie les zombies de ne pas leur faire de mal. Et, pour une raison inconnue… les zombies l’écoutent.\n\n— Écrit par Ultra Badlander</color></size>",
+            "info": "<size=36>Flotte au-dessus du sol et fournit un camouflage aux Champi-peureux proches qui se cachent des zombies.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante flottante.\n<color=black>•</color> Les zombies n’attaquent pas les plantes de type Champi-peureux cachées dans une zone de 3×3 autour du Champi-camouflé.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux + Troufle</color></size>"
+        },
+        {
+            "seedType": 1201,
+            "name": "Champi-étoilé",
+            "introduce": "<align=justified><size=36><color=black>\" Vous là-bas au loin, qui que vous soyez… sauf les gens du cirque… n’approchez pas ! \" bredouillait le Champi-étoilé, tremblant. \" Je… je suis très puissant ! \" Il continuait à tirer pour faire peur aux malintentionnés, sans se rendre compte que ses projectiles ne partaient même pas droit devant lui.</color></size>",
+            "info": "<size=36>Le Champi-étoilé tire des étoiles plus vite et dans cinq directions, mais prend peur plus facilement.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5/0,75s</color>\n<color=black>Spécial : </color><color=#8B0000>Attaque comme le Fruit étoilé, mais devient apeuré dès qu’un zombie entre dans sa portée.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Carambole + Champi-peureux</color></size>"
+        },
+        {
+            "seedType": 1200,
+            "name": "Citrouille Courageuse",
+            "introduce": "<align=justified><size=36><color=black>\" Fais-moi confiance, ici dedans c’est très sûr. \" murmure la Citrouille Courageuse pour apaiser le Champi-peureux, tandis que le vieux phonographe intégré et les livres de contes de fées l’aident à oublier la horde de zombies dehors.</color></size>",
+            "info": "<size=36>Une citrouille aux couleurs du Champi-peureux. Les plantes peureuses à l’intérieur ne seront plus effrayées.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>Les plantes de type Champi-peureux placées dans la citrouille ne prendront plus peur (Champi-furieux et Champi Sulfat-furieux ne s’autodétruiront plus).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux > Citrouille</color></size>"
         }
-
     ]
 }
