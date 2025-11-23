@@ -4855,7 +4855,7 @@
       "seedType": 1061,
       "name": "Hierbantorcha",
       "introduce": "<size=39><color=#3D1400>\"¡Soy Hierbantorcha, el apasionado chef de barbacoa de los zombis! Prende ese pequeño guisante, y les daré una fiesta de barbacoa inolvidable. Te aseguro que soy un profesional: ¡será crujiente por fuera y tierno por dentro!\"</color></size>",
-      "info": "<size=39>Hierbantorcha puede encender pequeños guisantes y perforar vehículos.\n\n<color=#3D1400>Daño: </color><color=red>40 cada 1s\n<color=#3D1400>Especial: </color><color=red>Encendiende pequeños guisantes para aumentar su daño y añadir daño por salpicadura. También puede hacerle daño ligeramente a Zombis Globo, y generar una Pinchohierba Caliente al incendiar 100 guisantes.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Pinchohierba + Plantorcha</color></size>",
+      "info": "<size=39>Hierbantorcha puede encender pequeños guisantes y perforar vehículos.\n\n<color=#3D1400>Daño: </color><color=red>40 cada 1s\n<color=#3D1400>Especial: </color><color=red>Enciende guisantes pequeños para aumentar su daño y añadir daño por salpicadura. También puede hacerle daño ligeramente a Zombis Globo, y generar una Pinchohierba Caliente al incendiar 100 guisantes.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Pinchohierba + Plantorcha</color></size>",
       "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
