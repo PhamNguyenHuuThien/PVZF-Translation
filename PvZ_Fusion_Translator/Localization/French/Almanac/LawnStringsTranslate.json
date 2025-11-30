@@ -2165,7 +2165,7 @@
         },
         {
             "seedType": 1293,
-            "name": "Noix de mer",
+            "name": "Noix de Mer",
             "introduce": "<align=justified><size=36><color=black>La Noix de mer adore passer du temps avec les Perles d’eau, les regarder absorber l’eau et grandir, son corps rond miroitant de reflets arc-en-ciel dans leurs yeux innocents. \" Le temps est comme un papillon bleu voletant au-dessus du ruisseau~ Une fois envolé, on ne le revoit jamais~ \"</color>",
             "info": "<size=36>Grossit en absorbant l’eau, puis roule en avant pour écraser les zombies.\n\n<color=black>Résistance : </color><color=#8B0000>2000 (initiale), 6000 (max)</color>\n<color=black>Spécial : </color><color=#8B0000>Grandit après 10 et 20 secondes, augmentant ses PV et sa durabilité de 2000 à chaque fois. Après 30 secondes, se transforme en noix roulante infligeant 600 dégâts toutes les 0,02 s au contact.</color>",
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Noix + Champi-mer</color>"
@@ -2193,14 +2193,14 @@
         },
         {
             "seedType": 1281,
-            "name": "Bout de choux",
+            "name": "Bout de Choux",
             "introduce": "<align=justified><size=36><color=black>On raconte que les Bout de choux possèdent le pouvoir magique de rétrécir les zombies. Et le secret, prétendent-ils, se trouve dans le rebond. Mais seul Bout de maïs connaît la vraie raison : il y a une minuscule noix de beurre cachée à l’intérieur. Les feuilles de chou sont simplement trop épaisses pour qu’elle s’échappe… d’où la nécessité de rebondir pour rétrécir un zombie.</color></size>",
             "info": "<size=36>Lance de petits choux capables de transmettre l’effet de rétrécissement.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Les tirs rebondissent deux fois. Si un tir touche un zombie déjà rétréci, il gagne la capacité de rétrécir les prochains zombies touchés.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-Chou > Champi-gnon</color></size>"
         },
         {
             "seedType": 1203,
-            "name": "Bout de maïs",
+            "name": "Bout de Maïs",
             "introduce": "<align=justified><size=36><color=black>\" Résultat de l’expérience : une plantation trop dense nuit à la croissance, et les épis ont clairement rétréci. \" Dave se pencha, sortit une loupe et observa Bout de maïs. \" Plus du tout adapté pour faire des rouleaux de maïs. \" Bout de maïs s’indigna : \" Les résultats de cette expérience prouvent surtout que tout ce qui est concentré… meilleur c'est ! \"</color></size>",
             "info": "<size=36>Un Bout de maïs, capable de lancer parfois une petite noix de beurre qui rétrécit les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse. A 25% de chances de lancer une petite noix de beurre infligeant 40 dégâts, qui réduit la taille et les PV des zombies non rétrécis à 70% de leur valeur. Sinon, la cible est étourdie pendant 1,5 seconde, tandis que les diablotins sont instantanément éliminés. Priorise les zombies non rétrécis.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-maïs > Champi-gnon</color></size>"
@@ -2214,7 +2214,7 @@
         },
         {
             "seedType": 1280,
-            "name": "Bout de pastèque",
+            "name": "Bout de Pastèque",
             "introduce": "<align=justified><size=36><color=black>Les Bout de pastèque adorent partager, même avec les zombies. Elles découpent leurs pastèques en petites tranches et les envoient joyeusement. Étrangement, les zombies sont absolument nuls pour les rattraper…</color></size>",
             "info": "<size=36>Les tranches de pastèque n'éclate plus, mais sont désormais deux fois plus efficaces contre les zombies rétrécis.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Les tranches ne font plus de dégâts de zone, mais infligent le double des dégâts aux zombies rétrécis.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque > Champi-gnon</color></size>"
@@ -2403,7 +2403,7 @@
         },
         {
             "seedType": 1182,
-            "name": "Torche de glace",
+            "name": "Torche de Glace",
             "introduce": "<align=justified><size=36><color=black>\" Une entrée, une sortie. C’est la règle. \" La Torche de Glace était fière de sa logique parfaitement structurée. \" C’est pour ça que je neutralise les flammes de la Torche avec un givre pur et inflexible. \" Mais lorsqu’on les met ensemble… tout se complique. Le feu et la glace, le chaud et le froid — parfois ils s’équilibrent, parfois ils s’affrontent, et parfois… la physique abandonne.</color></size>",
             "info": "<size=36>Transforme les pois normaux en pois de glace ou pois polaires, et les orbes d’eau en blocs de glace.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Transforme les pois normaux qui la traversent en pois de glace, et les pois de glace en pois polaires infligeant ×2 dégâts et ×2 points Cryo.\n<color=black>•</color> Transforme les orbes d’eau en blocs de glace.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Torche + Champi-glace</color></size>"
@@ -2466,8 +2466,8 @@
         },
         {
             "seedType": 1277,
-            "name": "Étoile de la mort",
-            "introduce": "<align=justified><size=36><color=black>\" Je pourrais détruire presque toute la planète si j’en avais envie \", fanfaronne l’Étoile de la mort, \" et tout le monde accuserait la plus grosse étoile du ciel… \"</color></size>",
+            "name": "Étoile de la Mort",
+            "introduce": "<align=justified><size=36><color=black>\" Je pourrais détruire presque toute la planète si j’en avais envie \", fanfaronne l’Étoile de la Mort, \" et tout le monde accuserait la plus grosse étoile du ciel… \"</color></size>",
             "info": "<size=36>Se transforme en Météore maudit et s’écrase au sol.\n\n<color=black>Spécial : </color><color=#8B0000>Disparaît après 3 s et invoque un Météore Doom infligeant 1800 dégâts de zone à l’impact, puis se scinde en 180 étoiles-spores infligeant chacune 20 dégâts.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Carambole + Champi-mort</color></size>"
         },
@@ -2536,7 +2536,7 @@
         },
         {
             "seedType": 1334,
-            "name": "Coquille de mer",
+            "name": "Coquille de Mer",
             "introduce": "<align=justified><size=36><color=black>Autrefois vedette du Festival Mondial de la Vie Marine et fierté de la colonie des Champi-mer, la Coquille de mer ne parvient plus à flotter. Tout a changé après cette terrible fête d’Halloween. Il avait enfilé une tête de citrouille pour un numéro parfait… et découvrit ensuite qu’il ne pouvait plus l’enlever.</color></size>",
             "info": "<size=36>Se régénère grâce aux sachets de graines de Champi-mer.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante terrestre. Peut être nourrie avec un sachet de graine de Champi-mer pour récupérer 1/3 de ses PV max.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mer > Citrouille</color></size>"
@@ -2550,14 +2550,14 @@
         },
         {
             "seedType": 1185,
-            "name": "Ombrelle de lumière",
+            "name": "Ombrelle de Lumière",
             "introduce": "<align=justified><size=36><color=black>Au-delà du brouillard, elle observe — prophétesse épargnée par la cécité des mortels. Lorsque Dieu fit naître la lumière, elle s’avança. \" Par décret du Très-Haut, me voici dans la terre de Seth. Le brasier menace, mais par cette lumière sacrée, je protégerai les égarés de ses flammes. \"</color></size>",
             "info": "<size=36>Peut dissiper le brouillard et bloquer les projectiles.\n\n<color=black>Limite d’Énergie : </color><color=#8B0000>2000</color>\n<color=black>Portée du bouclier & de la lumière : </color><color=#8B0000>3×3</color>\n<color=black>Spécial : <color=#99582a>Système Lumos</color></color><color=#8B0000>\n<color=black>•</color> Fournit 1 niveau de Lumos et dissipe le brouillard comme une Planterne.\n<color=black>•</color> Consomme de l’Énergie pour bloquer les projectiles. Chaque blocage consomme de l’Énergie proportionnellement aux dégâts du projectile (hors ballons de basket). Les tridents ne peuvent pas être bloqués.\n<color=black>•</color> Restaure (25 × niveau de Lumos) d’Énergie par seconde, mais se met au repos pendant 5 secondes lorsqu’elle est entièrement épuisée.\n<color=black>•</color> L’Énergie est consommée en premier pour absorber les dégâts, à raison de 5 Énergie = 1 Robustesse.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Planterne + Ombrelle</color></size>"
         },
         {
             "seedType": 1186,
-            "name": "Ombrelle à épine",
+            "name": "Ombrelle à Épine",
             "introduce": "<align=justified><size=36><color=black>L'Ombrelle à Épine vient de sortir son dernier morceau, \" Cactus Piquant \". Le regard plein d’espoir, elle confie : \" Peut-être qu’un jour, on m’aimera autant que les roses. Je sais que ça ne se fera pas en un jour… mais je continuerai de donner le meilleur de moi. \"</color></size>",
             "info": "<size=36>Peut abattre les zombies volants et repousser les aéronefs.</size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus + Ombrelle</color></size>"  
