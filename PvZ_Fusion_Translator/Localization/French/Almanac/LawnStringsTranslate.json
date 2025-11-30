@@ -2589,6 +2589,20 @@
             "introduce": "<align=justified><size=36><color=black>La Pastèque Magnétique travaillait autrefois à l’Institut de Recherche en Électromagnétisme. Elle y avait même proposé un modèle théorique affirmant que les pôles magnétiques seraient répartis comme des pépins incrustés dans une pastèque. Malheureusement, personne ne prit sa théorie au sérieux… car elle n’était que le fournisseur officiel de pastèques.</color>",
             "info": "<size=36>Pierre angulaire des autres fusions de Pastèques Métalliques, elle inflige aussi de lourds dégâts aux zombies casqués.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige 2× les dégâts aux zombies portant une Armure de Type 1.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Champi-aimant</color>"
+        },
+        {
+            "seedType": 35,
+            "name": "Four Polaire",
+            "introduce": "<align=justified><size=36><color=black>Le Four Polaire a remporté la sixième édition du prix \" Assistant-Plante \" des Plaines Enneigées. Les autres plantes s’accordent à dire que c’est amplement mérité — à force de réchauffer tout le monde, il n’a même plus le temps de déneiger sa propre tête.</color>",
+            "info": "<size=36>Un chauffage flottant en bois de sapin qui aide les plantes voisines à résister au froid.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante flottante. Protège les plantes de sa case des Boules de Neige et des Blizzards.\n<color=black>•</color> Inflige 200 dégâts toutes les 3s aux blocs de glace dans sa zone de protection.\n<color=black>•</color> Absorbe la plante de base enneigée sous lui pour évoluer temporairement en Four Polaire Surchauffé, augmentant sa zone de protection à 3×3 pendant (1.2 × Coût de la plante) secondes avant de revenir à la normale. Sinon, il dure 180s par défaut.\n\n<color=#cceaed>Mécanique du Terrain Neigeux</color>:\n<color=black>•</color> Les blocs de glace ont 2000 PV et bloquent les projectiles en ligne droite ainsi que les zombies.\n<color=black>•</color> S’ils sont détruits par une plante, ils libèrent la plante correspondante.\n<color=black>•</color> S’ils sont détruits par un zombie, ils libèrent une version zombifié; s’il n’en existe pas, une Fourrure de neige apparaît.\n<color=black>•</color> Un blizzard commence au début de chaque vague, gelant toutes les plantes non protégées en blocs de glace.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 36,
+            "name": "Épicéa Tireur d'élite",
+            "introduce": "<align=justified><size=36><color=black>L’Épicéa Tireur d’élite vient tout juste d’arriver dans les plaines enneigées. Ses lèvres pincées lui donnent un air sévère, presque intimidant. Mais le Four Polaire n’est pas dupe — il sait que cette expression vient simplement de son ami qui remonte son col pour survivre au froid mordant.</color>",
+            "info": "<size=36>Archer résistant au froid qui tire des aiguilles d’épicéa perforantes.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de Neige et des Blizzards.\n<color=black>•</color> Les projectiles percent une fois (y compris les blocs de glace) et ignorent les armures tenues à la main (Type 2).</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>175</color>\nRecharge : <color=#8B0000>7.5s</color>"
         }
     ]
 }
