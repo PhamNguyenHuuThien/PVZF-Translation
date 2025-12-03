@@ -2715,6 +2715,27 @@
             "introduce": "<align=justified><size=36><color=black>Autrefois fière sentinelle juchée sur les remparts d’Atlantis, la Baliste Atlantéenne se croyait aussi puissante qu’un tsunami. En réalité, tout le monde parlait simplement du grincement atroce que faisaient ses cordes en se rechargeant. Honteuse mais déterminée, elle trouva son salut dans le jus d’aloès : depuis, ses carreaux sont plus fluides, plus meurtriers… et surtout beaucoup plus silencieux.</color>",
             "info": "<size=36>Tire des carreaux marins d’une puissance tsunamique ; les ennemis touchés deviennent plus vulnérables au froid.\n\n<color=black>Dégâts : </color><color=#8B0000>80/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Insensible au gel des boules de neige et des blizzards.\n<color=black>•</color> Tire 4 carreaux en rafale, puis se repose 3s.\n<color=black>•</color> 90% de chances de tirer un Carreau Marin, appliquant Trempé pendant 5s. Un zombie Trempé sera gelé au lieu d’être simplement refroidi lorsqu’il subit une attaque du Système Cryo. L’effet est ensuite dissipé et ne peut pas être réappliqué pendant 10s.\n<color=black>•</color> 10% de chances de tirer un Carreau de Glace, infligeant Froid Intense.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Aloès d'Eau > Baliste Épicéa</color>"
+        },
+        {
+            "seedType": 1188,
+            "name": "Tournesol Doré",
+            "introduce": "<align=justified><size=36><color=black>Garder un trophée ? C’était bon pour la saison dernière. Maintenant, elle est prête à briller — et pas seulement sous le soleil. \" J’adore bronzer, oui… mais soyons honnêtes : je suis faite pour le combat ! \"</color>",
+            "info": "<size=36>Produit du Soleil encore... et encore plus vite !\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Génère 50 Soleil toutes les 10 secondes, jusqu’à un maximum de 10 000.\n<color=black>•</color> Le plafond de Soleil du niveau est porté à 50 000.\n<color=black>•</color> Tout excédent est stocké dans les Tournesols Dorés disponibles.\n<color=black>Ultimate : </color><color=#8B0000>Coûte 1 000 pièces ; libère tout le Soleil stocké par l’ensemble des Tournesols Dorés.</color>",
+            "cost": "<size=36>Coût d’amélioration : <color=#8B0000>3000 pièces ; chaque Tournesol Doré déjà présent double le coût.</color>"
+        },
+        {
+            "seedType": 1285,
+            "name": "Noix Dorée",
+            "introduce": "<align=justified><size=36><color=black>Les zombies ne peuvent pas résister à l’envie de croquer dans la Noix Dorée pour voir ce qu’elle cache. Rien de magique : une rumeur circule simplement qu’il s’agirait d’une truffe au chocolat emballée dans du papier doré.</color>",
+            "info": "<size=36>Noix en or massif, d’une robustesse accrue ; peut utiliser son Ultime pour augmenter sa résistance maximale et récupérer toute sa santé.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1000 pièces, Recharge : 5 s ; augmente la Robustesse max de 1000 et restaure la santé jusqu’à son total maximal.</color>",
+            "cost": "<size=36>Coût d’amélioration : <color=#8B0000>1000 pièces, inclut 1 utilisation d’Ultime</color>"
+        },
+        {
+            "seedType": 1252,
+            "name": "Champi-mort Doré",
+            "introduce": "<align=justified><size=36><color=black>\" Ahem, regardez par ici. \" C’est ainsi que le Champi-mort Doré ouvre chaque sommet de la Rue du Mur-de-Noix. Les autres magnats le redoutent — non seulement pour sa richesse, mais aussi pour sa capacité à réduire la leur en poussière d’un seul éclat.</color>",
+            "info": "<size=36>Transforme l’argent en ruine.\n\n<color=black>Spécial : </color><color=#8B0000>N’explose pas automatiquement.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 3000 pièces, Recharge : 30 s ; déclenche un effet de Champi-mort qui ne laisse aucun cratère.</color>",
+            "cost": "<size=36>Coût d’amélioration : <color=#8B0000>6000 pièces</color>"
         }
     ]
 }
