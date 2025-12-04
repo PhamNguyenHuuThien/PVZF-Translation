@@ -3049,7 +3049,7 @@
             "seedType": 1299,
             "name": "Nut Shell",
             "introduce": "<align=justified><size=36><color=black>For the Nut Shell, all that matters is creating a good internal environment for the smaller Nuts to grow. He ignores the outside noise and even zombie bites. The only thing he cares about is other plants crowding his internal space, a space he reserves specifically for the Mini-nuts.</color>",
-            "info": "Continuously grows helpful Mini-nuts inside.<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut Shell can produce at most 3 Wall-nut seed packets.</color>",
+            "info": "<size=36>Continuously grows helpful Mini-nuts inside.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut Shell can produce at most 3 Wall-nut seed packets.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Pumpkin</color>"
         },
         {
@@ -3181,7 +3181,7 @@
         {
             "seedType": 1318,
             "name": "Pumpkin Pod",
-            "introduce": "<align=justified><size=36><color=black>Heard that some zombies brought a \"tank\"? Then show them the living machine-gun fortress — Pumpkin Pod! As for ammo… well, the designer forgot to install them! But no problem! Let the coordinating peas \"share\" some ammos!</color>",
+            "introduce": "<align=justified><size=36><color=black>Heard that some zombies brought a \"tank\"? Then show them the living machine-gun fortress — Pumpkin Pod! As for ammo… well, the designer forgot to include any! But no problem! Let the peashooters inside \"share\" some ammo!</color>",
             "info": "<size=36>Copies the behavior of the Pea-shooting plant inside it.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>?</color>\n<color=black>Special: </color><color=#8B0000>If a Pea-family plant is inside, it copies the attack of that plant, matching that plant's projectile count, damage, and type and shoots at 50% the attack rate, with a min. attack CD of 3s and a max. of 6s. These shots are considered to be fired by the internal plant.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter > Pumpkin</color>"
         },
@@ -3238,7 +3238,7 @@
             "seedType": 1326,
             "name": "Comet-shroom",
             "introduce": "<align=justified><size=36><color=black>Every year, she joins the garden darting contest - hitting zombies flying, snorkling, hypnotized, or even hypnotized with her sun-shaped darts. Despite her flawless precision, she never wins… the judges can never find her.</color>",
-            "info": "<size=36>Produces Sun; upon bitten, releases a Solar Comet that ricochets among zombies.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When bitten, hypnotizes the attacker and summons a Solar Comet.\n<color=black>•</color> The Solar Comet seeks out zombies (prioritizing hypnotized ones) and bounces between them, up to 10 times. When it hits a hypnotized zombie, it deals 200 damage and drops 25 Sun. When it hits a non-hypnotized zombie, it deals 100 damage and drops 15 Sun.\n<color=black>•</color> After the Comet completes its bounces or disappears, it drops an additional 25 Sun.</color>",
+            "info": "<size=36>Produces Sun; upon being bitten, releases a Solar Comet that ricochets among zombies.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When bitten, hypnotizes the attacker and summons a Solar Comet.\n<color=black>•</color> The Solar Comet seeks out zombies (prioritizing hypnotized ones) and bounces between them, up to 10 times. When it hits a hypnotized zombie, it deals 200 damage and drops 25 Sun. When it hits a non-hypnotized zombie, it deals 100 damage and drops 15 Sun.\n<color=black>•</color> After the Comet completes its bounces or disappears, it drops an additional 25 Sun.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Hypno-shroom</color>"
         },
         {
