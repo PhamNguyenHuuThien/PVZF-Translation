@@ -2736,6 +2736,48 @@
             "introduce": "<align=justified><size=36><color=black>\" Ahem, regardez par ici. \" C’est ainsi que le Champi-mort Doré ouvre chaque sommet de la Rue du Mur-de-Noix. Les autres magnats le redoutent — non seulement pour sa richesse, mais aussi pour sa capacité à réduire la leur en poussière d’un seul éclat.</color>",
             "info": "<size=36>Transforme l’argent en ruine.\n\n<color=black>Spécial : </color><color=#8B0000>N’explose pas automatiquement.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 3000 pièces, Recharge : 30 s ; déclenche un effet de Champi-mort qui ne laisse aucun cratère.</color>",
             "cost": "<size=36>Coût d’amélioration : <color=#8B0000>6000 pièces</color>"
+        },
+        {
+            "seedType": 1306,
+            "name": "Sulfateuse Quarterback",
+            "introduce": "<align=justified><size=36><color=black>\" Faute ! Dehors ! \" La Sulfateuse Quarterback est l’arbitre le plus strict — et le plus colérique — du terrain, toujours prête à rappeler les règles du football. Du début à la fin, sa bouche ne s’arrête jamais, expulsant tous ceux qui \" n’ont rien compris au jeu \".</color>",
+            "info": "<size=36>Tire parfois des projectiles rouges qui détournent les Zombies Quarterback.\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>80×4/2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique. Compte comme une Fusion Avancée.\n<color=black>•</color> Ses projectiles repoussent les zombies et brisent instantanément l’armure de Type 2 (avant réduction des dégâts).\n<color=black>•</color> Chaque 12e tir devient un Pois Quarterback : les zombies Quarterback touchés et teintés de rouge s’enfuient en s’éloignant de votre maison.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Casque de Football > Sulfateuse à Pois</color>"
+        },
+        {
+            "seedType": 1242,
+            "name": "Champi-mort Diable",
+            "introduce": "<align=justified><size=36><color=black>\" Hé, le clown ! \" raillent les zombies. Le Champi-mort Diable se contente de les regarder en silence. Aucun besoin de répondre : son œuvre parlera d’elle-même. Dommage que personne ne soit encore debout pour voir le final.</color>",
+            "info": "<size=36>Champi-mort aux pouvoirs explosifs amplifiés, capable de déclencher des explosions en chaîne.\n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Pour chaque zombie éliminé, crée une explosion de Boîte Surprise infligeant 1800 dégâts à sa position.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Diable à ressort > Mort Dormante</color>"
+        },
+        {
+            "seedType": 1239,
+            "name": "Champi-mort Renforcé",
+            "introduce": "<align=justified><size=36><color=black>Boum ! Une déflagration défiant les lois de la réalité, une fission nucléaire à grande vitesse, pulvérise les zombies, décomposant leurs atomes pour les réarranger sous la forme la plus stable connue des plantes : le fer. \" Pourquoi des seaux en fer ? \" Le Champi-mort Renforcé marque une pause, puis répond : \" C’est ainsi que je suis né. \"</color>",
+            "info": "<size=36>Champi-mort surpuissant transformant les cendres de son explosion en Seaux.\n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque zombie qu’il élimine laisse tomber un Seau.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Mort Dormante</color>"
+        },
+        {
+            "seedType": 1253,
+            "name": "Écraseur Renforcé",
+            "introduce": "<align=justified><size=36><color=black>L’Écraseur de Renforcé s’est blindé d’acier froid : plus dur, plus lourd, et nettement plus percutant. Mais surtout, ne parlez jamais des \" rivets \" sur son visage. Selon lui, ce sont des renforts structurels… pas de l’acné.</color>",
+            "info": "<size=36>Un Écraseur plaqué de métal au poids terrifiant.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>3240 (Écraseur)</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Peut être nourri avec des objets métalliques correspondants pour restaurer 500 de Robustesse. Subit moitié moins de dégâts des explosions de type Cerise.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Écraseur</color>"
+        },
+        {
+            "seedType": 1211,
+            "name": "Maïs Renforcé",
+            "introduce": "<align=justified><size=36><color=black>Dernièrement, le Maïs Renforcé songe sérieusement à acheter de la peinture antirouille : son beurre a toujours un léger goût métallique, ce qui ruine complètement ses recettes pour ses frères. \" Du beurre au goût de rouille… ça ne doit être bon que pour combattre des zombies. \" </color>",
+            "info": "<size=36>Le Maïs Renforcé propulse des grains de maïs ou du beurre de fer, étonnamment efficaces contre les armures de Type 1.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer un beurre de fer infligeant 100 dégâts, étourdissant la cible pendant 4 secondes et retirant instantanément son armure de Type 1.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Maïs Magnétique</color>"
+        },
+        {
+            "seedType": 1315,
+            "name": "Pastèque Renforcée",
+            "introduce": "<align=justified><size=36><color=black>Recouvrir son corps de fer a sauvé la Pastèque Métallique d’une fin prématurée sur un étal de fruits. Mais tout n’est pas réglé pour autant : entre les dépenses en antirouille et les questions sans fin des autres plantes — \" Tes feuilles aussi sont en fer ? On peut s’en servir comme couteaux ? \" — sa vie reste compliquée.</color>",
+            "info": "<size=36>Lance de lourdes pastèques de fer massif, infligeant des dégâts dévastateurs.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>200/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Inflige 2× les dégâts aux zombies portant une Armure de Type 1.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Pastèque Magnétique</color>"
         }
     ]
 }
