@@ -479,7 +479,7 @@
         {
             "seedType": 300,
             "name": "Swordsage Starfruit",
-            "introduce": "<align=justified><size=36><color=black>\"The flowers in the hall intoxicate three thousand guests, and the sword frosts fourteen states.\" \"I won't board the ship when the emperor calls me, and I say I am a fairy in wine.\" Swordsage Starfruit likes to recite poems and practice his drunken sword skills when he is drunk. The plants marveled at his power to defeat the zombies, but he said that he was aiming his flying sword at the bright moon in the sky, but when he put the sword away, it would fall back to the earth. </color>",
+            "introduce": "<align=justified><size=36><color=black>\"The flowers in the hall intoxicate three thousand guests, and the sword frosts fourteen states.\" \"I won't board the ship when the emperor calls me, and I say I am a fairy in wine.\" Swordsage Starfruit likes to recite poems and practice his signature sword skills when he is drunk. The plants marveled at his power to defeat the zombies, but he said that he was aiming his flying sword at the bright moon in the sky, but when he put the sword away, it would fall back to the earth. </color>",
             "info": "<size=36>Swordsage Starfruit sweeps through enemies and summons ten giant swords descending from the sky.\n\n<color=blue>Unsealed form of Swordmaster Starfruit</color>\n<color=#3D1400>Usage Conditions:\n<color=black>•</color> Abyss Challenge (Level 11-30), upgraded from Swordmaster Starfruit after beating Level 10. You can only have 1 Swordsage Starfruit on the lawn.\n<color=black>•</color> Unlockable in Purgatory Cursed Mode</color>\n<color=black>Damage: </color><color=#8B0000>(1800×2+1800×10)/6s</color>\n<color=black>Special: </color><color=#8B0000>When attacking, deals 1800 damage to zombies within a 3×3 area twice, then summons 10 giant swords that seek out enemies across the entire field, each dealing 1800 area damage upon landing.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>750</color>\nRecharge: <color=#8B0000>30s</color>"
         },
@@ -1558,7 +1558,7 @@
             "seedType": 1086,
             "name": "Tide-shroom",
             "introduce": "<align=justified><size=36><color=black>Tide-shroom has aspirations as grand as a dragon's. Mastering the ancient art of \"Feng Shui\" from the East, he is well aware of both lucky and unlucky positions. Understanding that wind and water complement each other, he hopes to keep misfortune at bay, whether soaring in the sky or gliding through the water.</color></size>",
-            "info": "<size=36>Dispels fog and blows back zombies in the water.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Dispels fog and push the zombies in his lane to the rightmost column.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color></size>",
+            "info": "<size=36>Dispels fog and blows back zombies in the water.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Dispels fog and pushes the zombies in his lane to the rightmost column.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Blover > Sea-shroom</color>"
         },
         {
@@ -1929,7 +1929,7 @@
             "seedType": 1139,
             "name": "Golden Kernel",
             "introduce": "<align=justified><size=36><color=black>Golden Kernel ponders words like \"golden phrases\" and \"precious gems.\" But maybe true treasure lies in imported butter and gold missiles... or \"Just Gold.\"</color>",
-            "info": "<size=36>Throws golden kernels and butter at zombies, with a chance to generate Coins. Its ultimate fires golden poppin' popcorns at zombies.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>25% chance to throw a money bag, dealing 80 damage, stunning zombies for 4 Seconds, and dropping 100 Coins.</color>\n<color=black><color=black>Ultimate: </color><color=#8B0000>Costs 3500 Coins, Cooldown: 2s; launches four golden corn bombs, each dealing 450 damage in a 3×3 area without damage falloff.</color>",
+            "info": "<size=36>Throws golden kernels and butter at zombies, with a chance to generate Coins. Its ultimate fires golden poppin' popcorns at zombies.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>25% chance to throw a money bag, dealing 80 damage, stunning zombies for 4 Seconds, and dropping 100 Coins.</color>\n<color=black><color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 2s; launches four golden corn bombs, each dealing 450 damage in a 3×3 area without damage falloff.</color>",
             "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>2000 Coins</color>"
         },
         {
@@ -2125,7 +2125,7 @@
             "seedType": 1167,
             "name": "Blazer Snipea",
             "introduce": "<align=justified><size=36><color=black>Other snipers envy Blazer Snipea for being a reliable assistant to the commander, even though she is still a little one. \"Talent is one thing, but... I have to thank the commander for cultivating me!~\"Blazer Snipea says, but in reality, it's because Blizzard Commando is naturally cold and always keeps Blazer Snipea as a warm-up buddy.</color>",
-            "info": "<size=36>Can lock onto zombies anywhere on the map!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict the Enflamed debuff and deal 100 damage to nearby zombies.</color>",
+            "info": "<size=36>Marks and blows up zombies anywhere on the map!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict the Enflamed debuff and deal 100 damage to nearby zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Jalapeno</color>"
         },
         {
@@ -3317,6 +3317,20 @@
             "introduce": "<align=justified><size=36><color=black>Unlike other Spikeweeds, Butterweed is exceptionally gentle. It has no sharp spikes, dislikes violent sports, and just wants zombies to try a slice of its homemade butter cake. Unfortunately, with his poor eyesight, he always offers the butter to the wrong spot.</color>",
             "info": "<size=36>Sticky, buttery slow trap that doesn't deal damage.\n\n<color=black>Damage: </color><color=#8B0000>0</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Slows down all non-flying zombies that walk over it and Butters them for 1s every 3s.\n<color=black>•</color> No longer pops tires and is ignored by vehicles.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed + Kernel-pult</color>"
+        },
+        {
+            "seedType": 1338,
+            "name": "Aurora Plantern",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>0</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Applies Chill to nearby zombies and prolongs their Freeze duration.\n<color=black>•</color> Buffs Lasers from Lumos Cacti that pass through to inflict Chill too.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Plantern</color>"
+        },
+        {
+            "seedType": 1340,
+            "name": "Blacklight Plantern",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>0</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Supplies Doomwoods in a 3×3 area with Ember value.\n<color=black>•</color> Buffs Lasers from Lumos Cacti that pass through to cause small explosions on hit.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom + Plantern</color>"
         },
         {
             "seedType": 350,
