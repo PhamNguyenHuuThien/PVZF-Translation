@@ -675,9 +675,9 @@
         {
             "seedType": 1028,
             "name": "Noix Quarterback",
-            "introduce": "<size=36><color=black>Rugby-nut avait l'air féroce, faisant peur à certaines petites plantes qui ne connaissaient pas la vérité par son apparence. Cependant, les plantes qui comprenaient Rugby-nut savaient que sous son extérieur sérieux se cachait une forte détermination à protéger ses compagnons. Le casque volé a sans aucun doute renforcé sa confiance.</color></size>",
-            "info": "<size=36>Le Noix-rugby est capable d'encaisser une énorme quantité de dégâts.\n\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut être nourri avec des objets métalliques pour restaurer 500 HP.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Tall-nut + Casque Rugby</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>La Noix Quarterback a l’air redoutable, au point d’effrayer les jeunes pousses qui ne connaissent pas la vérité. Pourtant, ceux qui la côtoient savent qu’au-delà de ce sérieux intimidant se cache une détermination inébranlable à protéger ses camarades. Le casque qu’elle a \" emprunté \" n’a fait que renforcer sa confiance.</color></size>",
+            "info": "<size=36>La Noix Quarterback peut encaisser une quantité massive de dégâts.\n\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique. Peut être nourrie d'objets métalliques pour restaurer 500 points de robustesse.\n<color=black>•</color> Plante haute.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Casque de Football > Grande Noix</color>"
         },
         {
             "seedType": 1029,
@@ -1592,9 +1592,9 @@
         {
             "seedType": 1160,
             "name": "Champi-quarterback",
-            "introduce": "<size=36><color=black>'J'ai toujours rêvé d'être un joueur de rugby, et maintenant j'ai enfin ce chapeau de gloire', a déclaré fièrement le quart-arrière de Champi. \"Mais aujourd'hui, j'ai décidé de faire une pause en marge.\" En réalité, il n'est qu'un agent de sécurité du stade, empêchant les supporters trop enthousiastes d'entrer avec ses spores.</color>",
-            "info": "<size=36>Projete des fumées qui pénètrent dans toutes sortes d'armures !\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige des dégâts à l'armure et au zombie dans l'armure en même temps.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-aimant + Seau + Casque Rugby</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\" J’ai toujours rêvé de devenir joueur de football, et aujourd’hui j’ai enfin décroché le casque de la gloire \", déclare fièrement le Champi-quarterback. \" Mais pour l’instant, je prends une petite pause sur la ligne de touche. \" En réalité, il est juste agent de sécurité du stade, utilisant ses spores pour repousser les fans un peu trop enthousiastes.</color>",
+            "info": "<size=36>Projette des fumées qui traversent tous les types d’armure !\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>100/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Considéré comme une Fusion Avancée. Inflige des dégâts simultanément à l’armure et au zombie qu’elle protège.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Casque de Football > Champi-renforcé</color>"
         },
         {
             "seedType": 33,
