@@ -1129,17 +1129,17 @@
         },
         {
             "seedType": 1094,
-            "name": "Carambole Diable",
-            "introduce": "<size=36><color=black>Starjoker portait souvent le fardeau d'être considéré comme un clown de cirque, ce qui le laissait mécontent. \"Je peux paraître comique, mais je suis en fait un super-héros\", a-t-il déclaré. \"J'ai réquisitionné le Jack-in-the-Box du zombie et j'ai enfilé le costume de héros à l'intérieur !\" Peut-être que le Champi-aimant qui l'a aidé dans le braquage n'a jamais mentionné d'où venait la boîte.</color></size>",
-            "info": "<size=36>Tire des étoiles qui explosent au contact.\n\n<color=black>Dégâts : </color><color=#8B0000>40*5/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les étoiles explosent pour infliger de petits dégâts de zone au contact.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Carambole + Champi-aimant) + Jack-in-the-Box (Dans la commande)</color></size>",
-            "cost": ""
+            "name": "Carambole Diabolique",
+            "introduce": "<align=justified><size=36><color=black>La Carambole Diabolique a longtemps porté le fardeau d’être pris pour un simple clown de cirque, ce qui la laissait profondément insatisfaite. \" J’ai peut-être l’air comique, mais je suis en réalité un super-héros \", affirma-t-elle. \" J’ai détourné la boîte surprise des zombies et enfilé le costume de héros caché à l’intérieur ! \" Quant au Champi-magnétique qui l’a aidé dans le cambriolage, il a peut-être simplement oublié de préciser d’où venait réellement la boîte.</color></size>",
+            "info": "<size=36>Tire des étoiles qui explosent au contact.\n\n<color=black>Dégâts : </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Les étoiles explosent au contact, infligeant de faibles dégâts de zone sans perte d’efficacité.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Diable à  ressort > Carambole Mangétique</color>"
         },
         {
             "seedType": 1095,
-            "name": "Carambole Mineure",
-            "introduce": "<size=36><color=black>\"Cela ressemble remarquablement à une pioche\", commenta Starpick, une pointe d'amusement dans son ton. \"Je peux sentir une partie de moi-même nichée dans le sol, et c'est assez agréable, à moins que vous ne soyez dérangé par des insectes comme les mille-pattes.\" Avec un sourire effronté, il a lancé : \"Pourquoi ne pas enlever mon chapeau ? Vous découvrirez que je ressemble encore plus à une pioche que vous !\"</color></size>",
-            "info": "<size=36>La Carambole Mineure se cache sous le sol : les zombies ne l'attaqueront pas.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Ne peut pas être attaqué.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Carambole + Champi-aimant) + Pioche (Dans Commande)</color></size>",
-            "cost": ""
+            "name": "Carambole Mineuse",
+            "introduce": "<align=justified><size=36><color=black>\" Elle ressemble incroyablement à une pioche \", commenta la Carambole Mineuse avec une pointe d’amusement. \" Je sens une partie de moi nichée sous terre, et c’est plutôt agréable… sauf quand on tombe sur des mille-pattes. \" Avec un sourire malicieux, elle lança : \" Et si tu retirais mon chapeau ? Tu verrais que je suis encore plus pioché que tu ne le penses ! \"</color></size>",
+            "info": "<size=36>La Carambole Mineuse se cache sous terre : les zombies ne l’attaquent pas.\n\n<color=black>Dégâts : </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Ne peut pas être attaquée et ne bloque pas les zombies.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pioche > Carambole Magnétique</color>"
         },
         {
             "seedType": 1096,
@@ -1157,17 +1157,17 @@
         },
         {
             "seedType": 1098,
-            "name": "Citrouille Diable",
-            "introduce": "<size=36><color=black>\"Chaque fois que j'émerge, cela signale l'arrivée du clown. Tout le monde se demande ce qu'il y a dans sa boîte, mais le résultat reste un mystère. J'ai eu un aperçu une fois, et ce moment a tout changé pour moi. moi.\"</color></size>",
-            "info": "<size=36>Peut bloquer les explosions causées par les zombies Jack-in-the-Box\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Annule les dégâts d'explosion du Jack-in-the-Box, protégeant la plante à l'intérieur.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Citrouille + Champi-aimant) + Jack-in-the-Box</color></size>",
-            "cost": ""
+            "name": "Citrouille Diabolique",
+            "introduce": "<align=justified><size=36><color=black>\" Chaque fois que j’apparais, cela annonce l’arrivée du clown. Tout le monde se demande ce qui se cache dans son diable à ressort, mais personne ne connaît jamais vraiment l’issue. Je l’ai vu une fois… et ce moment a tout changé pour moi. \"</color></size>",
+            "info": "<size=36>Peut bloquer les explosions des zombies Diable à ressort.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Annule les dégâts d’explosion du Diable à ressort, protégeant ainsi la plante abritée.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Diable à ressort > Citrouille Magnétique</color>"
         },
         {
             "seedType": 1099,
-            "name": "Citrouille Mineure",
-            "introduce": "<size=36><color=black>La citrouille est fréquemment utilisée pour protéger les plantes à l'arrière des attaques des mineurs. Curieux de pouvoir empêcher les mineurs de forer dans le sol, il ramassa leurs pioches et les étudia. Finalement, il a développé une nouvelle technologie qui oblige les mineurs à creuser leur chemin hors du sol à l'avance.</color></size>",
-            "info": "<size=36>Peut bloquer les tentatives de minage des Digger Zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Force les zombies Digger à déterrer prématurément.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Citrouille + Champi-aimant) + Pioche</color></size>",
-            "cost": ""
+            "name": "Citrouille Mineuse",
+            "introduce": "<align=justified><size=36><color=black>La Citrouille est souvent utilisée pour protéger les plantes de l’arrière contre les zombies mineurs. Intriguée par la manière d’empêcher ces foreurs de creuser sous terre, elle a récupéré leurs pioches pour les étudier. À force d’essais, elle a fini par mettre au point une technologie obligeant les mineurs à ressortir plus tôt que prévu.</color></size>",
+            "info": "<size=36>Peut bloquer les tentatives de minage des zombies mineurs.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Force les zombies mineurs à remonter prématurément à la surface.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pioche > Citrouille Magnétique</color>"
         },
         {
             "seedType": 1100,
@@ -1395,10 +1395,10 @@
         },
         {
             "seedType": 1132,
-            "name": "Canon à Melon",
-            "introduce": "<size=36><color=black>Melon Cannon est un fervent défenseur de la doctrine de la \" puissance de feu écrasante \" : \" Si un seul coup ne suffit pas, essayez-en deux, trois ou même quatre ! \" Cette approche en a fait une puissance sur le champ de bataille et un succès lors des fêtes d'été.</color>",
-            "info": "<size=36>Utilisez manuellement pour lancer un barrage de melons depuis le haut.\n\n<color=black>Dégâts : </color><color=#8B0000>200 / Melon. Jusqu'à 40 melons dans une zone 3x3 sans chute. Frappe aléatoirement dans une grille 5x3.</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Mortier-pastèque",
+            "introduce": "<align=justified><size=36><color=black>Le Mortier-pastèque est un fervent défenseur de la doctrine de la \" puissance de feu écrasante \" : \" Si un tir ne suffit pas, essayez-en deux, trois… ou même quatre ! \" Une philosophie qui l’a rendu redoutable sur le champ de bataille — et étonnamment populaire aux fêtes d’été.</color>",
+            "info": "<size=36>S’utilise manuellement pour déclencher une pluie de pastèques depuis les airs.\n\n<color=black>Dégâts : </color><color=#8B0000>200/pastèque. Jusqu’à 40 pastèques sur une zone de 3×3, sans perte de dégâts. Touche aléatoirement dans une zone de 5×3.</color>\n<color=black>Temps de rechargement : </color><color=#8B0000>36s</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque ∞ [Lance-maïs] ∞ Lance-pastèque < Tuberfuse (à placer au centre)</color>"
         },
         {
             "seedType": 1133,
@@ -1417,9 +1417,9 @@
         {
             "seedType": 1135,
             "name": "Chou Doré",
-            "introduce": "<size=36><color=black>Le chou doré n'est pas seulement une question d'apparence éblouissante : il a un cœur d'or pur. Il adore se battre aux côtés des plantes contre les zombies et rêve d'être un jour honoré comme le \" chou d'or héroïque \".</color>",
-            "info": "<size=36>Attaque les zombies en lançant des choux dorés. Son ultime attaque déchaîne des choux sur tous les zombies !\n\n<color=black>Dégâts : </color><color=#8B0000>120/3 Secondes</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1 000 pièces ; lance un chou sur chaque zombie, tuant instantanément ceux dont la santé est inférieure à 300.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Le Chou Doré ne se résume pas à son éclat éblouissant — il a surtout un cœur en or. Il adore combattre aux côtés des plantes contre les zombies et rêve d’être un jour décoré comme le \" Chou Héroïque d’Or \".</color>",
+            "info": "<size=36>Attaque les zombies en leur lançant des choux dorés. Son aptitude ultime bombarde tous les zombies à la fois !\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces, Recharge : 2 s ; lance un chou doré infligeant 160 dégâts à chaque zombie, éliminant instantanément ceux ayant moins de 300 de Robustesse.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces</color>"
         },
         {
             "seedType": 1136,
@@ -1431,9 +1431,9 @@
         {
             "seedType": 1137,
             "name": "Pot Doré",
-            "introduce": "<size=36><color=black>\"Beaucoup de gens riches traitent l'argent comme de la saleté, mais je suis différent\", explique Golden Pot. \"C'est comme ça que je suis devenu riche.\"</color>",
-            "info": "<size=36>Génère des pièces supplémentaires et amplifie la capacité ultime de toute plante dorée située au-dessus.\n\n<color=black>Spécial : </color><color=#8B0000>Lorsque vous déclenchez un ultime d'une Plante Dorée au-dessus d'elle, toutes les Plantes Dorées sur d'autres Pots Dorés avec un coût ultime égal ou inférieur déclenchent également leurs ultimes. </couleur>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>2 000 pièces ; chaque Golden Pot existant augmentera le coût de manière exponentielle.</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>\" Beaucoup de riches traitent l'argent comme de la poussière, mais moi, j'ai toujours fait l'inverse, \" explique Pot Doré. \" C’est précisément comme ça que je suis devenu riche. \"</color>",
+            "info": "<size=36>Génère des pièces supplémentaires et amplifie l’ultime de toute plante dorée placée au-dessus de lui.\n\n<color=black>Production de pièces : </color><color=#8B0000>25/25 s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsque vous déclenchez l’ultime d’une plante dorée placée au-dessus, toutes les autres plantes dorées installées sur un Pot Doré dont le coût d’ultime est inférieur ou égal déclenchent également leur ultime.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>2000 pièces ; chaque Pot Doré déjà en jeu double le coût</color>"
         },
         {
             "seedType": 1138,
@@ -1444,10 +1444,10 @@
         },
         {
             "seedType": 1139,
-            "name": "Grain Doré",
-            "introduce": "<size=36><color=black>Golden Kernel réfléchit à des mots comme \" phrases dorées \" et \" pierres précieuses \". Mais peut-être que le véritable trésor réside dans les missiles importés en beurre et en or... ou \"Just Gold\".</color>",
-            "info": "<size=36>Lance des grains dorés et du beurre sur les zombies, avec une chance de générer des pièces. Son ultime tire des popcorns dorés sur les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>25 % de chances de lancer un sac d'argent, infligeant 80 dégâts, étourdissant les zombies pendant 4 secondes et laissant tomber 100 pièces.</color>\n<color=black><color=black>Ultime : </color><color=#8B0000>Coûte 3 500 pièces ; lance quatre bombes de maïs dorées, chacune infligeant 450 dégâts dans une zone 3x3 sans réduction des dégâts.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>2 000 pièces</color>",
-            "cost": "<size=36>"
+            "name": "Maïs Doré",
+            "introduce": "<align=justified><size=36><color=black>Le Maïs Doré réfléchit à des expressions comme \" tournure en or \" ou \" pépite de langage \". Mais au fond, le vrai trésor… ce sont peut-être le beurre importé et les missiles dorés. Ou simplement \" Juste l'or \".</color>",
+            "info": "<size=36>Lance des grains dorés et du beurre sur les zombies, avec une chance de générer des pièces. Son ultime envoie du maïs soufflé explosif doré sur les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 s</color>\n<color=black>Spécial : </color><color=#8B0000>25% de chance de lancer un sac d’argent, infligeant 80 dégâts, étourdissant les zombies pendant 4 secondes et faisant apparaître 100 pièces.</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 3000 pièces, Recharge : 2 s ; lance quatre bombes de maïs doré, chacune infligeant 450 dégâts dans une zone de 3×3 sans perte de dégâts.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>2000 pièces</color>"
         },
         {
             "seedType": 1140,
@@ -1465,10 +1465,10 @@
         },
         {
             "seedType": 1142,
-            "name": "Melon Doré",
-            "introduce": "<size=36><color=black>Le melon doré n'hésite pas à poser des questions sur sa peau dorée et ses graines, mais ne demandez jamais s'il est sans pépins : il n'a aucune patience pour cette question.</color>",
-            "info": "<size=36>lance des melons dorés sur les zombies ; son ultime pleut des melons dorés sur l'écran.\n\n<color=black>Dégâts : </color><color=#8B0000>240/3 Secondes</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 500 pièces ; lance 60 melons dorés, chacun infligeant 120 dégâts, atterrissant aléatoirement sur l'écran.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>3 000 pièces</color>",
-            "cost": "<size=36>"
+            "name": "Pastèque Dorée",
+            "introduce": "<align=justified><size=36><color=black>La Pastèque Dorée ne voit aucun problème à ce qu’on l’interroge sur sa peau et ses pépins dorés… mais ne lui demandez jamais si elle est sans pépins — elle n’a absolument aucune patience pour ce genre de question.</color>",
+            "info": "<size=36>Lance des pastèques dorées sur les zombies ; son ultime fait pleuvoir des pastèques dorés sur tout l’écran.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 3000 pièces, Recharge : 2 s ; lance 60 pastèques dorées infligeant chacune 120 dégâts sans perte d’efficacité, dispersées aléatoirement sur tout l’écran.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>3000 pièces</color>"
         },
         {
             "seedType": 1143,
@@ -1479,10 +1479,10 @@
         },
         {
             "seedType": 1144,
-            "name": "Parapluie Doré",
-            "introduce": "<size=36><color=black>Golden Umbrella n'aime pas cet endroit : après un accident dans l'eau, il a été expédié ici avec Silver Umbrella. Le souvenir le frustre toujours. \"C'est injuste ! Pourquoi suis-je le cadeau ici ?\"</color>",
-            "info": "<size=36>Dévie les ballons de basket, générant des pièces supplémentaires, et son mouvement ultime peut renverser les diablotins en vol et repousser tous les zombies à proximité.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Gâche 50 pièces à chaque fois qu'il dévie un ballon de basket, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 000 pièces ; repousse tous les zombies à proximité, laisse tomber 25 pièces / zombie, laisse tomber les diablotins en vol et laisse tomber 3 diamants.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Dorée",
+            "introduce": "<align=justified><size=36><color=black>L’Ombrelle Dorée n’aime pas cet endroit — après un incident en mer, elle a été expédiée ici en même temps que l’Ombrelle Argentée. Le souvenir l’exaspère encore. \" C’est injuste ! Pourquoi est-ce moi le bonus gratuit ? \"</color>",
+            "info": "<size=36>Dévie les ballons de basket, génère des pièces, et son ultime peut repousser tous les zombies proches ainsi que faire tomber les diablotins aériens.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque ballon dévié fait tomber 50 pièces ; repousse les zombies approchant en infligeant 40 dégâts, au prix de sa Robustesse. Voir Ombrelle Beurrée.</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 2000 pièces, Recharge : 7,5 s ; repousse tous les zombies proches, fait tomber 25 pièces par zombie, restaure 1000 de Robustesse, expulse les diablotins aériens et génère 3 diamants.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces</color>"
         },
         {
             "seedType": 1145,
@@ -1494,9 +1494,9 @@
         {
             "seedType": 1146,
             "name": "Ail Doré",
-            "introduce": "<size=36><color=black>Sous son extérieur éblouissant se cache un parfum insupportable d'Ail. Golden Ail réfléchit : \" La vraie valeur n'est que dans l'apparence, pas dans les détails. \" Mais tout le monde sait que cet Ail \"doré\" n'est qu'un Ail ordinaire avec un pelage brillant.</color>",
-            "info": "<size=36>Un Ail plus puissant et parfumé à l'or qui peut forcer tous les zombies devant lui à changer de voie avec son mouvement ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>900</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1 000 pièces ; force tous les zombies de sa voie à changer de voie.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Sous son éclat étincelant se cache une odeur d’ail absolument insoutenable. L’Ail Doré déclare : \" La vraie valeur réside dans l’apparence, pas dans les détails. \" Mais tout le monde sait qu’il n’est qu’un ail ordinaire recouvert d’une couche brillante.</color>",
+            "info": "<size=36>Un ail plus robuste et parfumé à l’or, capable de forcer tous les zombies devant lui à changer de ligne grâce à son ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>900</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces, Recharge : 2 s ; force tous les zombies de sa ligne à changer de ligne.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces</color>"
         },
         {
             "seedType": 1147,
@@ -1668,10 +1668,10 @@
         },
         {
             "seedType": 1161,
-            "name": "Tourelle à Pois Titan ",
-            "introduce": "<size=36><color=#3D1400>En tant qu'une des armes ultimes de la famille Pea, on apprend toujours à la Tourelle à Pois Titan de ne pas se coucher sans raison. \"Mais j'ai vraiment la tête lourde !\" Parfois, lorsqu'on le gronde, il se plaint ainsi. Bien sûr, il ne sait pas que les aînés des Pea lui disent de ne pas s'allonger simplement parce que c'est plutôt mignon quand il le fait.</color>",
-            "info": "<size=36>Libère un pur enfer sur les zombies !\n\n<color=#3D1400>Résistance : </color><color=red>1000</color>\n<color=#3D1400>Dégâts : </color><color=red>Initialement 20×30/1,5 secondes</color><color=red> Max 20×60/1,5 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>La vitesse de tir augmente à mesure que la tourelle tire longtemps et comporte 3 étages. La vitesse de tir revient à la normale lorsque son attaque est réinitialisée. Les pois peuvent manquer les diablotins en raison de la hauteur de la tourelle.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Double Pisto-pois + Triple Pisto-pois + Double Pisto-pois + Tuberfuse (Placer Tuberfuse sur Triple Pisto-pois)</color>",
-            "cost": ""
+            "name": "Tourelle à Pois Titan",
+            "introduce": "<align=justified><size=36><color=black>En tant que l'une des armes ultimes de la famille des Pois, la Tourelle à Pois Titan a toujours reçu un conseil strict : \" Ne te couche pas sans raison. \" \" Mais ma tête est vraiment lourde ! \" se plaint-elle parfois lorsqu’on la réprimande. Bien sûr, elle ne sait pas que les anciens Pois lui interdisent surtout de se coucher parce qu’ils la trouvent terriblement mignonne quand elle le fait.</color>",
+            "info": "<size=36>Déchaîne un véritable enfer de pois sur les zombies !\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>(20×3×2.25)/0.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Tire 3 pois simultanément.\n<color=black>•</color> Sa cadence de tir augmente continuellement pendant les rafales, en 3 paliers : après 100 tirs, vitesse +50 % (150 %). Après 200 tirs supplémentaires, vitesse +50 % encore (225 % au total).\n<color=black>•</color> La cadence revient à la normale lorsque l’attaque est réinitialisée.\n<color=black>•</color> Les pois peuvent manquer les diablotins à cause de la hauteur de la tourelle.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double-pois ∞ [Triple Pisto-pois] ∞ Double-pois < Tuberfuse (placer au centre)</color>"
         },
         {
             "seedType": 1162,
@@ -1724,10 +1724,10 @@
         },
         {
             "seedType": 1169,
-            "name": "Citrouille de Contrôle ",
-            "introduce": "<size=36><color=#3D1400>Un jour, deux citrouilles rêvaient de rejoindre un cirque. Mais après qu’un accident magnétique les ait laissés collés ensemble, ils ont découvert une meilleure vocation : tenir bon comme un bouclier impénétrable. Le cirque peut attendre.</color>",
-            "info": "<size=36>Protégez deux tuiles une fois !\n\n<color=#3D1400>Résistance : </color><color=red>12000</color>\n<color=#3D1400>Spécial : </color><color=red>Guérit lorsqu'il est affecté par les explosions de Cerise et de Jack-in-the-Box. Ne peut être placé que sur des plantes à deux tuiles.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Joker Pumpkin + Champi-aimant + Citrouille-Kaboom + Tuberfuse (Placer Tuberfuse sur Aimant-champignon)</color>",
-            "cost": ""
+            "name": "Citrouille Bunker",
+            "introduce": "<align=justified><size=36><color=black>Autrefois, deux citrouilles rêvaient de rejoindre un cirque. Mais après un accident magnétique qui les souda l’une à l’autre, elles découvrirent une vocation bien plus utile : devenir un rempart infranchissable. Le cirque attendra.</color>",
+            "info": "<size=36>Protège deux cases à la fois !\n\n<color=black>Robustesse : </color><color=#8B0000>12000</color>\n<color=black>Spécial : </color><color=#8B0000>Se soigne lorsqu’elle est affectée par les explosions de Cerise ou de Boîte-surprise. Ne peut être placée que sur des plantes Titan ou sur des plantes occupant 2 cases.</color>",
+            "cost": "<size=35>Formule de Fusion : <color=#8B0000>Citrouille Diabolique ∞ [Magnet-shroom] ∞ Citrouille Explosive < Tuberfuse (placer au centre)</color>"
         },
         {
             "seedType": 1170,
@@ -1759,10 +1759,10 @@
         },
         {
             "seedType": 1174,
-            "name": "Dévoreur Titanesque",
-            "introduce": "<size=36><color=#3D1400>Dévoreur Titanesque a remporté le grand prix dans un concours Gourmet King, terminant 10 giga garg cakes en 44 secondes – dont 3 secondes perdues parce qu'il n'a pas entendu le coup de sifflet de départ. \"S'il y a un autre événement de ce genre, appelez-moi s'il vous plaît. Le buffet près du jardin ne me laisse plus entrer\", a déclaré le Dévoreur Titanesque lors de l'interview.</color>",
-            "info": "<size=36>Avale tous les zombies qui s'approchent trop près !\n\n<color=#3D1400>Dégâts :</color> <color=red>Instakill</color>\n<color=#3D1400>Spécial :</color> <color=red>Peut avaler tous les zombies dans un rayon de 1,5 case (sauf si immunisés contre les Mordeurs, mais y compris les gargantuas classiques), temps de digestion t =8+3xln(PV total des zombies) secondes.\nÀ titre de référence : Zombie - 24,8 secondes, Buckethead - 29,9 secondes, Giga Gargantuar - 34 secondes, 10 Giga Gargantuars - 41 secondes.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Mordeur + Mordeur + Mordeur + Tuberfuse (Placez Tuberfuse sur le Mordeur du milieu)</color>",
-            "cost": ""
+            "name": "Gueule Géante",
+            "introduce": "<align=justified><size=36><color=black>La Gueule Géante a remporté le grand prix d’un concours du Roi Gourmet, engloutissant 10 gâteaux Giga Garg en 44 secondes — dont 3 perdues simplement parce qu’il n’a pas entendu le coup de sifflet. \" S’il y a un autre événement du genre, appelez-moi. Le buffet près du jardin ne veut plus de moi \", déclara-t-elle lors de l’interview.</color>",
+            "info": "<size=36>Avale tous les zombies qui s'approchent trop !\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>\n<color=black>•</color> 8 + 3ln(Somme de Robustesse des zombies)s</color>\n<color=black>•</color><color=#8B0000> À titre indicatif : Zombie – 24,8 s | Seau – 29,9 s | Giga Gargantua – 34 s | 10 Giga Gargantua – 41 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Peut avaler tous les zombies dans un rayon de 1,5 case, y compris les Gargantua.\n<color=black>•</color> Ne peut pas avaler les zombies immunisés contre les Dévoreurs.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mordeur ∞ [Mordeur] ∞ Mordeur < Tuberfuse (placer au centre)</color>"
         },
         {
             "seedType": 1176,
