@@ -514,9 +514,9 @@
         {
             "seedType": 1005,
             "name": "Pisto-grenade",
-            "introduce": "<size=36><color=black>Découvrez Pisto-grenade, le tueur de plantes ultime. Il est plus irritable que jamais. Qui aurait pensé que le Cherryshooter chaleureux et amical avalerait une autre cerise spéciale ? Ne tentez pas votre chance avec lui. Cette cerise coincée dans sa gorge pourrait bien être son prochain coup : son visage devient déjà rouge !</color></size>",
-            "info": "<size=36>Les cerises tirées par le Pisto-grenade provoqueront des dégâts d'explosion de zone. Immunisé contre les explosions de cerises.\n\n<color=black>Dégâts : </color><color=#8B0000>300/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Cerise Explosive + Cerise Explosive</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Voici Pisto-grenade, la terreur des plantes… malgré lui. Plus irritable que jamais — qui aurait cru que l’adorable et chaleureux Pisto-cerise finirait par avaler une autre cerise spéciale ? Mieux vaut ne pas trop le titiller : la cerise coincée dans sa gorge pourrait bien être son prochain tir… et son visage rougit déjà dangereusement.</color></size>",
+            "info": "<size=36>Tire des cerises explosives qui détonent à l’impact.\n\n<color=black>Dégâts : </color><color=#8B0000>300/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ses projectiles infligent des dégâts d’explosion de zone.\n<color=black>•</color> Immunisé contre les explosions de cerises.\n<color=black>•</color> Réduit de 85% le temps de recharge du dernier paquet de graines de Cerise utilisé pour sa fusion.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Cerise Explosive + Cerise Explosive</color>"
         },
         {
             "seedType": 1006,
@@ -570,9 +570,9 @@
         {
             "seedType": 1013,
             "name": "Mordzilla",
-            "introduce": "<size=36><color=black>Chewzilla savoure chaque repas, malgré sa bouche plus petite. \"Les grandes gueules sont bâclées et ne vont pas au gymnase ; elles s'effondrent en première ligne\", se moque-t-il. \"Je ne mange que l'essence de la viande de zombie et je recrache le reste\", sourit-il, même si son jardin se remplit de restes.</color></size>",
-            "info": "<size=36>Mordzilla peut être à la fois un rempart et un attaquant féroce.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Manger des zombies restaure 200 points d'Endurance et inflige 200 points de dégâts tout en crachant des parties de zombies roulantes qui infligent 80 points de dégâts et transpercent à l'infini. Les zombies avec des PV < 500 et sans armure sont tués instantanément, restaurant 400 points d'endurance et crachant des morceaux de zombies qui roulent.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Noix + Mordeur</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Mordzilla savoure chaque repas, malgré sa bouche plus petite. \" Les Dévoreurs sont brouillons et ne vont jamais à la salle : ils s'effondrent en première ligne \", ricane-t-il. \" Moi, je ne mange que l’essence de la viande de zombie, et je recrache le reste \", ajoute-t-il avec un sourire carnassier — même si son jardin commence sérieusement à se remplir de restes.</color></size>",
+            "info": "<size=36>À la fois rempart solide et attaquant féroce.\n\n<color=black>Dégâts : </color><color=#8B0000>200/1.75s (Morsure) ; 80/3s (Morceau de zombie)</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Mordre un zombie restaure 200 de Robustesse et inflige 200 dégâts. Crache ensuite un morceau de zombie roulant infligeant 80 dégâts et traversant toutes les cibles.\n<color=black>•</color> Tue instantanément les zombies non blindés ayant moins de 500 de Robustesse, et restaure 400 de Robustesse. Crache aussi des morceaux qui repoussent les zombies.\n<color=black>•</color> Toutes les 40s, dévore un zombie et se régénère jusqu’à son maximum (jusqu’à 16 000 PV). Le surplus se dissipe à raison de 200 par seconde.\n<color=black>•</color> Les dégâts reçus par coup sont limités à 1/3 de sa Robustesse.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Noix + Mordeur</color>"
         },
         {
             "seedType": 1014,
@@ -661,9 +661,9 @@
         {
             "seedType": 1026,
             "name": "Champi-charmant",
-            "introduce": "<size=36><color=black>Charm-champignon parle avec un doux sourire : \"Chaque spore porte mon amour, et quand elles fleurissent, c'est comme une brise printanière caressant l'air.\" Elle a même tourné la tête en forme de cœur pour exprimer ses sentiments. Ses yeux brillent de sincérité, espérant que peut-être, juste peut-être, les zombies comprendront son amour.</color></size>",
-            "info": "<size=36>Champi-charmant peut tirer des spores Charm explosives.\n\n<color=black>Dégâts : </color><color=#8B0000>80 / 1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>40 dégâts d'éclaboussure dans une grille de 1x1,5. A une chance de charmer les zombies avec < 50 % de PV.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-peureux + Champi-hypno</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Champi-charmant parle avec un doux sourire : \" Chaque spore porte un peu de mon amour, et quand elles s’épanouissent, c’est comme une brise de printemps qui caresse l’air. \" Elle va même jusqu’à tourner sa tête en forme de cœur pour exprimer ses sentiments. Dans ses yeux brille une sincérité profonde — peut-être qu’un jour, les zombies comprendront cet amour.</color></size>",
+            "info": "<size=36>Tire des spores explosives de Charme.\n\n<color=black>Dégâts : </color><color=#8B0000>120/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Inflige 40 dégâts de zone sans perte en 1 case de rayon.\n<color=black>•</color> A une chance d’hypnotiser les zombies ayant < 60% de Robustesse (ignorer l’armure de Type 2).\n<color=black>•</color> Lorsqu’elle est mordue, hypnotise l’attaquant puis redevient un Champi-courage.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Champi-peureux + Champi-hypno</color>"
         },
         {
             "seedType": 1027,
@@ -800,10 +800,10 @@
         },
         {
             "seedType": 1046,
-            "name": "Champi-glacier",
-            "introduce": "<size=36><color=black>Le givre s'est enroulé autour de son corps, lui ôtant l'innocence de sa jeunesse. Ses yeux, plus froids et plus meurtriers que le canon de n'importe quelle arme, ne montrent désormais que du mépris pour ses ennemis. Il est devenu le faucheur, le bout du fil. Quiconque est pris dans son regard glacial ferait bien de laisser un repas de moins préparé à la maison.</color></size>",
-            "info": "<size=36>Le Champi-glacier tire des cônes de glaces explosives.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/3 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoutez 10 points Cryo aux zombies à chaque coup. Inflige 4 fois plus de dégâts aux zombies gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Perce 3 ennemis. Inflige 10 dégâts à portée de contact avec l'ennemi.\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-glace + Champi-mort</color></size>",
-            "cost": ""
+            "name": "Champi-glace Maudit",
+            "introduce": "<align=justified><size=36><color=black>Le givre a emprisonné son corps et arraché l’innocence de sa jeunesse. Ses yeux, plus froids et plus meurtriers que le canon d’un fusil, ne reflètent plus qu’un mépris glacial. Désormais, il est le faucheur, le terminus. Quiconque croise son regard givré ferait mieux de ne pas laisser de repas en attente à la maison.</color></size>",
+            "info": "<size=36>Champi-glace Maudit tire des pointes glacées imprégnées d’énergie funeste.\n\n<color=black>Dégâts : </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoute 10 points Cryo par tir. Inflige ×4 dégâts supplémentaires aux zombies Gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Perce 2 cibles. Provoque un splash de 10 dégâts sans perte dans un rayon d’une tuile.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Champi-glace + Champi-mort</color>"
         },
         {
             "seedType": 1047,
@@ -836,9 +836,9 @@
         {
             "seedType": 1052,
             "name": "Torche Infernale",
-            "introduce": "<size=36><color=black>\"Il fait étouffant ici !\" Infernowood fulminait. Convaincu que le temps intense était responsable de sa peau, il remarqua que les flammes sur sa tête étaient également devenues d'un rouge vif. C'était peut-être le moment idéal pour lancer une aventure estivale appelée \"Sledding Tour\".</color></size>",
-            "info": "<size=36>La Torche Infernale donne une augmentation de dégâts encore plus grande aux projectiles !\n\n<color=black>Spécial : </color><color=#8B0000>Amélioration des dégâts selon le type de projectile. Explose à la mort.\nPetits pois : 80 | Cerises : 120 | Pois de fer : 320 | Lumière du soleil : 400 | Pois à trois voies : 60\nInflige 40 dégâts sur la durée aux zombies éclaboussés toutes les 3 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Torche + Jalapeño + Jalapeño</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\" Il fait une chaleur infernale ici ! \" s’emporta Torche Infernale. Persuadée que la météo extrême avait roussi sa peau, elle remarqua que les flammes sur sa tête avaient viré au rouge vif. Peut-être était-ce le moment parfait pour lancer une nouvelle aventure estivale : la “Tournée de la Luge en Feu”.</color></size>",
+            "info": "<size=36>Torche Infernale renforce encore davantage les projectiles qui passent à travers elle.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Explose comme un Piment Jalapeno à sa mort.\n<color=black>•</color> Enflamme les projectiles pour leur conférer les effets suivants :\n\t- Pois, Patates et Pois Ignités de bas niveau : +40 dégâts\n\t- Pois Hypno : +30 dégâts\n\t- Pois Brasier : +30 dégâts, deviennent des pois phénix\n\t- Pois Glace : deviennent des pois normaux\n\t- Cerises, Pois de Fer, Rayons Solaires : ×4 dégâts\n\t- Attaques de la Reine Endoflame : génèrent 15 Soleils au lieu de 5\n<color=black>•</color> Inflige 40 dégâts sur la durée aux zombies proches toutes les 1,5 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Torche + Jalapeno + Jalapeno</color>"
         },
         {
             "seedType": 1053,
@@ -933,10 +933,10 @@
         },
         {
             "seedType": 1066,
-            "name": "Algue Cerbère",
-            "introduce": "<size=36><color=black>Algue Cerbère possède un cœur contemplatif. Si vous lui tendez un verre de bière de racine, préparez-vous à un discours sur les œuvres de Nietzsche ou de Kant. Bien qu'il ait de profondes réflexions, il aspire parfois à des conversations légères.</color></size>",
-            "info": "<size=36>Tire des algues qui rebondissent au contact et ralentissent les ennemis. \n<color=black>Dégâts : </color><color=#8B0000>40*3/3 Secondes</color>\n<color=black>Affaiblissement d'enchevêtrement : </color><color=#8B0000>Le varech rebondit au contact, infligeant 40 dégâts aux zombies proches lorsqu'ils atterrissent. Ralentit les ennemis aquatiques. Ajoute 1 valeur d'enchevêtrement au contact.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pistopois + Écraseur + Algue</color></size>",
-            "cost": ""
+            "name": "Algue Hydre",
+            "introduce": "<align=justified><size=36><color=black>Algue Hydre possède une âme contemplative. Si vous lui servez un verre de bière de racine, préparez-vous à un débat sur Nietzsche ou Kant. Malgré ses réflexions abyssales, elle rêve parfois de discussions plus légères.</color></size>",
+            "info": "<size=36>Tire des algues qui rebondissent à l’impact et ralentissent les zombies aquatiques. Peut également entraîner 3 zombies sous l’eau.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3/3s + Élimination instantanée (Noyade) ×3</color>\n<color=#006400>Affaiblissement Entrave : </color><color=#8B0000>Les algues rebondissent à l’impact et infligent 40 dégâts aux zombies proches lorsqu’elles retombent. Chaque algue applique 1 valeur d’Entrave au contact.</color>\n<color=black>Spécial : </color><color=#8B0000>Peut entraîner jusqu’à 3 zombies sous l’eau.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois + Écraseur > Algue</color>"
         },
         {
             "seedType": 1067,
@@ -1199,10 +1199,10 @@
         },
         {
             "seedType": 1104,
-            "name": "Carambole Filante",
-            "introduce": "<size=36><color=black></color></size>",
-            "info": "<size=36>Invoque une météorite qui cause des dégats dévastateurs.\n\n<color=black>Dégâts : </color><color=#8B0000>60*5/3 Secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Les niveaux Lumos 1 à 3 ont le même effet que Starglow. En atteignant Lumos niveau 4, invoque un autre type de météore qui a un temps de recharge distinct de celui du météore d'origine.</color>\n<color=#495057>Système Magnétique : </color><color=#8B0000>Chaque plante connectée au Système Magnétique augmentera les dégâts des étoiles de 5%.\n<color=#6A0C9D>Les deux systèmes peuvent augmenter les dégâts des étoiles jusqu'à 120 maximum.\n<color=black>Spécial : </color><color=#8B0000>Invoque un météore qui touche le sol et explose en étoiles toutes les 60 secondes. Le temps de recharge peut être réduit en connectant d'autres Carambole Filantes ensemble, jusqu'à 13 pour un temps de recharge amélioré de 25 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Champi-aimant + Carambole</color>\n<color=black>Buff exclusif à l'Odyssée : </color><color=#8B0000>Les temps de recharge des attaques de tous les Météores sont réduits de moitié | Gravitron Sous-espèce Débloqué</color></size>",
-            "cost": ""
+            "name": "Étoile Filante",
+            "introduce": "<align=justified><size=36><color=black>Les nuits préférées de l'Étoile Filante ? Celles où le brouillard prend une pause, lui permettant de bavarder avec les étoiles. \" Elles me comprennent vraiment \", dit-il, persuadé qu’elles sont tout aussi fascinées par lui que lui par elles. Un jour, il en est sûr, l’une descendra lui dire bonjour. En attendant ? Il continue de leur parler.</color>",
+            "info": "<size=36>Invoque une météorite infligeant des dégâts dévastateurs.\n\n<color=black>Dégâts : </color><color=#8B0000>60×5/3s</color>\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Les niveaux Lumos 1 à 3 reproduisent l’effet de Étoile Brillante. Au niveau Lumos 4, il invoque un second type de météorite disposant de son propre temps de recharge, indépendant du premier.</color>\n\n<color=#666699>Système Magnétique : </color><color=#8B0000>Chaque plante connectée au Système Magnétique augmente les dégâts des étoiles de 5 %.</color>\n<color=#6A0C9D>Les deux systèmes peuvent augmenter les dégâts des étoiles jusqu’à un maximum de 120.</color>\n\n<color=black>Spécial : </color><color=#8B0000>Invoque toutes les 60 secondes une météorite qui s’écrase au sol et explose en étoiles, infligeant 1800 dégâts à l’impact. Le temps de recharge peut être réduit en reliant plusieurs Étoiles Filantes entre elles — jusqu’à 13 — pour atteindre un temps de recharge amélioré de 25 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Plantern + Champi-aimant + Carambole</color>"
         },
         {
             "seedType": 1105,
@@ -1241,10 +1241,10 @@
         },
         {
             "seedType": 1110,
-            "name": "Citrouille Porte-drones",
-            "introduce": "<size=36><color=black>Citrouille Porte-drones gardait toujours trois livres sur son étagère, leurs titres cachés aux regards curieux des autres plantes. Un jour, la curiosité d'un Thornball l'a conduit dans l'étude, où il a découvert les titres : \" Guide de culture des plantes succulentes \", \" Soins post-partum pour les citrouilles \" et \" Tutoriel de vol rapide des cactus en 30 secondes \". Le Thornball a ri de la collection inattendue.</color></size>",
-            "info": "<size=36>Génère une Thornball qui se déplace sur le terrain pour attaquer les zombies volants.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A toujours un ailier Thornball avec lui lorsqu'il apparaît. Génère régulièrement une Thornball au-dessus d'une grille 3x3.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Citrouille + Cactus + Troufle</color></size>",
-            "cost": ""
+            "name": "Citrouille-convoyeuse",
+            "introduce": "<align=justified><size=36><color=black>La Citrouille-convoyeuse gardait toujours trois livres sur son étagère, leurs titres soigneusement cachés aux autres plantes. Un jour, la curiosité d’un Drone Cactus le poussa à fouiller dans le bureau, où il découvrit les ouvrages : \" Guide de culture des plantes succulentes \", \" Soins postnatals pour citrouilles \", et \" Tutoriel de vol express pour cactus – 30 secondes chrono \". Le Drone Cactus éclata de rire devant cette collection inattendue.</color></size>",
+            "info": "<size=36>Invoque un Drone Cactus qui se déplace sur le terrain pour attaquer les zombies volants.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques de la Citrouille Épineuse. Possède toujours un Drone Cactus allié lorsqu’elle apparaît. Génère régulièrement un Drone Cactus sur une zone de 3×3.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus > Troufle > Citrouille  OU  Troufle > Cactus > Citrouille</color></size>"
         },
         {
             "seedType": 1111,
@@ -1353,10 +1353,10 @@
         },
         {
             "seedType": 1126,
-            "name": "Cata-salade",
-            "introduce": "<size=36><color=black>\"Quand j'étais petite, tout le monde me demandait quel genre de Pult je voulais être\", explique Salad-pult. \"Ils pensaient qu'on ne pouvait pas tout avoir. Mais j'ai décidé que je voulais tout, même à l'époque.\"</color>",
-            "info": "<size=36>Peut catapulter des projectiles mixtes en succession rapide.\n\n<color=black>Dégâts : </color><color=#8B0000>140/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. Les projectiles se divisent en un mélange de grains de maïs (1/4 de chance d'obtenir du beurre) et de choux lorsqu'ils touchent des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-maïs + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Lance-salade",
+            "introduce": "<align=justified><size=36><color=black>\" Quand j’étais petit, tout le monde me demandait quel type de Catapulte je voulais devenir \", raconte Lance-salade. \" Ils pensaient qu’on ne pouvait pas tout avoir. Mais moi, j’ai décidé que je voulais tout — déjà à cette époque. \"</color>",
+            "info": "<size=36>Catapulte un mélange de projectiles en rafale.\n\n<color=black>Dégâts : </color><color=#8B0000>140/5s</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances d’entrer en tir rapide. Les projectiles se divisent en un mélange d’épis de maïs (avec 1/4 de chances que ce soit du maïs beurré) et de Melons trop mûrs lorsqu’ils touchent des zombies.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-chou + Lance-maïs + Lance-pastèque</color>"
         },
         {
             "seedType": 1127,
@@ -1507,10 +1507,10 @@
         },
         {
             "seedType": 1148,
-            "name": "Parapluie de Diamant",
-            "introduce": "<size=36><color=black>Parapluie de Diamant est un magnat parmi les plantes, fournissant du travail aux zombies et aux plantes. \"Je maximise leur valeur\", déclare-t-il avec une touche dorée à ses lunettes.</color>",
-            "info": "<size=36>Grands risques, grandes récompenses !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A les caractéristiques de Umbrella Clove et Golden Umbrella.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 500 pièces ; repousse tous les zombies à proximité, transformant ceux qui ont moins de 25 % de PV en statues d'argent d'une valeur de 1 000 pièces, ou en statues d'or d'une valeur de 3 000 pièces si elles ont moins de 10 % de PV. Les zombies sans statues lâchent directement des pièces.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Golden Ail + Ombrelle (ou Golden Umbrella + Ail)</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Alchimiste",
+            "introduce": "<align=justified><size=36><color=black>L'Ombrelle Alchimiste est une véritable magnat parmi les plantes, fournissant du travail aussi bien aux zombies qu’aux végétaux. \" Je maximise leur valeur \", déclare-t-elle, ajustant d’un geste élégant ses lunettes dorées.</color></size>",
+            "info": "<size=36>Haut risque, haute récompense !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Possède les propriétés de l’Ombrelle Argentée et de l’Ombrelle Dorée.\n<color=black>•</color> Deviendra la cible prioritaire des Zombies au Trident.</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 3000 Pièces, Récupération : 7,5s ; reprend les propriétés de l’Ombrelle Dorée, repousse tous les zombies proches, transforme ceux ayant moins de 25 % de leur Robustesse en statues d’argent valant 1000 Pièces, ou en statues d’or valant 3000 Pièces s’ils sont sous 10 %. Les zombies qui ne deviennent pas des statues lâchent directement des pièces.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ail Doré + Ombrelle / Ombrelle Dorée + Ail</color></size>"
         },
         {
             "seedType": 1149,
@@ -2834,6 +2834,20 @@
             "introduce": "<align=justified><size=36><color=black>Les champignons peuvent-ils pousser sur d’autres champignons ? Selon le professeur Cherryz, les Champi-colonies sont de rares colonies composites géantes… mais elles refusent d’admettre qu’elles sont constituées de multiples individus. Pour le prouver, elles s’efforcent d’expulser autant de spores supplémentaires que possible.</color>",
             "info": "<size=36>Impose son territoire avec des fumées et des spores.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>20×4/1.9s</color>\n<color=black>Spécial : </color><color=#8B0000>Émet, à chaque attaque, une spore supplémentaire à longue portée dans les 8 directions.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumé ∞ [Champi-sombre] ∞ Champi-fumé < Tuberfuse (placer au centre)</color>"
+        },
+        {
+            "seedType": 1220,
+            "name": "Épicéa Tireur d'exception",
+            "introduce": "<align=justified><size=36><color=black>L'Épicéa Tireur d'exception est sévère, froid et strict — exactement les qualités qu’on attend d’un coach d’élite.</color>",
+            "info": "<size=36>Tire des aiguilles hydrauliques tournoyantes qui s’accrochent aux zombies. Consomme des charges de glace pour tirer des cryo-aiguilles tournoyantes à la place.\n\n<color=black>Dégâts : </color><color=#8B0000>5×75/1.5s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1/1/15 charge(s) de glace lorsqu’il est touché par une boule de neige / un trident de neige / un Champi-glace.\n<color=black>•</color> Les hydro-aiguilles tournoyantes infligent 5 dégâts toutes les 0.02 secondes et durent 1.5 secondes.(max : 375)\n<color=black>•</color> Utilise 1 charge pour tirer des cryo-aiguilles tournoyantes infligeant le double de dégâts, appliquant Gel Profond et ajoutant 1 point Cryo. Inflige ×4 dégâts aux zombies Gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisé au gel provoqué par les boules de neige et les blizzards.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Épicéa Tireur d'élite + Aloès d'Eau + Chrysanfer</color>"
+        },
+        {
+            "seedType": 1234,
+            "name": "Four Infirmier",
+            "introduce": "<align=justified><size=36><color=black>Le Four Infirmier apporte chaleur et réconfort aux terres gelées. Malgré son apparence étrange, les enfants du coin l’adorent. \" Un sucre ? \" propose-t-il joyeusement. \" Ça aide à garder la chaleur ! \"</color>",
+            "info": "<size=36>Fournaise stable et haute température qui fournit périodiquement des charges ou des soins aux plantes proches.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hérite des traits du Four Polaire, avec une zone de protection de 3×3.\n<color=black>•</color> Ne peut pas être placé à proximité d’autres Four Polaire.\n<color=black>•</color> Donne 1 charge de glace aux plantes de type Neige protégées toutes les 3 s.\n<color=black>•</color> Soigne les plantes protégées de 50 PV toutes les 15 s.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Aloès Aube</color>"
         }
     ]
 }
