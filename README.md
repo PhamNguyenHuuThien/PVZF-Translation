@@ -54,7 +54,7 @@ The download links for the Multi-language Mod and the translation files of the M
 
 ### The Online English Almanac
 ***
-> The Online English Almanac made by CarrotD1scrd can be found [here](https://projects.penguinmod.com/5958366153). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
+> The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
 
 ### Fusion Addons
 ***
