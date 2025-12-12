@@ -80,16 +80,16 @@
         {
             "seedType": 11,
             "name": "Champi-mort",
-            "introduce": "<size=36><color=black>\"Tu as de la chance que je sois de ton côté\", dit Champi-mort. \"Je pourrais détruire tout ce qui vous est cher. Ce ne serait pas difficile.\"</color></size>",
-            "info": "<size=36>Les Champi-morts détruisent tout et laissent un cratère incultivable derrière eux.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Laisse un cratère.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Tu as de la chance que je sois de ton côté\", dit Champi-mort. \"Je pourrais détruire tout ce qui t'es cher. Ce ne serait pas difficile.\"</color></size>",
+            "info": "<size=36>Les Champi-morts détruisent tout et laissent un cratère incultivable derrière eux.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Range: </color><color=#8B0000>5×5 (Un cercle d’un rayon de 3,75 cases)</color>\n<color=black>Spécial : </color><color=#8B0000>Après explosion il laisse un cratère qui dure 180s. Ne laisse pas de cratère s'il explose dans l'eau.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 12,
             "name": "Nénuphar",
-            "introduce": "<size=36><color=black>Lily Pad ne se plaint jamais. Lily Pad ne veut jamais savoir ce qui se passe. Mettez une plante sur Lily Pad, il ne dira rien. A-t-il des opinions surprenantes ou des secrets choquants ? Personne ne le sait. Lily Pad garde tout à l'intérieur.</color></size>",
-            "info": "<size=36>Les Neńuphars vous permettent de planter des plantes non aquatiques.\n\n<color=black>Spécial : </color><color=#8B0000>Des plantes non aquatiques peuvent y être plantées. Changement d'apparence selon la plante au-dessus.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Nénuphar ne se plaint jamais. Nénuphar ne veut jamais savoir ce qui se passe. Mettez une plante sur Nénuphar, il ne dira rien. A-t-il des opinions surprenantes ou des secrets choquants ? Personne ne le sait. Nénuphar garde tout à l'intérieur.</color></size>",
+            "info": "<size=36>Les Nénuphars vous permettent de planter des plantes non aquatiques au-dessus de ceux-ci.\n\n<color=black>Spécial : </color><color=#8B0000>Des plantes non aquatiques peuvent y être plantées. Change d'apparence selon le type de plante au-dessus.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 13,
@@ -108,16 +108,16 @@
         {
             "seedType": 15,
             "name": "Algue",
-            "introduce": "<size=36><color=black>\"Je suis totalement invisible\", se dit Algue. \"Je me cacherai ici, juste sous la surface, et personne ne me verra.\" Ses amis lui disent qu'ils le voient parfaitement, mais il ne changera jamais.</color></size>",
-            "info": "<size=36>Les Algues entraînent les zombies sous l'eau.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Je suis totalement invisible\", se dit l'Algue. \"Je me cacherai ici, juste sous la surface, et personne ne me verra.\" Ses amis lui disent qu'ils la voient parfaitement, mais elle ne changera jamais.</color></size>",
+            "info": "<size=36>Algue est le genre de plante qui entraîne le premier zombie sous l'eau avec elle (puis disparaît).\n\n<color=black>Dégâts : </color><color=#8B0000>Tue instantanément</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 16,
             "name": "Jalapeño",
-            "introduce": "<size=36><color=black>\"NNNNNGGGGG....\" dit Jalapeño. Il ne va pas exploser, pas cette fois. Mais bientôt. Oh, si tôt. C'est proche. Il le sait ; il peut le sentir ; Toute sa vie a mené à ce moment.</color></size>",
-            "info": "<size=36>Le Jalapeño a détruit une ligne entière de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"NNNNNGGGGG....\" dit Jalapeño. Il ne va pas exploser, pas cette fois. Mais bientôt. Oh, si tôt. C'est proche. Il le sait ; il peut le sentir ; Toute sa vie a mené à ce moment.</color></size>",
+            "info": "<size=36>Le Jalapeño détruit une ligne entière de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Portée: </color><color=#8B0000> Une seule ligne</color>\n<color=black>Spécial: </color><color=#8B0000>Élimine instantanément les Zombonis et leurs traces de glace</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 17,
@@ -136,9 +136,9 @@
         {
             "seedType": 19,
             "name": "Champi-mer",
-            "introduce": "<size=36><color=black>Champi-mer n'a jamais vu la mer. C'est à son nom, il en a beaucoup entendu parler, mais il n'a jamais trouvé le temps. Mais un jour, ça baissera.</color></size>",
-            "info": "<size=36>Les Champi-mers sont des plantes aquatiques qui tirent des spores à faible portée.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Champi-mer n'a jamais vu la mer. C'est dans son nom, il en a beaucoup entendu parler, mais il n'a jamais trouvé le temps. Mais un jour, il ira la-bas.</color></size>",
+            "info": "<size=36>Les Champi-mers sont des plantes aquatiques qui tirent des spores à faible portée.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Portée: </color><color=#8B0000> 2.5 tuile en face</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Rembourse 50 soleils après la fusion, excepté pour Champi-alevin (avec Champi-gnon).</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 20,
@@ -814,10 +814,10 @@
         },
         {
             "seedType": 1049,
-            "name": "Algue épicé",
-            "introduce": "<size=36><color=black>\"La passion est comme le feu\", et Spicy Kelp ne connaît que trop bien ce dicton. Aucune quantité d’eau ne peut éteindre leurs flammes ferventes ! Dommage, les zombies à proximité ne ressentent que la chaleur du \"grill\". Regardez-les, ils sont déjà réduits en cendres dans cet incendie implacable !</color></size>",
-            "info": "<size=36>Épice-algue brulera la ligne de zombie entière quand un zombie entre en contact avec elle.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta + 1800 (Incendiaire)</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Algue + Jalapeño (Dans l'ordre)</color></size>",
-            "cost": ""
+            "name": "Algue-épicée",
+            "introduce": "<align=justified><size=36><color=black>\"La passion est comme le feu\", et Algue épicée ne connaît que trop bien ce dicton. Aucune quantité d’eau ne peut éteindre sa flamme fervente ! Dommage, les zombies à proximité ne ressentent que la chaleur du \"gril\". Regardez-les, ils sont déjà réduits en cendres dans cet incendie inarrêtable !</color></size>",
+            "info": "<size=36>Algue-épicée brûlera la ligne de zombie entière quand un zombie entre en contact avec elle.\n\n<color=black>Dégâts : </color><color=#8B0000>Tue instantanément (noie les zombies) + 1800 (Incendiaire)</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Algue + Jalapeño (Dans l'ordre)"
         },
         {
             "seedType": 1050,
@@ -843,9 +843,9 @@
         {
             "seedType": 1053,
             "name": "Torche Calcifer",
-            "introduce": "<size=36><color=black>Les températures élevées et le piquant vont toujours de pair. Scorchwood ne comprend peut-être pas ce concept, mais ses années de travail au stand de barbecue lui ont certainement insufflé une chaleur distinctive.</color></size>",
-            "info": "<size=36>Les projectiles allumés par la Torche Calcifer ont une grande augmentation de dégâts.\n\n<color=black>Spécial : </color><color=#8B0000>Amélioration des dégâts selon le type de projectile. Enflamme la voie en cas de mort.\nPois : 60, Cerises : 120, Bucks : 320, Lumière du soleil : 400, Pois à trois voies : 45</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Torche</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les températures élevées et le piquant vont toujours de pair. Torche Calcifer ne comprend peut-être pas ce concept, mais ses années de travail au stand de barbecue lui ont certainement insufflé une chaleur distinctive.</color></size>",
+            "info": "<size=36>Les projectiles allumés par la Torche Calcifer ont une grande augmentation de dégâts.\n\n<color=black>Spécial : </color><color=#8B0000> Éxplose en cas de mort enflammant la voie entière.</color> Enflamme les projectiles avec les effects suivant:\n\t-pois, Mine-patate et bas tier pois enflammés:\n\t +30 damage\n\t-Pois gelé: Redeviennent des pois basique.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Jalapeño + Torche</color>"
         },
         {
             "seedType": 1054,
@@ -863,10 +863,10 @@
         },
         {
             "seedType": 1056,
-            "name": "Torch-algue",
-            "introduce": "<size=36><color=black>\"Le feu a du mal à exister sous l'eau, ce qui signifie que je ne peux pas utiliser mes flammes pour éclairer le chemin\", a admis Torch-kelp. \"Mais une fois au-dessus de la surface, mes flammes peuvent à nouveau briller.\"</color></size>",
-            "info": "<size=36>Torch-algue peut allumer les projectiles d'algues et tirer les zombies sous l'eau.\n\n<color=black>Spécial : </color><color=#8B0000>Enflamme les tirs de pois et de varech. Les tirs de varech enflammés peuvent ajouter 1 valeur d'enchevêtrement à tous les zombies dans la zone d'éclaboussure. Chaque fois que 100 coups seront allumés, une Algue sera plantée devant.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Algue + Torche</color></size>",
-            "cost": ""
+            "name": "Algue-torche",
+            "introduce": "<align=justified><size=36><color=black>\"Le feu a du mal à exister sous l'eau, ce qui signifie que je ne peux pas utiliser mes flammes pour éclairer le chemin\", a admis Algue-torche. \"Mais une fois au-dessus de la surface, mes flammes peuvent à nouveau briller.\"</color></size>",
+            "info": "<size=36>Algue-torche peut allumer les projectiles d'algues et attrape un zombie sous l'eau (disparaît après).\n\n<color=black>Dégâts: </color><color=#8B0000>Tue instantanément (noie les zombies)</color>\n<color=black>Spécial : </color><color=#8B0000>Enflamme les tirs de pois et d'algues infligeant +20 points de dégâts en plus. Les tirs de algue enflammés peuvent ajouter 1 valeur d'enchevêtrement à tous les zombies dans la zone d'éclaboussure. Chaque fois que 100 tirs seront allumés, une autre Algue-torche sera plantée devant.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: </color><color=#8B0000>Algue + Torche</color>"
         },
         {
             "seedType": 1057,
@@ -905,10 +905,10 @@
         },
         {
             "seedType": 1062,
-            "name": "Ortie Piquante",
-            "introduce": "<size=36><color=black>\"Des études révèlent que le piquant est en fait un type de douleur\", annonça Scorchweed, faisant trembler les épines rouges sur sa tête. \"J'ai l'intention de laisser les zombies incrédules expérimenter cette réalité par eux-mêmes.\"</color></size>",
-            "info": "<size=36>Ortie Piquante explose les pneus et endommage les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20, Inflige le Debuff Enflammé</color>\n<color=#720026>Debuff enflammé : </color><color=#8B0000> Les dégâts subis augmentent de 50 % ; les zombies avec ce débuff explosent à leur mort, le propageant davantage.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Ortie</color></size>",
-            "cost": ""
+            "name": "Ortie-pimentée",
+            "introduce": "<align=justified><size=36><color=black>\"Des études révèlent que le piquant (piment) est en fait un type de douleur\", annonça Ortie-pimentée, faisant trembler les épines rouges sur sa tête. \"J'ai l'intention de laisser les zombies incrédules expérimenter cette réalité par eux-mêmes.\"</color></size>",
+            "info": "<size=36>Ortie-pimentée explose les pneus et enflame les zombies qui marchent sur elle.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1s</color>\n<color=black>Special: </color><color=#8B0000>Les attaques inflige l'altération Enflammé. Ortie-pimentée peut être améliorer en Lave Épineuse avec un Fertilisant.</color>\n<color=#720026>Altération enflammé: </color><color=#8B0000> Les dégâts subis augmentent de 50%; les zombies avec ce débuff explosent à leur mort, le propageant davantage.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: </color><color=#8B0000>Jalapeño + Ortie</color>"
         },
         {
             "seedType": 1063,
@@ -962,23 +962,23 @@
         {
             "seedType": 1070,
             "name": "Champi-sombre",
-            "introduce": "<size=36><color=black>\"J'ai toujours aimé libérer de fortes fumées\", déclare Gloom Shroom. \"Je sais que beaucoup de gens ne sont pas d'accord avec ça. Ils disent que c'est impoli ou que ça sent mauvais. Tout ce que je peux dire, c'est, préféreriez-vous que votre cerveau soit dévoré par des zombies ?\"</color></size>",
-            "info": "<size=36>Les Champi-sombres tirent des fumées lourdes qui endommagent les zombies dans une zone autour d'eux.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.9 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"J'ai toujours aimé libérer de fortes fumées\", déclare Champi-sombre. \"Je sais que beaucoup de gens ne sont pas d'accord avec ça. Ils disent que c'est impoli ou que ça sent mauvais. Tout ce que je peux dire, c'est, préféreriez-vous que votre cerveau soit dévoré par des zombies ?\"</color></size>",
+            "info": "<size=36>Les Champi-sombres tirent des fumées lourdes qui endommagent les zombies dans une zone autour d'eux.\n\n<color=black>Dégâts : </color><color=#8B0000>20×4/1.9s (Perçant)</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 1071,
             "name": "Champi-sombre Enflammé",
-            "introduce": "<size=36><color=black>La capacité du Champi-sombre Enflammé à libérer de la vapeur chaude a fait de lui un boulanger-pâtissier célèbre. Ses pâtisseries épicées emblématiques sont parmi tant d'autres, appréciées pour leurs saveurs distinctes.</color></size>",
-            "info": "<size=36>Libère des fumées de braises infligeant de gros dégats autour de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>40*4/1.9 Secondes</color>\n<color=#720026>Debuff Enflammé : </color><color=#8B0000>Inflige le débuff Enflammé en attaquant des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Champi-sombre</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>La capacité du Champi-sombre Enflammé à libérer de la vapeur chaude a fait de lui un boulanger-pâtissier célèbre. Ses pâtisseries épicées emblématiques sont particulièrement appréciées pour leurs saveurs distinctes.</color></size>",
+            "info": "<size=36>Libère des fumées de braises infligeant de gros dégats autour de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>40×4/1.9s (Perçant)</color>\n<color=#720026>Altération Enflammé : </color><color=#8B0000>Inflige l'altération Enflammé en attaquant des zombies.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Jalapeño + Champi-sombre</color>"
         },
         {
             "seedType": 1072,
             "name": "Champi-sombre Glacé",
-            "introduce": "<size=36><color=black>Rêvant d'une carrière de physicien, le Champi-sombre Glacé consacre ses journées à démêler les complexités du monde, en évitant tout contact avec d'autres plantes. \"Pourquoi ai-je plusieurs rangées de cornets de glace qui sortent de ma tête ?\" réfléchit-il, la dernière question occupant ses pensées. Il est étrangement catégorique à l'idée de les appeler \" chaînes \".</color></size>",
-            "info": "<size=36>Libère des fumées froides autour de lui et gèle les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.9 Secondes (Piercing) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points Cryo.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Champi-sombre</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Rêvant d'une carrière de physicien, le Champi-sombre Glacé consacre ses journées à démêler les complexités du monde, en évitant tout contact avec d'autres plantes. \"Pourquoi ai-je plusieurs rangées de cornets de glace qui sortent de ma tête ?\" réfléchit-il, la dernière question occupant ses pensées. Il est étrangement catégorique à l'idée de les appeler \" chaînes \".</color></size>",
+            "info": "<size=36>Libère des fumées gelée autour de lui et gèle les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40×4/1.9s (Perçant)</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points Cryo.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : </color><color=#8B0000>Champi-glace + Champi-sombre</color>"
         },
         {
             "seedType": 1073,
@@ -1032,9 +1032,9 @@
         {
             "seedType": 1080,
             "name": "Troufle Lumineux",
-            "introduce": "<size=36><color=black>\"La bougie argentée illumine la froide toile d'automne, tandis que l'éventail en soie légère danse gracieusement avec les lucioles.\" C'est le poème bien-aimé de Glowver. Sa fascination pour les lucioles a commencé dans son enfance, et il apprécie souvent la brise fraîche au bord de l'eau la nuit, admirant la façon dont leur fluorescence s'élève doucement du vent, scintille avant de retomber doucement dans l'herbe sombre. Seuls les zombies pourraient ignorer une beauté aussi exquise.</color></size>",
-            "info": "<size=36>Disperse le brouillard et augmente le niveau de Lumos des plantes Lumos présentes.\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos aux plantes Lumos dans tout le champ pendant 30 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Troufle</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"La bougie argentée illumine la froide toile d'automne, tandis que l'éventail en soie légère danse gracieusement avec les lucioles.\" C'est le poème bien-aimé de Troufle Lumineux. Sa fascination pour les lucioles a commencé dans son enfance, et il apprécie souvent la brise fraîche au bord de l'eau la nuit, admirant la façon dont leur fluorescence s'élève doucement du vent, scintille avant de retomber doucement dans l'herbe sombre. Seuls les zombies pourraient ignorer une beauté aussi exquise.</color></size>",
+            "info": "<size=36>Disperse le brouillard et augmente le niveau de Lumos des plantes Lumos présentes.\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos aux plantes Lumos dans tout le champ pendant 30 secondes.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Troufle</color></size>"
         },
         {
             "seedType": 1081,
@@ -1053,9 +1053,9 @@
         {
             "seedType": 1083,
             "name": "Étoile de Mer",
-            "introduce": "<size=36><color=black>\"Bien que mon nom ressemble à celui d'un animal, ce n'est qu'un nom de scène\", a expliqué Sea Star. \"Je suis un magicien capable d'expulser des spores de différentes formes.\" Il nourrit une profonde aversion pour les zombies plongeurs, craignant qu'ils découvrent la vérité : il s'agit simplement d'un Champi-mer avec un pistolet à eau en forme d'étoile perché sur sa tête.</color></size>",
-            "info": "<size=36>Attaque deux fois une fois qu'il a grandit.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5 → 20*5*2 / 1.5 Secondes</color>\n<color=black>Temps de croissance : </color><color=#8B0000>60 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Bien que mon nom ressemble à celui d'un animal, ce n'est qu'un nom de scène\", a expliqué Étoile de Mer. \"Je suis un magicien capable d'expulser des spores de différentes formes.\" Il nourrit une profonde aversion pour les zombies plongeurs, craignant qu'ils découvrent la vérité : il s'agit simplement d'un Champi-mer avec un pistolet à eau en forme d'étoile perché sur sa tête.</color></size>",
+            "info": "<size=36>Attaque deux fois une fois qu'il a grandit.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5 → 20×5×2/1.5s</color>\n<color=black>Spécial:</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>Temps de croissance : </color><color=#8B0000>60s</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Carambole</color>"
         },
         {
             "seedType": 1084,
@@ -1514,10 +1514,10 @@
         },
         {
             "seedType": 1149,
-            "name": "Melon Enflammé",
-            "introduce": "<size=36><color=black>Les plantes ont toujours l'impression que les pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais la pastèque explique : \" Je n'ai pas mis de pétards dans le melon ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
-            "info": "<size=36>Lobs de melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le débuff Enflammé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Jalapeño</color>",
-            "cost": ""
+            "name": "Lance-pastèque Enflammé",
+            "introduce": "<align=justified><size=36><color=black>Les plantes ont toujours l'impression que les Lance-pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais le Lance-pastèque explique : \" Je n'ai pas mis de pétards dans la pastèque ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
+            "info": "<size=36>Lance des melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3s </color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Jalapeño</color>"
         },
         {
             "seedType": 1150,
@@ -1571,9 +1571,9 @@
         {
             "seedType": 1157,
             "name": "Aimant Charmant",
-            "introduce": "<size=36><color=black>Après d'innombrables jours et nuits de recherche, Aimant Charmant a finalement maîtrisé l'art du champ de charme magnétique. \"Maintenant, je peux mieux persuader mes amis zombies de se battre à nos côtés\", a-t-il déclaré. \"Certains pensent que je les menace avec des outils métalliques, mais un jour, la vérité éclatera au grand jour.\"</color>",
-            "info": "<size=36>Consomme des objets métalliques et invoque les zombies correspondants pour qu'ils combattent pour vous.\n\n<color=black>Spécial : </color><color=#8B0000>Utilise des objets métalliques pour engendrer des zombies hypnotisés, utilise automatiquement les métaux générés par Aimant Solaire derrière lui et ceux consommés par les Champi-aimants dans le même système magnétique.</color><color=#8B0000> couleur>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-aimant</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Après d'innombrables jours et nuits de recherche, Aimant Charmant a finalement maîtrisé l'art du champ de charme magnétique. \"Maintenant, je peux mieux persuader mes amis zombies de se battre à nos côtés\", a-t-il déclaré. \"Certains pensent que je les menace avec des outils métalliques, mais un jour, la vérité éclatera au grand jour.'</color>",
+            "info": "<size=36>Consomme des objets métalliques et invoque les zombies correspondants pour qu'ils combattent pour vous.\n\n<color=black>Spécial : </color><color=#8B0000>Utilise des objets métalliques pour engendrer des zombies hypnotisés qui on 40% point de santé.\n<color=black>•</color> utilise automatiquement les métaux générés par Aimant Solaire derrière lui et ceux consommés par les Champi-aimants dans le même système magnétique.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Champi-aimant</color>"
         },
         {
             "seedType": 1158,
