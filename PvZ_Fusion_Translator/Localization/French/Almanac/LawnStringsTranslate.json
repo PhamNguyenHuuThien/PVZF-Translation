@@ -171,15 +171,15 @@
         {
             "seedType": 24,
             "name": "Citrouille",
-            "introduce": "<size=36><color=black>Citrouille venait de terminer son travail à temps partiel. \"Honnêtement, c'était une expérience plutôt amusante\", a-t-il ri. \"Mais quelqu'un peut-il m'expliquer pourquoi ils n'arrêtaient pas de me fourrer des bonbons et des bougies ?\"</color></size>",
-            "info": "<size=36>Les Citrouilles protègent les plantes qui sont à l'intérieur.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Priorité à la Fusion : </color><color=#8B0000>La Plus Basse</color></size>",
+            "introduce": "<size=36><color=black>Citrouille venait de terminer son travail à temps partiel. \"Honnêtement, c'était une expérience plutôt amusante\", a-t-elle ri. \"Mais quelqu'un peut-il m'expliquer pourquoi ils n'arrêtaient pas de me fourrer des bonbons et des bougies ?\"</color></size>",
+            "info": "<size=36>Les Citrouilles protègent les plantes placées à l'intérieur de leur coque.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>La Citrouille et ses fusions empêchent les dégâts de zone des Cerises explosives en difficulté 4 ou inférieure. Utiliser un paquet de graines de Citrouille sur une Citrouille ou ses fusions ayant moins de 2/3 de leur robustesse restaure entièrement leurs PV.</color>\n<color=black>Priorité à la Fusion : </color><color=#8B0000>La plus basse. Maintenez la touche Maj gauche lors d'une fusion pour forcer la fusion avec la Citrouille (nécessite le mod BetterFusionSuite, inclus par défaut).</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
         },
         {
             "seedType": 25,
             "name": "Champi-aimant",
             "introduce": "<size=36><color=black>Tout le monde se demandait pourquoi Champi-aimant mettait toujours autant de temps à \" digérer \" le fer qu'il absorbait, même après qu'il avait déjà été retiré pour fusion. Frustré, il a lancé : \"Je ne suis pas paresseux ! Je viens de me faire assommer par un fer volant !\"</color></size>",
-            "info": "<size=36>Les Champi-aimants enlèvent les objets métalliques des zombies.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les objets métalliques.</color>\nSi une plante magnétique se trouve à proximité (dans les 8 directions) d'une autre, elles se connectent via le Système Magnétique. Ce système peut avoir un nombre illimité de connexions et renforcer certaines plantes magnétiques en fonction du total. Consultez ses fusions pour voir les plantes concernées.</size>",
+            "info": "<size=36>Les Champi-aimants attirent ou retirent les objets métalliques des zombies.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les objets métalliques dans un rayon de 3 cases. L’objet est conservé pendant 15 secondes avant de disparaître définitivement. Si le Champi-aimant est détruit ou fusionné avant la fin de ce délai, les objets sont rejetés.</color>\n<color=black>Si une plante magnétique se trouve à proximité (dans les 8 directions) d'une autre plante magnétique, elles se connectent via le <color=#666699>Système Magnétique</color>. Ce système n'a aucune limite de connexions et renforce certaines plantes magnétiques en fonction du nombre total de connexions. Consultez ses fusions pour connaître les plantes concernées.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
         {
