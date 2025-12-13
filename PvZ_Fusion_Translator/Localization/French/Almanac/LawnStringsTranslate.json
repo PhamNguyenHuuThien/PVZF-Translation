@@ -52,44 +52,44 @@
         {
             "seedType": 7,
             "name": "Champi-fumée",
-            "introduce": "<size=36><color=black>\"J'étais dans un travail sans issue en produisant des spores de levure pour une boulangerie\", explique Champi-fumée. \"Puis Champi-gnon, bénis-le, m'a parlé de cette formidable opportunité de faire exploser des zombies. Maintenant, j'ai vraiment l'impression de faire une différence.\"</color></size>",
-            "info": "<size=36>Les Champi-fumées lancent de la fumée qui passent à travers les moustiquaires.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Lance des projectiles perforants.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<size=36><color=black>\"J’avais un emploi sans avenir où je produisais des spores de levure pour une boulangerie,\", explique Champi-fumée. \"Puis Champi-gnon, qu'il soit bénis, m'a parlé de cette formidable opportunité de faire exploser des zombies. Maintenant, j'ai vraiment l'impression de faire une différence.\"</color></size>",
+            "info": "<size=36>Champi-fumée tire des fumées qui peuvent traverser les moustiquaires.\n\n<color=black>Dégâts: </color><color=#8B0000>20/1.5s (Perçant)</color>\n<color=black>Portée: </color><color=#8B0000>4 cases devant</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Perforation infinie, ignore les armures tenues à la main (Type 2).\n<color=black>•</color> Propagation de Champi-gnon.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7.5 s</color></size>"
         },
         {
             "seedType": 8,
             "name": "Champi-hypno",
-            "introduce": "<size=36><color=black>\"Les zombies sont nos amis\", affirme Champi-hypno. \"Ce sont des créatures très incomprises qui jouent un rôle précieux dans notre écologie. Nous pouvons et devons faire davantage pour les amener à notre façon de penser.\"</color></size>",
-            "info": "<size=36>Si un zombie mange un Champi-hypno, il se ralliera à votre cause.\n\n<color=black>Spécial : </color><color=#8B0000>Raille un zombie à votre cause.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Les zombies sont nos amis\", affirme Champi-hypno. \"Ce sont des créatures très incomprises qui jouent un rôle précieux dans notre écologie. Nous pouvons et devons faire davantage pour les amener à notre façon de penser.\"</color></size>",
+            "info": "<size=36>Si un zombie mange un Champi-hypno, il se ralliera à votre cause.\n\n<color=black>Spécial : </color><color=#8B0000>Rallie un zombie à votre cause.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>30s</color></size>"
         },
         {
             "seedType": 9,
             "name": "Champi-peureux",
             "introduce": "<size=36><color=black>\"Qui est là ?\" murmure Champi-peureux, d'une voix à peine audible. \"Va-t'en. Je ne veux voir personne. Sauf si c'est l'homme du cirque.\"</color></size>",
-            "info": "<size=36>Les Champi-peureux sont des tireurs à distance qui se cachent en présence de l'ennemi.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color></size>",
+            "info": "<size=36>Les Champi-peureux sont des tireurs à distance qui se cachent quand l'ennemi se rapproche d'eux.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
         {
             "seedType": 10,
             "name": "Champi-glace",
-            "introduce": "<size=36><color=black>Champi-glace fronce les sourcils, non pas parce qu'il est mécontent ou parce qu'il désapprouve, mais à cause d'une blessure d'enfance qui a paralysé ses nerfs faciaux.</color></size>",
-            "info": "<size=36>Les Champi-glaces immobilisent temporairement les zombies à l'écran.\n\n<color=black>Dégâts : </color><color=#8B0000>20</color>\n<color=black>Spécial : </color><color=#8B0000>Immobilisez les zombies.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Champi-glace fronce les sourcils, pas parce qu'il est mécontant ou qu'il désaprouve, mais à cause d'une blessure d'enfance qui a paralysé ses nerfs faciaux.</color></size>",
+            "info": "<size=36>Les Champi-glace immobilisent temporairement tous les zombies à l'écran.\n\n<color=black>Dégâts: </color><color=#8B0000>20</color>\n<color=black>Spécial: </color><color=#8B0000>Immobilise tous les zombies sur place pendant 4 secondes, inflige un effet de gel pendant 10 secondes et cause 20 points de dégâts à tous les zombies non volants.</color></size>",
+            "cost": "<size=36>Coût: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 11,
             "name": "Champi-mort",
-            "introduce": "<size=36><color=black>\"Tu as de la chance que je sois de ton côté\", dit Champi-mort. \"Je pourrais détruire tout ce qui vous est cher. Ce ne serait pas difficile.\"</color></size>",
-            "info": "<size=36>Les Champi-morts détruisent tout et laissent un cratère incultivable derrière eux.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Laisse un cratère.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Tu as de la chance que je sois de ton côté\", dit Champi-mort. \"Je pourrais détruire tout ce qui t'es cher. Ce ne serait pas difficile.\"</color></size>",
+            "info": "<size=36>Les Champi-morts détruisent tout et laissent un cratère incultivable derrière eux.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Range: </color><color=#8B0000>5×5 (Un cercle d’un rayon de 3,75 cases)</color>\n<color=black>Spécial : </color><color=#8B0000>Après explosion il laisse un cratère qui dure 180s. Ne laisse pas de cratère s'il explose dans l'eau.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 12,
             "name": "Nénuphar",
-            "introduce": "<size=36><color=black>Lily Pad ne se plaint jamais. Lily Pad ne veut jamais savoir ce qui se passe. Mettez une plante sur Lily Pad, il ne dira rien. A-t-il des opinions surprenantes ou des secrets choquants ? Personne ne le sait. Lily Pad garde tout à l'intérieur.</color></size>",
-            "info": "<size=36>Les Neńuphars vous permettent de planter des plantes non aquatiques.\n\n<color=black>Spécial : </color><color=#8B0000>Des plantes non aquatiques peuvent y être plantées. Changement d'apparence selon la plante au-dessus.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Nénuphar ne se plaint jamais. Nénuphar ne veut jamais savoir ce qui se passe. Mettez une plante sur Nénuphar, il ne dira rien. A-t-il des opinions surprenantes ou des secrets choquants ? Personne ne le sait. Nénuphar garde tout à l'intérieur.</color></size>",
+            "info": "<size=36>Les Nénuphars vous permettent de planter des plantes non aquatiques au-dessus de ceux-ci.\n\n<color=black>Spécial : </color><color=#8B0000>Des plantes non aquatiques peuvent y être plantées. Change d'apparence selon le type de plante au-dessus.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 13,
@@ -108,16 +108,16 @@
         {
             "seedType": 15,
             "name": "Algue",
-            "introduce": "<size=36><color=black>\"Je suis totalement invisible\", se dit Algue. \"Je me cacherai ici, juste sous la surface, et personne ne me verra.\" Ses amis lui disent qu'ils le voient parfaitement, mais il ne changera jamais.</color></size>",
-            "info": "<size=36>Les Algues entraînent les zombies sous l'eau.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Je suis totalement invisible\", se dit l'Algue. \"Je me cacherai ici, juste sous la surface, et personne ne me verra.\" Ses amis lui disent qu'ils la voient parfaitement, mais elle ne changera jamais.</color></size>",
+            "info": "<size=36>Algue est le genre de plante qui entraîne le premier zombie sous l'eau avec elle (puis disparaît).\n\n<color=black>Dégâts : </color><color=#8B0000>Tue instantanément</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 16,
             "name": "Jalapeño",
-            "introduce": "<size=36><color=black>\"NNNNNGGGGG....\" dit Jalapeño. Il ne va pas exploser, pas cette fois. Mais bientôt. Oh, si tôt. C'est proche. Il le sait ; il peut le sentir ; Toute sa vie a mené à ce moment.</color></size>",
-            "info": "<size=36>Le Jalapeño a détruit une ligne entière de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"NNNNNGGGGG....\" dit Jalapeño. Il ne va pas exploser, pas cette fois. Mais bientôt. Oh, si tôt. C'est proche. Il le sait ; il peut le sentir ; Toute sa vie a mené à ce moment.</color></size>",
+            "info": "<size=36>Le Jalapeño détruit une ligne entière de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Portée: </color><color=#8B0000> Une seule ligne</color>\n<color=black>Spécial: </color><color=#8B0000>Élimine instantanément les Zombonis et leurs traces de glace</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 17,
@@ -136,16 +136,16 @@
         {
             "seedType": 19,
             "name": "Champi-mer",
-            "introduce": "<size=36><color=black>Champi-mer n'a jamais vu la mer. C'est à son nom, il en a beaucoup entendu parler, mais il n'a jamais trouvé le temps. Mais un jour, ça baissera.</color></size>",
-            "info": "<size=36>Les Champi-mers sont des plantes aquatiques qui tirent des spores à faible portée.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Champi-mer n'a jamais vu la mer. C'est dans son nom, il en a beaucoup entendu parler, mais il n'a jamais trouvé le temps. Mais un jour, il ira la-bas.</color></size>",
+            "info": "<size=36>Les Champi-mers sont des plantes aquatiques qui tirent des spores à faible portée.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Portée: </color><color=#8B0000> 2.5 tuile en face</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Rembourse 50 soleils après la fusion, excepté pour Champi-alevin (avec Champi-gnon).</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 20,
             "name": "Planterne",
-            "introduce": "<size=36><color=black>Planterne défie la science. Il le fait tout simplement. D'autres plantes mangent de la lumière et excrètent de l'oxygène ; Planterne mange les ténèbres et excrète la lumière. Planterne est méfiant quant à la façon dont il le fait. \"Je ne vais pas dire 'sorcellerie', je n'utiliserais pas le terme 'forces obscures', je… je pense que j'en ai assez dit.\"</color></size>",
-            "info": "<size=36>Les Plantes éclairent la zone même à travers le brouillard et fournissent des niveaux de luminosité.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard avec la lumière.</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Fournit 1 niveau Lumos dans une grille 3x3, qui peut être empilé pour fournir de la force à d'autres plantes Lumos. Référez-vous à ses fusions pour la liste des plantes affectées.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>15 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Planterne défie la science. Il le fait tout simplement. D'autres plantes mangent de la lumière et excrètent de l'oxygène ; Planterne mange les ténèbres et excrète la lumière. Planterne est méfiant quant à la façon dont il le fait. \"Je ne vais pas dire 'sorcellerie', je n'utiliserais pas le terme 'forces obscures', je… je pense que j'en ai assez dit.\"</color></size>",
+            "info": "<size=36>Les Planternes éclairent la zone même à travers le brouillard et fournissent des niveaux de luminosité.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard (5×7 excepté les coins). Les fusions de Planterne dissipe le brouillard dans un plus petit rayon de 1 tuile</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Fournit 1 niveau Lumos dans une grille 3x3, qui peut être empilé pour fournir de la force à d'autres plantes Lumos. Référez-vous à ses fusions pour la liste des plantes affectées.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>15s</color></size>"
         },
         {
             "seedType": 21,
@@ -311,9 +311,9 @@
         {
             "seedType": 901,
             "name": "Sulfateuse à Grenades",
-            "introduce": "<size=36><color=black>\"Je ne sais pas pourquoi le Gatling Pea a autant de fans. Mon frère et moi pouvons aussi tirer quatre balles,\" remarqua avec envie la Sulfateuse à Cerisesbomber. Cependant, la vérité est que tout le monde apprécie Gatling Pea pour sa gentillesse et ses talents culinaires exceptionnels.</color></size>",
-            "info": "<size=36>Sulfateuse à Grenades est l'infligeur de dégâts sur terre le plus puisssant.\n\n<color=black>Dégâts : </color><color=#8B0000>300*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Sulfateuse à Cerises + Pisto-grenade</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Les balles Cerise Explosive infligent désormais 3 fois plus de DMG\n2. Intervalle d'attaque → 1 seconde</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\" Je ne comprends pas pourquoi la Sulfateuse à Pois a autant de fans. Mon frère et moi, on tire quatre projectiles aussi \", grommelle la Sulfateuse Cerise, jalouse. En réalité, tout le monde apprécie la Sulfateuse à Pois pour sa gentillesse… et ses talents hors pair en cuisine.</color></size>",
+            "info": "<size=36>Sulfateuse à Grenades : le plus puissant sur terre.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Dégâts : </color><color=#8B0000>300×4/1.5s</color>\n\n<color=black>Modificateurs principaux du Mode Odyssée :</color><color=#8B0000>\n1. Dégâts des cerises explosives ×3\n2. Intervalle d’attaque divisé par 2</color>\n\n<color=black>Modificateur de Synergie : Écraseur Calcifer</color><color=#8B0000>\n<color=black>•</color> Vous devez avoir déverrouillé tous les modificateurs de la Sulfateuse à Grenades et de l'Écraseur Calcifer avant que cette synergie n’apparaisse en boutique.\n<color=black>•</color> La Sulfateuse à Grenades tire désormais des projectiles répartis équitablement sur trois lignes : ceux du haut et du bas suivent des trajectoires en sinus/cosinus. Si aucun espace n’est disponible pour invoquer un Écraseur Épicée, l'Écraseur Calcifer déclenche un effet Jalapeno sur tout le terrain.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse Cerise + Pisto-grenade</color>"
         },
         {
             "seedType": 902,
@@ -325,9 +325,9 @@
         {
             "seedType": 903,
             "name": "Cerizilla",
-            "introduce": "<size=36><color=black>Cherrizilla déclare fièrement : \"Beaucoup envient ma coiffure de dinosaure.\" En tant que personnalité publique, il est soucieux de son image : \"Cracher des cerises et manger des zombies, c'est dégoûtant, mais c'est mon devoir.\"</color></size>",
-            "info": "<size=36>Cerizilla est la plante défensive ultime sur terre.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Les zombies mordillants restaurent 1 000 points d'endurance, infligent 1 000 points de dégâts et crachent des cerises explosives. Les zombies avec des HP < 2000 seront tués instantanément et redonneront toute leur endurance à Cherrizilla. Repousse les véhicules, recevant au maximum 1/3 de sa Résistance maximale. Perd 10 % des HP max si les HP actuels dépassent le maximum.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Chewzilla + Cherry Mordeur</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Peut désormais tuer des zombies avec moins de santé que lui\n2. Le bonus de guérison de 200 % et les dégâts des zombies sont plafonnés à 500</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Cerizilla déclare fièrement : \" Beaucoup m’envient ma coupe façon dinosaure. \" En tant que figure publique, il soigne son image : \" Cracher des cerises et manger des zombies, c’est dégoûtant, mais c’est mon devoir. \"</color></size>",
+            "info": "<size=36>Cerizilla est la plante défensive ultime sur terre.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocable</color>\n\n<color=black>Dégâts : </color><color=#8B0000>1000/1.75s</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante haute. Repousse les véhicules et subit au maximum 1/3 de sa Robustesse maximale par coup.\n<color=black>•</color> Se régénère lorsqu’il est touché par des cerises explosives (même effet que la Noix Cerise). L’excédent de PV se dissipe à 800/s, plafonné à 4× sa Robustesse.\n<color=black>•</color> Toutes les 40s, peut dévorer un zombie non-miniboss, restaurant ses PV à 4× Robustesse et gagnant 1 charge de Dévoration.\n<color=black>•</color> Ses morsures infligent des dégâts de zone et des dégâts bonus équivalents à (PV max du zombie × (3% + 0.2% × charges de Dévoration)), en le soignant du même montant. Après avoir mordu, il recrache une cerise explosive.\n<color=black>•</color> Invincibilité : Lorsqu’il devrait mourir, reste à 1 PV pendant 5s (une fois toutes les 10s).</color>\n\n<color=black>Modificateurs principaux Odyssée :</color><color=#8B0000>\n1. Soin ×3\n2. Délai de Dévoration réduit à 15s</color>\n\n<color=black>Modificateur de Synergie — Noix d’Obsidienne :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de Cerizilla et de la Noix d’Obsidienne doivent être débloqués avant que cette synergie apparaisse en boutique.\n<color=black>•</color> Lorsque Cerizilla et la Noix d’Obsidienne (ou leurs sous-espèces) sont présentes ensemble, Cerizilla / Ailzilla n’a plus de limite maximale de Robustesse, et la Noix d’Obsidienne / Noix Mine-d’Obsidienne bénéficie d’une réduction de dégâts de 90%.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mordzilla + Mordeur Explosif</color>"
         },
         {
             "seedType": 904,
@@ -451,9 +451,9 @@
         {
             "seedType": 921,
             "name": "Ailzilla",
-            "introduce": "<size=36><color=black>Vêtu de vêtements civils avec une dent dorée voyante, un mot de sa part fait fuir les autres. \" Malheur à moi, j'en ai assez des projecteurs. Se démarquer ne me convient plus, je veux juste une vie simple et tranquille.'</color>",
-            "info": "<size=36>Cousin de la plante défensive ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de Cherrizilla qui ne guérit plus des explosions de cerises, hérite des propriétés d'Ail et tire des projectiles qui empoisonnent les zombies. Peut être commuté en Cherrizilla avec une Cerise Explosive et vice versa avec un Ail. Débloqué aux côtés de Cherrizilla.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cherrizilla + Ail</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Vêtu simplement, arborant une canine dorée clinquante, il lui suffit d’un mot pour faire fuir tout le monde. \" Ail-ement, j’en ai marre de la lumière des projecteurs. Me faire remarquer, ce n’est plus pour moi — je veux juste une vie tranquille, sans histoire.\"</color>",
+            "info": "<size=36>Cousin de la plante défensive ultime sur terre.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable avec Cerizilla</color>\n\n<color=black>Dégâts : </color><color=#8B0000>1000/1.75s</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n\n<color=#5E1675>Système de Poison : </color><color=#8B0000>Hérite des propriétés de l’Ail et projette des attaques qui empoisonnent les zombies.</color>\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Cerizilla. Hérite de tous ses traits mais tire des Bombes d’Ail Toxique infligeant 300 dégâts de zone, appliquant 1 point de Poison et l’effet Beurre d’Ail.\n<color=black>•</color> Ne se soigne plus avec les explosions de cerises, mais y reste totalement immunisé.</color>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Cerizilla <-> Ail</color>"
         },
         {
             "seedType": 922,
@@ -514,9 +514,9 @@
         {
             "seedType": 1005,
             "name": "Pisto-grenade",
-            "introduce": "<size=36><color=black>Découvrez Pisto-grenade, le tueur de plantes ultime. Il est plus irritable que jamais. Qui aurait pensé que le Cherryshooter chaleureux et amical avalerait une autre cerise spéciale ? Ne tentez pas votre chance avec lui. Cette cerise coincée dans sa gorge pourrait bien être son prochain coup : son visage devient déjà rouge !</color></size>",
-            "info": "<size=36>Les cerises tirées par le Pisto-grenade provoqueront des dégâts d'explosion de zone. Immunisé contre les explosions de cerises.\n\n<color=black>Dégâts : </color><color=#8B0000>300/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Cerise Explosive + Cerise Explosive</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Voici Pisto-grenade, la terreur des plantes… malgré lui. Plus irritable que jamais — qui aurait cru que l’adorable et chaleureux Pisto-cerise finirait par avaler une autre cerise spéciale ? Mieux vaut ne pas trop le titiller : la cerise coincée dans sa gorge pourrait bien être son prochain tir… et son visage rougit déjà dangereusement.</color></size>",
+            "info": "<size=36>Tire des cerises explosives qui détonent à l’impact.\n\n<color=black>Dégâts : </color><color=#8B0000>300/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ses projectiles infligent des dégâts d’explosion de zone.\n<color=black>•</color> Immunisé contre les explosions de cerises.\n<color=black>•</color> Réduit de 85% le temps de recharge du dernier paquet de graines de Cerise utilisé pour sa fusion.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Cerise Explosive + Cerise Explosive</color>"
         },
         {
             "seedType": 1006,
@@ -570,9 +570,9 @@
         {
             "seedType": 1013,
             "name": "Mordzilla",
-            "introduce": "<size=36><color=black>Chewzilla savoure chaque repas, malgré sa bouche plus petite. \"Les grandes gueules sont bâclées et ne vont pas au gymnase ; elles s'effondrent en première ligne\", se moque-t-il. \"Je ne mange que l'essence de la viande de zombie et je recrache le reste\", sourit-il, même si son jardin se remplit de restes.</color></size>",
-            "info": "<size=36>Mordzilla peut être à la fois un rempart et un attaquant féroce.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Manger des zombies restaure 200 points d'Endurance et inflige 200 points de dégâts tout en crachant des parties de zombies roulantes qui infligent 80 points de dégâts et transpercent à l'infini. Les zombies avec des PV < 500 et sans armure sont tués instantanément, restaurant 400 points d'endurance et crachant des morceaux de zombies qui roulent.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Noix + Mordeur</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Mordzilla savoure chaque repas, malgré sa bouche plus petite. \" Les Dévoreurs sont brouillons et ne vont jamais à la salle : ils s'effondrent en première ligne \", ricane-t-il. \" Moi, je ne mange que l’essence de la viande de zombie, et je recrache le reste \", ajoute-t-il avec un sourire carnassier — même si son jardin commence sérieusement à se remplir de restes.</color></size>",
+            "info": "<size=36>À la fois rempart solide et attaquant féroce.\n\n<color=black>Dégâts : </color><color=#8B0000>200/1.75s (Morsure) ; 80/3s (Morceau de zombie)</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Mordre un zombie restaure 200 de Robustesse et inflige 200 dégâts. Crache ensuite un morceau de zombie roulant infligeant 80 dégâts et traversant toutes les cibles.\n<color=black>•</color> Tue instantanément les zombies non blindés ayant moins de 500 de Robustesse, et restaure 400 de Robustesse. Crache aussi des morceaux qui repoussent les zombies.\n<color=black>•</color> Toutes les 40s, dévore un zombie et se régénère jusqu’à son maximum (jusqu’à 16 000 PV). Le surplus se dissipe à raison de 200 par seconde.\n<color=black>•</color> Les dégâts reçus par coup sont limités à 1/3 de sa Robustesse.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Noix + Mordeur</color>"
         },
         {
             "seedType": 1014,
@@ -640,30 +640,30 @@
         {
             "seedType": 1023,
             "name": "Champi-parfum",
-            "introduce": "<size=36><color=black>Le PerChampi-fumée coloré fait une grande entrée ! Avec une explosion de parfum, il peut retourner les zombies en un instant. Certains prétendent qu'il s'agit d'une technique secrète transmise par la famille des champignons, tandis que d'autres pensent qu'il s'agit d'une arme militaire de pointe. PerChampi-fumée sourit et dit : \"C'est grâce à Champi-hypno qui m'aide à me rincer la bouche tous les jours.\"</color></size>",
-            "info": "<size=36>Champi-parfum pulvérisé des fumées qui peuvent charmer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes (Piercing) </color>\n<color=black>Spécial : </color><color=#8B0000>Chance de charmer des zombies avec <50 % de santé. Hypnotise le zombie qui le mange.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-hypno</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Le Champi-parfum coloré fait une grande entrée ! Avec une explosion de parfum, il peut retourner les zombies en un instant. Certains prétendent qu'il s'agit d'une technique secrète transmise par la famille des champignons, tandis que d'autres pensent qu'il s'agit d'une arme militaire de pointe. Champi-parfum sourit et dit : \"C'est grâce à Champi-hypno qui m'aide à me rincer la bouche tous les jours.\"</color></size>",
+            "info": "<size=36>Champi-parfum vaporise des fumées qui peuvent charmer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s (Perçant) </color>\n<color=black>Spécial : </color><color=#8B0000>Chance de charmer des zombies qui ont moins de 50 % de santé. Plus la santé du zombie est basse, plus la probabilité augmente, jusqu’à 25 %. Pour les zombies affectés par l'effet du Champi-capricieux, le seuil d’hypnotisation est annulé. Hypnotise le zombie qui le mange mais redevient Champi-fumée.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-hypno</color>"
         },
         {
             "seedType": 1024,
             "name": "Champi-capricieux",
-            "introduce": "<size=36><color=black>Champi-peureux a toujours eu peur des zombies. Afin de réduire sa peur, Champi-hypno lui raconte chaque jour une histoire au coucher : \"En fait, il y a de bonnes personnes parmi les zombies.\" Au fil du temps, Champi-peureux a finalement subi un lavage de cerveau. Elle peut désormais utiliser des spores pour laver le cerveau des zombies. Bien sûr, elle a toujours très peur.</color></size>",
-            "info": "<size=36>Champi-capricieux peut tirer des spores de 7 couleurs.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Lance aléatoirement 1 des 7 types de spores. Lorsqu'un zombie est touché par les 7 types de spores, il sera charmé. Chaque fois qu'il sera touché par un type de spore, la probabilité de charme du PerChampi-fumée augmentera.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-peureux</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Champi-peureux a toujours eu peur des zombies. Afin de réduire sa peur, Champi-hypno lui raconte chaque jour une histoire au coucher : \"En fait, il y a de bonnes personnes parmi les zombies.\" Au fil du temps, Champi-peureux a finalement subi un lavage de cerveau. Il peut désormais utiliser des spores pour laver le cerveau des zombies. Bien sûr, il a toujours très peur.</color></size>",
+            "info": "<size=36>Champi-capricieux peut tirer des spores de 7 couleurs.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color>Tire aléatoirement 1 des 7 types de spores. Lorsqu'un zombie est touché par les 7 types de spores, il sera charmé. Chaque fois qu'il sera touché par un type de spore, la probabilité de charme du Champi-capricieux augmentera.</color>\n<color=black>•</color>Mordu, il hypnotise l'attaquant, mais redevient champi-peureux.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-hypno + Champi-peureux</color>"
         },
         {
             "seedType": 1025,
             "name": "Champi-courageux",
-            "introduce": "<size=36><color=black>\"Le courage me remplit, aucune peur ne subsiste~ Que ce soit le printemps, l'automne, l'hiver ou l'été~\" Gutsy-champignon ne rétrécit plus face aux zombies. \"J'avais l'habitude de trembler, mais le Senior Champi-fumée m'a dit : 'Si un zombie s'approche, vaporise tes spores. Se cacher ne résoudra rien.'\"</color></size>",
-            "info": "<size=36>Champi-courageux est prêt à affronter les zombies, de près ou de loin !!\n\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsque les zombies s'approchent de 3 tuiles, ils pulvériseront des fumées perçantes à la place.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-peureux</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Le courage me remplit, aucune peur ne subsiste~ Que ce soit le printemps, l'automne, l'hiver ou l'été~\" Champi-courageux ne rétrécit plus face aux zombies. \"J'avais l'habitude de trembler, mais mon mentor Champi-fumée m'a dit : 'Si un zombie s'approche, vaporise tes spores. Se cacher ne résoudra rien.'\"</color></size>",
+            "info": "<size=36>Champi-courageux est prêt à affronter les zombies, de près ou de loin !\n\n<color=black>Dégâts : </color><color=#8B0000>20×2/1.5s (Grande portée); 30/1.5s (Courte portée, perçant)</color>\n<color=black>Spécial : </color><color=#8B0000>Tire 2 spores en même temps, lorsqu’un zombie s’approche à 4 cases, Champi-courageux pulvérise des fumées perçantes à la place.</color></size>",
+            "cost": "\n<size=36>Fomule de Fusion: <color=#8B0000>Champi-fumée + Champi-peureux</color>"
         },
         {
             "seedType": 1026,
             "name": "Champi-charmant",
-            "introduce": "<size=36><color=black>Charm-champignon parle avec un doux sourire : \"Chaque spore porte mon amour, et quand elles fleurissent, c'est comme une brise printanière caressant l'air.\" Elle a même tourné la tête en forme de cœur pour exprimer ses sentiments. Ses yeux brillent de sincérité, espérant que peut-être, juste peut-être, les zombies comprendront son amour.</color></size>",
-            "info": "<size=36>Champi-charmant peut tirer des spores Charm explosives.\n\n<color=black>Dégâts : </color><color=#8B0000>80 / 1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>40 dégâts d'éclaboussure dans une grille de 1x1,5. A une chance de charmer les zombies avec < 50 % de PV.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-peureux + Champi-hypno</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Champi-charmant parle avec un doux sourire : \" Chaque spore porte un peu de mon amour, et quand elles s’épanouissent, c’est comme une brise de printemps qui caresse l’air. \" Elle va même jusqu’à tourner sa tête en forme de cœur pour exprimer ses sentiments. Dans ses yeux brille une sincérité profonde — peut-être qu’un jour, les zombies comprendront cet amour.</color></size>",
+            "info": "<size=36>Tire des spores explosives de Charme.\n\n<color=black>Dégâts : </color><color=#8B0000>120/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Inflige 40 dégâts de zone sans perte en 1 case de rayon.\n<color=black>•</color> A une chance d’hypnotiser les zombies ayant < 60% de Robustesse (ignorer l’armure de Type 2).\n<color=black>•</color> Lorsqu’elle est mordue, hypnotise l’attaquant puis redevient un Champi-courage.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Champi-peureux + Champi-hypno</color>"
         },
         {
             "seedType": 1027,
@@ -737,17 +737,17 @@
         },
         {
             "seedType": 1037,
-            "name": "Champi-gel",
-            "introduce": "<size=36><color=black>Le champi-givre se démarque parmi les Champi-fumées. Ses études à l’étranger dans la nature glaciale de l’Alaska l’ont rendu encore plus cool, littéralement. Bien qu'il n'ait étudié la coiffure que pendant quelques années, il en est plutôt fier.</color></size>",
-            "info": "<size=36>Les vapeurs du Champi-gel peuvent traverser les obstacles et geler les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes (Piercing) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000> Ajoutera 5 points Cryo après chaque attaque.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Champi-givré",
+            "introduce": "<align=justified><size=36><color=black>Le champi-givré se démarque parmi les Champi-fumées. Ses études à l’étranger dans la nature glaciale de l’Alaska l’a rendu encore plus cool… glacé jusqu’au chapeau ! Littéralement. Bien qu'il n'ait étudié la coiffure que pendant quelques années, il en est plutôt fier.</color></size>",
+            "info": "<size=36>Les vapeurs du Champi-givré peuvent transpercer et geler les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5 Secondes (Perçant) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000> Ajoute 5 points Cryo après chaque attaque. Champi-givré peut être amélioré en Champi-sombre Glacé grâce à un Fertilisant.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-glace</color>"
         },
         {
             "seedType": 1038,
             "name": "Champi-frileux",
-            "introduce": "<size=36><color=black>Shvery-shroom pense qu'il se démarque des autres Champi-peureux. Contrairement à eux, il ne recule jamais devant la peur et participe à toutes les activités sans hésitation. Cependant, c'est uniquement parce que lorsqu'il a peur, la température de l'air autour de lui chute, laissant tout le monde trop effrayé pour le surprendre.</color></size>",
-            "info": "<size=36>Champi-frileux lance des spores gélantes.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>10 points Cryo par attaque.</color>\n<color=black>Spécial : </color><color=#8B0000>Gelez les zombies à proximité lorsqu'ils s'approchent.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-peureux + Champi-glace</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Champi-frileux pense qu'il est différent des autres Champi-peureux. Contrairement à eux, il ne recule jamais devant la peur et participe à toutes les activités sans hésitation. Cependant, c'est uniquement parce que lorsqu'il a peur, la température de l'air autour de lui chute, laissant tout le monde trop effrayé pour le surprendre.</color></size>",
+            "info": "<size=36>Champi-frileux lance des spores glacés.\n\n<color=black>Dégâts: </color><color=#8B0000>40/1.5s</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Les attaques infligent un effet de gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelés..</color>\n<color=black>Spécial: </color><color=#8B0000>Gèle les zombies à proximité dès qu'ils s'approchent.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-peureux + Champi-glace</color>"
         },
         {
             "seedType": 1039,
@@ -759,30 +759,30 @@
         {
             "seedType": 1040,
             "name": "Champi-omnicide",
-            "introduce": "<size=36><color=black>\"Je vais geler le monde et le silence régnera. Le froid extrême perturbera le système de température de votre corps, donc ce ne sera pas très douloureux\", proclame CryoChampi-mort. Il apparaît rarement au combat, mais quand il le fait, une tempête de neige le suit dans son sillage. Avec un éclair de lumière blanche, même le temps semble se figer.</color></size>",
-            "info": "<size=36>Champi-omnicide peut détruire tout les zombies à l'écran et geler le temps.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000> Gèle le niveau – aucun nouveau zombie n'apparaîtra dans les 10 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Champi-mort</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Je vais geler le monde, et le silence règnera. Le froid extrême perturbera votre système nerveux, donc ce ne sera pas très douloureux\"proclame Champi-omnicide. Il apparaît rarement au combat, mais quand il le fait, une tempête de neige le suit dans son sillage. Avec un éclair de lumière blanche, même le temps semble se figer.</color></size>",
+            "info": "<size=36>Champi-omnicide peut détruire tout les zombies à l'écran et geler le temps.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial: </color><color=#8B0000>Gèle les zombies survivants pendant 5 secondes. Gèle également le niveau temporairement - les zombies n'apparaîtront pas pendant 10  secondes.</color></size>",
+            "cost": "\n<size=36>Formule fusion: <color=#8B0000>Champi-glace + Champi-mort</color>"
         },
         {
             "seedType": 1041,
             "name": "Champi-cryogène",
-            "introduce": "<size=36><color=black>Une beauté glaciale ? Une fleur intouchable ? Le champi-voile-de-givre s'en fiche. Elle s'occupa tranquillement de l'ornement givré sur sa tête, toujours prête à remettre son couvre-chef Frost-nut aux zombies à tout moment. \"Ils apprécieront l'ambiance décontractée\", remarque-t-elle froidement.</color></size>",
-            "info": "<size=36>Quand un zombie mange un Champi-cryogène, il se transformera en Zombie Noix Gelée qui se battra pour votre camp.\n\n<color=black>Spécial : </color><color=#8B0000>Au contact, transforme un zombie en zombie Frost-nut qui se battra pour vous. Gèle également tout le champ.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-glace</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Une beauté glaciale ? Une fleur intouchable ? Le champi-cryogène s'en fiche. Elle s'occupa tranquillement de l'ornement givré sur sa tête, toujours prête à lancer son couvre-chef Grande-noix-Glacé sur les zombies \"Ils apprécieront l'ambiance décontractée\", remarque-t-elle froidement.</color></size>",
+            "info": "<size=36>Quand un zombie mange un Champi-cryogène, il se transformera en Zombie Noix Gelée qui se battra pour vous.\n\n<color=black>Spécial : </color><color=#8B0000>Au contact, transforme un zombie en zombie Grande-noix-glacé qui se battra pour vous. Gèle également tout le terrain et disparait.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-hypno + Champi-glace</color>"
         },
         {
             "seedType": 1042,
             "name": "Champi-furieux",
-            "introduce": "<size=36><color=black>Alors que certaines plantes enfouissent instinctivement leur tête lorsqu'elles sont nerveuses, le champi-frénésie se nourrit d'excitation. Son adrénaline monte en flèche, provoquant le déclenchement de ses spores à un rythme croissant. Il est sage d'éviter de le provoquer à nouveau, sinon il pourrait exploser à cause de toute cette énergie refoulée.</color></size>",
-            "info": "<size=36>La vitesse d'attaque du Champi-furieux augmente en attaquant.\n\n<color=black>Dégâts : </color><color=#8B0000>20 / 1.5 Secondes (0.5 Peak)</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque raccourcira l'intervalle d'attaque de 0,1 seconde, maximum 0,5 seconde. Se réinitialise lorsque les zombies s'approchent. Explosera lorsque les zombies s'approchent alors que la vitesse d'attaque maximale est atteinte.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-peureux + Champi-mort</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black> Alors que certaines plantes ont l'instinct de cacher leur tête lorsqu'elles sont nerveuses, le Champi-furieux se nourrit d'excitation. Son adrénaline monte en flèche, provoquant une augmentation du rythme de la propagation de ses spores. Il est préférable de ne pas le provoquer à nouveau, ou il pourrait exploser sous l'effet de toute cette énergie refoulée.</color></size>",
+            "info": "<size=36>La vitesse d'attaque de Champi-furieux  augmente lorqu'il attaque.\n\n<color=black>Dégâts: </color><color=#8B0000>20/1.5 Seconds (0.25 Minimum)</color>\n<color=black>Spécial: </color><color=#8B0000>Chaque attaque réduit l'intervalle entre les attaques de 0,1 seconde, jusqu'à un minimum de 0,25 seconde. Se cache et se réinitialise lorsque les zombies s'approchent. Explose lorsque les zombies s'approchent alors que la vitesse d'attaque maximale est atteinte.</color></size>",
+            "cost": "\n<size=36>Formule fusion <color=#8B0000>Champi-peureux + Champi-mort</color>"
         },
         {
             "seedType": 1043,
-            "name": "Champi-suie",
-            "introduce": "<size=36><color=black>Soot-shroom, le bourreau de travail misanthrope, ne supporte pas la vue des zombies – c'est trop une distraction. Il a une petite réserve de balles, mais elles sont plus que mortelles. \"Ne me dérange pas sauf si c'est urgent. Si tu veux qu'ils soient morts, tue-les toi-même.\" Pourtant, sa grande efficacité incite tout le monde à l'admirer.</color></size>",
-            "info": "<size=36>Champi-suie peut détruire la plupart des zombies devant lui.\n\n<color=black>Dégâts : </color><color=#8B0000>1800/60 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez manuellement pour attaquer tous les zombies d'affilée.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-mort</color></size>",
-            "cost": ""
+            "name": "Champi-cendré",
+            "introduce": "<align=justified><size=36><color=black>Champi-cendré, le bourreau de travail misanthrope, ne supporte pas la vue des zombies – c’est trop distrayant. Il a une petite réserve de balles, mais elles sont plus que létales. \"Ne me dérange pas, sauf si c'est urgent. Si tu veux qu'ils soient morts, tire dessus toi-même.\" Pourtant, sa précision dans l’efficacité incite tout le monde à l'admirer.</color></size>",
+            "info": "<size=36>Champi-cendré peut détruire la plupart des zombies devant lui.\n\n<color=black>Dégâts : </color><color=#8B0000>1800/30s </color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez manuellement pour attaquer tous les zombies d'affilée en face de lui.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-mort</color>"
         },
         {
             "seedType": 1044,
@@ -794,16 +794,16 @@
         {
             "seedType": 1045,
             "name": "Champi-maudit",
-            "introduce": "<size=36><color=black>Les plantes se sont toujours demandé pourquoi les zombies ne pouvaient pas être tués pour de bon. Récemment, Curse-shroom a dévoilé le mystère : \"Je n'ai pas vraiment fait grand-chose\", dit-il modestement. \"J'ai gentiment aidé les zombies à activer leur source d'énergie cachée de secours. Ce zombie rouge n'a-t-il pas l'air particulièrement inoffensif ? Je les ai cependant prévenus.\"</color></size>",
-            "info": "<size=36>Les zombies qui mangent le Champi-maudit seront hypnotisés, et exploseront à leur mort.\n\n<color=black>Spécial : </color><color=#8B0000>Les zombies qui mangent le champi-malédiction seront charmés pour se battre pour vous. Le zombie maudit explosera à sa mort, infligeant d'énormes dégâts.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-mort</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les plantes se sont toujours demandé pourquoi les zombies ne pouvaient pas être tués pour de bon. Récemment, Champi-maudit a dévoilé le mystère : \"Je n'ai pas vraiment fait grand-chose\", dit-il modestement. \"J'ai gentiment aidé les zombies à activer leur source d'énergie cachée de secours. Ce zombie rouge n'a-t-il pas l'air particulièrement inoffensif ? Je les ai pourtant prévenus.\"</color></size>",
+            "info": "<size=36>Les zombies qui mangent le Champi-maudit seront hypnotisés, et exploseront à leur mort.\n\n<color=black>Spécial : </color><color=#8B0000>Les zombies qui mangent le Champi-maudit seront charmés et maudit. Le zombie maudit explosera à sa mort, provoquant une explosion similaire au Champi-mort. Mais il détruit également toutes les plantes sur lesquelles il se trouve (si il y en a).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Champi-mort</color></size>"
         },
         {
             "seedType": 1046,
-            "name": "Champi-glacier",
-            "introduce": "<size=36><color=black>Le givre s'est enroulé autour de son corps, lui ôtant l'innocence de sa jeunesse. Ses yeux, plus froids et plus meurtriers que le canon de n'importe quelle arme, ne montrent désormais que du mépris pour ses ennemis. Il est devenu le faucheur, le bout du fil. Quiconque est pris dans son regard glacial ferait bien de laisser un repas de moins préparé à la maison.</color></size>",
-            "info": "<size=36>Le Champi-glacier tire des cônes de glaces explosives.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/3 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoutez 10 points Cryo aux zombies à chaque coup. Inflige 4 fois plus de dégâts aux zombies gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Perce 3 ennemis. Inflige 10 dégâts à portée de contact avec l'ennemi.\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-glace + Champi-mort</color></size>",
-            "cost": ""
+            "name": "Champi-glace Maudit",
+            "introduce": "<align=justified><size=36><color=black>Le givre a emprisonné son corps et arraché l’innocence de sa jeunesse. Ses yeux, plus froids et plus meurtriers que le canon d’un fusil, ne reflètent plus qu’un mépris glacial. Désormais, il est le faucheur, le terminus. Quiconque croise son regard givré ferait mieux de ne pas laisser de repas en attente à la maison.</color></size>",
+            "info": "<size=36>Champi-glace Maudit tire des pointes glacées imprégnées d’énergie funeste.\n\n<color=black>Dégâts : </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoute 10 points Cryo par tir. Inflige ×4 dégâts supplémentaires aux zombies Gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Perce 2 cibles. Provoque un splash de 10 dégâts sans perte dans un rayon d’une tuile.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Champi-glace + Champi-mort</color>"
         },
         {
             "seedType": 1047,
@@ -814,10 +814,10 @@
         },
         {
             "seedType": 1049,
-            "name": "Algue épicé",
-            "introduce": "<size=36><color=black>\"La passion est comme le feu\", et Spicy Kelp ne connaît que trop bien ce dicton. Aucune quantité d’eau ne peut éteindre leurs flammes ferventes ! Dommage, les zombies à proximité ne ressentent que la chaleur du \"grill\". Regardez-les, ils sont déjà réduits en cendres dans cet incendie implacable !</color></size>",
-            "info": "<size=36>Épice-algue brulera la ligne de zombie entière quand un zombie entre en contact avec elle.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta + 1800 (Incendiaire)</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Algue + Jalapeño (Dans l'ordre)</color></size>",
-            "cost": ""
+            "name": "Algue-épicée",
+            "introduce": "<align=justified><size=36><color=black>\"La passion est comme le feu\", et Algue épicée ne connaît que trop bien ce dicton. Aucune quantité d’eau ne peut éteindre sa flamme fervente ! Dommage, les zombies à proximité ne ressentent que la chaleur du \"gril\". Regardez-les, ils sont déjà réduits en cendres dans cet incendie inarrêtable !</color></size>",
+            "info": "<size=36>Algue-épicée brûlera la ligne de zombie entière quand un zombie entre en contact avec elle.\n\n<color=black>Dégâts : </color><color=#8B0000>Tue instantanément (noie les zombies) + 1800 (Incendiaire)</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Algue + Jalapeño (Dans l'ordre)"
         },
         {
             "seedType": 1050,
@@ -836,16 +836,16 @@
         {
             "seedType": 1052,
             "name": "Torche Infernale",
-            "introduce": "<size=36><color=black>\"Il fait étouffant ici !\" Infernowood fulminait. Convaincu que le temps intense était responsable de sa peau, il remarqua que les flammes sur sa tête étaient également devenues d'un rouge vif. C'était peut-être le moment idéal pour lancer une aventure estivale appelée \"Sledding Tour\".</color></size>",
-            "info": "<size=36>La Torche Infernale donne une augmentation de dégâts encore plus grande aux projectiles !\n\n<color=black>Spécial : </color><color=#8B0000>Amélioration des dégâts selon le type de projectile. Explose à la mort.\nPetits pois : 80 | Cerises : 120 | Pois de fer : 320 | Lumière du soleil : 400 | Pois à trois voies : 60\nInflige 40 dégâts sur la durée aux zombies éclaboussés toutes les 3 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Torche + Jalapeño + Jalapeño</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\" Il fait une chaleur infernale ici ! \" s’emporta Torche Infernale. Persuadée que la météo extrême avait roussi sa peau, elle remarqua que les flammes sur sa tête avaient viré au rouge vif. Peut-être était-ce le moment parfait pour lancer une nouvelle aventure estivale : la “Tournée de la Luge en Feu”.</color></size>",
+            "info": "<size=36>Torche Infernale renforce encore davantage les projectiles qui passent à travers elle.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Explose comme un Piment Jalapeno à sa mort.\n<color=black>•</color> Enflamme les projectiles pour leur conférer les effets suivants :\n\t- Pois, Patates et Pois Ignités de bas niveau : +40 dégâts\n\t- Pois Hypno : +30 dégâts\n\t- Pois Brasier : +30 dégâts, deviennent des pois phénix\n\t- Pois Glace : deviennent des pois normaux\n\t- Cerises, Pois de Fer, Rayons Solaires : ×4 dégâts\n\t- Attaques de la Reine Endoflame : génèrent 15 Soleils au lieu de 5\n<color=black>•</color> Inflige 40 dégâts sur la durée aux zombies proches toutes les 1,5 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Torche + Jalapeno + Jalapeno</color>"
         },
         {
             "seedType": 1053,
             "name": "Torche Calcifer",
-            "introduce": "<size=36><color=black>Les températures élevées et le piquant vont toujours de pair. Scorchwood ne comprend peut-être pas ce concept, mais ses années de travail au stand de barbecue lui ont certainement insufflé une chaleur distinctive.</color></size>",
-            "info": "<size=36>Les projectiles allumés par la Torche Calcifer ont une grande augmentation de dégâts.\n\n<color=black>Spécial : </color><color=#8B0000>Amélioration des dégâts selon le type de projectile. Enflamme la voie en cas de mort.\nPois : 60, Cerises : 120, Bucks : 320, Lumière du soleil : 400, Pois à trois voies : 45</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Torche</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les températures élevées et le piquant vont toujours de pair. Torche Calcifer ne comprend peut-être pas ce concept, mais ses années de travail au stand de barbecue lui ont certainement insufflé une chaleur distinctive.</color></size>",
+            "info": "<size=36>Les projectiles allumés par la Torche Calcifer ont une grande augmentation de dégâts.\n\n<color=black>Spécial : </color><color=#8B0000> Éxplose en cas de mort enflammant la voie entière.</color> Enflamme les projectiles avec les effects suivant:\n\t-pois, Mine-patate et bas tier pois enflammés:\n\t +30 damage\n\t-Pois gelé: Redeviennent des pois basique.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Jalapeño + Torche</color>"
         },
         {
             "seedType": 1054,
@@ -863,10 +863,10 @@
         },
         {
             "seedType": 1056,
-            "name": "Torch-algue",
-            "introduce": "<size=36><color=black>\"Le feu a du mal à exister sous l'eau, ce qui signifie que je ne peux pas utiliser mes flammes pour éclairer le chemin\", a admis Torch-kelp. \"Mais une fois au-dessus de la surface, mes flammes peuvent à nouveau briller.\"</color></size>",
-            "info": "<size=36>Torch-algue peut allumer les projectiles d'algues et tirer les zombies sous l'eau.\n\n<color=black>Spécial : </color><color=#8B0000>Enflamme les tirs de pois et de varech. Les tirs de varech enflammés peuvent ajouter 1 valeur d'enchevêtrement à tous les zombies dans la zone d'éclaboussure. Chaque fois que 100 coups seront allumés, une Algue sera plantée devant.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Algue + Torche</color></size>",
-            "cost": ""
+            "name": "Algue-torche",
+            "introduce": "<align=justified><size=36><color=black>\"Le feu a du mal à exister sous l'eau, ce qui signifie que je ne peux pas utiliser mes flammes pour éclairer le chemin\", a admis Algue-torche. \"Mais une fois au-dessus de la surface, mes flammes peuvent à nouveau briller.\"</color></size>",
+            "info": "<size=36>Algue-torche peut allumer les projectiles d'algues et attrape un zombie sous l'eau (disparaît après).\n\n<color=black>Dégâts: </color><color=#8B0000>Tue instantanément (noie les zombies)</color>\n<color=black>Spécial : </color><color=#8B0000>Enflamme les tirs de pois et d'algues infligeant +20 points de dégâts en plus. Les tirs de algue enflammés peuvent ajouter 1 valeur d'enchevêtrement à tous les zombies dans la zone d'éclaboussure. Chaque fois que 100 tirs seront allumés, une autre Algue-torche sera plantée devant.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: </color><color=#8B0000>Algue + Torche</color>"
         },
         {
             "seedType": 1057,
@@ -905,10 +905,10 @@
         },
         {
             "seedType": 1062,
-            "name": "Ortie Piquante",
-            "introduce": "<size=36><color=black>\"Des études révèlent que le piquant est en fait un type de douleur\", annonça Scorchweed, faisant trembler les épines rouges sur sa tête. \"J'ai l'intention de laisser les zombies incrédules expérimenter cette réalité par eux-mêmes.\"</color></size>",
-            "info": "<size=36>Ortie Piquante explose les pneus et endommage les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20, Inflige le Debuff Enflammé</color>\n<color=#720026>Debuff enflammé : </color><color=#8B0000> Les dégâts subis augmentent de 50 % ; les zombies avec ce débuff explosent à leur mort, le propageant davantage.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Ortie</color></size>",
-            "cost": ""
+            "name": "Ortie-pimentée",
+            "introduce": "<align=justified><size=36><color=black>\"Des études révèlent que le piquant (piment) est en fait un type de douleur\", annonça Ortie-pimentée, faisant trembler les épines rouges sur sa tête. \"J'ai l'intention de laisser les zombies incrédules expérimenter cette réalité par eux-mêmes.\"</color></size>",
+            "info": "<size=36>Ortie-pimentée explose les pneus et enflame les zombies qui marchent sur elle.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1s</color>\n<color=black>Special: </color><color=#8B0000>Les attaques inflige l'altération Enflammé. Ortie-pimentée peut être améliorer en Lave Épineuse avec un Fertilisant.</color>\n<color=#720026>Altération enflammé: </color><color=#8B0000> Les dégâts subis augmentent de 50%; les zombies avec ce débuff explosent à leur mort, le propageant davantage.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: </color><color=#8B0000>Jalapeño + Ortie</color>"
         },
         {
             "seedType": 1063,
@@ -933,10 +933,10 @@
         },
         {
             "seedType": 1066,
-            "name": "Algue Cerbère",
-            "introduce": "<size=36><color=black>Algue Cerbère possède un cœur contemplatif. Si vous lui tendez un verre de bière de racine, préparez-vous à un discours sur les œuvres de Nietzsche ou de Kant. Bien qu'il ait de profondes réflexions, il aspire parfois à des conversations légères.</color></size>",
-            "info": "<size=36>Tire des algues qui rebondissent au contact et ralentissent les ennemis. \n<color=black>Dégâts : </color><color=#8B0000>40*3/3 Secondes</color>\n<color=black>Affaiblissement d'enchevêtrement : </color><color=#8B0000>Le varech rebondit au contact, infligeant 40 dégâts aux zombies proches lorsqu'ils atterrissent. Ralentit les ennemis aquatiques. Ajoute 1 valeur d'enchevêtrement au contact.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pistopois + Écraseur + Algue</color></size>",
-            "cost": ""
+            "name": "Algue Hydre",
+            "introduce": "<align=justified><size=36><color=black>Algue Hydre possède une âme contemplative. Si vous lui servez un verre de bière de racine, préparez-vous à un débat sur Nietzsche ou Kant. Malgré ses réflexions abyssales, elle rêve parfois de discussions plus légères.</color></size>",
+            "info": "<size=36>Tire des algues qui rebondissent à l’impact et ralentissent les zombies aquatiques. Peut également entraîner 3 zombies sous l’eau.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3/3s + Élimination instantanée (Noyade) ×3</color>\n<color=#006400>Affaiblissement Entrave : </color><color=#8B0000>Les algues rebondissent à l’impact et infligent 40 dégâts aux zombies proches lorsqu’elles retombent. Chaque algue applique 1 valeur d’Entrave au contact.</color>\n<color=black>Spécial : </color><color=#8B0000>Peut entraîner jusqu’à 3 zombies sous l’eau.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois + Écraseur > Algue</color>"
         },
         {
             "seedType": 1067,
@@ -962,23 +962,23 @@
         {
             "seedType": 1070,
             "name": "Champi-sombre",
-            "introduce": "<size=36><color=black>\"J'ai toujours aimé libérer de fortes fumées\", déclare Gloom Shroom. \"Je sais que beaucoup de gens ne sont pas d'accord avec ça. Ils disent que c'est impoli ou que ça sent mauvais. Tout ce que je peux dire, c'est, préféreriez-vous que votre cerveau soit dévoré par des zombies ?\"</color></size>",
-            "info": "<size=36>Les Champi-sombres tirent des fumées lourdes qui endommagent les zombies dans une zone autour d'eux.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.9 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"J'ai toujours aimé libérer de fortes fumées\", déclare Champi-sombre. \"Je sais que beaucoup de gens ne sont pas d'accord avec ça. Ils disent que c'est impoli ou que ça sent mauvais. Tout ce que je peux dire, c'est, préféreriez-vous que votre cerveau soit dévoré par des zombies ?\"</color></size>",
+            "info": "<size=36>Les Champi-sombres tirent des fumées lourdes qui endommagent les zombies dans une zone autour d'eux.\n\n<color=black>Dégâts : </color><color=#8B0000>20×4/1.9s (Perçant)</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 1071,
             "name": "Champi-sombre Enflammé",
-            "introduce": "<size=36><color=black>La capacité du Champi-sombre Enflammé à libérer de la vapeur chaude a fait de lui un boulanger-pâtissier célèbre. Ses pâtisseries épicées emblématiques sont parmi tant d'autres, appréciées pour leurs saveurs distinctes.</color></size>",
-            "info": "<size=36>Libère des fumées de braises infligeant de gros dégats autour de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>40*4/1.9 Secondes</color>\n<color=#720026>Debuff Enflammé : </color><color=#8B0000>Inflige le débuff Enflammé en attaquant des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Champi-sombre</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>La capacité du Champi-sombre Enflammé à libérer de la vapeur chaude a fait de lui un boulanger-pâtissier célèbre. Ses pâtisseries épicées emblématiques sont particulièrement appréciées pour leurs saveurs distinctes.</color></size>",
+            "info": "<size=36>Libère des fumées de braises infligeant de gros dégats autour de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>40×4/1.9s (Perçant)</color>\n<color=#720026>Altération Enflammé : </color><color=#8B0000>Inflige l'altération Enflammé en attaquant des zombies.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Jalapeño + Champi-sombre</color>"
         },
         {
             "seedType": 1072,
             "name": "Champi-sombre Glacé",
-            "introduce": "<size=36><color=black>Rêvant d'une carrière de physicien, le Champi-sombre Glacé consacre ses journées à démêler les complexités du monde, en évitant tout contact avec d'autres plantes. \"Pourquoi ai-je plusieurs rangées de cornets de glace qui sortent de ma tête ?\" réfléchit-il, la dernière question occupant ses pensées. Il est étrangement catégorique à l'idée de les appeler \" chaînes \".</color></size>",
-            "info": "<size=36>Libère des fumées froides autour de lui et gèle les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.9 Secondes (Piercing) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points Cryo.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Champi-sombre</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Rêvant d'une carrière de physicien, le Champi-sombre Glacé consacre ses journées à démêler les complexités du monde, en évitant tout contact avec d'autres plantes. \"Pourquoi ai-je plusieurs rangées de cornets de glace qui sortent de ma tête ?\" réfléchit-il, la dernière question occupant ses pensées. Il est étrangement catégorique à l'idée de les appeler \" chaînes \".</color></size>",
+            "info": "<size=36>Libère des fumées gelée autour de lui et gèle les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40×4/1.9s (Perçant)</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points Cryo.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : </color><color=#8B0000>Champi-glace + Champi-sombre</color>"
         },
         {
             "seedType": 1073,
@@ -1003,10 +1003,10 @@
         },
         {
             "seedType": 1076,
-            "name": "Champi-cactus Marin",
-            "introduce": "<size=36><color=black>\"Les gens me posent souvent des questions sur mon apparence, alors permettez-moi de clarifier : je viens du désert du Namib\", a déclaré le champi-épine de mer à toute personne qui s'enquérait. \"Si vous êtes familier avec la géographie, vous saurez qu'un désert se trouve juste à côté de l'océan !\"</color></size>",
-            "info": "<size=36>Attaquez les zombies volants et les machines volantes, grandit en taille après un moment.\n\n<color=black>Dégâts : </color><color=#8B0000>20 → 20*4 / 1.5 Secondes</color>\n<color=black>Temps de croissance : </color><color=#8B0000>120 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Cactus</color></size>",
-            "cost": ""
+            "name": "Cactus Marin",
+            "introduce": "<align=justified><size=36><color=black>\"Les gens me posent souvent des questions sur mon apparence, alors permettez-moi de clarifier : je viens du désert du Namib\", a déclaré le Cactus Marin à quiconque s’enquérait. \"Si vous êtes familier avec la géographie, vous saurez qu'un désert se trouve juste à côté de l'océan !\"</color></size>",
+            "info": "<size=36>Attaque les zombies volants et les machines volantes, grandit en taille après un moment.\n\n<color=black>Dégâts : </color><color=#8B0000>20 → 20×4 / 1.5s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>120s</color>\n<color=black>Spécial: </color><color=#8B0000>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Cactus</color>"
         },
         {
             "seedType": 1077,
@@ -1017,31 +1017,31 @@
         },
         {
             "seedType": 1078,
-            "name": "Champi-lanterne Marine",
-            "introduce": "<size=36><color=black>\"J'ai été un système d'éclairage lors d'une fête de pirates au bord de la piscine, j'ai travaillé pour une entreprise de récupération en eau profonde d'Amazon pendant trois mois et j'ai même servi d'appât pour la pêche de nuit pendant que je dormais !\" \" partage Sea Lamp-Shroom, un mélange de colère et de fierté évident dans sa voix. \"Maintenant, je cherche un emploi stable. Oncle Dave a mentionné que la piscine du jardin avait besoin d'éclairage, mais il a oublié de mentionner qu'elle était infestée de zombies !\"</color></size>",
-            "info": "<size=36>Disperse le brouillard et émet de la lumière, grandit en taille après un moment.\n\n<color=black>Temps de croissance : </color><color=#8B0000>60 secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos dans une grille 3x3, 5x5 après croissance.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Planterne</color></size>",
-            "cost": ""
+            "name": "Planterne Marine",
+            "introduce": "<align=justified><size=36><color=black>\"J'ai été un système d'éclairage lors d'une fête de pirates au bord de la piscine, j'ai travaillé pour une entreprise de récupération en eau profonde d'Amazonie pendant trois mois et j'ai même servi d'appât pour la pêche de nuit pendant que je dormais !\" Planterne Marine partage, un mélange de colère et de fierté évident dans sa voix. \"Maintenant, je cherche un emploi stable. Oncle Dave a mentionné que la piscine du jardin avait besoin d'éclairage, mais il a oublié de mentionner qu'elle était infestée de zombies !\"</color></size>",
+            "info": "<size=36>Disperse le brouillard et émet de la lumière, grandit en taille après un moment.\n\n<color=black>Temps de croissance : </color><color=#8B0000>60s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos dans une grille 3x3, 5x5 après croissance.</color>\n<color=black>Special: </color><color=#8B0000>Petite plante (évite les projectiles tirés en ligne droite). Hérite de caractéristiques de la Planterne.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Planterne</color>"
         },
         {
             "seedType": 1079,
             "name": "Cactus Lumineux",
-            "introduce": "<size=36><color=black>\"Mes aventures dans le désert m'ont rendu remarquablement brillant\", se vantait Lumicactus, mais il n'a jamais oublié de faire le plein d'huile de lampe chaque jour pour s'assurer de continuer à briller.</color></ taille>",
-            "info": "<size=36>Tire des piquets percant et des lasers, dépendant du niveau de lumos.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes, 20*2/1.5 Secondes (Air)</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Obtient les buffs suivants en fonction du niveau Lumos :\nNiveau 1 = Percer 3 fois\nNiveau 2 = Perçage infini\nNiveau 3 = Dégâts aériens laser → 60</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Cactus</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Mes aventures dans le désert m'ont rendu remarquablement brillant\", se vantait Cactus Lumineux, mais il n'oublie jamais de faire le plein d'huile de lampe chaque jour pour s'assurer de continuer à briller.</color></size>",
+            "info": "<size=36>Tire des piquets percant et des lasers, dépendant du niveau de lumos.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1.5s</color>\n<color=#99582a>Système Lumos: </color><color=#8B0000>Obtiens les effets Bonus dépendament du niveau de Lumos:\n<color=black>•</color> Niveau 1 = Projectile 2× plus Perçant\n<color=black>•</color> Niveau 2 = Laser Perçant à l'Infini, Dégâts aux unités volantes ×3\n<color=black>•</color> Niveau 3 = Dégâts du Laser de base augmenté → +40</color>\n<color=black>Special: </color><color=#8B0000>Tire 2 fois en même temps lorsqu'il attaque les zombies volant/machines.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Cactus</color>"
         },
         {
             "seedType": 1080,
             "name": "Troufle Lumineux",
-            "introduce": "<size=36><color=black>\"La bougie argentée illumine la froide toile d'automne, tandis que l'éventail en soie légère danse gracieusement avec les lucioles.\" C'est le poème bien-aimé de Glowver. Sa fascination pour les lucioles a commencé dans son enfance, et il apprécie souvent la brise fraîche au bord de l'eau la nuit, admirant la façon dont leur fluorescence s'élève doucement du vent, scintille avant de retomber doucement dans l'herbe sombre. Seuls les zombies pourraient ignorer une beauté aussi exquise.</color></size>",
-            "info": "<size=36>Disperse le brouillard et augmente le niveau de Lumos des plantes Lumos présentes.\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos aux plantes Lumos dans tout le champ pendant 30 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Troufle</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"La bougie argentée illumine la froide toile d'automne, tandis que l'éventail en soie légère danse gracieusement avec les lucioles.\" C'est le poème bien-aimé de Troufle Lumineux. Sa fascination pour les lucioles a commencé dans son enfance, et il apprécie souvent la brise fraîche au bord de l'eau la nuit, admirant la façon dont leur fluorescence s'élève doucement du vent, scintille avant de retomber doucement dans l'herbe sombre. Seuls les zombies pourraient ignorer une beauté aussi exquise.</color></size>",
+            "info": "<size=36>Disperse le brouillard et augmente le niveau de Lumos des plantes Lumos présentes.\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos aux plantes Lumos dans tout le champ pendant 30 secondes.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Troufle</color></size>"
         },
         {
             "seedType": 1081,
             "name": "Carambole Lumineuse",
-            "introduce": "<size=36><color=black>Les étoiles dansent sur l'eau tandis que les lumières de pêche se préparent à s'élever dans le ciel. Les vagues emportent la lune tandis que la marée fait naître les étoiles. Enfant, Starglow rêvait de cueillir les étoiles, observant souvent leur miroitement sur l'eau. Sa rencontre avec Planterne lui a appris qu'il ne faut pas envier les étoiles brillantes d'en haut ; même la lumière la plus faible, comme les lucioles, a sa propre chaleur et sa propre beauté.</color></size>",
-            "info": "<size=36>Tire des étoiles qui peuvent traquer les zombies si il y'a de la lumière présente.\n\n<color=black>Dégâts : </color><color=#8B0000>40*5/3 Secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Obtient les buffs suivants : \nNiveau 1 = Les étoiles peuvent désormais suivre les zombies dans la même rangée qu'elles.\nNiveau 2 = Les étoiles sont tirées en continu, qu'il y ait ou non des zombies.\nNiveau 3 = Les étoiles traquent les zombies partout.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les étoiles dansent sur l’eau tandis que les lamparos se préparent à s’élever dans le ciel. Les vagues dérobent la lune, tandis que la marée ouvre le chemin aux étoiles. Enfant, Carambole Lumineuse rêvait de cueillir les étoiles, observant souvent leurs reflet miroitant sur l'eau. Sa rencontre avec Planterne lui a appris qu'il ne faut pas envier les étoiles brillantes d'en haut ; même la lumière la plus faible, comme les lucioles, a sa propre chaleur et sa propre beauté.</color></size>",
+            "info": "<size=36>Tire des étoiles qui peuvent traquer les zombies si il y a de la lumière présente.\n\n<color=black>Dégâts : </color><color=#8B0000>60×5/3s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Obtient les Altérations suivantes: \n<color=black>•</color>Niveau 1 = Les étoiles peuvent désormais suivre les zombies dans la même rangée qu'elles.\n<color=black>•</color> Niveau 2 = Les étoiles sont tirées en continu, qu'il y ait ou non des zombies.\n<color=black>•</color> Niveau 3 = Les étoiles traquent les zombies partout.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Carambole</color>"
         },
         {
             "seedType": 1082,
@@ -1053,9 +1053,9 @@
         {
             "seedType": 1083,
             "name": "Étoile de Mer",
-            "introduce": "<size=36><color=black>\"Bien que mon nom ressemble à celui d'un animal, ce n'est qu'un nom de scène\", a expliqué Sea Star. \"Je suis un magicien capable d'expulser des spores de différentes formes.\" Il nourrit une profonde aversion pour les zombies plongeurs, craignant qu'ils découvrent la vérité : il s'agit simplement d'un Champi-mer avec un pistolet à eau en forme d'étoile perché sur sa tête.</color></size>",
-            "info": "<size=36>Attaque deux fois une fois qu'il a grandit.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5 → 20*5*2 / 1.5 Secondes</color>\n<color=black>Temps de croissance : </color><color=#8B0000>60 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Bien que mon nom ressemble à celui d'un animal, ce n'est qu'un nom de scène\", a expliqué Étoile de Mer. \"Je suis un magicien capable d'expulser des spores de différentes formes.\" Il nourrit une profonde aversion pour les zombies plongeurs, craignant qu'ils découvrent la vérité : il s'agit simplement d'un Champi-mer avec un pistolet à eau en forme d'étoile perché sur sa tête.</color></size>",
+            "info": "<size=36>Attaque deux fois une fois qu'il a grandit.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5 → 20×5×2/1.5s</color>\n<color=black>Spécial:</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>Temps de croissance : </color><color=#8B0000>60s</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Carambole</color>"
         },
         {
             "seedType": 1084,
@@ -1073,17 +1073,17 @@
         },
         {
             "seedType": 1086,
-            "name": "Champi-troufle Marin",
-            "introduce": "<size=36><color=black>Le champignon marin a des aspirations aussi grandes que celles d'un dragon. Maîtrisant l'art ancien du \" Feng Shui \" venu d'Orient, il connaît bien les positions chanceuses et malchanceuses. Comprenant que le vent et l'eau se complètent, il espère garder le malheur à distance, qu'il s'envole dans le ciel ou qu'il glisse sur l'eau.</color></size>",
-            "info": "<size=36>Disperse le brouillard et repousse les zombies dans l'eau.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard et repousse les zombies aquatiques.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Troufle</color></size>",
-            "cost": ""
+            "name": "Troufle Marin",
+            "introduce": "<align=justified><size=36><color=black>Le Troule Marin a des aspirations aussi grandes que celles d'un dragon. Maîtrisant l'art ancien du \"Feng Shui\" venu d'Orient, il connaît bien les positions chanceuses et malchanceuses. Comprenant que le vent et l'eau se complètent, il espère tenir le malheur à distance, qu'il s'envole dans le ciel ou qu'il glisse sur l'eau.</color></size>",
+            "info": "<size=36>Disperse le brouillard et repousse les zombies dans l'eau.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Dissipe le brouillard et repousse les zombies le plus à droite possible de sa colonne.\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Troufle</color>"
         },
         {
             "seedType": 1087,
-            "name": "Citrouille-lanterne",
-            "introduce": "<size=36><color=black>Jack O'Lantern insiste sur le fait qu'il rencontre fréquemment des fantômes, mais existent-ils vraiment ? Qui peut le dire avec certitude ? Peut-être a-t-il simplement été entraîné dans une autre série de festivités d'Halloween par quelqu'un avide de bonne frayeur.</color></size>",
-            "info": "<size=36>Dans une petite zone, dispersez le brouillard et augmentez le niveau de Lumos des plantes à l'intérieur.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donnez 1 niveau Lumos dans une grille 3x3. Restaure 150 points d'endurance par niveau de Lumos toutes les 15 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Citrouille</color></size>",
-            "cost": ""
+            "name": "Planterne d'halloween",
+            "introduce": "<align=justified><size=36><color=black>Planterne d'halloween insiste sur le fait qu'il rencontre fréquemment des fantômes, mais existent-ils vraiment ? Qui peut le dire avec certitude ? Peut-être a-t-il simplement été entraîné dans une autre série de festivités d'Halloween par quelqu'un avide de bonne frayeur.</color></size>",
+            "info": "<size=36>Dans une petite zone, disperse le brouillard et augmente le niveau de Lumos des plantes à l'intérieur.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donnez 1 niveau Lumos dans une grille 3x3. Restaure 150 points de Robustesse par niveau de Lumos toutes les 15s.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Citrouille</color>"
         },
         {
             "seedType": 1088,
@@ -1129,17 +1129,17 @@
         },
         {
             "seedType": 1094,
-            "name": "Carambole Diable",
-            "introduce": "<size=36><color=black>Starjoker portait souvent le fardeau d'être considéré comme un clown de cirque, ce qui le laissait mécontent. \"Je peux paraître comique, mais je suis en fait un super-héros\", a-t-il déclaré. \"J'ai réquisitionné le Jack-in-the-Box du zombie et j'ai enfilé le costume de héros à l'intérieur !\" Peut-être que le Champi-aimant qui l'a aidé dans le braquage n'a jamais mentionné d'où venait la boîte.</color></size>",
-            "info": "<size=36>Tire des étoiles qui explosent au contact.\n\n<color=black>Dégâts : </color><color=#8B0000>40*5/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les étoiles explosent pour infliger de petits dégâts de zone au contact.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Carambole + Champi-aimant) + Jack-in-the-Box (Dans la commande)</color></size>",
-            "cost": ""
+            "name": "Carambole Diabolique",
+            "introduce": "<align=justified><size=36><color=black>La Carambole Diabolique a longtemps porté le fardeau d’être pris pour un simple clown de cirque, ce qui la laissait profondément insatisfaite. \" J’ai peut-être l’air comique, mais je suis en réalité un super-héros \", affirma-t-elle. \" J’ai détourné la boîte surprise des zombies et enfilé le costume de héros caché à l’intérieur ! \" Quant au Champi-magnétique qui l’a aidé dans le cambriolage, il a peut-être simplement oublié de préciser d’où venait réellement la boîte.</color></size>",
+            "info": "<size=36>Tire des étoiles qui explosent au contact.\n\n<color=black>Dégâts : </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Les étoiles explosent au contact, infligeant de faibles dégâts de zone sans perte d’efficacité.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Diable à  ressort > Carambole Mangétique</color>"
         },
         {
             "seedType": 1095,
-            "name": "Carambole Mineure",
-            "introduce": "<size=36><color=black>\"Cela ressemble remarquablement à une pioche\", commenta Starpick, une pointe d'amusement dans son ton. \"Je peux sentir une partie de moi-même nichée dans le sol, et c'est assez agréable, à moins que vous ne soyez dérangé par des insectes comme les mille-pattes.\" Avec un sourire effronté, il a lancé : \"Pourquoi ne pas enlever mon chapeau ? Vous découvrirez que je ressemble encore plus à une pioche que vous !\"</color></size>",
-            "info": "<size=36>La Carambole Mineure se cache sous le sol : les zombies ne l'attaqueront pas.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Ne peut pas être attaqué.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Carambole + Champi-aimant) + Pioche (Dans Commande)</color></size>",
-            "cost": ""
+            "name": "Carambole Mineuse",
+            "introduce": "<align=justified><size=36><color=black>\" Elle ressemble incroyablement à une pioche \", commenta la Carambole Mineuse avec une pointe d’amusement. \" Je sens une partie de moi nichée sous terre, et c’est plutôt agréable… sauf quand on tombe sur des mille-pattes. \" Avec un sourire malicieux, elle lança : \" Et si tu retirais mon chapeau ? Tu verrais que je suis encore plus pioché que tu ne le penses ! \"</color></size>",
+            "info": "<size=36>La Carambole Mineuse se cache sous terre : les zombies ne l’attaquent pas.\n\n<color=black>Dégâts : </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Ne peut pas être attaquée et ne bloque pas les zombies.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pioche > Carambole Magnétique</color>"
         },
         {
             "seedType": 1096,
@@ -1157,17 +1157,17 @@
         },
         {
             "seedType": 1098,
-            "name": "Citrouille Diable",
-            "introduce": "<size=36><color=black>\"Chaque fois que j'émerge, cela signale l'arrivée du clown. Tout le monde se demande ce qu'il y a dans sa boîte, mais le résultat reste un mystère. J'ai eu un aperçu une fois, et ce moment a tout changé pour moi. moi.\"</color></size>",
-            "info": "<size=36>Peut bloquer les explosions causées par les zombies Jack-in-the-Box\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Annule les dégâts d'explosion du Jack-in-the-Box, protégeant la plante à l'intérieur.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Citrouille + Champi-aimant) + Jack-in-the-Box</color></size>",
-            "cost": ""
+            "name": "Citrouille Diabolique",
+            "introduce": "<align=justified><size=36><color=black>\" Chaque fois que j’apparais, cela annonce l’arrivée du clown. Tout le monde se demande ce qui se cache dans son diable à ressort, mais personne ne connaît jamais vraiment l’issue. Je l’ai vu une fois… et ce moment a tout changé pour moi. \"</color></size>",
+            "info": "<size=36>Peut bloquer les explosions des zombies Diable à ressort.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Annule les dégâts d’explosion du Diable à ressort, protégeant ainsi la plante abritée.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Diable à ressort > Citrouille Magnétique</color>"
         },
         {
             "seedType": 1099,
-            "name": "Citrouille Mineure",
-            "introduce": "<size=36><color=black>La citrouille est fréquemment utilisée pour protéger les plantes à l'arrière des attaques des mineurs. Curieux de pouvoir empêcher les mineurs de forer dans le sol, il ramassa leurs pioches et les étudia. Finalement, il a développé une nouvelle technologie qui oblige les mineurs à creuser leur chemin hors du sol à l'avance.</color></size>",
-            "info": "<size=36>Peut bloquer les tentatives de minage des Digger Zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Force les zombies Digger à déterrer prématurément.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Citrouille + Champi-aimant) + Pioche</color></size>",
-            "cost": ""
+            "name": "Citrouille Mineuse",
+            "introduce": "<align=justified><size=36><color=black>La Citrouille est souvent utilisée pour protéger les plantes de l’arrière contre les zombies mineurs. Intriguée par la manière d’empêcher ces foreurs de creuser sous terre, elle a récupéré leurs pioches pour les étudier. À force d’essais, elle a fini par mettre au point une technologie obligeant les mineurs à ressortir plus tôt que prévu.</color></size>",
+            "info": "<size=36>Peut bloquer les tentatives de minage des zombies mineurs.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Force les zombies mineurs à remonter prématurément à la surface.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pioche > Citrouille Magnétique</color>"
         },
         {
             "seedType": 1100,
@@ -1178,10 +1178,10 @@
         },
         {
             "seedType": 1101,
-            "name": "Champi-aimant Marin",
-            "introduce": "<size=36><color=black>Les autres Champi-mers ne comprenaient pas pourquoi le Champi-aimant des Mers pouvait absorber le fer pour devenir de plus en plus grand. \"C'est simple : E=mc²\", a-t-il expliqué, même si la majeure partie de l'énergie était perdue dans l'air et restait totalement inutilisée.</color></size>",
-            "info": "<size=36>Étrange... Pourquoi est-ce que l'aimant grandit en même tant que lui ?\n\n<color=black>Intervalle d'aimant : </color><color=#8B0000>15 secondes → 10 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Pousse après avoir attiré 3 fois.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Champi-aimant</color></size>",
-            "cost": ""
+            "name": "Aimant Marin",
+            "introduce": "<align=justified><size=36><color=black>Les autres Champi-mers ne comprenaient pas pourquoi l'Aimant Marin pouvait absorber le fer pour devenir de plus en plus grand. \"C'est simple : E=mc²\", a-t-il expliqué, même si la majeure partie de l'énergie était perdue dans l'air et restait totalement inutilisée.</color></size>",
+            "info": "<size=36>Étrange... Pourquoi est-ce que l'aimant grandit en même tant que lui ?\n\n<color=black>Intervalle d'aimant : </color><color=#8B0000>15 Seconds → 10s</color>\n<color=black>Spécial : </color><color=#8B0000>Pousse après avoir aimanté 3 fois.\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Champi-aimant</color>"
         },
         {
             "seedType": 1102,
@@ -1199,10 +1199,10 @@
         },
         {
             "seedType": 1104,
-            "name": "Carambole Filante",
-            "introduce": "<size=36><color=black></color></size>",
-            "info": "<size=36>Invoque une météorite qui cause des dégats dévastateurs.\n\n<color=black>Dégâts : </color><color=#8B0000>60*5/3 Secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Les niveaux Lumos 1 à 3 ont le même effet que Starglow. En atteignant Lumos niveau 4, invoque un autre type de météore qui a un temps de recharge distinct de celui du météore d'origine.</color>\n<color=#495057>Système Magnétique : </color><color=#8B0000>Chaque plante connectée au Système Magnétique augmentera les dégâts des étoiles de 5%.\n<color=#6A0C9D>Les deux systèmes peuvent augmenter les dégâts des étoiles jusqu'à 120 maximum.\n<color=black>Spécial : </color><color=#8B0000>Invoque un météore qui touche le sol et explose en étoiles toutes les 60 secondes. Le temps de recharge peut être réduit en connectant d'autres Carambole Filantes ensemble, jusqu'à 13 pour un temps de recharge amélioré de 25 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Champi-aimant + Carambole</color>\n<color=black>Buff exclusif à l'Odyssée : </color><color=#8B0000>Les temps de recharge des attaques de tous les Météores sont réduits de moitié | Gravitron Sous-espèce Débloqué</color></size>",
-            "cost": ""
+            "name": "Étoile Filante",
+            "introduce": "<align=justified><size=36><color=black>Les nuits préférées de l'Étoile Filante ? Celles où le brouillard prend une pause, lui permettant de bavarder avec les étoiles. \" Elles me comprennent vraiment \", dit-il, persuadé qu’elles sont tout aussi fascinées par lui que lui par elles. Un jour, il en est sûr, l’une descendra lui dire bonjour. En attendant ? Il continue de leur parler.</color>",
+            "info": "<size=36>Invoque une météorite infligeant des dégâts dévastateurs.\n\n<color=black>Dégâts : </color><color=#8B0000>60×5/3s</color>\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Les niveaux Lumos 1 à 3 reproduisent l’effet de Étoile Brillante. Au niveau Lumos 4, il invoque un second type de météorite disposant de son propre temps de recharge, indépendant du premier.</color>\n\n<color=#666699>Système Magnétique : </color><color=#8B0000>Chaque plante connectée au Système Magnétique augmente les dégâts des étoiles de 5 %.</color>\n<color=#6A0C9D>Les deux systèmes peuvent augmenter les dégâts des étoiles jusqu’à un maximum de 120.</color>\n\n<color=black>Spécial : </color><color=#8B0000>Invoque toutes les 60 secondes une météorite qui s’écrase au sol et explose en étoiles, infligeant 1800 dégâts à l’impact. Le temps de recharge peut être réduit en reliant plusieurs Étoiles Filantes entre elles — jusqu’à 13 — pour atteindre un temps de recharge amélioré de 25 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Plantern + Champi-aimant + Carambole</color>"
         },
         {
             "seedType": 1105,
@@ -1241,10 +1241,10 @@
         },
         {
             "seedType": 1110,
-            "name": "Citrouille Porte-drones",
-            "introduce": "<size=36><color=black>Citrouille Porte-drones gardait toujours trois livres sur son étagère, leurs titres cachés aux regards curieux des autres plantes. Un jour, la curiosité d'un Thornball l'a conduit dans l'étude, où il a découvert les titres : \" Guide de culture des plantes succulentes \", \" Soins post-partum pour les citrouilles \" et \" Tutoriel de vol rapide des cactus en 30 secondes \". Le Thornball a ri de la collection inattendue.</color></size>",
-            "info": "<size=36>Génère une Thornball qui se déplace sur le terrain pour attaquer les zombies volants.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A toujours un ailier Thornball avec lui lorsqu'il apparaît. Génère régulièrement une Thornball au-dessus d'une grille 3x3.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Citrouille + Cactus + Troufle</color></size>",
-            "cost": ""
+            "name": "Citrouille-convoyeuse",
+            "introduce": "<align=justified><size=36><color=black>La Citrouille-convoyeuse gardait toujours trois livres sur son étagère, leurs titres soigneusement cachés aux autres plantes. Un jour, la curiosité d’un Drone Cactus le poussa à fouiller dans le bureau, où il découvrit les ouvrages : \" Guide de culture des plantes succulentes \", \" Soins postnatals pour citrouilles \", et \" Tutoriel de vol express pour cactus – 30 secondes chrono \". Le Drone Cactus éclata de rire devant cette collection inattendue.</color></size>",
+            "info": "<size=36>Invoque un Drone Cactus qui se déplace sur le terrain pour attaquer les zombies volants.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques de la Citrouille Épineuse. Possède toujours un Drone Cactus allié lorsqu’elle apparaît. Génère régulièrement un Drone Cactus sur une zone de 3×3.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus > Troufle > Citrouille  OU  Troufle > Cactus > Citrouille</color></size>"
         },
         {
             "seedType": 1111,
@@ -1353,10 +1353,10 @@
         },
         {
             "seedType": 1126,
-            "name": "Cata-salade",
-            "introduce": "<size=36><color=black>\"Quand j'étais petite, tout le monde me demandait quel genre de Pult je voulais être\", explique Salad-pult. \"Ils pensaient qu'on ne pouvait pas tout avoir. Mais j'ai décidé que je voulais tout, même à l'époque.\"</color>",
-            "info": "<size=36>Peut catapulter des projectiles mixtes en succession rapide.\n\n<color=black>Dégâts : </color><color=#8B0000>140/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. Les projectiles se divisent en un mélange de grains de maïs (1/4 de chance d'obtenir du beurre) et de choux lorsqu'ils touchent des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-maïs + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Lance-salade",
+            "introduce": "<align=justified><size=36><color=black>\" Quand j’étais petit, tout le monde me demandait quel type de Catapulte je voulais devenir \", raconte Lance-salade. \" Ils pensaient qu’on ne pouvait pas tout avoir. Mais moi, j’ai décidé que je voulais tout — déjà à cette époque. \"</color>",
+            "info": "<size=36>Catapulte un mélange de projectiles en rafale.\n\n<color=black>Dégâts : </color><color=#8B0000>140/5s</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances d’entrer en tir rapide. Les projectiles se divisent en un mélange d’épis de maïs (avec 1/4 de chances que ce soit du maïs beurré) et de Melons trop mûrs lorsqu’ils touchent des zombies.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-chou + Lance-maïs + Lance-pastèque</color>"
         },
         {
             "seedType": 1127,
@@ -1375,9 +1375,9 @@
         {
             "seedType": 1129,
             "name": "Mecha-noix",
-            "introduce": "<size=36><color=black>Certains ne s'en rendent peut-être pas compte, mais les Noix ont des inventeurs dans leur communauté. Inspirés par les armes des zombies, ils ont construit leurs propres machines de guerre. \"La technologie zombie, ironiquement, ne fait que se détruire elle-même\", déclare Mecha-nut.</color>",
-            "info": "<size=36>Peut recevoir des attributs de Jalapeño ou de Champi-glace, avec des effets à la mort.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Change de forme lorsqu'il est affecté par Champi-glace ou Jalapeño, guérissant 3000 Endurance lors de la transformation ; libère les effets de la forme actuelle à la mort. Absorbe les dégâts infligés aux autres plantes dans un rayon de 3*3 et les soins peuvent dépasser les HP maximum (jusqu'à 4x). Restaure 1 000 HP à chaque Mecha-nut lorsque les zombies disparaissent et qu'aucun Méga Mecha-noix n'est présent.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Mecha Fragments</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Certains l'ignorent, mais la communauté des Noix compte aussi ses inventeurs. Inspirés par l’arsenal des zombies, ils ont construit leurs propres machines de guerre. \" La technologie zombie, ironiquement, ne réussit qu’à se détruire elle-même \", déclare Mecha-noix.</color>",
+            "info": "<size=36>Peut recevoir des attributs du Jalapeno ou du Champi-glace, et libère leurs effets à sa mort.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Change de forme lorsqu’il est affecté par un Champi-glace ou un Jalapeno, récupérant 3000 points de Robustesse lors de la transformation.\n<color=black>•</color> Libère l’effet correspondant à sa forme actuelle lorsqu’il meurt.\n<color=black>•</color> Absorbe les dégâts pour les plantes dans un rayon de 3×3, mais subit le double des dégâts absorbés.\n<color=black>•</color> Les soins peuvent dépasser sa Robustesse maximale (jusqu’à ×4).\n<color=black>•</color> Récupère 1000 PV lorsqu’il est nourri d’un objet métallique. Lorsque les objets métalliques du terrain disparaissent et qu’aucune Méga Mecha-noix n’est présente, chaque Mecha-noix récupère (1000 / nombre total de Mecha-noix) PV.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Fragments de Mécha > Noix</color>"
         },
         {
             "seedType": 1130,
@@ -1395,10 +1395,10 @@
         },
         {
             "seedType": 1132,
-            "name": "Canon à Melon",
-            "introduce": "<size=36><color=black>Melon Cannon est un fervent défenseur de la doctrine de la \" puissance de feu écrasante \" : \" Si un seul coup ne suffit pas, essayez-en deux, trois ou même quatre ! \" Cette approche en a fait une puissance sur le champ de bataille et un succès lors des fêtes d'été.</color>",
-            "info": "<size=36>Utilisez manuellement pour lancer un barrage de melons depuis le haut.\n\n<color=black>Dégâts : </color><color=#8B0000>200 / Melon. Jusqu'à 40 melons dans une zone 3x3 sans chute. Frappe aléatoirement dans une grille 5x3.</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Mortier-pastèque",
+            "introduce": "<align=justified><size=36><color=black>Le Mortier-pastèque est un fervent défenseur de la doctrine de la \" puissance de feu écrasante \" : \" Si un tir ne suffit pas, essayez-en deux, trois… ou même quatre ! \" Une philosophie qui l’a rendu redoutable sur le champ de bataille — et étonnamment populaire aux fêtes d’été.</color>",
+            "info": "<size=36>S’utilise manuellement pour déclencher une pluie de pastèques depuis les airs.\n\n<color=black>Dégâts : </color><color=#8B0000>200/pastèque. Jusqu’à 40 pastèques sur une zone de 3×3, sans perte de dégâts. Touche aléatoirement dans une zone de 5×3.</color>\n<color=black>Temps de rechargement : </color><color=#8B0000>36s</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque ∞ [Lance-maïs] ∞ Lance-pastèque < Tuberfuse (à placer au centre)</color>"
         },
         {
             "seedType": 1133,
@@ -1417,9 +1417,9 @@
         {
             "seedType": 1135,
             "name": "Chou Doré",
-            "introduce": "<size=36><color=black>Le chou doré n'est pas seulement une question d'apparence éblouissante : il a un cœur d'or pur. Il adore se battre aux côtés des plantes contre les zombies et rêve d'être un jour honoré comme le \" chou d'or héroïque \".</color>",
-            "info": "<size=36>Attaque les zombies en lançant des choux dorés. Son ultime attaque déchaîne des choux sur tous les zombies !\n\n<color=black>Dégâts : </color><color=#8B0000>120/3 Secondes</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1 000 pièces ; lance un chou sur chaque zombie, tuant instantanément ceux dont la santé est inférieure à 300.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Le Chou Doré ne se résume pas à son éclat éblouissant — il a surtout un cœur en or. Il adore combattre aux côtés des plantes contre les zombies et rêve d’être un jour décoré comme le \" Chou Héroïque d’Or \".</color>",
+            "info": "<size=36>Attaque les zombies en leur lançant des choux dorés. Son aptitude ultime bombarde tous les zombies à la fois !\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces, Recharge : 2 s ; lance un chou doré infligeant 160 dégâts à chaque zombie, éliminant instantanément ceux ayant moins de 300 de Robustesse.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces</color>"
         },
         {
             "seedType": 1136,
@@ -1431,9 +1431,9 @@
         {
             "seedType": 1137,
             "name": "Pot Doré",
-            "introduce": "<size=36><color=black>\"Beaucoup de gens riches traitent l'argent comme de la saleté, mais je suis différent\", explique Golden Pot. \"C'est comme ça que je suis devenu riche.\"</color>",
-            "info": "<size=36>Génère des pièces supplémentaires et amplifie la capacité ultime de toute plante dorée située au-dessus.\n\n<color=black>Spécial : </color><color=#8B0000>Lorsque vous déclenchez un ultime d'une Plante Dorée au-dessus d'elle, toutes les Plantes Dorées sur d'autres Pots Dorés avec un coût ultime égal ou inférieur déclenchent également leurs ultimes. </couleur>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>2 000 pièces ; chaque Golden Pot existant augmentera le coût de manière exponentielle.</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>\" Beaucoup de riches traitent l'argent comme de la poussière, mais moi, j'ai toujours fait l'inverse, \" explique Pot Doré. \" C’est précisément comme ça que je suis devenu riche. \"</color>",
+            "info": "<size=36>Génère des pièces supplémentaires et amplifie l’ultime de toute plante dorée placée au-dessus de lui.\n\n<color=black>Production de pièces : </color><color=#8B0000>25/25 s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsque vous déclenchez l’ultime d’une plante dorée placée au-dessus, toutes les autres plantes dorées installées sur un Pot Doré dont le coût d’ultime est inférieur ou égal déclenchent également leur ultime.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>2000 pièces ; chaque Pot Doré déjà en jeu double le coût</color>"
         },
         {
             "seedType": 1138,
@@ -1444,10 +1444,10 @@
         },
         {
             "seedType": 1139,
-            "name": "Grain Doré",
-            "introduce": "<size=36><color=black>Golden Kernel réfléchit à des mots comme \" phrases dorées \" et \" pierres précieuses \". Mais peut-être que le véritable trésor réside dans les missiles importés en beurre et en or... ou \"Just Gold\".</color>",
-            "info": "<size=36>Lance des grains dorés et du beurre sur les zombies, avec une chance de générer des pièces. Son ultime tire des popcorns dorés sur les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>25 % de chances de lancer un sac d'argent, infligeant 80 dégâts, étourdissant les zombies pendant 4 secondes et laissant tomber 100 pièces.</color>\n<color=black><color=black>Ultime : </color><color=#8B0000>Coûte 3 500 pièces ; lance quatre bombes de maïs dorées, chacune infligeant 450 dégâts dans une zone 3x3 sans réduction des dégâts.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>2 000 pièces</color>",
-            "cost": "<size=36>"
+            "name": "Maïs Doré",
+            "introduce": "<align=justified><size=36><color=black>Le Maïs Doré réfléchit à des expressions comme \" tournure en or \" ou \" pépite de langage \". Mais au fond, le vrai trésor… ce sont peut-être le beurre importé et les missiles dorés. Ou simplement \" Juste l'or \".</color>",
+            "info": "<size=36>Lance des grains dorés et du beurre sur les zombies, avec une chance de générer des pièces. Son ultime envoie du maïs soufflé explosif doré sur les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 s</color>\n<color=black>Spécial : </color><color=#8B0000>25% de chance de lancer un sac d’argent, infligeant 80 dégâts, étourdissant les zombies pendant 4 secondes et faisant apparaître 100 pièces.</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 3000 pièces, Recharge : 2 s ; lance quatre bombes de maïs doré, chacune infligeant 450 dégâts dans une zone de 3×3 sans perte de dégâts.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>2000 pièces</color>"
         },
         {
             "seedType": 1140,
@@ -1465,10 +1465,10 @@
         },
         {
             "seedType": 1142,
-            "name": "Melon Doré",
-            "introduce": "<size=36><color=black>Le melon doré n'hésite pas à poser des questions sur sa peau dorée et ses graines, mais ne demandez jamais s'il est sans pépins : il n'a aucune patience pour cette question.</color>",
-            "info": "<size=36>lance des melons dorés sur les zombies ; son ultime pleut des melons dorés sur l'écran.\n\n<color=black>Dégâts : </color><color=#8B0000>240/3 Secondes</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 500 pièces ; lance 60 melons dorés, chacun infligeant 120 dégâts, atterrissant aléatoirement sur l'écran.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>3 000 pièces</color>",
-            "cost": "<size=36>"
+            "name": "Pastèque Dorée",
+            "introduce": "<align=justified><size=36><color=black>La Pastèque Dorée ne voit aucun problème à ce qu’on l’interroge sur sa peau et ses pépins dorés… mais ne lui demandez jamais si elle est sans pépins — elle n’a absolument aucune patience pour ce genre de question.</color>",
+            "info": "<size=36>Lance des pastèques dorées sur les zombies ; son ultime fait pleuvoir des pastèques dorés sur tout l’écran.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 3000 pièces, Recharge : 2 s ; lance 60 pastèques dorées infligeant chacune 120 dégâts sans perte d’efficacité, dispersées aléatoirement sur tout l’écran.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>3000 pièces</color>"
         },
         {
             "seedType": 1143,
@@ -1479,10 +1479,10 @@
         },
         {
             "seedType": 1144,
-            "name": "Parapluie Doré",
-            "introduce": "<size=36><color=black>Golden Umbrella n'aime pas cet endroit : après un accident dans l'eau, il a été expédié ici avec Silver Umbrella. Le souvenir le frustre toujours. \"C'est injuste ! Pourquoi suis-je le cadeau ici ?\"</color>",
-            "info": "<size=36>Dévie les ballons de basket, générant des pièces supplémentaires, et son mouvement ultime peut renverser les diablotins en vol et repousser tous les zombies à proximité.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Gâche 50 pièces à chaque fois qu'il dévie un ballon de basket, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 000 pièces ; repousse tous les zombies à proximité, laisse tomber 25 pièces / zombie, laisse tomber les diablotins en vol et laisse tomber 3 diamants.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Dorée",
+            "introduce": "<align=justified><size=36><color=black>L’Ombrelle Dorée n’aime pas cet endroit — après un incident en mer, elle a été expédiée ici en même temps que l’Ombrelle Argentée. Le souvenir l’exaspère encore. \" C’est injuste ! Pourquoi est-ce moi le bonus gratuit ? \"</color>",
+            "info": "<size=36>Dévie les ballons de basket, génère des pièces, et son ultime peut repousser tous les zombies proches ainsi que faire tomber les diablotins aériens.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque ballon dévié fait tomber 50 pièces ; repousse les zombies approchant en infligeant 40 dégâts, au prix de sa Robustesse. Voir Ombrelle Beurrée.</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 2000 pièces, Recharge : 7,5 s ; repousse tous les zombies proches, fait tomber 25 pièces par zombie, restaure 1000 de Robustesse, expulse les diablotins aériens et génère 3 diamants.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces</color>"
         },
         {
             "seedType": 1145,
@@ -1494,9 +1494,9 @@
         {
             "seedType": 1146,
             "name": "Ail Doré",
-            "introduce": "<size=36><color=black>Sous son extérieur éblouissant se cache un parfum insupportable d'Ail. Golden Ail réfléchit : \" La vraie valeur n'est que dans l'apparence, pas dans les détails. \" Mais tout le monde sait que cet Ail \"doré\" n'est qu'un Ail ordinaire avec un pelage brillant.</color>",
-            "info": "<size=36>Un Ail plus puissant et parfumé à l'or qui peut forcer tous les zombies devant lui à changer de voie avec son mouvement ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>900</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1 000 pièces ; force tous les zombies de sa voie à changer de voie.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Sous son éclat étincelant se cache une odeur d’ail absolument insoutenable. L’Ail Doré déclare : \" La vraie valeur réside dans l’apparence, pas dans les détails. \" Mais tout le monde sait qu’il n’est qu’un ail ordinaire recouvert d’une couche brillante.</color>",
+            "info": "<size=36>Un ail plus robuste et parfumé à l’or, capable de forcer tous les zombies devant lui à changer de ligne grâce à son ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>900</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces, Recharge : 2 s ; force tous les zombies de sa ligne à changer de ligne.</color>",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces</color>"
         },
         {
             "seedType": 1147,
@@ -1507,17 +1507,17 @@
         },
         {
             "seedType": 1148,
-            "name": "Parapluie de Diamant",
-            "introduce": "<size=36><color=black>Parapluie de Diamant est un magnat parmi les plantes, fournissant du travail aux zombies et aux plantes. \"Je maximise leur valeur\", déclare-t-il avec une touche dorée à ses lunettes.</color>",
-            "info": "<size=36>Grands risques, grandes récompenses !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A les caractéristiques de Umbrella Clove et Golden Umbrella.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 2 500 pièces ; repousse tous les zombies à proximité, transformant ceux qui ont moins de 25 % de PV en statues d'argent d'une valeur de 1 000 pièces, ou en statues d'or d'une valeur de 3 000 pièces si elles ont moins de 10 % de PV. Les zombies sans statues lâchent directement des pièces.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Golden Ail + Ombrelle (ou Golden Umbrella + Ail)</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Alchimiste",
+            "introduce": "<align=justified><size=36><color=black>L'Ombrelle Alchimiste est une véritable magnat parmi les plantes, fournissant du travail aussi bien aux zombies qu’aux végétaux. \" Je maximise leur valeur \", déclare-t-elle, ajustant d’un geste élégant ses lunettes dorées.</color></size>",
+            "info": "<size=36>Haut risque, haute récompense !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Possède les propriétés de l’Ombrelle Argentée et de l’Ombrelle Dorée.\n<color=black>•</color> Deviendra la cible prioritaire des Zombies au Trident.</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 3000 Pièces, Récupération : 7,5s ; reprend les propriétés de l’Ombrelle Dorée, repousse tous les zombies proches, transforme ceux ayant moins de 25 % de leur Robustesse en statues d’argent valant 1000 Pièces, ou en statues d’or valant 3000 Pièces s’ils sont sous 10 %. Les zombies qui ne deviennent pas des statues lâchent directement des pièces.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ail Doré + Ombrelle / Ombrelle Dorée + Ail</color></size>"
         },
         {
             "seedType": 1149,
-            "name": "Melon Enflammé",
-            "introduce": "<size=36><color=black>Les plantes ont toujours l'impression que les pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais la pastèque explique : \" Je n'ai pas mis de pétards dans le melon ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
-            "info": "<size=36>Lobs de melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le débuff Enflammé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Jalapeño</color>",
-            "cost": ""
+            "name": "Lance-pastèque Enflammé",
+            "introduce": "<align=justified><size=36><color=black>Les plantes ont toujours l'impression que les Lance-pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais le Lance-pastèque explique : \" Je n'ai pas mis de pétards dans la pastèque ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
+            "info": "<size=36>Lance des melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3s </color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Jalapeño</color>"
         },
         {
             "seedType": 1150,
@@ -1529,9 +1529,9 @@
         {
             "seedType": 1151,
             "name": "Méga Mecha-noix",
-            "introduce": "<size=36><color=black>Méga Mecha-noix a toujours été passionné par la protection de l'environnement. \" J'ai une relation amour-haine avec les zombies : ils polluent l'environnement, mais ils m'apportent aussi de la richesse. Posséder une propriété et une caravane n'est-il pas la marque du succès ? La pelouse est propre grâce à moi !'</color>",
-            "info": "<size=36>Il pourrait juste être une autre balle de poisson. Qui sais ?\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsque les gouttes de métal zombie disparaissent, restaure 8000 PV à tous les Méga Mecha-noix sur le terrain. Utiliser un Noix dessus restaure instantanément 8 000 HP et invoque un Sharkmarine. La guérison peut dépasser les HP maximum. A la même propriété anti-écrasement que Cherrizilla ; les dégâts reçus sont plafonnés à 8 000 par coup. Redirige les dégâts vers lui-même dans une zone 3x3.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Giga Mecha Fragments</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>La Méga Mecha-noix a toujours été passionnée par la protection de l’environnement. \" J’entretiens une relation amour-haine avec les zombies : ils polluent la pelouse, mais ils m’enrichissent aussi. Et posséder une maison et une caravane, n’est-ce pas la marque du succès ? La pelouse est propre grâce à moi ! \"</color>",
+            "info": "<size=36>Peut accumuler de la Robustesse et protéger efficacement vos plantes.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique. Anti-écrasement. Les dégâts reçus sont plafonnés à 8000 par coup.\n<color=black>•</color> Les soins peuvent dépasser sa Robustesse maximale sans limite. Arrive en jeu avec 80× sa Robustesse comme PV initiaux.\n<color=black>•</color> Redirige vers elle les dégâts subis par les plantes dans un rayon de 3×3.\n<color=black>•</color> Récupère 4800 PV lorsqu’elle est nourrie d’un objet métallique. Lorsque les objets métalliques disparaissent du terrain, chaque Méga Mecha-noix récupère (4800 / nombre total de Méga Mecha-noix) PV.\n<color=black>•</color> Utiliser une Noix sur elle lui rend instantanément 8000 PV et invoque un Sharkmarine (immobile sur terre, avec 1/3 des PV actuels de la Méga Mecha-noix).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Fragments de Méga Mécha > Noix</color>"
         },
         {
             "seedType": 1152,
@@ -1571,16 +1571,16 @@
         {
             "seedType": 1157,
             "name": "Aimant Charmant",
-            "introduce": "<size=36><color=black>Après d'innombrables jours et nuits de recherche, Aimant Charmant a finalement maîtrisé l'art du champ de charme magnétique. \"Maintenant, je peux mieux persuader mes amis zombies de se battre à nos côtés\", a-t-il déclaré. \"Certains pensent que je les menace avec des outils métalliques, mais un jour, la vérité éclatera au grand jour.\"</color>",
-            "info": "<size=36>Consomme des objets métalliques et invoque les zombies correspondants pour qu'ils combattent pour vous.\n\n<color=black>Spécial : </color><color=#8B0000>Utilise des objets métalliques pour engendrer des zombies hypnotisés, utilise automatiquement les métaux générés par Aimant Solaire derrière lui et ceux consommés par les Champi-aimants dans le même système magnétique.</color><color=#8B0000> couleur>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-aimant</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Après d'innombrables jours et nuits de recherche, Aimant Charmant a finalement maîtrisé l'art du champ de charme magnétique. \"Maintenant, je peux mieux persuader mes amis zombies de se battre à nos côtés\", a-t-il déclaré. \"Certains pensent que je les menace avec des outils métalliques, mais un jour, la vérité éclatera au grand jour.'</color>",
+            "info": "<size=36>Consomme des objets métalliques et invoque les zombies correspondants pour qu'ils combattent pour vous.\n\n<color=black>Spécial : </color><color=#8B0000>Utilise des objets métalliques pour engendrer des zombies hypnotisés qui on 40% point de santé.\n<color=black>•</color> utilise automatiquement les métaux générés par Aimant Solaire derrière lui et ceux consommés par les Champi-aimants dans le même système magnétique.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Champi-aimant</color>"
         },
         {
             "seedType": 1158,
             "name": "Champi-magnétique",
-            "introduce": "<size=36><color=black>'Avant, je faisais fermenter le pain', explique Champi-magnétique, 'mais maintenant je récupère du métal pour construire les fours à pain.'</color>",
-            "info": "<size=36>Mettre un seau en fer sur lui pourrait avoir des résultats intéressants.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige deux fois plus de dégâts aux zombies métalliques.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-aimant</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>'Avant, je faisais fermenter le pain', explique Champi-magnétique, 'mais maintenant je récupère du métal pour construire les fours à pain.'</color>",
+            "info": "<size=36>Mettre un seau en fer sur lui pourrait avoir des résultats intéressants.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×2 plus de dégâts aux zombies métalliques.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-aimant</color>"
         },
         {
             "seedType": 1159,
@@ -1620,9 +1620,9 @@
         {
             "seedType": 244,
             "name": "Tuberfuse",
-            "introduce": "<size=36><color=#3D1400>\"Je suis un grand magicien capable de rivaliser avec le grand Imitateur\", proclama Tuberfuse. Cependant, seul son bon ami, Imitator, connaît la vérité : Tuberfuse et le Dr Edgar étudiaient les sciences de la vie dans la même classe.</color>",
-            "info": "<size=36>Catalyseur pour les fusions Titan.\n\n<color=#3D1400>Spécial : </color><color=red>Un catalyseur de fusion pour les usines Titan. Placez-le sur la plante du milieu pour démarrer la fusion.<color=red></color>",
-            "cost": "<size=36>Coût :<color=red>50</color>\nRecharge : <color=red>30 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>\" Je suis un grand magicien digne de rivaliser avec l’Imitateur ! \" proclame Tuberfuse. Pourtant, seul son bon ami, l’Imitateur, connaît la vérité : Tuberfuse et le Dr Edgar ont en réalité étudié les sciences de la vie dans la même classe.</color>",
+            "info": "<size=36>Catalyseur pour les fusions Titan.\n\n<color=black>Spécial : </color><color=#8B0000>Un catalyseur de fusion pour les plantes Titan. Placez-le sur la plante centrale pour initier la fusion. Les fusions Titan sont indiquées par le symbole \" ∞ \".</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30 s</color>"
         },
         {
             "seedType": 925,
@@ -1668,10 +1668,10 @@
         },
         {
             "seedType": 1161,
-            "name": "Tourelle à Pois Titan ",
-            "introduce": "<size=36><color=#3D1400>En tant qu'une des armes ultimes de la famille Pea, on apprend toujours à la Tourelle à Pois Titan de ne pas se coucher sans raison. \"Mais j'ai vraiment la tête lourde !\" Parfois, lorsqu'on le gronde, il se plaint ainsi. Bien sûr, il ne sait pas que les aînés des Pea lui disent de ne pas s'allonger simplement parce que c'est plutôt mignon quand il le fait.</color>",
-            "info": "<size=36>Libère un pur enfer sur les zombies !\n\n<color=#3D1400>Résistance : </color><color=red>1000</color>\n<color=#3D1400>Dégâts : </color><color=red>Initialement 20×30/1,5 secondes</color><color=red> Max 20×60/1,5 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>La vitesse de tir augmente à mesure que la tourelle tire longtemps et comporte 3 étages. La vitesse de tir revient à la normale lorsque son attaque est réinitialisée. Les pois peuvent manquer les diablotins en raison de la hauteur de la tourelle.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Double Pisto-pois + Triple Pisto-pois + Double Pisto-pois + Tuberfuse (Placer Tuberfuse sur Triple Pisto-pois)</color>",
-            "cost": ""
+            "name": "Tourelle à Pois Titan",
+            "introduce": "<align=justified><size=36><color=black>En tant que l'une des armes ultimes de la famille des Pois, la Tourelle à Pois Titan a toujours reçu un conseil strict : \" Ne te couche pas sans raison. \" \" Mais ma tête est vraiment lourde ! \" se plaint-elle parfois lorsqu’on la réprimande. Bien sûr, elle ne sait pas que les anciens Pois lui interdisent surtout de se coucher parce qu’ils la trouvent terriblement mignonne quand elle le fait.</color>",
+            "info": "<size=36>Déchaîne un véritable enfer de pois sur les zombies !\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>(20×3×2.25)/0.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Tire 3 pois simultanément.\n<color=black>•</color> Sa cadence de tir augmente continuellement pendant les rafales, en 3 paliers : après 100 tirs, vitesse +50 % (150 %). Après 200 tirs supplémentaires, vitesse +50 % encore (225 % au total).\n<color=black>•</color> La cadence revient à la normale lorsque l’attaque est réinitialisée.\n<color=black>•</color> Les pois peuvent manquer les diablotins à cause de la hauteur de la tourelle.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double-pois ∞ [Triple Pisto-pois] ∞ Double-pois < Tuberfuse (placer au centre)</color>"
         },
         {
             "seedType": 1162,
@@ -1724,10 +1724,10 @@
         },
         {
             "seedType": 1169,
-            "name": "Citrouille de Contrôle ",
-            "introduce": "<size=36><color=#3D1400>Un jour, deux citrouilles rêvaient de rejoindre un cirque. Mais après qu’un accident magnétique les ait laissés collés ensemble, ils ont découvert une meilleure vocation : tenir bon comme un bouclier impénétrable. Le cirque peut attendre.</color>",
-            "info": "<size=36>Protégez deux tuiles une fois !\n\n<color=#3D1400>Résistance : </color><color=red>12000</color>\n<color=#3D1400>Spécial : </color><color=red>Guérit lorsqu'il est affecté par les explosions de Cerise et de Jack-in-the-Box. Ne peut être placé que sur des plantes à deux tuiles.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Joker Pumpkin + Champi-aimant + Citrouille-Kaboom + Tuberfuse (Placer Tuberfuse sur Aimant-champignon)</color>",
-            "cost": ""
+            "name": "Citrouille Bunker",
+            "introduce": "<align=justified><size=36><color=black>Autrefois, deux citrouilles rêvaient de rejoindre un cirque. Mais après un accident magnétique qui les souda l’une à l’autre, elles découvrirent une vocation bien plus utile : devenir un rempart infranchissable. Le cirque attendra.</color>",
+            "info": "<size=36>Protège deux cases à la fois !\n\n<color=black>Robustesse : </color><color=#8B0000>12000</color>\n<color=black>Spécial : </color><color=#8B0000>Se soigne lorsqu’elle est affectée par les explosions de Cerise ou de Boîte-surprise. Ne peut être placée que sur des plantes Titan ou sur des plantes occupant 2 cases.</color>",
+            "cost": "<size=35>Formule de Fusion : <color=#8B0000>Citrouille Diabolique ∞ [Magnet-shroom] ∞ Citrouille Explosive < Tuberfuse (placer au centre)</color>"
         },
         {
             "seedType": 1170,
@@ -1746,30 +1746,30 @@
         {
             "seedType": 1172,
             "name": "Champi-puant",
-            "introduce": "<size=36><color=#3D1400>Avec une peau pâle, une coiffure qui pourrait rivaliser avec celle d'un dôme de cathédrale et un sourire plein de dents tordues, Champi-puant a l'air d'auditionner pour le méchant d'un conte de fées. Ironiquement, il joue généralement le rôle d'un vampire. \"</color>",
-            "info": "<size=36>Projette du gaz toxique sur les zombies !\n\n<color=#3D1400>Dégâts :</color> <color=red>20/1,5 secondes</color>\n<color=#3D1400>Spécial :</color> <color=red>L'attaque ajoute un Poison Point aux zombies. Elle possède également la propriété héritée d'Ail.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Champi-fumée + Ail</color>\"",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=#3D1400>Avec une peau pâle, une coiffure qui pourrait rivaliser avec celle d'un dôme de cathédrale et un sourire plein de dents tordues, Champi-puant a l'air d'auditionner pour le méchant d'un conte de fées. Ironiquement, il joue généralement le rôle d'un vampire.</color>",
+            "info": "<size=36>Projette du gaz toxique sur les zombies !\n\n<color=black>Dégâts: </color><color=#8B0000>30/1.5s (Perçant)</color>\n<color=#5E1675>Système Poison: </color><color=#8B0000>L'attaque ajoute 1 point de Poison aux zombies.</color>\n<color=black>Spécial: Les zombies qui le morde sont forcé de changé de lignes.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Ail</color>"
         },
         {
             "seedType": 1173,
             "name": "Jalapeno Geleur",
-            "introduce": "<size=36><color=#3D1400>Froid à l'extérieur, fougueux à l'intérieur. C'est ainsi que d'autres plantes décrivent le Jalapeno Geleur. \"Ne vous laissez pas tromper par mon apparence calme, mon énergie explosive dépasse votre imagination\", murmure Jalapeno Geleur. Oh, au fait, il est aussi très doué pour faire des glaces.</color>",
-            "info": "<size=36>Possédez à la fois les propriétés de Champi-glace et de Jalapeno !\n\n<color=#3D1400>Dégâts :</color> <color=red>1800</color>\n<color=#3D1400>Résistance :</color> <color=red>32000</color>\n<color=#3D1400>Spécial :</color> <color=red>Perd 20 % de ses PV toutes les 3 secondes. Tant qu'il est présent, il absorbe les dégâts pour toutes les plantes. À sa mort, déclenché Jalapeno dans sa rangée et Champi-glace sur tout le terrain.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Jalapeno + Champi-glace</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Froid à l'extérieur, fougueux à l'intérieur. C'est ainsi que d'autres plantes décrivent le Jalapeno Geleur. \"Ne vous laissez pas tromper par mon apparence calme, mon énergie explosive dépasse votre imagination,\" murmure Jalapeno Geleur. Oh, au fait, il est aussi très doué pour faire des glaces.</color>",
+            "info": "<size=36>Posséde à la fois les propriétés de Champi-glace et de Jalapeño!\n\n<color=black>Dégâts: </color><color=#8B0000>1800</color>\n<color=black>Résistance: </color><color=#8B0000>32000</color>\n<color=black>Spécial: </color><color=#8B0000>Perd 20 % de ses PV toutes les 3 secondes. Tant qu'il est présent, il absorbe les dégâts pour toutes les plantes. À sa mort, déclenché Jalapeno dans sa rangée et Champi-glace sur tout le terrain.</color>",
+            "cost": "\n<size=36>Formule fusion: <color=#8B0000>Jalapeño+ Champi-glace</color>"
         },
         {
             "seedType": 1174,
-            "name": "Dévoreur Titanesque",
-            "introduce": "<size=36><color=#3D1400>Dévoreur Titanesque a remporté le grand prix dans un concours Gourmet King, terminant 10 giga garg cakes en 44 secondes – dont 3 secondes perdues parce qu'il n'a pas entendu le coup de sifflet de départ. \"S'il y a un autre événement de ce genre, appelez-moi s'il vous plaît. Le buffet près du jardin ne me laisse plus entrer\", a déclaré le Dévoreur Titanesque lors de l'interview.</color>",
-            "info": "<size=36>Avale tous les zombies qui s'approchent trop près !\n\n<color=#3D1400>Dégâts :</color> <color=red>Instakill</color>\n<color=#3D1400>Spécial :</color> <color=red>Peut avaler tous les zombies dans un rayon de 1,5 case (sauf si immunisés contre les Mordeurs, mais y compris les gargantuas classiques), temps de digestion t =8+3xln(PV total des zombies) secondes.\nÀ titre de référence : Zombie - 24,8 secondes, Buckethead - 29,9 secondes, Giga Gargantuar - 34 secondes, 10 Giga Gargantuars - 41 secondes.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Mordeur + Mordeur + Mordeur + Tuberfuse (Placez Tuberfuse sur le Mordeur du milieu)</color>",
-            "cost": ""
+            "name": "Gueule Géante",
+            "introduce": "<align=justified><size=36><color=black>La Gueule Géante a remporté le grand prix d’un concours du Roi Gourmet, engloutissant 10 gâteaux Giga Garg en 44 secondes — dont 3 perdues simplement parce qu’il n’a pas entendu le coup de sifflet. \" S’il y a un autre événement du genre, appelez-moi. Le buffet près du jardin ne veut plus de moi \", déclara-t-elle lors de l’interview.</color>",
+            "info": "<size=36>Avale tous les zombies qui s'approchent trop !\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>\n<color=black>•</color> 8 + 3ln(Somme de Robustesse des zombies)s</color>\n<color=black>•</color><color=#8B0000> À titre indicatif : Zombie – 24,8 s | Seau – 29,9 s | Giga Gargantua – 34 s | 10 Giga Gargantua – 41 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Peut avaler tous les zombies dans un rayon de 1,5 case, y compris les Gargantua.\n<color=black>•</color> Ne peut pas avaler les zombies immunisés contre les Dévoreurs.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mordeur ∞ [Mordeur] ∞ Mordeur < Tuberfuse (placer au centre)</color>"
         },
         {
             "seedType": 1176,
-            "name": "Hypno Troufle",
-            "introduce": "<size=36><color=#3D1400>Les plantes sont toujours curieuses de savoir pourquoi HypnoTroufle fait reculer les zombies. Hypno Troufle explique : \"Puisque Blover pousse toujours les zombies dans la direction opposée à laquelle ils font face, je pense qu'il est tout à fait naturel pour moi de faire la même chose avec les zombies hypnotisés.\"</color>",
-            "info": "<size=36>Peut retirer des zombies hypnotisés (charmés) !\\n\\n\n<color=#3D1400>Spécial : </color><color=red>Retire tous les zombies charmés.\n<color=#3D1400>Formule de Fusion : </color><color=red>Hypno-champignon + Blover</color>\",",
-            "cost": ""
+            "name": "Hypno-troufle",
+            "introduce": "<align=justified><size=36><color=#3D1400>Les plantes sont toujours curieuses de savoir pourquoi Hypno-troufle fait reculer les zombies. Hypno-troufle explique : \"Puisque Troufle pousse toujours les zombies dans la direction opposée à laquelle ils font face, je pense qu'il est tout à fait naturel pour moi de faire la même chose avec les zombies hypnotisés.\"</color>",
+            "info": "<size=36>Attire les zombies hypnotisés (charmés) vers Hypno-troufle !\n\n<color=black>Spécial : </color><color=#8B0000>Attire vers lui tous les zombies charmés, réduisant les points de vie maximum de 10 %, excepté pour les zombies les plus à gauche des colonnes (durée 5 s).</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-hypno + Troufle</color>"
         },
         {
             "seedType": 1177,
@@ -1802,9 +1802,9 @@
         {
             "seedType": 1180,
             "name": "Ortie Hivernale",
-            "introduce": "",
-            "info": "<size=36>Givre peut ralentir les zombies qui marchent dessus.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1 seconde</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque coup ajoute 10 points Cryo.</color>",
-            "cost": "\n<size=36><color=black>Formule de Fusion : </color><color=#8B0000>Ortie +  Champi-glace</color>"
+            "introduce": "<align=justified><size=36><color=black>Dernières nouvelles du premier tournoi de hockey Plants vs. Zombies ! Ortie hivernale à remporté la victoire, laissant les Bobsleigh Zombies dans le désarroi. Mais maintenant, ils crient à la tricherie ! \"Je n'ai rien fait de mal,\" insista Ortie hivernale, en ajustant ses crampons glacés. \"Et ces ressorts? C'est juste un petit équipement de  sécurité avant le match.\"",
+            "info": "<size=36>Ortie Hivernale peut ralentir les zombies qui marchent dessus.\n\n<color=black>Dégâts: </color><color=#8B0000>40/1 Secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Ortie Hivernale peut évoluer en Glace Épineuse grâce à du fertilisant.</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Chaque coup ajoute 10 points Cryo.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Ortie + Champi-glace</color>"
         },
         {
             "seedType": 1181,
@@ -2813,6 +2813,48 @@
             "introduce": "<align=justified><size=36><color=black>\" Je ne fais que me tenir sur les épaules de géants ! \" affirme humblement la Pastèque Temporelle. \" Je n’ai jamais eu le pouvoir d’inverser le temps — je me contente d’y semer un joli chaos. \"</color>",
             "info": "<size=36>Propage l’effet de Chronodissolution grâce à son attaque de zone.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les dégâts de zone sont égaux aux dégâts directs, sans réduction.\n<color=black>•</color> Si un zombie touché directement ou dans la zone d'impact est affecté par la Chronodissolution, jusqu’à 3 ennemis dans la zone (6 avec l’amélioration du Pot de Pastèque) reçoivent eux aussi l’effet.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Pastèque Magnétique</color>"
+        },
+        {
+            "seedType": 1266,
+            "name": "Jugger-noix",
+            "introduce": "<align=justified><size=36><color=black>Les plantes se plaignent sans cesse que la Jugger-noix leur bouche la vue, et qu’en dépit de sa taille colossale, elle ne fait rien pour éliminer les zombies devant elle. \" Elle est paresseuse, elle n’est certainement pas arrivé ici d'elle-même \", disent certains. \" Elle a dû dévaler une montagne et atterrir là \", se moquent d’autres. Mais la Jugger-noix n’a pas l’intention de répondre. Comme sa coquille, sa volonté est devenue indestructible : protéger les plantes qui ont besoin d’elle, voilà tout ce qui compte. \n— Rédigé par Ultra Badlander</color>",
+            "info": "<size=36>Plus il y a de types de plantes défensives sur le terrain, plus sa Robustesse augmente.\n\n<color=black>Robustesse : </color><color=#8B0000>32000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante haute.\n<color=black>•</color> Anti-écrasement ; les dégâts reçus sont plafonnés à 1/3 de sa Robustesse.\n<color=black>•</color> Après ce plafonnement, les dégâts restants sont réduits en les divisant par (1 + 0.1 × nombre de types de plantes défensives sur le terrain).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Grande Noix ∞ [Grande Noix] ∞ Noix < Tuberfuse (placer sur la case du milieu)</color>"
+        },
+        {
+            "seedType": 1175,
+            "name": "Champi-kraken",
+            "introduce": "<align=justified><size=36><color=black>Les marins murmurent à propos du Kraken géant de la mer du Nord, un nom capable de glacer même les cœurs des plus braves. Mais Champi-kraken ? Il n’a pas de temps pour les légendes. Il n’est pas là pour terrifier — il est là pour jouer. Et son jeu préféré ? Bousculer les zombies comme des morceaux de bois flottant.</color>",
+            "info": "<size=36>Peut repousser les zombies devant lui.\n\n<color=black>Dégâts : </color><color=#8B0000>20×2/1.5s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=#006400>Affaiblissement Enlacé : </color><color=#8B0000>Ajoute 1 valeur d’Enlacement par attaque et inflige des dégâts supplémentaires basés sur cette valeur.</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies qui s’approchent (une cible à la fois) et inflige 100 dégâts.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Algue ∞ [Champi-mer] ∞ Algue < Tuberfuse (placer au centre)</color>"
+        },
+        {
+            "seedType": 1300,
+            "name": "Champi-colonies",
+            "introduce": "<align=justified><size=36><color=black>Les champignons peuvent-ils pousser sur d’autres champignons ? Selon le professeur Cherryz, les Champi-colonies sont de rares colonies composites géantes… mais elles refusent d’admettre qu’elles sont constituées de multiples individus. Pour le prouver, elles s’efforcent d’expulser autant de spores supplémentaires que possible.</color>",
+            "info": "<size=36>Impose son territoire avec des fumées et des spores.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>20×4/1.9s</color>\n<color=black>Spécial : </color><color=#8B0000>Émet, à chaque attaque, une spore supplémentaire à longue portée dans les 8 directions.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumé ∞ [Champi-sombre] ∞ Champi-fumé < Tuberfuse (placer au centre)</color>"
+        },
+        {
+            "seedType": 1220,
+            "name": "Épicéa Tireur d'exception",
+            "introduce": "<align=justified><size=36><color=black>L'Épicéa Tireur d'exception est sévère, froid et strict — exactement les qualités qu’on attend d’un coach d’élite.</color>",
+            "info": "<size=36>Tire des aiguilles hydrauliques tournoyantes qui s’accrochent aux zombies. Consomme des charges de glace pour tirer des cryo-aiguilles tournoyantes à la place.\n\n<color=black>Dégâts : </color><color=#8B0000>5×75/1.5s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1/1/15 charge(s) de glace lorsqu’il est touché par une boule de neige / un trident de neige / un Champi-glace.\n<color=black>•</color> Les hydro-aiguilles tournoyantes infligent 5 dégâts toutes les 0.02 secondes et durent 1.5 secondes.(max : 375)\n<color=black>•</color> Utilise 1 charge pour tirer des cryo-aiguilles tournoyantes infligeant le double de dégâts, appliquant Gel Profond et ajoutant 1 point Cryo. Inflige ×4 dégâts aux zombies Gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisé au gel provoqué par les boules de neige et les blizzards.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Épicéa Tireur d'élite + Aloès d'Eau + Chrysanfer</color>"
+        },
+        {
+            "seedType": 1234,
+            "name": "Four Infirmier",
+            "introduce": "<align=justified><size=36><color=black>Le Four Infirmier apporte chaleur et réconfort aux terres gelées. Malgré son apparence étrange, les enfants du coin l’adorent. \" Un sucre ? \" propose-t-il joyeusement. \" Ça aide à garder la chaleur ! \"</color>",
+            "info": "<size=36>Fournaise stable et haute température qui fournit périodiquement des charges ou des soins aux plantes proches.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hérite des traits du Four Polaire, avec une zone de protection de 3×3.\n<color=black>•</color> Ne peut pas être placé à proximité d’autres Four Polaire.\n<color=black>•</color> Donne 1 charge de glace aux plantes de type Neige protégées toutes les 3 s.\n<color=black>•</color> Soigne les plantes protégées de 50 PV toutes les 15 s.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Aloès Aube</color>"
+        },
+        {
+            "seedType": 939,
+            "name": "Drone à Grenades",
+            "introduce": "<align=justified><size=36><color=black>Initialement conçu comme prototype de tir rapide pour la Sulfateuse à Grenades, le Drone à Grenade a récemment été amélioré pour tirer de vraies charges de cerises afin de contenir la vague de zombies — une mise à niveau accueillie avec fracas.</color>",
+            "info": "<size=36>Fournit une puissance de feu accrue lorsqu’il est coordonné avec les tireurs directement en dessous.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocable avec la Sulfateuse à Grenades</color>\n<color=black>Dégâts : </color><color=#8B0000>300/1.5s</color>\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante volante, sous-espèce de la Sulfateuse à Grenades.\n<color=black>•</color> Si la plante située directement en dessous attaque plus vite que toutes les 1.5s, le drone synchronise son tir avec elle.\n<color=black>•</color> Nombre maximal de Drones Cherrybomber sur le terrain : (nombre de lignes × 2).</color>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Sulfateuse à Grenades <-> Blover</color>"
         }
     ]
 }
