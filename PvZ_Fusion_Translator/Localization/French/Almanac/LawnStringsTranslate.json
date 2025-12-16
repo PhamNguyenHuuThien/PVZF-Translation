@@ -192,9 +192,9 @@
         {
             "seedType": 27,
             "name": "Pot de Fleur",
-            "introduce": "<size=36><color=black>Les plantes pensent toujours que Pot de Fleur n'est qu'un \" pot \", mais en réalité, Pot de Fleur est une \" fleur \" qui ressemble à un \" pot \". Regardez, cette petite pousse est le bouton d'une fleur.</color>",
-            "info": "<size=36>Donne l'abilitée de planter dessus.\n\n<color=black>Spécial : </color><color=#8B0000>Donne l'abilitée de planter des plantes sur le toit.</color>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
+            "introduce": "<size=36><color=black>Les plantes pensent toujours que Pot de Fleur n'est qu'un \"pot\", mais en réalité, Pot de Fleur est une \"fleur\" qui ressemble simplement à un \"pot\". Regardez, cette petite pousse est le bouton d'une fleur.</color></size>",
+            "info": "<size=36>Permet de planter d'autres plantes au-dessus de lui.\n\n<color=black>Spécial : </color><color=#8B0000>Permet de planter des plantes sur le sol nu ou sur les toits. Plante courte, elle esquive les projectiles tirés en ligne droite.</color>\n<color=black>Priorité de fusion : </color><color=#8B0000>La plus basse. Maintenez la touche Alt gauche lors d'une fusion pour forcer la fusion avec le Pot de Fleur (nécessite le mod BetterFusionSuite, inclus par défaut).</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
         {
             "seedType": 28,
@@ -1269,10 +1269,10 @@
         },
         {
             "seedType": 1114,
-            "name": "Pot de Grain",
-            "introduce": "<size=36><color=black>Kernel Pot pense qu'il est plus que simplement délicieux. Selon lui, le maïs beurré fournit plus de nutriments que le sol, notamment pour les champignons. La plante préférée de Kernel Pot est la Lance-maïs, sa nourriture préférée est le beurre, son récipient préféré est une tasse et sa chanson préférée est \"Buttercup\".</color>",
-            "info": "<size=36>Augmente la chance de lancer du beurre de chaque plante type maïs au dessus d'elle de 25% à 50%.\n\n<color=black>Spécial : </color><color=#8B0000>Augmente les chances de beurre de 1/4 à 1/2.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Lance-maïs</color>",
-            "cost": "<size=36>"
+            "name": "Pot de Beurre",
+            "introduce": "<size=36><color=black>Pot de Beurre pense qu'il est bien plus que simplement délicieux. Selon lui, le maïs beurré fournit plus de nutriments que le sol, en particulier pour les champignons. La plante préférée de Pot de Beurre est le Lance-maïs, sa nourriture préférée est le beurre, son récipient préféré est une tasse et sa chanson préférée est \"Buttercup\".</color></size>",
+            "info": "<size=36>Augmente les chances de lancer du beurre des plantes de type maïs placées au-dessus de lui, de 25 % à 50 %.\n\n<color=black>Spécial : </color><color=#8B0000>Fait passer la probabilité de lancer du beurre de 1/4 à 1/2.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-maïs > Pot de Fleur</color></size>"
         },
         {
             "seedType": 1115,
@@ -1346,10 +1346,10 @@
         },
         {
             "seedType": 1125,
-            "name": "Pot de Melon",
-            "introduce": "<size=36><color=black>Frugal Melon Pot ne supporte pas de voir Lance-pastèque lancer des melons sans penser au coût, alors après avoir vaincu les zombies, Melon Pot récupère secrètement les fragments de melon brisés éparpillés sur le sol. \"C'est ce qu'on appelle la culture hors-sol\", a expliqué Melon Pot. \"On ne peut pas faire pousser n'importe quelle plante dans le sol ici ; chaque centimètre carré de sol est précieux.\"</color>",
-            "info": "<size=36>Double les dégâts causés par les éclaboussures des melons au-dessus, sans atténuation ; les dégâts restent aux 2/3 des dégâts de base.\n\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Pot de Pastèque",
+            "introduce": "<size=36><color=black>Économe, Pot de Pastèque ne supporte pas de voir le Lance-pastèque lancer des fruits sans penser au coût. Après avoir vaincu les zombies, il récupère donc en secret les fragments de pastèque brisés éparpillés sur le sol. \"C’est ce qu’on appelle la culture hors-sol\", explique Pot de Pastèque. \"On ne peut pas faire pousser n’importe quelle plante dans le sol ici ; chaque centimètre carré est précieux.\"</color></size>",
+            "info": "<size=36>Renforce les plantes de type Pastèque.\n\n<color=black>Spécial : </color><color=#8B0000>Lors d’une fusion, rend 150 Soleil supplémentaires. Double les dégâts d’éclaboussure des pastèques tirées par les plantes placées au-dessus, sans atténuation : les dégâts restent à 2/3 des dégâts de base.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque > Pot de Fleur</color></size>"
         },
         {
             "seedType": 1126,
@@ -1382,9 +1382,9 @@
         {
             "seedType": 1130,
             "name": "Pot d'Ail",
-            "introduce": "<size=36><color=black>Ail Pot souhaite depuis longtemps aider les plantes dans son pot à obtenir une stérilisation approfondie, en particulier celles qui sont en première ligne et en contact direct avec les zombies. Cependant, il semble que seules les plantes de type Ail soient disposées à pousser dans son pot. \"Certaines plantes préfèrent affronter des zombies plutôt que de capter mon odeur d'Ail\", soupira Ail Pot. \"Maintenant, je ne peux utiliser Ail que pour désinfecter Ail, et ils disent simplement que c'est une combinaison parfaite.\"</color>",
-            "info": "<size=36>Réduit les dégâts de morsure subis par les plantes de type Ail sur le dessus et a lui-même un effet Ail.\n\n<color=black>Spécial : </color><color=#8B0000>Force les zombies à se déplacer vers la rangée du milieu.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Ail</color>",
-            "cost": "<size=36>"
+            "introduce": "<size=36><color=black>Pot d'Ail souhaite depuis longtemps aider les plantes de son pot à obtenir une stérilisation approfondie, en particulier celles qui se trouvent en première ligne et en contact direct avec les zombies. Cependant, il semble que seules les plantes de type Ail soient disposées à pousser dans son pot. \"Certaines plantes préfèrent affronter des zombies plutôt que de supporter mon odeur d'ail\", soupira Pot d'Ail. \"Maintenant, je ne peux utiliser l'ail que pour désinfecter l'ail, et ils disent simplement que c'est une combinaison parfaite.\"</color></size>",
+            "info": "<size=36>Réduit les dégâts de morsure subis par les plantes de type Ail placées au-dessus et possède lui-même un effet Ail.\n\n<color=black>Spécial : </color><color=#8B0000>Force les zombies à se déplacer vers la rangée du milieu et réduit les dégâts de morsure subis par les plantes de type Ail à 10.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ail > Pot de Fleur</color></size>"
         },
         {
             "seedType": 1131,
@@ -1402,10 +1402,10 @@
         },
         {
             "seedType": 1133,
-            "name": "Pot de Feuille",
-            "introduce": "<size=36><color=black>D'autres Pot de Fleurs sont intrigués par le feuillage dense d'Umbrella Pot, mais Umbrella Pot dit simplement : \"Je viens de lire le livre <i>Le Guide du Pot pour les soins capillaires</i>. \"</couleur>",
-            "info": "<size=36>Mise en valeur les plantes de type parapluie.\n\n<color=black>Ombrella Husk :</color> <color=#8B0000>+2 secondes d'immobilisation, +50 % de distance de recul</color>\n<color=black>Écorce de parapluie :</color> <color=#8B0000>Double les dégâts des projectiles réfléchis</color>\n<color=black>Girofle de parapluie, Parapluie argenté/doré, Parapluie de Diamant et Parapluie d'Émeraude : </color><color=#8B0000>Double distance de recul</color>\n<color=black>Umbrella Kale :</color> <color=#8B0000>Peut attaquer les zombies sur les voies adjacentes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Ombrelle</color>",
-            "cost": "<size=36>"
+            "name": "Pot Ombrelle",
+            "introduce": "<size=36><color=black>Les autres Pots de Fleur sont intrigués par le feuillage dense du Pot Ombrelle, mais il répond simplement : \"Je viens de lire le livre <i>Le guide du pot pour les soins capillaires</i>.\"</color></size>",
+            "info": "<size=36>Renforce les plantes de type Ombrelle.\n\n<color=black>Ombrelle Beurrée :</color> <color=#8B0000>+2 secondes d'immobilisation, +50 % de distance de recul</color>\n<color=black>Ombrelle Puante et attaques ultimes d'Ombrelle :</color> <color=#8B0000>Distance de recul ×2</color>\n<color=black>Ombrelle Pastèque et Égide :</color> <color=#8B0000>Dégâts des projectiles réfléchis ×2</color>\n<color=black>Ombrelle Chou et Midas :</color> <color=#8B0000>Peut attaquer les zombies sur les voies adjacentes</color>\n<color=black>Autres Ombrelles :</color> <color=#8B0000>Distance de recul +50 %</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ombrelle > Pot de Fleur</color></size>"
         },
         {
             "seedType": 1134,
@@ -1424,9 +1424,9 @@
         {
             "seedType": 1136,
             "name": "Pot Argenté",
-            "introduce": "<size=36><color=black>\"Les gens disent toujours 'or ceci, argent cela', comme si nous avions une hiérarchie\", a déclaré Silver Pot. \"Le Souci est en argent, et pourtant on l'appelle toujours un Mari<i>gold</i>.\" Ses paroles auraient pu être plus convaincantes si son regard n'avait pas été fixé sur le grain de café au bord du toit.</color>",
-            "info": "<size=36>Génère des pièces supplémentaires pour vous.\n\n<color=black>Sortie des pièces : </color><color=#8B0000>25/25 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pot de Fleur + Souci</color>",
-            "cost": "<size=36>"
+            "introduce": "<size=36><color=black>\"Les gens disent toujours \"or ceci, argent cela\", comme si nous avions une hiérarchie\", déclara Pot Argenté. \"Le Souci est en argent, et pourtant on l'appelle toujours Mari<i>gold</i>.\" Ses paroles auraient pu être plus convaincantes si son regard n'avait pas été fixé sur le grain de café au bord du toit.</color></size>",
+            "info": "<size=36>Génère des pièces supplémentaires.\n\n<color=black>Production de pièces : </color><color=#8B0000>25 toutes les 25 secondes</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Souci > Pot de Fleur</color></size>"
         },
         {
             "seedType": 1137,
