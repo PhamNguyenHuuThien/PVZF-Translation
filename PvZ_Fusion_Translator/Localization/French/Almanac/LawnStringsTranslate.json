@@ -150,9 +150,9 @@
         {
             "seedType": 21,
             "name": "Cactus",
-            "introduce": "<size=36><color=black>Elle est piquante, bien sûr, mais les pointes de Cactus cachent un cœur spongieux rempli d'amour et de bonne volonté. Elle veut juste faire un câlin et être prise dans ses bras. La plupart des gens ne peuvent pas supporter ça, mais Cactus ne s'en soucie pas. Elle voit un tatou depuis un moment et ça semble vraiment marcher.</color></size>",
-            "info": "<size=36>Les Cactus tirent des épines pour bénir les cibles au sol et dans les airs.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Anti-aérien.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Il est piquant, bien sûr, mais les épines de Cactus cachent un cœur spongieux rempli d’amour et de bonne volonté. Il veut simplement faire un câlin et être pris dans les bras. La plupart des gens ne supportent pas ses câlins, mais Cactus ne s’en soucie pas. Il fréquente un tatou cuirassé depuis quelque temps, et cela semble vraiment combler son manque d’affection.</color></size>",
+            "info": "<size=36>Les Cactus tirent des épines sur les cibles au sol et dans les airs.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Priorise les zombies aériens (Tire également plus vite sur les cibles aériennes).</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 22,
@@ -1046,9 +1046,9 @@
         {
             "seedType": 1082,
             "name": "Drone Cactus",
-            "introduce": "<size=36><color=black>Les Thornballs se déplacent toujours en groupe, gazouillant avec arrogance et méprisant les autres. Les autres plantes sont curieuses de savoir ce que de si petites créatures pourraient bien faire, mais les Thornballs restent imperturbables : \"Si les papillons peuvent déclencher une tempête, alors bien sûr, nous sommes bien plus puissants.\"</color></size>",
-            "info": "<size=36>Crache des piques pour attaquer les zombies dans le ciel. N'occupe aucune tuile.\n\n<color=black>Dégâts : </color><color=#8B0000>20*2 / 1.5 secondes (Plant), 20*2 / 1 Seconde (Wingman)</color>\n<color=black>Spécial : </color><color=#8B0000>Peut être planté au-dessus d'une autre plante.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cactus + Troufle</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les Drones Cactus se déplacent toujours en groupe, gazouillant avec arrogance et méprisant les autres. Les autres plantes sont curieuses de savoir ce que de si petit Drones pourraient bien faire, mais les Drones Cactus restent imperturbables : \"Si les papillons peuvent déclencher une tempête, alors bien sûr, nous sommes bien plus puissants.\"dit l’un d’eux avec un air arrogant.</color></size>",
+            "info": "<size=36>Crache des piques pour attaquer les zombies dans le ciel (unités volantes). N'occupe aucune tuile (Unité aérienne uniquement).\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1.5s (Stationnaire), 30×2/1s (En mouvement)</color>\n<color=black>Spécial : </color><color=#8B0000>Peut être planté au-dessus d'une autre plante.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Cactus + Troufle</color>"
         },
         {
             "seedType": 1083,
@@ -1067,9 +1067,9 @@
         {
             "seedType": 1085,
             "name": "Carambole Cactus",
-            "introduce": "<size=36><color=black>Starthorn a toujours été un peu bizarre. Les plantes plaisantent : \"Il est toujours au sol mais ne combat que les zombies volants. Pourquoi ne s'attaque-t-il pas à ceux au sol ?\" Starthorn, toujours patient, ne dit rien, protégeant tranquillement son secret : sa mauvaise vision ne lui permet de voir le ciel que lorsqu'il est couché.</color></size>",
-            "info": "<size=36>Peut seulement attaquer les zombies dans les airs.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les étoiles épineuses traquent les zombies volants à tous les niveaux.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cactus + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Carambole Cactus a toujours été un peu bizarre. Les plantes se moquent : \"Il est toujours au sol mais ne combat que les zombies volants. Pourquoi n’attaque-t-il pas ceux au sol ?\" Carambole Cactus, toujours patient, ne dit rien, protégeant tranquillement son secret : sa mauvaise vision ne lui permet de voir le ciel que lorsqu'il est couché.</color></size>",
+            "info": "<size=36>Il ne peut attaquer que les zombies aériens.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles épineux traquent les zombies volants sur tout le champ de bataille.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Carambole + Cactus</color>"
         },
         {
             "seedType": 1086,
@@ -1088,9 +1088,9 @@
         {
             "seedType": 1088,
             "name": "Citrouille Cactus",
-            "introduce": "<size=36><color=black>Thorngourd pourrait ressembler à un parent éloigné de Citrouille, mais sa forme actuelle vient d'une aventure dans le désert avec Troufle. Curieusement, il ne semble pas avoir d'épines visibles, mais les plantes qui tentent d'y sauter se font toujours piquer, les laissant se demander comment cela se produit.</color></size>",
-            "info": "<size=36>Contre-attaque les zombies qui le mordent.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Dommages attaquant les ennemis.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cactus + Citrouille</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Citrouille Cactus ressemble peut-être à un parent éloigné de Citrouille, mais sa forme actuelle vient d’une aventure dans le désert avec Troufle. Curieusement, il ne semble pas avoir d'épines visibles, Les plantes qui tentent d’y sauter dedans se font toujours piquer, et se demandent comment cela est possible.</color></size>",
+            "info": "<size=36>Citrouille Cactus contre-attaque les zombies qui le mordent.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige 60 dégâts par morsure.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Cactus + Citrouille</color>"
         },
         {
             "seedType": 1089,
@@ -1193,9 +1193,9 @@
         {
             "seedType": 1103,
             "name": "Cactus Magnétique",
-            "introduce": "<size=36><color=black>Cactus Magnétique a passé du temps à étudier le brouillage des communications à l'Académie de l'Air Force, se vantant souvent auprès de ses amis de ses excellentes notes. Ce qu'il ne réalise pas, c'est que son succès est dû en grande partie à son père, un commandant de haut rang de l'armée de l'air qui tire les ficelles dans les coulisses.</color></size>",
-            "info": "<size=36>Cause de gros dégats aux objets volants.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le double des dégâts à l'armure métallique. Infliger une certaine quantité de dégâts aux dirigeables peut provoquer leur crash, ce qui leur fera infliger 1 000 dégâts aux zombies proches du site du crash.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cactus + Champi-aimant</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Cactus Magnétique a passé du temps à étudier le brouillage des communications à l'Académie de l’Armée de l’air, se vantant souvent auprès de ses amis de ses excellentes notes. Ce qu'il ne réalise pas, c'est que son succès est dû en grande partie à son père, un commandant de haut rang de l'armée de l'air qui tire les ficelles dans les coulisses.</color></size>",
+            "info": "<size=36>Inflige d'énorme dégâts aux unités volantes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Inflige le double des dégâts aux armures métalliques.\n<color=black>•</color> Inflige 500 dégâts aux Ballons de Zombie-copter.\n<color=black>•</color> Infliger une quantité cumulée de dégâts aux dirigeables peut provoquer leur crash, infligeant 1 000 dégâts aux zombies proches de la zone d’impact; (Zomppelin = 10 Coups | Drone Kirov = 3 Coups | Zomppelin Kirov = 20 Coups).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Cactus + Champi-aimant</color>"
         },
         {
             "seedType": 1104,
