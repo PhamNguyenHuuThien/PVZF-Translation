@@ -1276,10 +1276,10 @@
         },
         {
             "seedType": 1115,
-            "name": "Parapluie de Beurre",
-            "introduce": "<size=36><color=black>\"Protéger les plantes qui m'entourent est mon devoir.\" En tant que cosplayer professionnel, \"Umbrella Husk\" est si doué que personne ne se rend compte qu'il est en fait un épi de maïs avec une perruque en beurre, qui adore se tenir sur la tête.</color>",
-            "info": "<size=36>Repousse les zombies entraînent de s'approcher et les immobilisent avec du beurre.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité et les immobilise pendant 4 secondes ; les reculs réduisent sa résistance :\n1Zombie : -100 PV\n2~4 zombies : -150 PV\n5 zombies ou plus : -250 PV</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-maïs + Ombrelle</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle de Beurre",
+            "introduce": "<size=36><color=black>\"Protéger les plantes qui m'entourent est mon devoir.\" En tant que cosplayeuse professionnelle, l'Ombrelle de Beurre est si douée que personne ne se rend compte qu'elle est en réalité un épi de maïs coiffé d'une perruque en beurre, qui adore se tenir sur la tête.</color></size>",
+            "info": "<size=36>Repousse les zombies qui tentent de s'approcher et les immobilise avec du beurre.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité, inflige 40 dégâts et les immobilise avec du beurre pendant 2 secondes, au prix de sa propre robustesse :\n1 zombie : -100 PV\n2 à 4 zombies : -150 PV\n5 zombies ou plus : -250 PV</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-maïs + Ombrelle</color></size>"
         },
         {
             "seedType": 1116,
@@ -1360,10 +1360,10 @@
         },
         {
             "seedType": 1127,
-            "name": "Parapluie d'Ail",
-            "introduce": "<size=36><color=black>\"Viens, fais un câlin à Umbrella Clove. Concentre-toi sur l'ouverture de la porte ; laisse Umbrella Clove s'occuper du reste ! Le camping-car n'a pas d'importance ; c'est le cerveau à l'intérieur qui compte !\" \" dit Umbrella Clove. \"Et encore une chose : combattez les zombies avec les zombies ! Et versez du thé pour Umbrella Clove pendant que vous y êtes ! Zombies, zombies, partez !\"</color>",
-            "info": "<size=36>Repousse les zombies et les force à changer de voie.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité, les forçant à changer de voie ; chaque recul réduit sa résistance. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ail + Ombrelle</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle d'Ail",
+            "introduce": "<size=36><color=black>\"Viens, fais un câlin à l'Ombrelle d'Ail. Concentre-toi sur l'ouverture de la porte ; laisse l'Ombrelle d'Ail s'occuper du reste ! Le camping-car n'a pas d'importance : ce sont les cerveaux à l'intérieur qui comptent !\" dit l'Ombrelle d'Ail. \"Et encore une chose : combattez les zombies avec les zombies ! Et versez du thé pour l'Ombrelle d'Ail pendant que vous y êtes ! Zombies, zombies, partez !\"</color></size>",
+            "info": "<size=36>Repousse les zombies et les force à changer de voie.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité, leur inflige 40 dégâts et les force à changer de voie, au prix de sa propre robustesse. Voir Ombrelle de Beurre.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ail + Ombrelle</color></size>"
         },
         {
             "seedType": 1128,
