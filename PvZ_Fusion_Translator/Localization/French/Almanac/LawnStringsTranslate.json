@@ -129,8 +129,8 @@
         {
             "seedType": 18,
             "name": "Torche",
-            "introduce": "<size=36><color=black>Tout le monde aime et respecte Torche. Ils l’aiment pour son intégrité, pour son amitié inébranlable, pour sa capacité à maximiser considérablement les dégâts causés par les pois. Mais Torche a un secret : il ne sait pas lire.</color></size>",
-            "info": "<size=36>Les pois s'enflamment en passant au travers de Torches et provoquent deux fois plus de dégâts.\n\n<color=black>Spécial : </color><color=#8B0000>Enflamme les pois qui passent.</color></size>",
+            "introduce": "<size=36><color=black>Tout le monde aime et respecte Torche. Ils l’aiment pour son intégrité, pour son amitié inébranlable, pour sa capacité à maximiser considérablement les dégâts causés par les pois. Mais Torche a un secret : elle ne sait pas lire.</color></size>",
+            "info": "<size=36>Torche enflamme les pois qui la traverse et qui inflige deux fois plus de dégâts.\n\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Enflamme les pois qui la traversent, infligeant +20 points de dégâts.\n<color=black>•</color> Change les pois gelés en pois normaux. \n<color=black>•</color> Dissipe le brouillard dans un rayon d'une case.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>175</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
         {
@@ -892,8 +892,8 @@
         {
             "seedType": 1060,
             "name": "Pierre Épineuse",
-            "introduce": "<size=36><color=black>Spikerock vient de rentrer d'un voyage en Europe. Il a passé un très bon moment, a rencontré des gens formidables et a vraiment élargi ses horizons. Il n'aurait jamais su qu'ils faisaient des musées aussi grands, ni qu'ils y mettaient autant de tableaux. Ce fut une grande surprise pour lui.</color></size>",
-            "info": "<size=36>Pierre épineuse peut exploser plusieurs pneus et endommager les zombies qui lui marche dessus.\n\n<color=black>Robustesse : </color><color=#8B0000>450</color>\n<color=black>Spécial : </color><color=#8B0000>Peut crever les pneus, mais déduit 50 en Endurance.</color></size>",
+            "introduce": "<size=36><color=black>Pierre épineuse vient de rentrer d'un voyage en Europe. Elle a passé un très bon moment, a rencontré des gens formidables et a vraiment élargi ses horizons. Elle n'aurait jamais su qu'ils faisaient des musées aussi grands, ni qu'ils y mettaient autant de tableaux. Ce fut une grande surprise pour elle.</color></size>",
+            "info": "<size=36>Pierre épineuse peut exploser plusieurs pneus et endommager les zombies qui lui marche dessus.\n\n<color=black>Dégâts: </color><color=#8B0000>20×2/1 Secondes</color>\n<color=black>Robustesse: </color><color=#8B0000>450</color>\n<color=black>Spécial: </color><color=#8B0000>Peut crever les pneus, mais retire 50 points de robustesse. Elle perd 50 points de robustesse lorsqu'elle est écrasée par des Gargantuas et 150 lorsqu'elle est piétinée par des Mecha Gargantuas.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
         },
         {
@@ -990,9 +990,9 @@
         {
             "seedType": 1074,
             "name": "Glace Épineuse",
-            "introduce": "<size=36><color=black>Après son retour d'Alaska, Spikecicle n'a pas pu contenir son enthousiasme. Désireux de geler les zombies, il savourait l'idée de la \" glace \" éclatant sous leurs pieds. Il a mis un point d'honneur à ce que tout le monde utilise le terme \" glace \". Sa peau portait encore le froid de son aventure dans l'Arctique et ses yeux brillaient de l'éclat de la neige qui ne fond pas.</color></size>",
-            "info": "<size=36>Peut percer les pneus et geler les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>450</color>\n<color=black>Dégâts : </color><color=#8B0000>20*2/1 Secondes (Ralentissements) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoute 5 points Cryo par attaque.</color>\n<color=black>Spécial : </color><color=#8B0000>Peut crever des pneus et tuer instantanément des véhicules.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Spikerock</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Après son retour d'Alaska, Glace Épineuse n'a pas pu contenir son enthousiasme. Désireuse de geler les zombies, elle savourait l'idée de la \" glace \" éclatant sous leurs pieds. Elle a mis un point d'honneur à ce que tout le monde utilise le terme \" glace \". Sa peau portait encore le froid de son aventure dans l'Arctique et ses yeux brillaient de l'éclat de la neige qui ne fond pas.</color></size>",
+            "info": "<size=36>Peut percer les pneus et geler les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>450</color>\n<color=black>Dégâts : </color><color=#8B0000>40*2/1 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoute 5 points Cryo par attaque.</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques de Pierre Épineuse.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-glace + Pierre Épineuse</color>"
         },
         {
             "seedType": 1075,
@@ -1276,17 +1276,17 @@
         },
         {
             "seedType": 1115,
-            "name": "Ombrelle de Beurre",
+            "name": "Ombrelle Beurrée",
             "introduce": "<size=36><color=black>\"Protéger les plantes qui m'entourent est mon devoir.\" En tant que cosplayeuse professionnelle, l'Ombrelle de Beurre est si douée que personne ne se rend compte qu'elle est en réalité un épi de maïs coiffé d'une perruque en beurre, qui adore se tenir sur la tête.</color></size>",
             "info": "<size=36>Repousse les zombies qui tentent de s'approcher et les immobilise avec du beurre.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité, inflige 40 dégâts et les immobilise avec du beurre pendant 2 secondes, au prix de sa propre robustesse :\n1 zombie : -100 PV\n2 à 4 zombies : -150 PV\n5 zombies ou plus : -250 PV</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-maïs + Ombrelle</color></size>"
         },
         {
             "seedType": 1116,
-            "name": "Melon Glacé",
-            "introduce": "<size=36><color=black>Winter Melon a avoué un jour à Lance-pastèque : \"Je n'ai pas toujours été aussi glaciale. Un jour, je suis juste allée au congélateur pour une glace, et... eh bien, nous y sommes.\" </couleur>",
-            "info": "<size=36>Lances des melons gelés qui gèlent les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Applique 50 points Cryo aux zombies touchés. Les zombies touchés dans la zone d'éclaboussure gagnent 5 points Cryo. Inflige 4x dégâts aux zombies gelés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Champi-glace</color>",
-            "cost": "<size=36>"
+            "name": "Pastèque Glacée",
+            "introduce": "<align=justified><size=36><color=black>Pastèque Glacée à un jour avoué à Lance-pastèque,  \"Je n'ai pas toujours été aussi glaciale. Un jour, je suis allé dans le congélateur pour prendre une glace, et... eh bien, voici le résultat.\" </color>",
+            "info": "<size=36> Lances des pastèques qui gèlent les zombies.\n\n<color=black>Dégâts: </color><color=#8B0000>80/3 secondes</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>>Applique 50 points Cryo aux zombies touchés. Les zombies touchés dans la zone d'éclaboussure gagnent 5 points Cryo. Inflige 4x dégâts aux zombies gelés.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Lance-pastèque + Champi-glace</color>"
         },
         {
             "seedType": 1117,
@@ -1388,10 +1388,10 @@
         },
         {
             "seedType": 1131,
-            "name": "Parapluie de Melon",
-            "introduce": "<size=36><color=black>\"Donnez-moi un melon ; je vous rembourserai avec gentillesse.\" Umbrella Rind a toujours admiré ce dicton de la poésie ancienne. Les plantes n’ont pas besoin de le soudoyer pour obtenir de l’aide : quoi qu’elles donnent, il le rend. Enfin, sauf les ballons de basket. C'est un fan total de basket-ball.</color>",
-            "info": "<size=36>Dévie les ballons de basket et renvoie un melon catapulté.\n\n<color=#3D1400>Robustesse : </color><color=red>2000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut renvoyer les projectiles de zombies, y compris les explosions, mais perd 200 points de vie à chaque fois. Chaque réflexion stocke une énergie égale aux dégâts du projectile, la libérant sur les zombies pour des dégâts supplémentaires lorsque le recul se produit ; à chaque recul, il perd également de l'endurance. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ombrelle + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Pastèque",
+            "introduce": "<size=36><color=black>\"Donnez-moi une pastèque ; je vous la rendrai avec gentillesse.\" L’Ombrelle de Pastèque a toujours admiré ce dicton issu de la poésie ancienne. Les plantes n’ont pas besoin de la soudoyer pour obtenir de l’aide : quoi qu’elles lui donnent, elle le rend. Enfin… sauf les ballons de basket. C’est une grande fan de basket.</color></size>",
+            "info": "<size=36>Dévie les ballons de basket et renvoie les pastèques catapultées.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut réfléchir les projectiles des zombies, à l’exception des tridents (les projectiles lobés sont renvoyés sous forme de pastèques). Réfléchir un projectile explosif lui fait perdre 200 PV. Chaque réflexion stocke une énergie équivalente aux dégâts du projectile ; lors du prochain recul, toute l’énergie stockée est libérée sur les zombies sous forme de dégâts supplémentaires. Repousse les zombies et leur inflige 80 dégâts au prix de sa propre robustesse. Voir Ombrelle de Beurre.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ombrelle + Lance-pastèque</color></size>"
         },
         {
             "seedType": 1132,
@@ -1472,10 +1472,10 @@
         },
         {
             "seedType": 1143,
-            "name": "Parapluie Argenté",
-            "introduce": "<size=36><color=black>Silver Umbrella a toujours peur que quelqu'un lui vole son argent lorsqu'il est absent, alors il emporte sa fortune partout avec lui, même dans la bataille contre les zombies. Il pense que cela assure la sécurité de son patrimoine, mais cela ne fait qu’ajouter de nouveaux risques. \"C'est mon argent, tu ne peux pas le prendre !\" il se plaint, même si personne ne l'écoute jamais.</color>",
-            "info": "<size=36>Génère de l'argent supplémentaire pour vous lorsqu'il dévie les ballons de basket.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Lâche 25 pièces à chaque activation, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ombrelle + Souci</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Argentée",
+            "introduce": "<size=36><color=black>L’Ombrelle Argentée craint toujours que quelqu’un ne lui vole son argent lorsqu’elle s’absente. Alors elle emporte sa fortune partout avec elle, même au combat contre les zombies. Elle pense ainsi protéger son patrimoine, mais cela ne fait qu’ajouter de nouveaux risques. \"C’est mon argent, tu ne peux pas le prendre !\" se plaint-elle, même si personne ne l’écoute jamais.</color></size>",
+            "info": "<size=36>Génère de l’argent supplémentaire lorsqu’elle dévie des ballons de basket.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Lâche 25 pièces à chaque activation et repousse les zombies qui s’approchent, leur infligeant 40 dégâts, au prix de sa propre robustesse. Voir Ombrelle de Beurre.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ombrelle + Souci</color></size>"
         },
         {
             "seedType": 1144,
