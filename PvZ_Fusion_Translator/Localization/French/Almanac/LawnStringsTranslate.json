@@ -206,9 +206,9 @@
         {
             "seedType": 29,
             "name": "Ail",
-            "introduce": "<size=36><color=black>Ail se vante de sa teneur élevée en allicine, affirmant que manger de l'Ail est bon pour la santé. Que ce soit vrai ou non, il suffit de regarder les zombies s'étouffer en le mâchant pour savoir que c'est plutôt efficace. </couleur>",
-            "info": "<size=36>N'importe quels zombies imposent de le mordre changeront de voie.\n\n<color=black>Spécial : </color><color=#8B0000>Les zombies le mordant changeront de voie.  </couleur>",
-            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>Ail se vante de sa teneur élevée en allicine, affirmant que manger de l’ail est bon pour la santé. Que ce soit vrai ou non, il suffit de regarder les zombies s’étouffer en le mâchant pour savoir que c’est plutôt efficace contre les morts-vivants !</color>",
+            "info": "<size=36>Tout zombie qui tente de le mordre change de voie.\n\n<color=black>Spécial : </color><color=#8B0000>Les zombies qui le mordent changent de voie. Ne peut recevoir plus de 15 dégâts par morsure.\n<color=black>•</color> Petite plante (évite les projectiles tirés en ligne droite).</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>50</color>\nRecharge : <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 30,
@@ -1290,10 +1290,10 @@
         },
         {
             "seedType": 1117,
-            "name": "Cata-gousse",
-            "introduce": "<size=36><color=black>\"Dans les années 90, les gens croyaient largement que la meilleure façon de lutter contre les zombies était de semoule de maïs et de sang de chien noir. Pour nous, les plantes, l'Ail est une ressource stratégique\", explique Clove-pult avec une attitude sage.</color>",
-            "info": "<size=36>A une chance de lancer un beurre à l'ail qui immobilise les zombies pendant 4 secondes et les force à changer de chemin, finissant qu'ils accumulent les points de poison pour appliquer l'effet de poison.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3 ​​Secondes</color>\n<color=black>Système Poison : </color><color=#8B0000>Chaque attaque accumule 1 point Poison, avec un maximum de 5. À 5 points, le debuff Empoisonné est appliqué. A 1/4 de chance de lancer du beurre Ail, immobilisant les zombies pendant 4 secondes, forçant un changement de voie et supprimant le plafond des points de poison. Les zombies perdent (20 × Poison Point) HP / seconde lorsqu'ils sont empoisonnés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-maïs + Ail</color>",
-            "cost": "<size=36>"
+            "name": "Lance-girofle",
+            "introduce": "<align=justified><size=36><color=black>\"Dans les années 90, les gens croyaient largement que la meilleure façon de lutter contre les zombies était de la semoule de maïs et du sang de chien noir. Pour nous, les plantes, l’ail est une ressource stratégique bien trop importante pour être utilisée à tout va ! Nous avons des clous de girofle ! C’est pour cela que j'en lance !\", explique Lance-girofle avec une attitude sage.</color>",
+            "info": "<size=36>Lance de petits clous de girofle sur les zombies; Parfois, ce sont des mottes de beurre aux clous de girofle (beurk).\n\n<color=black>Dégâts: </color><color=#8B0000>40/3s</color>\n<color=black>Système Poison : </color><color=#8B0000>Chaque attaque accumule 1 point de Poison, avec un maximum de 5. À 5 points, l'Altération Empoisonné est appliquée. A 1/4 de chance de lancer du beurre aux clous de girofle, qui immobilise pour 4 s et inflige 60 dégâts, obligeant le zombie à changer de ligne. Le beurre au clou de girofle Empoisonne également le zombie pour 9 s. La motte de beurre augmente également le plafond des points de Poison (30 points maximum). Les zombies perdent 20 PV par secondes et par points de Poison cumulés.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Lance-maïs + Ail</color>"
         },
         {
             "seedType": 1118,
@@ -1304,10 +1304,10 @@
         },
         {
             "seedType": 1119,
-            "name": "Cata-ail",
-            "introduce": "<size=36><color=black>Peu de gens osent prendre des airs devant Ail-pult. La plupart font un détour lorsqu'ils le voient, même s'il n'a pas l'intention de se montrer intimidant. Il ne recherche plus la popularité qu'il avait en tant que chef, mais il espère se faire des amis qui apprécient les bienfaits de l'allicine. Aujourd'hui, les plantes embrassent enfin son charme unique, Ail et tout.</color>",
-            "info": "<size=36>Accumule 1 point de poison pour tous les zombies dans le rayon d'éclaboussure d'Ail ; chaque point de poison ajoute 5 dégâts aux attaques éclaboussantes.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque coup ajoute 1 point de poison à la cible ; reportez-vous à Clove-pult.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ail + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Lance-ail",
+            "introduce": "<align=justified><size=36><color=black>Peu de plantes osent prendre de haut Lance-ail devant lui. La plupart font un détour lorsqu’ils le voient, même s’il n’a pas l’intention d’intimider qui que ce soit. Il ne recherche plus la popularité qu’il avait en tant que chef, mais espère se faire des amis qui apprécient les bienfaits de l’allicine. Aujourd’hui, les plantes embrassent enfin son charme unique et son caractère, ail inclus.</color>",
+            "info": "<size=36>Lance de l’ail sur les zombies, qui se brisent à l’impact.\n\n<color=black>Dégâts: </color><color=#8B0000>100/3s</color>\n<color=#5E1675>Système Poison: </color><color=#8B0000>\n<color=black>•</color> Reportez-vous à la description de Lance-girofle pour les détails du Système de Poison.\n<color=black>•</color> Chaque point de Poison ajoute des dégâts bonus pour les coups directs et indirects. Accumule 1 point de Poison pour tous les zombies touchés par les dégâts de zone.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Ail + Lance-pastèque</color>"
         },
         {
             "seedType": 1120,
@@ -1318,10 +1318,10 @@
         },
         {
             "seedType": 1121,
-            "name": "Cata-maïs",
-            "introduce": "<size=36><color=black>On voit souvent la Pulte de maïs fronçant les sourcils. Lorsqu'on lui demande pourquoi, il ne répond rien. \"Les gens n'arrêtent pas de me demander si le maïs au beurre est collant ou sucré\", soupire Corn-pult. \"Pourquoi me demander ? Je n'en mange pas. Seuls les zombies le sauraient.\"</color>",
-            "info": "<size=36>Lance de gros cors sur les zombies ; parfois ils sont beurrés.\n\n<color=black>Dégâts : </color><color=#8B0000>100/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer un maïs au beurre, immobilisant la cible principale pendant 4 secondes et les zombies à portée de projection pendant (4 / propagation totale des éclaboussures) secondes (minimum de 0,5).</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Lance-maïs</color>",
-            "cost": "<size=36>"
+            "name": "Lance-épis",
+            "introduce": "<align=justified><size=36><color=black>On voit souvent le Lance-épis fronçant les sourcils. Lorsqu'on lui demande pourquoi, il ne répond rien. \"Les gens n'arrêtent pas de me demander si le maïs au beurre est salé ou sucré\", soupire Lance-épis. \"Pourquoi me demander ? Je n'en mange pas. Seuls les zombies le sauraient.\"</color>",
+            "info": "<size=36>Lance de gros épi de maïs sur les zombies; parfois ils sont beurrés.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer un épis de maïs au beurre qui inflige 140 dégâts, immobilise la cible principale pendant 4 secondes et peut toucher jusqu'à 4 zombies supplémentaires à proximité d'autres lignes pendant au moins 0,5 s.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Lance-maïs</color>"
         },
         {
             "seedType": 1122,
@@ -1437,10 +1437,10 @@
         },
         {
             "seedType": 1138,
-            "name": "Grain Argenté",
-            "introduce": "<size=36><color=black>\"Pourquoi lancer des pièces d'argent sur les zombies ? Pourquoi, pourquoi ? Même si les zombies ne sont que des données de jeu, nous devons quand même leur montrer un dernier respect.\" Silver Kernel était autrefois huissier dans un théâtre, mais après avoir découvert son talent pour donner des conférences, il est entré dans le monde de la parole en public, apportant avec lui son beurre et ses grains de maïs.</color>",
-            "info": "<size=36>Lance des noyaux d'argent et des sacs d'argent pour attaquer les zombies, avec une chance de gagner des pièces.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer un sac d'argent en argent, infligeant 60 dégâts, immobilisant le zombie pendant 4 secondes et laissant tomber 25 pièces.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-maïs + Souci</color>",
-            "cost": "<size=36>"
+            "name": "Lance-maïs Argenté",
+            "introduce": "<align=justified><size=36><color=black>\"Pourquoi lancer des pièces d'argent sur les zombies ? Pourquoi, POURQUOI !? Même si les zombies ne sont que des données dans un jeu vidéo, nous devons quand même leur montrer un semblant de respect.\" Lance-maïs Argenté était autrefois huissier dans un théâtre, mais après avoir découvert sa passion pour donner des conférences, il est entré dans le monde des débats en public, apportant avec lui son beurre et ses grains de maïs.</color>",
+            "info": "<size=36> Lance des grains de maïs en argent et des mottes de beurre en argent pour attaquer les zombies, avec une chance de gagner des pièces.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A 1/4 de chance de lancer une motte de beurre en argent, infligeant 60 dégâts et immobilisant le zombie pendant 4 secondes, laissant tomber 25 pièces.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Lance-maïs + Souci</color>"
         },
         {
             "seedType": 1139,
@@ -1458,10 +1458,10 @@
         },
         {
             "seedType": 1141,
-            "name": "Melon Argenté",
-            "introduce": "<size=36><color=black>Silver Melon se considère parfois comme le melon le plus précieux, jusqu'à ce qu'il se souvienne du plus prestigieux Golden Melon. \"Un melon est un melon, qu'il soit en argent, doré ou fait d'ail ou d'or\", rit Silver Melon. \"Nous avons tous notre place dans le sol.\"</color>",
-            "info": "<size=36>Lance des melons argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Lance-pastèque Argenté",
+            "introduce": "<align=justified><size=36><color=black>Lance-pastèque Argenté se considère parfois comme la pastèque la plus précieuse, jusqu’à ce qu’il se souvienne du plus prestigieux, Lance-pastèque Doré. \"Une pastèque est une pastèque, qu’elle soit en argent, en or, ou même faite d’ail !\", rit Lance-pastèque Argenté. \"Nous avons tous notre place dans la terre.\"</color>",
+            "info": "<size=36>Lance des pastèques argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>100/3s</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Souci + Lance-pastèque</color>"
         },
         {
             "seedType": 1142,
@@ -1487,9 +1487,9 @@
         {
             "seedType": 1145,
             "name": "Ail Argenté",
-            "introduce": "<size=36><color=black>Est-ce qu'un Ail en argent sent toujours l'Ail ? Probablement pas, mais ni les plantes ni les zombies n’étaient impatients de le tester. Cependant, les zombies ont vite regretté leur curiosité après y avoir goûté !</color>",
-            "info": "<size=36>Peut-être une maladie encore plus piquante ? Peut être.\n\n<color=black>Robustesse : </color><color=#8B0000>600</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Ail</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Est-ce qu'un Ail en argent sent toujours l'Ail ? Probablement pas, mais ni les plantes ni les zombies ne se bousculaient pour le tester. Cependant, les zombies ont vite compris leur erreur à la première bouchée !</color>",
+            "info": "<size=36>Peut être un Ail encore plus saturé d'allicine ? Possible.\n\n<color=black>Robustesse : </color><color=#8B0000>600</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Souci + Ail</color>"
         },
         {
             "seedType": 1146,
