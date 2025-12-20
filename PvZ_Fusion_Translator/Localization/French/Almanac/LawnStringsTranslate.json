@@ -220,9 +220,9 @@
         {
             "seedType": 31,
             "name": "Souci",
-            "introduce": "<size=36><color=black>Souci est extraordinairement riche, il dépense donc librement, même si techniquement, il n'a même pas de mains ni de pieds.</color>",
-            "info": "<size=36>Produit des pièces, pièces en argent et des diamants.\n\n<color=black>Intervalle de Production : </color><color=#8B0000>25 Secondes</color>\n<color=black>Montant de Pièces :\n</color><color=#8B0000>75% de Chance = 100 Pièces\n20% de Chance = 300 Pièces\n5% de Chance = 1000 Pièces</color>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>Souci est extraordinairement riche, il dépense donc librement, même si techniquement, il n'a même pas de mains ni de pieds.</color>",
+            "info": "<size=36>Produit des Pièces en Argent, Pièces en Or et des Diamants.\n\n<color=black>Intervalle de Production : </color><color=#8B0000>25s</color>\n<color=black>Montant de Pièces :\n</color><color=#8B0000><color=black>•</color> 75% de Chance = 100 Pièces\n<color=black>•</color> 20% de Chance = 300 Pièces\n<color=black>•</color> 5% de Chance = 1000 Pièces</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 32,
@@ -1801,9 +1801,9 @@
         },
         {
             "seedType": 1180,
-            "name": "Ortie Hivernale",
-            "introduce": "<align=justified><size=36><color=black>Dernières nouvelles du premier tournoi de hockey Plants vs. Zombies ! Ortie hivernale à remporté la victoire, laissant les Bobsleigh Zombies dans le désarroi. Mais maintenant, ils crient à la tricherie ! \"Je n'ai rien fait de mal,\" insista Ortie hivernale, en ajustant ses crampons glacés. \"Et ces ressorts? C'est juste un petit équipement de  sécurité avant le match.\"",
-            "info": "<size=36>Ortie Hivernale peut ralentir les zombies qui marchent dessus.\n\n<color=black>Dégâts: </color><color=#8B0000>40/1 Secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Ortie Hivernale peut évoluer en Glace Épineuse grâce à du fertilisant.</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Chaque coup ajoute 10 points Cryo.</color>",
+            "name": "Ortie Glacée",
+            "introduce": "<align=justified><size=36><color=black>Dernières nouvelles du premier tournoi de hockey Plants vs. Zombies ! Ortie glacée à remporté la victoire, laissant les Bobsleigh Zombies dans le désarroi. Mais maintenant, ils crient à la tricherie ! \"Je n'ai rien fait de mal,\" insista Ortie glacée, en ajustant ses crampons glacés. \"Et ces ressorts? C'est juste un petit équipement de  sécurité avant le match.\"",
+            "info": "<size=36>Ortie Glacée peut ralentir les zombies qui marchent dessus.\n\n<color=black>Dégâts: </color><color=#8B0000>40/1 Secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Ortie Glacée peut évoluer en Glace Épineuse grâce à du fertilisant.</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Chaque coup ajoute 10 points Cryo.</color>",
             "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Ortie + Champi-glace</color>"
         },
         {
