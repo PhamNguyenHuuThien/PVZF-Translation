@@ -93,7 +93,7 @@ __The Blooms Community__  | Translation ideas and assistance
 **Language** | **Members** | **Inactive Members**
 ------ | ------ | ------
 English | Dyna, Mamoru-kun, Cassidy, JustTer, Invis19 | Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
-French | HexAnti, Lyolia, AnthonyGourmand | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
+[French](./Docs/french-contributions.md) | [Charles LINDECKER](./Docs/french-contributor/lindecker-charles.md), [Lyolia](./Docs/french-contributor/lyolia.md), [Oarlina](./Docs/french-contributor/oarlina.md), [Hubtech](./Docs/french-contributor/hubtech.md), [Same-ael](./Docs/french-contributor/same_el.md), [Ink Stolas](./Docs/french-contributor/ink-stolas.md), AnthonyGourmand | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
 Spanish | Xabdi, Teyliu | Hairy Nugget, Moonlight, Arooming
@@ -105,6 +105,10 @@ Russian | Nekosha, LancerX0 (Coder), Kammerer |
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
 Ukrainian | Easter Wolf |
+
+This language team has a detailed contribution report : 
+
+- [French Contributors — Full Report](./Docs/french-contributions.md)
 
 ## Notice to Translators
 The translator mod, PvZ_Fusion_Translator.dll, is currently closed source, but you can grab the latest build dll on the root directory of this repo's main branch. It is constantly updated.
