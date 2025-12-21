@@ -6724,7 +6724,7 @@
         {
     "seedType": 1328,
     "name": "Tripitipeste",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¡Ugh, tu gusto apesta! ¡Los odio a los dos!\" llora la tercera cabeza. Los zombis creen que está llorando por el olor de sus compañeros, pero en realidad, es solo por su horrible gusto musical. \"Ni siquiera tenemos narices\", explica la primera cabeza.</color></size>",
    "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDeja una nube asquerosa a zombis envenenados.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto al impacto.\n- Si el zombi impactado ya esta en el Estado Venenoso, crea una nube en la posición del zombi que permanece durante 6s, aplicando 1 punto por segundo a todos los zombis en su área.</color></color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1,5s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Tripitidora + Ajo</color></size>",
    "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },

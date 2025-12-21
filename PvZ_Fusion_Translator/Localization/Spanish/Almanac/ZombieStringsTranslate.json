@@ -263,7 +263,7 @@
       "theZombieType": 45,
       "name": "Zombi Colgao'",
       "introduce": "<size=39><color=#3D1400>Zombi Colgao' ama tomar riesgos. Después de todo, ¿cuál es el punto de estar muerto si no vives un poco?</color>",
-      "info": "<size=39>Desciende del cielo y roba una planta.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>Tienen una chance de poner un zombi odisea en el campo y obtienen una reducción de daño de 90%</color>"
+      "info": "<size=39>Desciende del cielo y roba una planta.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>Tienen una chance de poner un zombi odisea en la cuarta columna y obtienen una reducción de daño de 90%</color>"
     },
     {
       "theZombieType": 46,
@@ -587,7 +587,7 @@
       "theZombieType": 200,
       "name": "Submarinón",
       "introduce": "<size=39><color=#3D1400>\"¡Un excelente buceador no solo debe saber bucear, sino también conducir un super submarino!\" declaró el Zombi Submarinón mientras aumentaba la potencia del submarino en una marcha.</color></size>",
-      "info": "<size=39>He oído que este zombi está relacionado con cierto pez robot.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000\n<color=#3D1400>Características: </color><color=#4B0082>Se mueve rapido y hunda a toda planta con el cual tiene contacto. Hace 500 de daño a plantas anti-aplaste.</color>\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Su velocidad se duplica\n- Recibe un 50% menos de daño</color></size>"
+      "info": "<size=39>He oído que este zombi está relacionado con cierto pez robot.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000\n<color=#3D1400>Características: </color><color=#4B0082>Se mueve rapido y hunda a toda planta con el cual tiene contacto. Hace 500 de daño a plantas anti-aplaste.</color>\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Su velocidad de movimiento se duplica\n- Recibe una reducción de daño del 50%</color></size>"
     },
     {
       "theZombieType": 201,
@@ -599,25 +599,25 @@
       "theZombieType": 202,
       "name": "Vegezombi Pescador",
       "introduce": "<size=39><color=#3D1400>El Vegezombi Pescador es un pescador experto conocido por su precisión excepcional con los cuatro tridentes que lanza, ganándose el título de rey de los pescadores. \"De hecho, solía ser un lanzador de jabalina a tiempo parcial...\" admitió el Vegezombi Pescador.</color></size>",
-      "info": "<size=39>Lanza una gran cantidad de tridentes a tus plantas de una vez.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 7500 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Lanza 4 tridentes, cada uno causando daño a las plantas igual al 20% (mínimo de 20) de su dureza actual.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Sus tridentes infligen 5 veces más daño\n- Ahora ataca objetivos aleatorios</color></size>"
+      "info": "<size=39>Lanza una gran cantidad de tridentes a tus plantas de una vez.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 7500 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Lanza 4 tridentes, cada uno causando daño a las plantas igual al 20% (mínimo de 20) de su dureza actual.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Sus tridentes infligen el quintuple de daño\n- Ataca objetivos aleatorios</color></size>"
     },
     {
       "theZombieType": 203,
       "name": "Vegezombi Becario",
       "introduce": "<size=39><color=#3D1400>El Vegezombi Becario, sintiéndose viejo, murmuró: \"Solo ese tipo aún puede inspirarme a luchar,\" mientras guardaba el periódico y se alejaba.</color></size>",
-      "info": "<size=39>Inflige un daño inmenso.\n\n<color=#3D1400>Daño:</color><color=#4B0082>400 (Mordiscos), 1000*4 cada 0,125s (Cerezas)</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500 + 1500 (Tipo 2)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se vuelve temporalmente invencible a lo que se rompe su libro, disparando cerezas explosivas cada 0,125 segundos.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Inmune a ser ralentizado/congelado\n- Puede atravesar plantas al romper su libro</color></size>"
+      "info": "<size=39>Inflige un daño inmenso.\n\n<color=#3D1400>Daño:</color><color=#4B0082>400 (Mordiscos), 1000*4 cada 0,125s (Cerezas)</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500 + 1500 (Tipo 2)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se vuelve temporalmente invencible a lo que se rompe su libro, disparando cerezas explosivas cada 0,125 segundos.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Es inmune a todos los efectos excepto el Efecto Venenoso/congelado\n- Puede atravesar plantas al romper su libro</color></size>"
     },
     {
       "theZombieType": 204,
       "name": "Vegezombi Lethal-Star",
       "introduce": "<size=39><color=#3D1400>Saliendo de las sombras, el Vegezombi Lethal-Star irradia poder, frialdad y un aura siniestra. Guarda celosamente el secreto de su fuerza, afirmando que solo la oscuridad más profunda puede crear un ser tan formidable como él. \"¿Dónde está mi pintura?\" preguntó el Dr. Zomboss, luciendo perplejo en su laboratorio.</color></size>",
-      "info": "<size=39>¿Un viejo amigo? Tal vez, quizá lo hayamos conocido antes.\n\n<color=#3D1400>Daño: </color><color=#4B0082>100</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000 + 12000 (Tipo 1)\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Las plantas mordidas no podrán regenerarse por un corto tiempo\n- Las plantas mordidas recibirán 3 veces más daño por un corto tiempo</color></size>"
+      "info": "<size=39>¿Un viejo amigo? Tal vez, quizá lo hayamos conocido antes.\n\n<color=#3D1400>Daño: </color><color=#4B0082>100</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000 + 12000 (Tipo 1)\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Las plantas que muerde no podrán regenerarse por un segundo\n- Las plantas que muerde recibirán 3 veces más daño por un corto tiempo</color></size>"
     },
     {
       "theZombieType": 205,
       "name": "Zomppelín Kírov",
       "introduce": "<size=39><color=#3D1400>¿Era SuperZombi?, ¿Zombi Globo? en realidad, era un gigantesco dirigible, resistente y capaz de liberar luchadores. Incluso destruido, sigue causando estragos y los zombis mantienen su distancia por temor a un choque fatal.</color></size>",
-      "info": "<size=39>¡Kírov informando!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invoca un Dron Kírov cada segundo. Al ser derribado, causa un inmenso daño a las plantas en el impacto.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Inmune a Treboladores; velocidad de vuelvo aumentada\n- Durabilidad de drones aumentada</color></size>"
+      "info": "<size=39>¡Kírov informando!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invoca un Dron Kírov cada segundo. Al ser derribado, causa un inmenso daño a las plantas en el impacto.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Inmune a Treboladores; velocidad de vuelvo aumentada\n- Durabilidad de drones aumentada x50</color></size>"
     },
     {
       "theZombieType": 206,
@@ -641,7 +641,7 @@
       "theZombieType": 209,
       "name": "Pogozombi Bromista",
       "introduce": "<size=39><color=#3D1400>\u0022En realidad, mi apariencia es solo para seguir la moda.\u0022 Cuando se habla de su genial aspecto, el Pogozombi Bromista siempre se encoge de hombros, pero todos saben que tiene un pasado amoroso inolvidable.</color></size>",
-      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>270+3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Si muere mientras está saltando, se autodestruye y se convierte en el Payazombi.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Siempre explota sin importar su estado; tiempo de carga reducido\n- Los Payazombis afectados por su explosión se convierten en Pogozombis Bromistas</color></size>"
+      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>270+3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Si muere mientras está saltando, se autodestruye y se convierte en el Payazombi.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Siempre explota sin importar su estado; tiempo de carga reducido un 90%\n- Los Payazombis afectados por su explosión se convierten en Pogozombis Bromistas</color></size>"
     },
     {
       "theZombieType": 210,
@@ -683,7 +683,7 @@
       "theZombieType": 216,
       "name": "Zombirtaria",
       "introduce": "<size=39><color=#3D1400>Zombirtaria es un perfeccionista... si por perfección entendemos \"llenar un cañón con 28 tridentes\". Su lema: \"¿Por qué disparar uno cuando puedes disparar TODOS?\" Spoiler: nadie le explicó el concepto de 'sobrecarga'.</color>",
-      "info": "<size=39>Lanza 28 tridentes en dos oleadas destructivas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350 + 4400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Descarga 14 tridentes → pausa dramática → ¡otros 14! Ángulo fijo, precisión... cuestionable.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Inmune a ser ralentizado/congelado; tira x5 de la cantidad de tridentes\n- Atacará por adelantado</color></size>"
+      "info": "<size=39>Lanza 28 tridentes en dos oleadas destructivas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350 + 4400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Descarga 14 tridentes → pausa dramática → ¡otros 14! Ángulo fijo, precisión... cuestionable.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Inmune a la mayoria de efectos; tira x5 de la cantidad de tridentes\n- Atacará por adelantado</color></size>"
     },
     {
       "theZombieType": 217,
@@ -785,7 +785,7 @@
      "theZombieType": 233,
      "name": "Zombistein Prismático",
      "introduce": "<size=39><color=#3D1400>Hace mucho tiempo, el Maestro Zomboss buscó entrenar soldados más versátiles al infundir a sus Zombisteins con el poder de la luz y sus colores, solo para ver que sucedía. El experimento fue un éxito… en su mayoría. Mientras que los Zombisteins Carmesí, Azufre y Esmeralda se unieron rápidamente gracias a su nueva fuerza, el Zombistein Índigo por la marea se encontró excluido. \"Ya tenemos un conjunto perfecto de colores de señal sin ti.\" murmuraron los otros tres. \"Rojo, amarillo, verde. Tú solo eres… azul extra.\"</color>",
-     "info": "<size=39>Un Zombistein completamente armado, con su color de ojo indicando su habilidad.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>16000+16000 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- No lanza Zombiditos. Al aplastar, causa 3600 de daño a zombis hipnotizados. Gana una de cuatro apariencias (color de ojo) al aparecer, cada cual con sus respectivas habilidades:\n  - Zombistein Carmesí: Inmune al Efecto Pirogénico, tiene una reducción de daño inherente del 66%.\n  - Zombistein Índigo: Inmune a ser ralentizado, congelado y empujado; tiene el doble de velocidad. Cada aplaste cuenta como 5 ataques.\n  - Zombistein Azufre: Inmune a ser aturdido; salta una distancia pequeña cada vez que aplasta y hace un aplaste adicional.\n  - Zombistein Esmeralda: Inmune al envenenamiento; recupera 10% de su máxima durabilidad tras aplastar.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Su apariencia no importará. Obtendrá todas sus habilidades a la vez\n- Su rango de ataque se extiende por una casilla</color>"
+     "info": "<size=39>Un Zombistein completamente armado, con su color de ojo indicando su habilidad.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>16000+16000 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- No lanza Zombiditos. Al aplastar, causa 3600 de daño a zombis hipnotizados. Gana una de cuatro apariencias (color de ojo) al aparecer, cada cual con sus respectivas habilidades:\n  - Zombistein Carmesí: Inmune al Efecto Pirogénico, tiene una reducción de daño inherente del 66%.\n  - Zombistein Índigo: Inmune a ser ralentizado, congelado y empujado; tiene el doble de velocidad. Cada aplaste cuenta como 5 ataques.\n  - Zombistein Azufre: Inmune a ser aturdido; salta una distancia pequeña cada vez que aplasta y hace un aplaste adicional.\n  - Zombistein Esmeralda: Inmune al envenenamiento; recupera 10% de su máxima durabilidad tras aplastar.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Su apariencia no importará. Obtiene todas sus habilidades a la vez\n- Su rango de ataque se extiende por una casilla</color>"
    },
    {
      "theZombieType": 234,
@@ -803,7 +803,7 @@
      "theZombieType": 236,
      "name": "Ovni Criogénico",
      "introduce": "<size=39><color=#3D1400>Este nuevo modelo del Ovni Invernal está equipado con un avanzado emisor antigravedad y un sensor de plantas que le permite volar y combatir de forma completamente autónoma. Su piloto ni siquiera necesita operarlo ni permanecer despierto. Entonces, ¿por qué mantener un piloto? \"Algunos zombis son demasiado tontos para hacer cualquier otra cosa\", dijo el Dr. Zomboss mientras soldaba la cabina.</color>",
-     "info": "<size=39>Equipado con dos armas de la clásica ciencia ficción.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Cada 2 segundos, se fija en la planta más cercana dentro de un radio de 2,5 casillas y dispara un Rayo Disolvedor, infligiendo 300 de daño (prioriza plantas que no sean Calabazas, Macetas y Aéreas)\n- Al estar cerca de una planta, se desplaza directamente sobre ella y desata un Drenador Sifón que inflige 10 de daño cada 0,02 s a todas las plantas en esa casilla. Si el Ovni Criogénico está hipnotizado, el daño se convierte en curación por la misma cantidad.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Los Rayos Disolvedores ahora fijan a la planta más lejana dentro de su alcance.\n- Rango del Drenador Sifón: 1 Casilla → Área de 3x3</color>"
+     "info": "<size=39>Equipado con dos armas de la clásica ciencia ficción.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Cada 2 segundos, se fija en la planta más cercana dentro de un radio de 2,5 casillas y dispara un Rayo Disolvedor, infligiendo 300 de daño (prioriza plantas que no sean Calabazas, Macetas y Aéreas)\n- Al estar cerca de una planta, se desplaza directamente sobre ella y desata un Drenador Sifón que inflige 10 de daño cada 0,02 s a todas las plantas en esa casilla. Si el Ovni Criogénico está hipnotizado, el daño se convierte en curación por la misma cantidad.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Los Rayos Disolvedores ahora fijan a la planta más lejana dentro de su alcance\n- Rango del Drenador Sifón: 1 Casilla → Área de 3x3</color>"
    },
    {
      "theZombieType": 237,
