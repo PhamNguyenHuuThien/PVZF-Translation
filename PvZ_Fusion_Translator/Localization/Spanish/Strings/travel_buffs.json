@@ -70,11 +70,17 @@
     "Maestría I - Apisonantorcha Infernal: Efecto de Jalapeño cambia de instantáneo a daño a lo largo del tiempo",
     "Maestría II - Apisonantorcha Infernal: Otorga a proyectiles +50% de daño antes de encenderlos",
     "Las plantas en la quinta columna obtienen un aumento del 50% en la Resistencia máxima y una reducción del 50% del daño. Cada columna hacia la izquierda reduce el límite de daño en un 10% y aumenta la reducción de daño en un 10%",
-    "Al tener 10 Emperadores Estelares y 10 Seleneomenias, la Mini-Luna de Seleneomenia ya no desaparecerá. Cada Emperador Estelar y Seleneomenia canalizará un laser a la Mini-Luna, los cuales se combinarán a un solo laser concentrado el cual se centra en el zombi con la mayor cantidad de PS.",
+    "Al tener 10 Emperadores Estelares y 10 Seleneomenias, la Mini-Luna de Seleneomenia ya no desaparecerá. Cada Emperador Estelar y Seleneomenia canalizará un laser a la Mini-Luna, los cuales se combinarán a un solo laser concentrado el cual se centra en el zombi con la mayor cantidad de PS",
     "Parcarnívora: Siempre devolverá un paquete de semillas al devorar una planta",
     "Parcarnívora: Al devorar una planta odisea con un efecto al morir, este efecto se activará 4 veces",
     "Cereza Nuclear: Duración de la zona de radiación aumentado a 10s",
-    "Cereza Nuclear: Cerezas explosivas y proyectiles Petaseta tienen una chance del 1% de convertirse en cerezas radiactivas al impacto."
+    "Cereza Nuclear: Cerezas explosivas y proyectiles Petaseta tienen una chance del 1% de convertirse en cerezas radiactivas al impacto | Subespecie Apisonaflor Nuclear Desbloqueado",
+    "Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create singularities, and Quantum McCornics always lob Ultimate Black Holes. When an Ultimate Black Hole collapses, it also detonates all singularities to further increase its own damage",
+    "Summons an Abyssal Chibi to fight for you. His hammer smash damages both nearby plants and zombies, grants damage reduction to affected plants, and deals increased damage to zombies based on nearby plants' HP",
+    "Summons a Mini Striker to fight for you. Every 3s, he moves to the plant with the lowest HP percentage and rallies the area, healing nearby plants and increasing damage taken by zombies. Rally effects scale with level",
+    "Click on an armed Vulcannon while holding a Twin Inferno-nut with the Glove to make all armed Vulcannon on the field perform a synergized attack. Every 8th Inferno Shell shot summons an Inferno Meteor dealing 80× damage, decimating all zombies on the screen",
+    "Ralentizahiebra: Duración de aturdimiento x3",
+    "Ralentizahierba: Los zombis que lo pisen se deslizarán constantemente hacia la derecha"
   ],
   "ultimateUpgrades": [
     "Cerezilla (+Bodriozilla): Cerezilla se recupera x3 veces mas rápido",
@@ -190,7 +196,7 @@
     "Jinete del Apocalipsis aparecerá en la próxima ronda",
     "Ovni Criogénico: Los Rayos Disolvedores ahora fijan a la planta más lejana dentro de su alcance",
     "Ovni Criogénico: Rango del Drenador Sifón: 1 Casilla → Área de 3x3",
-    "Zombistein Prismático: Obtiene todas sus habilidades a la vez",
-    "Zombistein Prismático: Obtiene todas sus inmunidades a la vez"
+    "Zombistein Prismático: Obtiene todas sus inmunidades a la vez",
+    "Zombistein Prismático: Obtiene todas sus habilidades a la vez"
   ]
 }
