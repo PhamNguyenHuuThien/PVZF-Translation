@@ -1060,9 +1060,9 @@
         {
             "seedType": 1084,
             "name": "Troufle d'Étoiles",
-            "introduce": "<size=36><color=black>\"Rassemblez les étoiles autour de moi et donnez-les à ceux qui souhaitent une étoile filante\", déclare fièrement StarTroufle, estimant qu'il s'agit d'une noble mission. Cependant, tout le monde ne l'apprécie pas, surtout lorsque la pluie d'étoiles arrive directement sur eux.</color></size>",
-            "info": "<size=36>Tenue des étoiles pour tourner autour d'elle et les fait décoller à pleine vitesse.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les projectiles d'étoiles à proximité. Après 6 secondes, les tire comme des projectiles de poursuite avec une vitesse et des dégâts deux fois supérieurs. Attire jusqu'à 20 étoiles maximum.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Troufle + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>\" Rassemblez les étoiles autour de moi et offrez-les à ceux qui font un vœu sur une étoile filante \", déclare fièrement Troufle d’Étoiles, convaincu qu’il s’agit d’une noble mission. Cependant, tout le monde ne l’apprécie pas, surtout lorsque la pluie d’étoiles fonce droit sur eux.</color></size>",
+            "info": "<size=36>Attire les étoiles pour les faire tourner autour de lui avant de les projeter.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les projectiles d’étoiles à proximité. Après 1,5 seconde, les tire comme des projectiles à tête chercheuse avec une vitesse doublée. Si les projectiles possédaient déjà un effet de poursuite avant l’accélération, leurs dégâts sont augmentés de 50 % à la place. Peut attirer jusqu’à 20 étoiles.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Carambole</color></size>"
         },
         {
             "seedType": 1085,
@@ -1248,8 +1248,8 @@
         },
         {
             "seedType": 1111,
-            "name": "Cata-Soleil",
-            "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Cata-Soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Cata-Soleil se contente de sourire : \" D’où pensez-vous que viennent les Soleils de la cour avant ? \"</color></size>",
+            "name": "Lance-soleil",
+            "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Lance-soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Lance-soleil se contente de sourire : \" D’où pensez-vous que viennent les Soleils de la cour avant ? \"</color></size>",
             "info": "<size=36>Lance des choux solaires pour attaquer les zombies et peut aussi générer du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>50/5s</color>\n<color=black>Spécial : </color><color=#8B0000>Rend 100 Soleil lors de la fusion. Chaque tir rebondit une fois après avoir touché un zombie. Pour chaque tranche de 200 Soleil, il peut rebondir une fois supplémentaire ; chaque rebond fait perdre 5 Soleil.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-chou + Tournesol</color></size>"
         },
