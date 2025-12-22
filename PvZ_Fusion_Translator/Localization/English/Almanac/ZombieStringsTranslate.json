@@ -124,7 +124,7 @@
             "theZombieType": 20,
             "name": "Trident Zombie",
             "introduce": "<align=justified><size=36><color=black>Trident Zombie was originally just a regular javelin thrower who became a fisherman after retiring. However, when he went to the river to fish, he sank because he couldn't swim. When he came ashore, he realized he had become what he is now.</color>",
-            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>3.5 Tiles in Front</color>"
+            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current HP.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>3.5 Tiles in Front</color>"
         },
         {
             "theZombieType": 21,
@@ -249,14 +249,14 @@
         {
             "theZombieType": 41,
             "name": "Silver Zombie Statue",
-            "introduce": "<align=justified><size=36><color=black>Gin. Yin. Silver. Silber. Argent. Plata. Argentum. Argyros.",
-            "info": "<size=36>Gin.\n\n<color=black>Toughness: </color><color=#4B0082>200</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immobile.\n<color=black>•</color> Drops a Diamond (1k Coins) upon death.</color>"
+            "introduce": "<align=justified><size=36><color=black>A zombie wrapped in pure silver, sold in the garden souvenir shop for just two silver coins. \"Obviously, the zombie inside lowers the value of the pure silver coating,\" comments Dr. Edgar Zomboss.",
+            "info": "<size=36>A zombie turned into a silver statue.\n\n<color=black>Toughness: </color><color=#4B0082>200</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immobile. Cannot have damage to itself redirected. Cannot be knocked back by Umbrella ultimates.\n<color=black>•</color> Starts to rapidly lose HP 15s after appearance.\n<color=black>•</color> Drops 1 Diamond (1k Coins) upon death.</color>"
         },
         {
             "theZombieType": 42,
             "name": "Golden Zombie Statue",
-            "introduce": "<align=justified><size=36><color=black>Kin. Jin. Gold. Gold. Or. Oro. Aurum. Chrysos.",
-            "info": "<size=36>Kin.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immobile.\n<color=black>•</color> Drops a Diamond (3k Coins) upon death.</color>"
+            "introduce": "<align=justified><size=36><color=black>A zombie wrapped in gold. Compared to being sold as a souvenir, it is more popular in the Golden Egg Smash event. \"Smash it open with peas. Common rewards are coins and diamonds, while the hidden grand prize is a zombie,\" explains Dr. Edgar Zomboss. So far, no one has obtained the hidden grand prize.",
+            "info": "<size=36>A golden zombie statue, a symbol of wealth!\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immobile. Cannot have damage to itself redirected. Cannot be knocked back by Umbrella ultimates.\n<color=black>•</color> Starts to rapidly lose HP 15s after appearance.\n<color=black>•</color> Drops 3 Diamonds (3k Coins) upon death.</color>"
         },
         {
             "theZombieType": 43,
@@ -280,7 +280,7 @@
             "theZombieType": 46,
             "name": "Dr. Zomboss Auric Prime",
             "introduce": "<align=justified><size=36><color=black>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non consectetur odio, ac consectetur dui.</color>",
-            "info": "<size=36>The evil final boss of... wait, you are not supposed to see this part!\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from Dr. Zomboss. Additionally, disables player's gloves and mallet on appearance. Mallet is unlocked at 2/3 health. Gloves are unlocked at 1/3 health. Thrown campers also clears the conveyor belt.</color>\n<size=36>Fusion Formula: <color=#4B0082>Dr. Zomboss + Trophy</color>"
+            "info": "<size=36>I'm watching you every step of the way.\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from Dr. Zomboss. Additionally, disables player's gloves and mallet on appearance. Mallet is unlocked at 2/3 health. Gloves are unlocked at 1/3 health. Thrown campers also clears the conveyor belt.</color>\n<size=36>Fusion Formula: <color=#4B0082>Dr. Zomboss + Trophy</color>"
         },
         {
             "theZombieType": 47,
@@ -340,7 +340,7 @@
             "theZombieType": 56,
             "name": "Snowfur",
             "introduce": "<align=justified><size=36><color=black>Research into the biological classification of Snowfurs has seen little progress. After all, you can't expect zombies—who lack brains—to be academically sharp. Most can’t even tell a real Snowfur from a Yeti Zombie in a Snowfur pelt. Thankfully, Dr. Edgar offered a brilliant method: 'The smarter-looking one is the Snowfur.'</color>",
-            "info": "<size=36>A neutral creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears. Moves very slowly, crushes plants, but does not directly attack.</color>"
+            "info": "<size=36>A hostile creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears. Moves very slowly, crushes plants, but does not directly attack.</color>"
         },
         {
             "theZombieType": 57,
@@ -364,7 +364,7 @@
             "theZombieType": 60,
             "name": "Boomer Missile",
             "introduce": "<align=justified><size=36><color=black>Boom!</color>",
-            "info": "<size=36>Explodes.\n\n<color=black>Toughness: </color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>Can only be targeted by anti-air attacks.</color>"
+            "info": "<size=36>Me bomb. Me explode.\n\n<color=black>Toughness: </color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>Can only be targeted by anti-air attacks. Missiles fire by Boomers can also be blown away by Blovers.</color>"
         },
         {
             "theZombieType": 61,
@@ -455,6 +455,12 @@
             "name": "Hypno Pepper Digger Zombie",
             "introduce": "<align=justified><size=36><color=black>Hypno Pepper Digger excels at sneaking behind defenses, using her magically infused pickaxe to convert plants into zombies. But those newly made zombies are righteous at heart: they dislike ambush tactics and will turn against her… unaware that they are also 'ambushing the ambusher'.</color>",
             "info": "<size=36>Uses her pickaxe to convert plants into Hypnotized Zombies, then burns them with a self-destruct flame.\n\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Stuns. If pickaxe hasn't been removed, attacks convert non-defensive plants into random hypnotized zombotanies, or apply 500 mining progress to defensive plants.\n<color=black>•</color>On reaching the backline and emerging, she will self-destruct like the Hypno Pepper Zombie after a short delay, releasing a row of flames that deals 1800 damage only to Hypnotized Zombies in her lane.</color>"
+        },
+        {
+            "theZombieType": 76,
+            "name": "Trident Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Zombies with higher body fat float more easily, but the Trident Gargantuar Zombie, convinced he is a descendant of the legendary Pozeidon, claims in his case it is divine favor. That said, with his size, walking straight along the bottom of the water would not be difficult either…</color>",
+            "info": "<size=36>An aquatic Gargantuar zombie that throws tridents instead of Imp zombies.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Drowning.\n<color=black>•</color>Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
         },
         {
             "theZombieType": 100,
@@ -610,7 +616,7 @@
             "theZombieType": 125,
             "name": "Parkour Zombie",
             "introduce": "<align=justified><size=36><color=black>He's world-famous for his flashy moves and masterful skills, but none of that matters to him. After all, only humans care about handing out fancy titles for fame and talent. What's that got to do with a zombie?</color>",
-            "info": "<size=36>A tough, smug parkour enthusiast who, once locked in, swerves and sprints with a burst of speed.\n\n<color=blue>Xiaoxiaosu Collab Zombie, exclusive to Vasebreaker</color>\n<color=black>Toughness: </color><color=#4B0082>9527</color>\n<color=black>Traits: </color><color=#4B0082>Switches lanes and speeds up by 3× when HP drops to 2/3.</color>"
+            "info": "<size=36>A tough, smug parkour enthusiast who, once locked in, swerves and sprints with a burst of speed.\n\n<color=blue>Xiaoxiaosu Collab Zombie, exclusive to Vasebreaker and Gacha Modes</color>\n<color=black>Toughness: </color><color=#4B0082>9527</color>\n<color=black>Traits: </color><color=#4B0082>Switches lanes and speeds up by 3× when HP drops to 2/3.</color>"
         },
         {
             "theZombieType": 200,
@@ -628,7 +634,7 @@
             "theZombieType": 202,
             "name": "Giga Trident-nut Zombie",
             "introduce": "<align=justified><size=36><color=black>Giga Trident-nut Zombie is a skilled fisherman known for his exceptional accuracy with the four tridents he throws, earning him the title of the king of fishermen. \"In fact, I used to be a part-time javelin thrower...\" Giga Trident-nut Zombie admitted.</color>",
-            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws 4 tridents, each causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Trident Damage ×5.\n2. Now targets random plants outside of minimum range.</color>"
+            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws 4 tridents, each causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Trident Damage ×5.\n2. Now targets random plants outside of minimum range.</color>"
         },
         {
             "theZombieType": 203,
@@ -730,7 +736,7 @@
             "theZombieType": 219,
             "name": "<color=#4B0082><u>Ultra Mecha-nut</u>",
             "introduce": "<align=justified><size=36><color=black>The Ultra Mecha-Nut was meant to be a smaller, precise Giga Mecha-Nut, but a blueprint mix-up made it much bigger. The engineers noticed too late—so they just <i>rolled</i> with it.</color>",
-            "info": "<size=36>Secret artifact of the Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>90000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss.\n<color=black>•</color> Inherits traits from Giga Mecha-nut.\n<color=black>•</color> Takes a maximum of 100 damage per hit after damage reduction calculations.\n<color=black>•</color> The Ultra Mecha-Nut Zombie soaks the damage for all zombies (except Mystery-box Zombies).</color>"
+            "info": "<size=36>Secret artifact of the Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>300000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss.\n<color=black>•</color> Inherits traits from Giga Mecha-nut.\n<color=black>•</color> Takes a maximum of 300 damage per hit after damage reduction calculations.\n<color=black>•</color> The Ultra Mecha-Nut Zombie reduces the damage taken by all other zombies (except Mystery-box Zombies) to 1, but redirects the original damage to itself.</color>"
         },
         {
             "theZombieType": 220,
