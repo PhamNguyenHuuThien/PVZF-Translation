@@ -328,7 +328,7 @@
             "theZombieType": 54,
             "name": "Dummy Zombie",
             "introduce": "<align=justified><size=36><color=black>I cannot die.</color>",
-            "info": "<size=36>Literally testing dummy.\n\n<color=black>Toughness: </color><color=#4B0082>Invincible</color>\n<color=black>Traits: </color><color=#4B0082>Shows last received damage, received damage dps and total received damage.</color>"
+            "info": "<size=36>Literally testing dummy.\n\n<color=black>Toughness: </color><color=#4B0082>10000 (Invincible)</color>\n<color=black>Traits: </color><color=#4B0082>Shows last received damage, received damage dps and total received damage.</color>"
         },
         {
             "theZombieType": 55,
