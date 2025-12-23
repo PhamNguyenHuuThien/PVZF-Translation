@@ -1229,7 +1229,7 @@
             "seedType": 1027,
             "name": "Tall-nut",
             "introduce": "<align=justified><size=36><color=black>\"The taller you are, the more powerful you become.\" Tall-nut firmly believed in this, which is why he always stayed on the front line. Other plants would urge him to take it easy, but he'd just smile and say, \"It's fine, I'm tall. As long as you fight quickly, the zombies won't have time to eat all of me.\"</color></size>",
-            "info": "<size=36>Tall-nuts are heavy-duty wall plants that can't be vaulted or jumped over.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. Blocks Pole-vaulting Zombies, Dolphin Riders and Pogo Zombies. Cannot block Yeti Riders and charged Pogo jumps.</color></size>",
+            "info": "<size=36>Tall-nuts are heavy-duty wall plants that can't be vaulted or jumped over.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. Blocks Pole-vaulting Zombies, Dolphin Riders and Pogo Zombies. Cannot block Yeti Riders and charged Pogo jumps. Can only be placed on existing Wall-nuts.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
@@ -1460,7 +1460,7 @@
             "seedType": 1060,
             "name": "Spikerock",
             "introduce": "<align=justified><size=36><color=black>Spikerock just got back from a trip to Europe. He had a great time, met some wonderful people, really broadened his horizons. He never knew they made museums so big, or put so many paintings in them. That was a big surprise for him.</color></size>",
-            "info": "<size=36>Spikerocks pop multiple tires and hurt any zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1 Second</color>\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Special: </color><color=#8B0000>Can puncture tires, but deducts 50 Toughness. Loses 50 Toughness when slammed on by Gargantuars and loses 150 when stomped on by Mecha Gargs.</color></size>",
+            "info": "<size=36>Spikerocks pop multiple tires and hurt any zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1s</color>\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Special: </color><color=#8B0000>Can only be placed on existing Spikeweeds. Can puncture tires, but deducts 50 Toughness. Loses 50 Toughness when slammed on by Gargantuars and loses 150 when stomped on by Mecha Gargs.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
@@ -1509,7 +1509,7 @@
             "seedType": 1067,
             "name": "Cattail",
             "introduce": "<align=justified><size=36><color=black>\"Woof!\" says Cattail. \"Woof woof woof! Does this confuse you? Do you expect me to say 'Meow' like a cat because the word 'cat' is in my name and I also look like a cat? That's not how things work around here. I refuse to be pigeonholed.\"</color></size>",
-            "info": "<size=36>Cattails can attack any lane and shoot down balloon zombies.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color></size>",
+            "info": "<size=36>Cattails can attack any lane and shoot down balloon zombies.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Can only be placed on existing Lily Pads.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
@@ -1530,7 +1530,7 @@
             "seedType": 1070,
             "name": "Gloom-shroom",
             "introduce": "<align=justified><size=36><color=black>\"I've always enjoyed releasing heavy fumes,\" says Gloom-shroom. \"I know a lot of people aren't cool with that. They say it's rude or that it smells bad. All I can say is, would you rather have your brain eaten by zombies?\"</color></size>",
-            "info": "<size=36>Gloom-shrooms fire heavy fumes in an area around them.\n\n<color=black>Damage: </color><color=#8B0000>20×4/1.9s (Piercing)</color></size>",
+            "info": "<size=36>Gloom-shrooms fire heavy fumes in an area around them.\n\n<color=black>Damage: </color><color=#8B0000>20×4/1.9s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Can only be placed on existing Fume-shrooms.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
@@ -2433,7 +2433,7 @@
             "seedType": 1199,
             "name": "Doomwood",
             "introduce": "<align=justified><size=36><color=black>Whenever someone asks Doomwood, \"What's the secret to grilling?\" he just silently collects and repurposes the embers. It's not that he's indifferent; if he spoke, you'd just end up with a face full of ash.</color>",
-            "info": "<size=36>Doomwood keeps burning even after a Doom-shroom explosion and it takes burning to the next level.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When its Ember value is 0, it behaves the same as Torchwood.\n<color=black>•</color> When the Ember value is not 0, turns peas and regular ignited peas into ember peas, with +30 damage and a no falloff 1/3 splash damage. Ember peas inflict the Ember debuff.\n<color=black>•</color> Can also use 10 Ember values to strengthen Doom peas or Mini Doom-shroom projectiles, ×2 or ×6 their damage respectively, and to enhance their splash effect to be the same as the large bullet of doom.</color>\n<color=#7303fc>Ember value: </color><color=#8B0000>\n<color=black>•</color> Initial: 60, Maximum: 60, 1 point is lost per second.\n<color=black>•</color> Gains 60 points for every 60 projectiles ignited, 30 points when affected by Doom-shroom explosions, and 10 points when any zombie within a 5×5 area dies with the Ember debuff. \n<color=black>•</color> Ember debuff will be cleared by cold/frozen/poisoned status and coexists with the Enflamed debuff.</color>",
+            "info": "<size=36>Doomwood keeps burning even after a Doom-shroom explosion and it takes burning to the next level.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When its Ember value is 0, it behaves the same as Torchwood.\n<color=black>•</color> When the Ember value is not 0, turns peas and regular ignited peas into ember peas, with +30 damage and a no falloff 1/3 splash damage. Ember peas inflict the Ember debuff.\n<color=black>•</color> Can also use 10 Ember values to strengthen Doom peas or Mini Doom-shroom projectiles, ×2 or ×6 their damage respectively, and to enhance their splash effect to be the same as the large bullet of doom.</color>\n<color=#7303fc>Ember value: </color><color=#8B0000>\n<color=black>•</color> Initial: 60, Maximum: 60, 1 point is lost per second.\n<color=black>•</color> Gains 60 points for every 60 projectiles ignited, 60 points when affected by Doom-shroom explosions, and 10 points when any zombie within a 5×5 area dies with the Ember debuff. \n<color=black>•</color> Ember debuff will be cleared by cold/frozen/poisoned status and coexists with the Enflamed debuff.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Doom-shroom + Torchwood</color>"
         },
         {
@@ -2454,7 +2454,7 @@
             "seedType": 1202,
             "name": "Squash Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Squash Pumpkin has never met a match in arm wrestling, has diligently learned various techniques for skipping stones, and is very good at selecting stones—his only bane is that he is very afraid of water and can only watch others skip stones.</color>",
-            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squash Pumpkin, a baby squash with 1/8 damage (minimum 225) and a maximum jump distance of 1.5 tiles is spawned. It disappears after 6 jumps and regenerates after 3 seconds.\n<color=black>•</color> Baby squashes spawned from Infernal Squashwood releases the Jalapeno effect when it lands.\n<color=black>•</color> Abilities do not work in water lanes.</color>",
+            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squash Pumpkin, a baby squash with a maximum jump distance of 1.5 tiles is spawned and jumps forward, damaging zombies when it lands. It disappears after 6 jumps and regenerates 3s after the last baby squash disappears.\n<color=black>•</color> Depending on the type of Squash inside it, the baby squashes have different effects:\n- Squashes and Squash-nut: Baby squash does 1/8 the original damage.\n- Gourd-pult: Baby squash drops a melon on landing that does the same damage.\n- Squashwood: Baby squash does 225 damage.\n- Infernal Squashwood: Baby squash does 1800 damage and releases a Jalapeno effect each time it lands.\n- Big Crunch Squash: Baby squash releases a Cherry Bomb effect each time it lands and also a ring of 12 pieces of Nuclear Debris the last time. Both do 1/8 the original damage.\n<color=black>•</color> Abilities do not work in water lanes.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Squash > Pumpkin</color>"
         },
         {
@@ -3417,7 +3417,7 @@
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Potato Mine</color>"
         },
         {
-            "seedType": 1339,
+            "seedType": 1340,
             "name": "Sea-mine",
             "introduce": "<align=justified><size=36><color=black>The moment he enters the pool, Sea-mine absorbs water like a little water baby, convinced this will greatly amplify his explosive power. While this does turn out to be true, he still cannot understand how it all works, just as he cannot understand why the pool is never completely filled with dead zombies either.</color>",
             "info": "<size=36>Aquatic and can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed stated. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
@@ -3490,7 +3490,7 @@
             "seedType": 1350,
             "name": "Fumy Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"I can attack in both forward and backward directions,\" says Fumy Pumpkin confidently. \"I'm a bidirectional Fume-shroom.\" However, he doesn't appear to have noticed that he's facing a different direction from everyone else.</color>",
-            "info": "<size=36>Can attack like a Fume-shroom… though the direction seems a little off.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Attacks pierce infinitely and penetrate Type 2 armor.\n<color=black>•</color> Targets from his own tile, up to 3 tiles both above and below</color>",
+            "info": "<size=36>Can attack like a Fume-shroom… though the direction seems a little off.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000> Targets from his own tile, up to 3 tiles both above and below</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom > Pumpkin</color>"
         },
         {
