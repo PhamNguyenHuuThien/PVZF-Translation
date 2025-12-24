@@ -261,10 +261,10 @@
         },
         {
             "seedType": 251,
-            "name": "Noix Géante",
-            "introduce": "<size=36><color=black>anneaux de taille 500 ，让我帮他个忙，所以我来了。能难到哪里去呢？总不可能是冲进僵尸堆里吧？</color></size>",
-            "info": "<size=36>Écrasez les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color></size>",
-            "cost": ""
+            "name": "Noix Solaire Géante",
+            "introduce": "<size=36><color=black>\"Double Noix Solaire m’a demandé de lui rendre un service contre 500 Soleil, alors je suis venu. À quel point ça peut être difficile ? Ça ne peut quand même pas être foncer droit dans un tas de zombies... pas vrai...? PAS VRAI ?!\"</color></size>",
+            "info": "<size=36>Écrase les zombies en roulant sur eux comme une boule de bowling.\n\n<color=black>Dégâts : </color><color=#8B0000>600 / 0,02 s</color></size>",
+            "cost": "<size=36>Apparaît lorsque Double Noix Solaire est activée avec suffisamment de Soleil.</size>"
         },
         {
             "seedType": 252,
@@ -290,9 +290,9 @@
         {
             "seedType": 255,
             "name": "Noix Géante",
-            "introduce": "<size=36><color=black>\"Je suis invincible sur le champ de bataille, et mes partenaires ne peuvent quitter ma silhouette majestueuse des yeux !\" \" se vantait la noix géante. \"Un an après avoir été viré du Noix Tumbler Club, j'ai enfin trouvé un travail qui me correspond vraiment.\"</color></size>",
-            "info": "<size=36>La Noix Géante roulera en avant et renversera tous les zombies qu'elle rencontrera.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Roule sur sa ligne, éliminant tous les zombies sur son chemin.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Noix</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>\"Je suis invincible sur le champ de bataille, et mes partenaires ne peuvent détacher leurs yeux de ma silhouette majestueuse !\" se vantait la Noix Géante. \"Un an après avoir été expulsée du Wall-nut Tumbler Club, j’ai enfin trouvé un travail qui me correspond vraiment.\"</color></size>",
+            "info": "<size=36>La Noix Géante roule en avant et écrase tous les zombies sur son passage.\n\n<color=black>Dégâts : </color><color=#8B0000>600 / 0,02 s</color>\n<color=black>Spécial : </color><color=#8B0000>Roule le long de sa ligne, éliminant tous les zombies sur son chemin.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noix + Noix</color></size>"
         },
         {
             "seedType": 256,
@@ -388,9 +388,9 @@
         {
             "seedType": 912,
             "name": "Drones Laser",
-            "introduce": "<size=36><color=black>感谢究极杨桃，现在我们有一整套新装备了！看看这些新奇玩意，复我最喜欢的花瓶！</color></size>",
-            "info": "<size=36>Les drones laser peuvent tirer des attaques laser pénétrantes.\n\n<color=black>Dégâts : </color><color=#8B0000>200/1.5 Secondes (作为植物) 200/1 Secondes(作为僚机)</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Grâce à la Citrouille-laser, nous disposons désormais d’un véritable arsenal d’équipements high-tech ! Admirez ces merveilles : armure en alliage composite, rotor électromagnétique et railgun à plasma… Attendez—NON !!! C’ÉTAIT MON VASE PRÉFÉRÉ !!!</color></size>",
+            "info": "<size=36>Les Drones Laser tirent des lasers perforants pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>200 / 1,5 s</color></size>",
+            "cost": "<size=36>"
         },
         {
             "seedType": 913,
@@ -2939,6 +2939,27 @@
             "introduce": "<align=justified><size=36><color=black>Champi-napalm n’est pas seulement une boule de feu sur le champ de bataille — ses talents de barbecue sont légendaires. Son rêve ? Organiser le plus grand festin grillé jamais vu, en invitant chaque plante… et chaque zombie de la ville.</color></size>",
             "info": "<size=36>Lance des pastèques au napalm qui se fragmentent à l’impact et laissent derrière elles un véritable enfer enflammé.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable</color>\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 6 s + 30 / 0.02 s (Inferno)</color>\n<color=#720026>Altération Enflammé : </color><color=#8B0000>Chaque pastèque crée une zone \" inferno \" durant 2.5 s.</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Portée : 4 cases ; tir manuel : terrain entier. Après avoir lancé une pastèque au napalm, Champi-napalm se repose pendant 1.5 s, puis charge pendant au minimum 6 s. Les dégâts augmentent selon la formule 1 + (temps de charge en secondes × 50 %), jusqu’à un maximum de 30 s de charge.\n<color=black>•</color> Les attaques ignorent toutes les armures et se divisent en 2 pastèques au napalm supplémentaires, ciblant des zombies proches avec les mêmes dégâts.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>\n1. Vitesse de charge et durée maximale de charge ×3\n2. Durée des zones d’inferno ×2</color></size>",
             "cost": "\n<size=34>Formule de fusion : <color=#8B0000>Pastèque Enflammée + Champi-quarterback</color></size>"
+        },
+        {
+            "seedType": 934,
+            "name": "Chou Sol",
+            "introduce": "<size=36><color=black>Le Dieu Soleil — seigneur de la lumière et de la chaleur, souverain éternel des cieux. Là où il marche, les ténèbres s’effacent et la vie prospère sous son étreinte radieuse. Suspendu bien au-dessus du firmament, son éclat indomptable transperce le vide, chassant le désespoir, allumant l’espoir chez tous ceux qui se complaisent dans sa présence.</color></size>",
+            "info": "<size=36>Invoque un Mini Soleil pour attaquer les zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>300 × 5 / 2 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hérite des traits de Lance-soleil.\n<color=black>•</color> Invoque un Mini Soleil toutes les 30 secondes. Le Mini Soleil dure 15 secondes et inflige 60 + (40 × nombre de Chou Sol) de dégâts à tous les zombies toutes les 0,5 seconde.\n<color=black>•</color> Lorsque le Soleil dépasse 15 000, consomme 200 Soleil pour infliger des dégâts triplés à chaque attaque du Mini Soleil.\n<color=black>•</color> Tant que le Mini Soleil est présent, le taux de production de soleil du niveau est fortement augmenté (une fois toutes les 0,75 seconde).</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1000 pièces ; s’il n’y a aucun Mini Soleil sur le terrain, l’invoque immédiatement. Sinon, prolonge la durée du Mini Soleil de 15 secondes. Un seul Mini Soleil peut exister à la fois.</color>\n<color=black>Modificateurs principaux d’Odyssée :</color>\n<color=#8B0000>1. Lorsque le Soleil dépasse 15 000, chaque attaque consomme 0,5 % de l’excédent afin d’augmenter les dégâts des projectiles de 20 par 1 Soleil dépensé.\n2. Le Mini Soleil invoqué inflige désormais des dégâts ×3</color>\n\n<color=black>Modificateur de synergie Étoile Polaire :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de Étoile Polaire et de Chou Sol doivent être déverrouillés avant que cette synergie ne soit disponible dans la boutique.\n<color=black>•</color> Avec au moins 10 Étoile Polaire et 10 Chou Sol sur le terrain, les Étoile Polaire invoquent un Météore de Sol à la place, et le Mini Soleil de Chou Sol ne disparaît plus et inflige des dégâts ×5.\n<color=black>•</color> Météore de Sol : (1800 + 1800 × Magnetars) × (1 + 0,2 × Chou Sol) dégâts, et génère 1250 Soleil.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-soleil + Chou Doré</color></size>"
+        },
+        {
+            "seedType": 955,
+            "name": "Chou Luna",
+            "introduce": "<size=36><color=black>Elle est la Déesse de la Lune, incarnation du calme et de la guérison. Là où sa lumière se pose, les blessures se referment silencieusement et toute chose est baignée d’une douce restauration. Suspendue haut dans le ciel nocturne, elle équilibre le yin et le yang par la puissance des marées, accordant une vitalité infinie.</color></size>",
+            "info": "<size=36>Invoque périodiquement des Mini Lunes pour soigner le champ de bataille, à la lumière de la Lune.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec Chou Sol</color>\n<color=black>Dégâts : </color><color=#8B0000>300 × 5 / 1,5 s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Les projectiles gagnent +100 dégâts par niveau de Lumos (bonus maximal : +500).</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Chou Sol.\n<color=black>•</color> Invoque une Mini Lune toutes les 30 secondes. La Mini Lune dure 15 secondes et soigne toutes les plantes de 50 × (nombre de Chou Luna sur le terrain) Robustesse par seconde. Cet effet est triplé sur la plante ayant le pourcentage de Robustesse le plus faible.\n<color=black>•</color> Si un Mini Soleil est également présent, les effets de soin sont doublés.\n<color=black>•</color> Le premier modificateur de Chou Sol augmente le bonus de dégâts de Chou Luna à +300 dégâts par niveau de Lumos, avec un plafond maximal porté à 1500 ; le second triple la puissance de soin.</color>\n\n<color=black>Modificateur de synergie Étoile Polaire :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de Étoile Polaire et de Chou Sol doivent être déverrouillés avant que cette synergie ne soit disponible dans la boutique.\n<color=black>•</color> Avec au moins 10 Étoile Polaire et 10 Chou Luna sur le terrain, la Mini Lune de Chou Luna ne disparaît plus. Chaque Étoile Polaire et chaque Chou Luna canalise un rayon vers la Mini Lune, les fusionnant en un unique faisceau concentré.\n<color=black>•</color> Dégâts du faisceau : 100 × (plantes canalisant) toutes les 0,02 s, ciblant toujours le zombie ayant le plus de PV maximum. Les dégâts augmentent linéairement dans le temps lorsqu’ils se concentrent sur une seule cible, jusqu’à ×5.</color></size>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Tournesol <-> Planterne</color></size>"
+        },
+        {
+            "seedType": 957,
+            "name": "Pastèque Cyclone",
+            "introduce": "<size=36><color=black>Pastèque Cyclone est obsédé par la recréation de nébuleuses cosmiques dans le jardin. Alors, si jamais vous en voyez une se former au loin, fuyez. Ce n’est pas une nébuleuse : c’est un gigantesque cumulonimbus de pastèques prêt à s’abattre.</color></size>",
+            "info": "<size=36>Lance rapidement des pastèques-cryo à travers des vortex temporels et, une fois chargé, peut invoquer une faille nébuleuse faisant pleuvoir d’innombrables projectiles supplémentaires.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 0,35 s (dégâts de zone sans atténuation)</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Les attaques appliquent Gel, ajoutent 20 points de Cryo et infligent 4× plus de dégâts aux zombies gelés.\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Chaque impact direct d’attaque de base confère 1 charge d’énergie.\n<color=black>•</color> Lorsque la jauge d’énergie dépasse 50, cliquez manuellement pour consommer 30 énergies et invoquer une faille nébuleuse ; si la jauge dépasse 100, la faille nébuleuse double sa production de projectiles.\n<color=black>•</color> Une seule faille nébuleuse peut être active à la fois. Chacune dure 10 secondes, se déplaçant de gauche à droite à l’écran et faisant pleuvoir des pastèques de grêle.\n<color=black>•</color> Si une cryo-pastèque touche un zombie déjà en chronodécalage, elle applique le chronodécalage à jusqu’à 2 autres zombies dans la zone d’impact (3 s’il est renforcé par le Pot de Pastèque), en priorisant les cibles non affectées.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Pendant les 5 premières secondes, la faille nébuleuse se concentre sur le zombie ayant le moins de PV, réduisant sa zone d’attaque à 3 colonnes autour de la cible\n2. Les cryo-pastèques lobées infligent des dégâts ×6, mais le rayon de zone est réduit de 50 %</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pastèque Glacée + Pastèque Temporelle</color></size>"
         }
     ]
 }

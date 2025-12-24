@@ -45,14 +45,14 @@
         {
             "theZombieType": 8,
             "name": "Zombie Moustiquaire",
-            "introduce": "<size=34><color=black>Screen Door Zombie, autrefois membre d'un groupe de travail du FBI avec un mauvais caractère mais un cœur droit, n'a jamais négocié avec des voleurs : il se contentait d'enfoncer les portes pour sauver des otages. Après être devenu un zombie, son bon cœur est resté le même. Lorsqu'il a vu des zombies kidnapper un petit zombie fantôme, il a tenté de s'introduire par effraction, mais ils ont enduit la porte de colle, lui coinçant la main.</color>",
-            "info": "<size=34>Sa moustiquaire est un bouclier efficace.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1100</color>"
+            "introduce": "<align=justified><size=34><color=black>Le Zombie Moustiquaire, autrefois membre du FBI, il avait un très mauvais caractère, mais un cœur juste. Il n'a jamais négocié avec des voleurs : il se contentait d'enfoncer les portes pour sauver des otages. Après être devenu un zombie, sa bonté est resté la même. Lorsqu'il a vu des zombies kidnappant un petit zombie fantôme, il a tenté de s'introduire par effraction, mais ils ont enduit la porte avec de la colle, lui coinçant la main.</color>",
+            "info": "<size=34>Sa moustiquaire sert de bouclier contre les projectiles en face de lui.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>La Moustiquaire peut être enlevée par Champi-aimant.</color>"
         },
         {
             "theZombieType": 9,
             "name": "Zombie Quarterback",
-            "introduce": "<size=36><color=black>Football Zombie est une star du sport parmi les zombies, admiré par beaucoup pour sa présence héroïque sur le terrain. De nombreuses entreprises souhaitent l'embaucher, mais ses exigences salariales sont élevées : un salaire annuel de 10 000 cerveaux.</color>",
-            "info": "<size=36>Cour super vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1400</color>"
+            "introduce": "<align=justified><size=36><color=black>Le Zombie Quarterback est une star du sport parmi les zombies, admiré par beaucoup pour sa présence héroïque sur le terrain. De nombreuses entreprises souhaitent l'embaucher, mais ses exigences salariales sont élevées : un salaire annuel de 10 000 cerveaux.</color>",
+            "info": "<size=36>Cour très vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Son Caque de Rugby peut être enlevée par Champi-aimant.</color>"
         },
         {
             "theZombieType": 10,
