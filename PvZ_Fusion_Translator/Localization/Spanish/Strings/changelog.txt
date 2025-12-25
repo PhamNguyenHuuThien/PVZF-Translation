@@ -4,7 +4,7 @@ La única fuente válida de esta traducción es esta: <color=#64DD17>discord.gg/
 Alejate de otras fuentes externas como <color=#8B0000>pvzfusion.net</color> o <color=#8B0000>pvzfusion.pro</color> ya que distribuyen nuestro trabajo sin permiso.
 Por favor revisa nuestra página para futuras actualizaciones.
 
-<align=center><size=130%>Plantas Contra Zombis: Fusion - ¿ Qué añade de nuevo la 3.2 ?</size></align>
+<align=center><size=125%>Plantas Contra Zombis: Fusion - ¿ Qué añade de nuevo la 3.2.1 ?</size></align>
 
 1. Nuevas Plantas
 - Fusiones Básicas:
@@ -25,6 +25,7 @@ Por favor revisa nuestra página para futuras actualizaciones.
   - Enterraflor (Patatapum + Apisonaflor)
   - Ajo Negro (Petaseta + Ajo)
   - Shurikenseta (Humoseta + Frustrella)
+  - Maceta Miédica (Seta Miédica + Maceta)
 - Fusiones Odisea:
   - Realeza Solar (Emperador Solar + Nuez)
   - Melortero Cristalino (Mazorcañón Cristalino + Melonpulta)
@@ -50,7 +51,7 @@ Por favor revisa nuestra página para futuras actualizaciones.
 - En este modo, las plantas básicas aparecerán en la cinta transportadora. El número que aparece debajo indica cuántas veces se puede plantar estas plantas. ¡También pueden aparecer modificadores aleatorios en la cinta transportadora!
 
 5. Cambios de Yo, Zombi
-- Pelea de Grillos
+- Nuevo Modo: Combate de Filas
 - Ahora todos los zombis pueden ser usados en Yo, Zombi.
 
 6. Nuevos Disfraces

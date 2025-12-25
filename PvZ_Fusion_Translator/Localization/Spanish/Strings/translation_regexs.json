@@ -238,7 +238,7 @@
   "^(\\d+)分": "Puntuación: {0}",
   "^队伍(\\d)": "Fila {0}",
   "^第(\\d)路$": "Fila {0}",
-  "View 词条(\\d)": "Modificadores de Fila {0}",
+  "Ver 词条(\\d)": "Modificadores\nde Fila {0}",
   "^已选择第(\\d)路": "¡Fila {0} Elegida!",
   "随机到的僵尸词条：\n([^\\s]+)": "Modificador Zombi para esta ronda:\n{0}",
   "第(\\d)路活到了最后": "¡Fila {0} sobrevivió hasta el final de la ronda!",
