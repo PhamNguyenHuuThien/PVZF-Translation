@@ -246,6 +246,8 @@
   "随机到的僵尸词条：\n([^\\s]+)": "Zombie Modifier for this round:\n{0}",
   "第(\\d)路活到了最后": "Lane {0} survived until the end of this round!!!",
   "对局结束，第(\\d)路获胜！": "Match Over - Lane {0} Wins!!!",
-  "场上已经没有该植物\n总伤害：(\\d+)": "This plant no longer exists on the lawn!\nTotal Damage: {0}",
-  "数量：(\\d+)\n总伤害：(\\d+)\n平均伤害：(\\d+)": "Current Count: {0}\nTotal Damage: {1}\nStock-flow-inconsistent Average: {2}"
+  "^分(\\d+)": "Score: {0}",
+  "场上已经没有该植物\n总伤害：(\\d+)": "This plant no longer exists on the lawn!\nCumulative Total Damage: {0}\nError: Division by zero lol",
+  "数量：(\\d+)\n总伤害：(\\d+)\n平均伤害：(\\d+)": "Current Count: {0}\nCumulative Total Damage: {1}\nStock-flow-inconsistent Average: {2}",
+  "数量：(\\d+)\n总伤害：(\\d+)": "Current Count: {0}\nCumulative Total  Damage: {1}"
 }
