@@ -57,8 +57,8 @@
         {
             "theZombieType": 10,
             "name": "Michael Zombie",
-            "introduce": "<size=36><color=black>Costume noir, chapeau noir : il n'est pas là pour un enterrement. C'est juste un danseur, et vous pouvez l'appeler Michael Zombie.</color>",
-            "info": "<size=36>Mène la charge avec ses mouvements de danse ultimes.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Rassemblez les Zombies Danceurs.</color>"
+            "introduce": "<align=justified><size=36><color=black>Costume noir, chapeau noir : il n’est pas là pour un enterrement. C’est juste un danseur, et vous pouvez l’appeler Michael Jacks… Zombie. Ou simplement Michael Zombie.</color>",
+            "info": "<size=36>Mène l'assaut avec ses mouvements de danse ultimes.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Traits : </color><color=#4B0082>Invoque 4 zombies danseurs à la perche. Continue d’en invoquer si l’un d’eux meurt. N’invoque pas de zombies pendant qu’il mange.</color>"
         },
         {
             "theZombieType": 11,
@@ -81,14 +81,14 @@
         {
             "theZombieType": 14,
             "name": "Zombarine",
-            "introduce": "<size=36><color=black>La redoutable Zombarine, conçue sur la base de principes bioniques, est à la fois majestueuse et intimidante : une arme de guerre convoitée par les zombies. \"Il ne nous reste plus qu'à résoudre le problème des algues qui s'emmêlent dans l'hélice\", a déclaré le Dr Edgar.</color>",
-            "info": "<size=36>Le véhicule principal des zombies contre les plantes aquatiques.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>"
+            "introduce": "<align=justified><size=36><color=black>Le redoutable Zombarine, conçu selon des principes bioniques, il est à la fois majestueux et intimidant, un engin de guerre très convoité par les zombies. \"Il ne nous reste plus qu’à régler le problème de ses maudites algues qui s’emmêlent dans l’hélice,\" a déclaré le Dr Edgar.</color>",
+            "info": "<size=36>Le premier véhicule des zombies conçu pour affronter les plantes aquatiques.\n\n<color=black>Robustesse: </color><color=#4B0082>1350</color>\n<color=black>Spécial: </color><color=#4B0082>Se déplace rapidement et coule toute plante avec laquelle il entre en contact, à l’exception des algues et inflige 500 dégâts aux plantes anti-écrasement.</color>"
         },
         {
             "theZombieType": 15,
-            "name": "Zombie Savant",
-            "introduce": "<size=32><color=black>En tant qu'autorité de premier plan dans le domaine académique, Scholar Zombie est fréquemment vu dans la bibliothèque. Sa passion pour la lecture est profonde et le déranger pendant qu'il lit peut déclencher sa fureur. Ce vieux monsieur veillera à ce que vous compreniez le vrai sens de « la connaissance, c'est le pouvoir ».</color>",
-            "info": "<size=32>Inflige d'énormes dégâts avec ses dents robustes.\n\n<color=black>Dégâts : </color><color=#4B0082>400</color>\n<color=black>Robustesse : </color><color=#4B0082>720+1100</color>\n<color=black>Spécial : </color><color=#4B0082>Invincibilité temporaire et vitesse accumulée après la destruction du livre.</color>"
+            "name": "Zombie Érudit",
+            "introduce": "<align=justified><size=32><color=black>En tant que chef du Club de Science, Zombie Érudit est souvent vu dans la bibliothèque. Sa passion pour la lecture est profonde, et le déranger pendant qu’il lit peut déclencher sa fureur. Ce senior veillera à ce que vous compreniez le vrai sens de la phrase: \"le savoir est une arme.\"</color>",
+            "info": "<size=32>Inflige d'énormes dégâts avec ses dents robustes.\n\n<color=black>Dégâts : </color><color=#4B0082>400</color>\n<color=black>Robustesse : </color><color=#4B0082>720 + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Invincibilité temporaire et vitesse accentué après la destruction du livre (Vitesse de déplacement ×10, Vitesse d'attaque ×3).</color>"
         },
         {
             "theZombieType": 16,

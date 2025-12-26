@@ -401,10 +401,10 @@
         },
         {
             "seedType": 914,
-            "name": "Cata-fléau",
-            "introduce": "<size=36><color=black>Après avoir surmonté les luttes passées, Cata-fléau vise désormais une vie calme. \"Tout ce que je veux maintenant, c'est regarder des films classiques et vivre en paix.\"</color>",
-            "info": "<size=36>Capable de lancer des volées de projectiles rapides et à propagation.\n\n<color=black>Dégâts : </color><color=#8B0000>120/2 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. A une chance égale de propager le feu en nombre égal au nombre de zombies dans sa voie. Les projectiles se divisent en Ail, maïs et melon lors de l'impact.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Salade-pult + Ail-pult</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. La propagation du feu est désormais garantie\n2. Les traits de Melon Pot sont désormais hérités</color>",
-            "cost": "<size=36>"
+            "name": "Lance-fléau",
+            "introduce": "<size=36><color=black>Après avoir surmonté les luttes du passé, Lance Fléau aspire désormais à une vie paisible. \"Tout ce que je veux maintenant, c’est regarder des films classiques et vivre en paix.\"</color></size>",
+            "info": "<size=36>Capable de lancer des volées de projectiles à tir rapide et en dispersion.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>120 / 2 s</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. Possède une chance équivalente de tirer en dispersion un nombre de fois égal au nombre de zombies présents dans sa voie. Les projectiles se divisent à l’impact en chou à l’ail, grain de maïs à l’ail (25 % de chances de beurre à l’ail) et melon à l’ail.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Le tir en dispersion est désormais garanti\n2. Niveau 1 : L’accumulation de points de poison empoisonne immédiatement le zombie et le plafond de valeur de poison passe à 120 ; Niveau 2 : le plafond de valeur de poison est supprimé</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance Salade + Lance-ail</color></size>"
         },
         {
             "seedType": 915,
@@ -1109,9 +1109,9 @@
         {
             "seedType": 1091,
             "name": "Citrouille Troufle",
-            "introduce": "<size=36><color=black>Pour Windgourd, avoir fière allure est une priorité absolue. Il ne quitte jamais la maison sans avoir d'abord passé une bonne demi-heure à perfectionner les feuilles sur sa tête, garantissant ainsi un style impeccable.</color></size>",
-            "info": "<size=36>Une troufle apparaîtra de temps en tant pour faire disperser le brouillard.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Produit une truffe toutes les 30 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Troufle + Citrouille</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Pour Citrouille Troufle, avoir fière allure est une priorité absolue. Il ne quitte jamais la maison sans passer une bonne demi-heure à perfectionner les feuilles sur sa tête, s’assurant ainsi un style impeccable.</color></size>",
+            "info": "<size=36>Fait apparaître périodiquement un Troufle pour dissiper le brouillard.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Produit un Troufle toutes les 30 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle > Citrouille</color></size>"
         },
         {
             "seedType": 1092,
@@ -1186,9 +1186,9 @@
         {
             "seedType": 1102,
             "name": "Troufle Magnétique",
-            "introduce": "<size=36><color=black>Les plantes appellent souvent MagTroufle \" Magneto \". Il lance avec confiance son sort préféré, \" Désarmement ! \" aux zombies, même s'il n'a aucune idée de comment fonctionne la conversion de l'énergie éolienne en énergie magnétique dans les coulisses.</color></size>",
-            "info": "<size=36>Aspire tout les objets en métal présent.\n\n<color=black>Spécial : </color><color=#8B0000>Attirez jusqu'à 10 objets en fer.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Troufle + Champi-aimant</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les plantes appellent souvent Troufle Magnétique \"Magneto\". Il lance avec assurance son sort préféré, \"Désarmement !\", sur les zombies, même s’il n’a aucune idée de la façon dont la conversion de l’énergie éolienne en énergie magnétique fonctionne en coulisses.</color></size>",
+            "info": "<size=36>Aspire tous les objets métalliques présents sur le terrain.\n\n<color=black>Spécial : </color><color=#8B0000>Attire jusqu’à 10 objets métalliques sur l’ensemble du terrain. Chaque objet nécessite 1 seconde pour être traité. Disparaît après 10 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Champi-aimant</color></size>"
         },
         {
             "seedType": 1103,
@@ -2960,6 +2960,13 @@
             "introduce": "<size=36><color=black>Pastèque Cyclone est obsédé par la recréation de nébuleuses cosmiques dans le jardin. Alors, si jamais vous en voyez une se former au loin, fuyez. Ce n’est pas une nébuleuse : c’est un gigantesque cumulonimbus de pastèques prêt à s’abattre.</color></size>",
             "info": "<size=36>Lance rapidement des pastèques-cryo à travers des vortex temporels et, une fois chargé, peut invoquer une faille nébuleuse faisant pleuvoir d’innombrables projectiles supplémentaires.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 0,35 s (dégâts de zone sans atténuation)</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Les attaques appliquent Gel, ajoutent 20 points de Cryo et infligent 4× plus de dégâts aux zombies gelés.\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Chaque impact direct d’attaque de base confère 1 charge d’énergie.\n<color=black>•</color> Lorsque la jauge d’énergie dépasse 50, cliquez manuellement pour consommer 30 énergies et invoquer une faille nébuleuse ; si la jauge dépasse 100, la faille nébuleuse double sa production de projectiles.\n<color=black>•</color> Une seule faille nébuleuse peut être active à la fois. Chacune dure 10 secondes, se déplaçant de gauche à droite à l’écran et faisant pleuvoir des pastèques de grêle.\n<color=black>•</color> Si une cryo-pastèque touche un zombie déjà en chronodécalage, elle applique le chronodécalage à jusqu’à 2 autres zombies dans la zone d’impact (3 s’il est renforcé par le Pot de Pastèque), en priorisant les cibles non affectées.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Pendant les 5 premières secondes, la faille nébuleuse se concentre sur le zombie ayant le moins de PV, réduisant sa zone d’attaque à 3 colonnes autour de la cible\n2. Les cryo-pastèques lobées infligent des dégâts ×6, mais le rayon de zone est réduit de 50 %</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pastèque Glacée + Pastèque Temporelle</color></size>"
+        },
+        {
+            "seedType": 952,
+            "name": "Lance-gangrène",
+            "introduce": "<size=36><color=black>\"Grand frère, grande sœur, tu ne me trouvez pas mignon ?\" Lance-gangrène fait de l’œil à chaque passant. \"Achetez de l’ail, s’il vous plaît.\" Il s’investit à fond dans son argumentaire de vente. Pourquoi un si petit enfant vendrait-il de l’ail ? \"Les films de grand-père sont trop ennuyeux, et notre maison est tellement remplie d’ail qu’on ne sait même plus où le stocker\", explique-t-il.</color></size>",
+            "info": "<size=36>Lance des mini-ails qui se divisent à l’impact, avec une chance de tir rapide ou de propagation.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec Lance-fléau</color>\n<color=black>Dégâts : </color><color=#8B0000>60 / 2 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte (évite les projectiles à tir direct).\n<color=black>•</color> Hérite des chances de tir rapide et de propagation de Lance-fléau.\n<color=black>•</color> Les projectiles n’infligent plus de dégâts de zone et se divisent en mini-chou à l’ail, mini-grain de maïs à l’ail (25 % de chances de mini beurre à l’ail) et tranche de melon à l’ail.\n<color=black>•</color> Ces projectiles se comportent comme leurs équivalents miniatures sans ail (voir Bout de maïs, Bout de pastèque et Bout de choux) et confèrent chacun 1 point de poison, augmentant les dégâts de (5 × points de poison).</color></size>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>×3 + Lance-pastèque <-> Champi-gnon</color></size>"
         }
     ]
 }
