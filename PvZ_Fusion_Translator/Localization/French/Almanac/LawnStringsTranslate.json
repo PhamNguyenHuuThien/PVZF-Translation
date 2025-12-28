@@ -486,9 +486,9 @@
         {
             "seedType": 1001,
             "name": "Pisto-cerise",
-            "introduce": "<align=justified><size=36><color=black>\" Tu crois que j’ai des problèmes de colère brûlants ? Moi ? Bah ! C’est toi qui es rouge et chaud ! Toute ta famille est rouge ! \" Pisto-cerise détestait qu’on se moque de la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. Ce fut simplement un heureux accident. Après avoir mangé des cerises spéciales, Pisto-Pois devint rouge et ardent, et, à sa grande surprise, il pouvait tirer des cerises.</color></size></align>",
-            "info": "<size=36>Pisto-cerise tire des cerises puissantes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color></size>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Cerise Explosive</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\" Tu crois que j’ai des problèmes de colère ? Moi ? Pff ! C’est toi qui es rouge et brûlant ! Toute ta famille est rouge ! \" Pisto-cerise détestait qu’on se moque de la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. Ce ne fut qu’un heureux accident : après avoir mangé des cerises spéciales, Pisto-pois est devenu rouge et brûlant… et, contre toute attente, capable de tirer des cerises.</color></size>",
+            "info": "<size=36>Pisto-cerise tire de puissantes cerises.\n\n<color=black>Dégâts : </color><color=#8B0000>40 / 1.5 s</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1002,
@@ -534,10 +534,10 @@
         },
         {
             "seedType": 1008,
-            "name": "Double Pisto-Cerise",
-            "introduce": "<size=36><color=black>Cherrypeater vit selon la devise \" les bonnes choses vont par paires \". Qu'il s'agisse de combattre des zombies ou de distribuer des cadeaux, il le fait à deux. \"Mais allez,\" taquina Double Pistopois, \"vos cerises ne sont même pas presque mûres.\"</color></size>",
-            "info": "<size=36>Double Pisto-Cerise peut tirer deux cerises à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>60*2/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Double Pisto-pois + Cerise Explosive</color></size>",
-            "cost": ""
+            "name": "Double-cerise",
+            "introduce": "<align=justified><size=36><color=black>Double-cerise vit selon une devise simple : \" les bonnes choses vont toujours par deux \". Que ce soit pour combattre les zombies ou distribuer des cadeaux, il fait tout en double. \" Franchement \", le taquine Double-pois, \" tes cerises sont loin d’être mûres \".</color></size>",
+            "info": "<size=36>Double-cerise peut tirer deux cerises simultanément.\n\n<color=black>Dégâts : </color><color=#8B0000>40 × 2 / 1.5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyez pour se fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Double-pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1009,
@@ -598,9 +598,9 @@
         {
             "seedType": 1017,
             "name": "Sulfateuse à Cerises",
-            "introduce": "<size=36><color=black>Le canon de la Sulfateuse à Cerises était toujours chauffé au rouge. Il a assuré à tout le monde qu'il était préchauffé pour assurer un tir plus rapide. Tout le monde a cru à l'histoire, jusqu'à ce qu'ils le surprennent en train de manger des cerises spéciales sans même retirer le fût.</color></size>",
-            "info": "<size=36>La forme finale de Pisto-cerise.\n\n<color=black>Dégâts : </color><color=#8B0000>60*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Gatling Pea + Cerise Explosive</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Le canon de la Sulfateuse à Cerises était toujours brûlant. Il assurait à tout le monde que c’était un préchauffage nécessaire pour tirer plus vite. Tout le monde y a cru… jusqu’au jour où on l’a surpris en train de manger des cerises explosives sans même retirer le canon.</color></size>",
+            "info": "<size=36>Forme finale du Pisto-cerise !\n\n<color=black>Dégâts : </color><color=#8B0000>40×4 / 1.5 s</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Sulfateuse à Pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1018,
@@ -716,10 +716,10 @@
         },
         {
             "seedType": 1034,
-            "name": "Pois Geleur",
-            "introduce": "<align=justified><size=36><color=black>Le Pois Geleur, montre rarement ses émotions aux autres plantes. Certains disent que son cœur est encore plus froid que les pois glacés qu’il tire. Il ne veut pas donner cette impression, mais chaque fois qu’il ouvre la bouche, les projectiles qu’il lance font chuter la température ambiante jusqu’à des niveaux glacials.</color></size></align>",
-            "info": "<size=36>Les Pois Geleurs tirent des pois de gelé qui infligent des dégâts et ralentissent les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque pois inflige un effet de gel et ajoute 10 points Cryo. Inflige ×4 dégâts aux zombies gelés.</color></size>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Champi-glace</color></size>"
+            "name": "Pois Glacé",
+            "introduce": "<align=justified><size=36><color=black>De nature froide, le Pois Glacé montre rarement ses émotions aux autres plantes. Certains disent que son cœur est encore plus gelé que les pois qu’il tire. Il n’en a pourtant pas l’intention : chaque fois qu’il ouvre la bouche, ses projectiles font chuter la température autour de lui jusqu’au gel.</color></size>",
+            "info": "<size=36>Le Pois Glacé tire des pois de neige qui infligent des dégâts et ralentissent les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>20 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque pois de neige applique l’effet Gel et ajoute 10 points de Cryo. Inflige ×4 dégâts aux zombies gelés.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1035,
@@ -1206,31 +1206,31 @@
         },
         {
             "seedType": 1105,
-            "name": "Double Pois Geleur",
-            "introduce": "<size=36><color=black>\"Qu'est-ce qui t'est arrivé ?\" une curieuse plante demanda Neige Double Pisto-pois. Il rit doucement et dit : \"Je suis toujours un Double Pistopois dans l'âme. J'ai juste oublié de me blottir sous une couverture pendant les nuits d'hiver.\"</color></size>",
-            "info": "<size=36>Tire 2 pois gelés successivement.\n\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Double Pisto-pois + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Double Pois-glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Qu’est-ce qui t’est arrivé ? \" demanda une plante intriguée. Double Pois-glacé esquissa un léger sourire : \" Je reste un Double-pois dans l’âme. J’ai juste oublié de me blottir sous une couverture pendant les nuits d’hiver. \"</color></size>",
+            "info": "<size=36>Tire deux pois de glace à la suite.\n\n<color=black>Dégâts : </color><color=#8B0000>20×2 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points de Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyez pour fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Double-pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1106,
-            "name": "Sulfateuse à Pois Geleurs",
-            "introduce": "<size=36><color=black>\"Ses mains sont froides, son visage est froid, son cœur est froid, et même son sang est froid… Est-il gelé ?\" \" quelqu’un s’est demandé à voix haute. Gatling Snow frissonna, rassurant les plantes concernées : \"Je ne suis pas gelé ! Le canon de ma mitrailleuse est encore brûlant !\"</color></size>",
-            "info": "<size=36>Sulfateuse à pois geleur tire 4 pois gelés à la suite.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Gatling Pea + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Sulfateuse à Pois-glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Ses mains sont froides, son visage est froid, son cœur est froid… même son sang est glacé. Est-il gelé ? \" se demanda quelqu’un à voix haute. La Sulfateuse à Pois-glacé frissonna et rassura les plantes inquiètes : \" Je ne suis pas gelé ! Le canon de ma sulfateuse est toujours brûlant ! \"</color></size>",
+            "info": "<size=36>La Sulfateuse à Pois-glacé tire quatre pois de glace à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>20×4 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 Cryo.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Sulfateuse à Pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1107,
-            "name": "Double-geleur",
-            "introduce": "<size=36><color=black>\"Ne vous laissez pas induire en erreur par sa façade glaciale ; il pourrait y avoir une chaleur cachée\", a suggéré quelqu'un. Mais Digger Zombie ricana : \"Ne faites pas de suppositions stupides. Ce type n'a que des côtés froids !\"</color></size>",
-            "info": "<size=36>Tire des pois gelés en avant et en arrière en même temps.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pois cassés + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Triple Pois-glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Ne te fie pas à son apparence glaciale, il cache peut-être une once de chaleur \", suggéra quelqu’un. Le Zombie Mineur ricana : \" Ne raconte pas n’importe quoi. Ce type n’a que des côtés froids. \"</color></size>",
+            "info": "<size=36>Tire des pois de glace vers l’avant et l’arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points de Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyez pour fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Triple-pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1108,
-            "name": "Double-cerise",
-            "introduce": "<size=36><color=black>Cherryshooter a rampé hors de la tranchée, déconcerté. \"Qui a lancé cette bombe ?\" \" a-t-il demandé. \"Désolé, mon frère\", répondit timidement Split Cherry, \"Je t'ai vu pointer ton arme sur nous et j'ai pensé que tu étais un zombie.\"</color></size>",
-            "info": "<size=36>Pneu double cerise des cerises en avant et en arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>60*3/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pois Cassés + Cerise Explosive</color></size>",
-            "cost": ""
+            "name": "Triple-cerise",
+            "introduce": "<align=justified><size=36><color=black>Pisto-cerise sortit de la tranchée, complètement sonné. \" Qui a lancé cette bombe ? \" exigea-t-il. \" Désolé, frère \", répondit Triple-cerise, un peu penaud. \" Je t’ai vu pointer ton arme vers nous… j’ai cru que tu étais un zombie. \"</color></size>",
+            "info": "<size=36>Triple-cerise tire des cerises vers l’avant et vers l’arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3 / 1.5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyer pour fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Triple-pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1109,
@@ -2335,20 +2335,20 @@
             "seedType": 1268,
             "name": "Double Hypno-pois",
             "introduce": "<align=justified><size=36><color=black>Le Double Hypno-pois parle si vite qu’il termine souvent ses phrases avant que quelqu’un d’autre ne commence à parler. \" La réalité est une boucle ! J’ai déjà tiré cette rafale… deux fois ! \"\n\n— Écrit par Ocean Soul</color></size>",
-            "info": "<size=36>Un Double Pisto-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
-            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double Pisto-pois + Champi-hypno</color></size>"
+            "info": "<size=36>Un Double-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double-pois + Champi-hypno</color></size>"
         },
         {
             "seedType": 1269,
             "name": "Triple Hypno-pois",
             "introduce": "<align=justified><size=36><color=black>\" Je me sens tout étourdi ! \" \" En vrai, ça va. \" \" Non, je suis complètement désorienté. \" \" Normal, ta tête est à l’arrière. \" \" C’est une expression. \" \" Moi, je parle littéralement. \" \" Ces deux-là se disputent encore \", soupire l’Hypno-pois, \" sûrement pour la 3 682ᵉ fois. \"</color></size>",
-            "info": "<size=36>Un Triple-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Tire-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "info": "<size=36>Un Triple-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple-pois + Champi-hypno</color></size>"
         },
         {
             "seedType": 1270,
-            "name": "Sulfateuse Hypnotique",
-            "introduce": "<align=justified><size=36><color=black>Vedette du Club des Zombinamis, la Sulfateuse Hypnotique ne mâche pas ses mots. \" Mes yeux vont très bien. Je sais parfaitement quels zombies peuvent être sauvés. \" Elle critique sévèrement l’Hypno Ecraseur : \" Il est beaucoup trop violent. Nous devrions être plus bienveillants avec nos potentiels collaborateurs. \" Leur débat est devenu si intense qu’il ne reste plus qu’eux deux dans le club… en plus de celui qui en est à l’origine.</color></size>",
+            "name": "Sulfateuse à Hypno-pois",
+            "introduce": "<align=justified><size=36><color=black>Vedette du Club des Zombinamis, la Sulfateuse à Hypno-pois ne mâche pas ses mots. \" Mes yeux vont très bien. Je sais parfaitement quels zombies peuvent être sauvés. \" Elle critique sévèrement l’Hypno Ecraseur : \" Il est beaucoup trop violent. Nous devrions être plus bienveillants avec nos potentiels collaborateurs. \" Leur débat est devenu si intense qu’il ne reste plus qu’eux deux dans le club… en plus de celui qui en est à l’origine.</color></size>",
             "info": "<size=36>Une Sulfateuse qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Invoque un Zombie Hypno-pois hypnotisé lorsqu’elle tue une cible.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois + Champi-hypno</color></size>"
         },
@@ -2368,7 +2368,7 @@
         },
         {
             "seedType": 1322,
-            "name": "Sulfateuse Brûlante",
+            "name": "Sulfateuse à Pois-brûlant",
             "introduce": "<align=justified><size=36><color=black>Fatigué de soigner des victimes de brûlures à la chaîne, ce docteur de pois a décidé d’appliquer sa fière invention, la pyrothérapie… pour traiter le problème directement à la source.</color></size>",
             "info": "<size=36>Tire 4 Pois Brûlants en même temps.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques appliquent l’altération Enflammé.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois + Jalapeno</color></size>"
