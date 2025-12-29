@@ -75,6 +75,7 @@
   EndoFlameZombie = 73,
   HypnoJalapenoZombie = 74,
   HypnoJalapenoPickaxeZombie = 75,
+  DrownGargantuar = 76,
   PeaShooterZombie = 100,
   CherryShooterZombie = 101,
   SuperCherryShooterZombie = 102,

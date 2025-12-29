@@ -981,27 +981,7 @@
       "info": "<size=36>Năng lượng bất ổn\n\n<color=blue>Từ ??? Mod\n<color=#3D1400>Sát Thương: </color><color=red>60/0.3 giây\n<color=#3D1400>Khả Năng:</color><color=red> Tự huỷ sau 30 giây, gây 300 sát thương cùng hiệu ứng chịu nhiệt khi chết.</color>",
       "cost": "<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Anh Đào + Ớt"
     },
-    {
-      "seedType": 2036,
-      "name": "Đậu Súng Máy Bạc (2036)",
-      "introduce": "<align=justified><size=36><color=#3D1400>Tại sao cậu ta sơn bạc, đơn giản thôi, cậu ta sợ ma cà rồng mà. Thật đấy.",
-      "info": "<size=36>Bắn tiền vào Zom.\n\n<color=blue>Từ Murong Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>250*4/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Miễn nhiễm với hiệu ứng câm lặng. Bắn 4 đồng bạc, mỗi viên sẽ cho 10 xu khi trúng Zombie, có tỉ lệ 25% rớt ra đồng bạc.</color>",
-      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Súng Máy + Hoa Cúc"
-     },
-     {
-      "seedType": 2037,
-      "name": "Đậu Súng Máy Vàng (2037)",
-      "introduce": "<align=justified><size=36><color=#3D1400>Tại sao cậu ta sơn vàng thế. Vì nhà cậu ta giàu nứt đổ vách, và giờ cậu ta đi ban phát dân chủ bằng vàng ròng nguyên chất.",
-      "info": "<size=36>Bắn nhiều tiền hơn vào Zom.\n\n<color=blue>Từ Murong Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>500*4/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Miễn nhiễm với hiệu ứng câm lặng. Bắn 4 đồng vàng, mỗi viên sẽ cho 30 xu khi trúng Zombie, có tỉ lệ 25% rớt ra đồng vàng.</color>",
-      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Súng Máy + Hoa Cúc Đôi hoặc Đậu Súng Máy Bạc + Hoa Cúc"
-     },
-     {
-      "seedType": 2040,
-      "name": "Đồ chơi từ Temu (2040)",
-      "introduce": "<align=justified><size=36><color=#3D1400>Không có cốt truyện vì không biết viết cái gì :p",
-      "info": "<size=36>Spongebob nhưng made in China.\n\n<color=blue>Từ Murong Mod</color>\n<color=#3D1400>Máu: </color><color=red>8000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Sát thương tối đa nhận vào là 1000, hồi 1500 máu mỗi 15 giây.\n<color=black>•</color> Máu chia ra 3 phần, mỗi 1 phần sẽ có hình dạng và khả năng khác nhau: \nSquidward: Gây 5/0.5 giây sát thương kèm hiệu ứng Chịu Nhiệt gần nó.\nSpongeBob: Cho 25 stack đóng băng cho Zombie mỗi 0.5 giây gần nó.\nPatrick: Thêm 1 stack tỏi lên Zombie mỗi 0.5 giây gần nó.</color>",
-      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Óc Chó Băng + Óc Chó Lửa"
-     },
+    
      {
       "seedType": 2000,
       "name": "Tiểu Yêu (2040)",
@@ -1295,6 +1275,62 @@
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Óc Chó Cao + Nấm Thôi Miên"
     },
     {
+      "seedType": 2036,
+      "name": "Đậu Súng Máy Bạc (2036)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tại sao cậu ta sơn bạc, đơn giản thôi, cậu ta sợ ma cà rồng mà. Thật đấy.",
+      "info": "<size=36>Bắn tiền vào Zom.\n\n<color=blue>Từ Murong Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>250*4/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Miễn nhiễm với hiệu ứng câm lặng. Bắn 4 đồng bạc, mỗi viên sẽ cho 10 xu khi trúng Zombie, có tỉ lệ 25% rớt ra đồng bạc.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Súng Máy + Hoa Cúc"
+     },
+     {
+      "seedType": 2037,
+      "name": "Đậu Súng Máy Vàng (2037)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tại sao cậu ta sơn vàng thế. Vì nhà cậu ta giàu nứt đổ vách, và giờ cậu ta đi ban phát dân chủ bằng vàng ròng nguyên chất.",
+      "info": "<size=36>Bắn nhiều tiền hơn vào Zom.\n\n<color=blue>Từ Murong Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>500*4/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Miễn nhiễm với hiệu ứng câm lặng. Bắn 4 đồng vàng, mỗi viên sẽ cho 30 xu khi trúng Zombie, có tỉ lệ 25% rớt ra đồng vàng.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Súng Máy + Hoa Cúc Đôi hoặc Đậu Súng Máy Bạc + Hoa Cúc"
+     },
+     {
+      "seedType": 2040,
+      "name": "Đồ chơi từ Temu (2040)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Không có cốt truyện vì không biết viết cái gì :p",
+      "info": "<size=36>Spongebob nhưng made in China.\n\n<color=blue>Từ Murong Mod</color>\n<color=#3D1400>Máu: </color><color=red>8000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Sát thương tối đa nhận vào là 1000, hồi 1500 máu mỗi 15 giây.\n<color=black>•</color> Máu chia ra 3 phần, mỗi 1 phần sẽ có hình dạng và khả năng khác nhau: \nSquidward: Gây 5/0.5 giây sát thương kèm hiệu ứng Chịu Nhiệt gần nó.\nSpongeBob: Cho 25 stack đóng băng cho Zombie mỗi 0.5 giây gần nó.\nPatrick: Thêm 1 stack tỏi lên Zombie mỗi 0.5 giây gần nó.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Óc Chó Băng + Óc Chó Lửa"
+     },
+      {
+      "seedType": 2041,
+      "name": "Đậu Ảo Ảnh (2041)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là 1 hình ảnh đa chiều bị hỏng, không thể tấn công Zombie, sẽ như nào nếu thêm 1 đậu hà lan nhỉ?</color>",
+      "info": "<size=36>Xuất hiện từ Hologram\n\n<color=blue>Từ Murong mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 1800 (Thiên Thạch)</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với sát thương cắn, ngoại trừ Gargs, toàn bộ Zombie sẽ bỏ qua nó. Tuy nhiên sẽ không tấn công. Có thể nâng cấp bằng Đậu Hà Lan để tấn công hoặc xẻng đi để triệu hồi thiên thạch.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Hà Lan + Thanh Thuỷ Thu Cúc</color>"
+    },
+    {
+      "seedType": 2042,
+      "name": "Đậu Tiểu Liên Ảo Ảnh (2042)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Với việc hoàn thiện hệ thống Hologram, nhưng điều kì là là cây không tấn công.</color>",
+      "info": "<size=36>Xuất hiện và chả làm gì từ Hologram\n\n<color=blue>Từ Murong mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 1800 (Thiên Thạch)</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với sát thương cắn, ngoại trừ Gargs, toàn bộ Zombie sẽ bỏ qua nó. Tuy nhiên sẽ không tấn công. Có thể nâng cấp bằng Đậu Hà Lan để tấn công hoặc xẻng đi để triệu hồi thiên thạch từ tính.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Ảo Ảnh + Đậu Hà Lan</color>"
+    },
+    {
+      "seedType": 2043,
+      "name": "Đậu 2 Đầu Ảo Ảnh (2043)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Bộ Hologram được nâng cấp, và giờ đây Đậu Ảo Ảnh có thể tấn công cả 2 hướng!</color>",
+      "info": "<size=36>Xuất hiện và tấn công cả hai hướng từ Hologram\n\n<color=blue>Từ Murong mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 100*3/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với sát thương cắn, ngoại trừ Gargs, toàn bộ Zombie sẽ bỏ qua nó.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Ảo Ảnh + Đậu Hà Lan*2</color>"
+    },
+    {
+      "seedType": 2044,
+      "name": "Đậu Súng Máy Ảo Ảnh (2044)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Gacha Gacha Raoooooooooo</color>",
+      "info": "<size=36>Xuất hiện và tấn công từ Hologram\n\n<color=blue>Từ Murong mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 100*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với sát thương cắn, ngoại trừ Gargs, toàn bộ Zombie sẽ bỏ qua nó.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Ảo Ảnh + Đậu Hà Lan*3</color>"
+    },
+     {
+      "seedType": 2045,
+      "name": "Creeper-chan (2045)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Creeper-chan là 1 cô gái dễ thương, thích phát nổ, và sẳn sàng giúp PC của bạn về thời Window 98.</color>",
+      "info": "<size=36>Kaboom!</color>.\n\n<color=blue>Từ Murong mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 40000000</color>\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Bất tử.\n<color=black>•</color> Sau 2 giây, phát nổ toàn sân, mỗi ô sẽ kích nổ Nguyên Tử Băng. \n<color=black>•</color> Sau khi nổ, ngăn Zombie ra sân trong 10 giây.</color>",
+       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Nguyên Tử Băng + Pháo Tất Niên</color>"
+    },
+    {
       "seedType": 1948,
       "name": "Đậu Anh Đào Ăn Thịt (1948)",
       "introduce": "<align=justified><size=36><color=#3D1400>Bằng 1 cách nào đó, toàn bộ Bom Anh Đào đều phát nổ xung quanh cậu ta, có lẽ nào cậu ta là sao chổi?",
@@ -1303,7 +1339,7 @@
     },
 {"PvZ RH Customization Mod": "" },
     {
-      "seedType": 960,
+      "seedType": 9601,
       "name": "Đậu Điện (960)",
       "introduce": "<align=justified><size=36><color=#3D1400>Là 1 thợ điện lâu năm của cả khu phố, tuy nhiên mỗi khi khu phố mất điện thì mọi người lại dùng cậu ấy như 1 cái máy phát điện dự phòng.",
       "info": "<size=36>Bắn ra viên đạn điện tấn công tất cả Zombie trong phạm vi.\n\n<color=blue>Từ PvZ RH Customization Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>20/3x3 frame (Sát Thương liên tục)</color>\n<color=#3D1400>Khả Năng:</color><color=red> Gây sát thương liên tục mỗi khung hình cho Zombie ở phạm vi 3x3 ô. Đạn khi trúng Zombie sẽ biến mất.\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Dòng Điện Xuyên Thấu:</color><color=red> Gây thêm 5% sát thương bằng với lượng máu tối đa của Zombie.",
@@ -1317,21 +1353,21 @@
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Pháo Tất Niên + Nấm Nguyên Tử Băng"
     },
     {
-      "seedType": 303,
+      "seedType": 0,
       "name": "Đại Bác Dưa Băng (3030)",
       "introduce": "<align=justified><size=36><color=#3D1400>Là Pháo Dưa lão luyện, lý do mà cậu ta trở thành Pháo Dưa Băng vô cùng đơn giản. Cậu ta bị để quên trong một cái kho đông lạnh.",
       "info": "<size=36>Cơn mưa băng giá từ trên trời rớt xuống.\n\n<color=blue>Từ PvZ RH Customization Mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 120*40 dưa</color>\n<color=#3D1400>Thời Gian Nạp Đạn:</color><color=red> 24 giây </color>\n<color=#3D1400>Khả Năng:</color><color=red> Bắn 40 trái dưa băng ở phạm vi 3x3 ô, đạn sẽ rơi ngẫu nhiên ở phạm vi 5x3 ô.\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần sẽ cho 50 Stack đóng băng.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đại Bác Dưa + Nấm Băng"
     },
     {
-      "seedType": 304,
+      "seedType": 3040,
       "name": "Nấm Nhút Nhát Nguyên Tử Băng (3040)",
       "introduce": "<align=justified><size=36><color=#3D1400>'Tôi sẽ trở thành siêu anh hùng!' - Nấm Nhút Nhát nói vậy nhưng mọi khi gặp chuyện gì thì cậu ta vẫn luôn lẫn trốn. Lý do thì đủ kiểu, nói chung là mệt.",
       "info": "<size=36>Mỗi khi lẫn trốn, tạo ra vụ nổ toàn sân!\n\n<color=blue>Từ PvZ RH Customization Mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 30/1.5 giây, 1800 (Nguyên Tử Băng) </color>\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Đạn có mọi đặc tính của Nấm Xịt Nguyên Tử Băng. \n<color=black>•</color> Khi lẫn trốn sẽ kích hoạt vụ nổ Nguyên Tử Băng, đổi lại sẽ mất 1/3 lượng máu hiện tại.\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần sẽ cho 10 Stack đóng băng. Gây x3 sát thương lên Zombie bị đóng băng.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Nhút Nhát + Nấm Băng + Nấm Hủy Diệt"
     },
     {
-      "seedType": 305,
+      "seedType": 3050,
       "name": "Nấm Nhút Nhát Ngẫu Nhiên (304)",
       "introduce": "<align=justified><size=36><color=#3D1400>Này, đừng mở cái này nhé, tôi đơn giản chỉ đang trú ngụ trong này thôi, tôi sợ nhất là bọn Zombie đấy.",
       "info": "<size=36>Mỗi khi lẫn trốn, triệu hồi người bạn thân nhất.\n\n<color=blue>Từ PvZ RH Customization Mod</color>\n<color=#3D1400>Sát Thương:</color><color=red> 40/1.5 giây </color>\n<color=#3D1400>Khả Năng:</color><color=red> Khi lẫn trốn, tạo ra 1 Zombie Hộp Quà Vàng Bí Mật thôi miên.</color></color>",
