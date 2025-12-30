@@ -409,9 +409,9 @@
         {
             "seedType": 915,
             "name": "Canon Apocalyptique",
-            "introduce": "<size=36><color=black>Vêtu d'une armure glacée et sombre en guise d'avertissement, chaque tir de Canon Apocalyptique apporte la destruction. Les zombies touchés n'ont pas besoin de se préparer : il ne restera rien après le flash.</color>",
-            "info": "<size=36>Possède une puissance bouleversante.\n\n<color=black>Dégâts : </color><color=#8B0000>Main Blast - 1800 dans une zone 3x3. 1 800 + 30 % supplémentaires des PV max des zombies sur tout l'écran. Pistolet latéral : 360*2/1,5 secondes avec Slow </color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cryo Cannon + CryoChampi-mort</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. Les dégâts de l'explosion principale sont multipliés par 4\n2. Temps de rechargement → 12 secondes</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Vêtu d’une armure glacée et sombre comme un avertissement, chaque tir du Canon Apocalyptique apporte la destruction. Les zombies touchés n’ont pas besoin de se préparer : rien ne subsistera après l’éclair.</color></size>",
+            "info": "<size=36>Possède une puissance dévastatrice capable de briser la terre.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>\n<color=black>•</color> Explosion principale : 1800 dans une zone de 3×3.\n<color=black>•</color> Dégâts additionnels : 1800 + 30 % des PV max des zombies sur l’ensemble de l’écran.\n<color=black>•</color> Canon latéral : 360 × 2 / 1,5 s</color>\n<color=black>Temps de rechargement : </color><color=#8B0000>36 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Imprègne toutes les plantes du terrain avec les effets de Champi-glace (prioritaire) ou de Champi-mort (sauf les Pots de fleur).\n<color=black>•</color> Le canon latéral inflige l’altération Gel et ajoute 10 points de Cryo.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Les dégâts de l’explosion principale sont multipliés par 4\n2. Temps de rechargement → 12 s</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Canon Arctique + Champi-omnicide</color></size>"
         },
         {
             "seedType": 916,
@@ -947,17 +947,17 @@
         },
         {
             "seedType": 1068,
-            "name": "Jonc Glacé",
-            "introduce": "<size=36><color=black>\"Je ne suis pas qu'un chat... Je suis... Je suis un chat super bleu !\" \" Déclara Frost Cattail. \"As-tu de l'herbe à chat froide...?\" Son amour pour l'herbe à chat transparaît et il a une fascination indéniable pour tout ce qui est cool.</color></size>",
-            "info": "<size=36>Jonc Glacé peut attaquer n'importe quels zombies dans le jardin et les ralentir.\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes (Ralentissements) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque coup sur un zombie ajoute 5 points Cryo. Concentre également ses attaques sur le zombie affecté.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Quenouilles</color></size>",
-            "cost": ""
+            "name": "Nénu-chat Glacé",
+            "introduce": "<align=justified><size=36><color=black>\"Je ne suis pas qu’un chat… je suis… je suis un super chat bleu !\" proclama Nénu-chat Glacé. \"T’aurais pas un peu d’herbe à chat bien fraîche, genre sortie du frigo… ?\" Son amour pour l’herbe à chat est miaou-numental, et sa fascination pour tout ce qui est cool est… glaciairement évidente.</color></size>",
+            "info": "<size=36>Nénu-chat Glacé peut attaquer n’importe quel zombie sur la ligne et infliger des dégâts supplémentaires aux cibles ralenties par le froid.\n\n<color=black>Dégâts : </color><color=#8B0000>40 × 2 / 1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×2 dégâts aux zombies glacés. Inflige ×4 dégâts aux zombies gelés.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace > Nénu-chat</color></size>"
         },
         {
             "seedType": 1069,
-            "name": "Jonc Enflammé",
-            "introduce": "<size=36><color=black>\"Quand j'étais jeune, je pensais que je serais une quenouilles normale\", a déclaré Flame Cattail, réchauffant sa queue avec fierté. \"Il s'avère que je suis un enfer flamboyant de génialité !\" Frost Cattail soupira depuis le coin et marmonna \" Showoff \".</color></size>",
-            "info": "<size=36>Jonc Enflammé peut attaquer n'importe quels zombies dans le jardin et infliger de gros dégats.\n\n<color=black>Dégâts : </color><color=#8B0000>40*2/1.5 Secondes</color>\n<color=#720026>Debuff enflammé : </color><color=#8B0000>Inflige trois fois plus de dégâts aux zombies enflammés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Cattail</color></size>",
-            "cost": ""
+            "name": "Nénu-chat Enflammé",
+            "introduce": "<align=justified><size=36><color=black>\"Quand j’étais jeune, je pensais devenir un simple Nénu-chat,\" déclara Nénu-chat Enflammé en réchauffant fièrement sa queue. \"Finalement, je suis un brasier incandescent de génialité !\" Nénu-chat Glacé soupira depuis un coin, marmonnant : \"Frimeur.\"</color></size>",
+            "info": "<size=36>Nénu-chat Enflammé vise les zombies sur n’importe quelle ligne et inflige de lourds dégâts.\n\n<color=black>Dégâts : </color><color=#8B0000>40 × 2 / 1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×3 dégâts aux zombies enflammés.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Jalapeño > Nénu-chat</color></size>"
         },
         {
             "seedType": 1070,
@@ -1808,10 +1808,10 @@
         },
         {
             "seedType": 1181,
-            "name": "Troufle Puant",
-            "introduce": "<size=36>",
-            "info": "<size=36>Foul Blover peut empoisonner les zombies.\n\n<color=black>Spécial : </color><color=#8B0000>Inflige 5 points de poison à chaque zombie présent à l'écran et applique le debuff empoisonné. Cela augmente également la durée de séjour du debuff de 5 secondes supplémentaires et les oblige à changer de voie. </couleur>",
-            "cost": "\n<size=36><color=black>Formule de Fusion : </color><color=#8B0000>Ail + Troufle</color>"
+            "name": "Dégouteur",
+            "introduce": "<align=justified><size=36><color=black>Dégouteur menait autrefois une vie simple, travaillant dans un barbecue bondé où les affaires allaient bon train. \"Ah, c’était le bon temps…\" soupire-t-il. \"Les clients repartaient avec une lueur verte de bonheur après que j’aie dissipé l’odeur écrasante de l’ail. Et maintenant ? Plus rien n’est pareil.\"</color></size>",
+            "info": "<size=36>Dégouteur peut empoisonner les zombies.\n\n<color=#5E1675>Système de Poison : </color><color=#8B0000>Inflige 5 points de Poison à chaque zombie non empoisonné présent à l’écran et applique l’altération Empoisonné. Inflige ensuite 1 point de Poison supplémentaire et prolonge la durée de l’altération de 5 secondes supplémentaires.</color>\n<color=black>Spécial : </color><color=#8B0000>Force les zombies à changer de voie.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ail + Troufle</color></size>"
         },
         {
             "seedType": 1245,
@@ -2967,6 +2967,13 @@
             "introduce": "<size=36><color=black>\"Grand frère, grande sœur, tu ne me trouvez pas mignon ?\" Lance-gangrène fait de l’œil à chaque passant. \"Achetez de l’ail, s’il vous plaît.\" Il s’investit à fond dans son argumentaire de vente. Pourquoi un si petit enfant vendrait-il de l’ail ? \"Les films de grand-père sont trop ennuyeux, et notre maison est tellement remplie d’ail qu’on ne sait même plus où le stocker\", explique-t-il.</color></size>",
             "info": "<size=36>Lance des mini-ails qui se divisent à l’impact, avec une chance de tir rapide ou de propagation.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec Lance-fléau</color>\n<color=black>Dégâts : </color><color=#8B0000>60 / 2 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte (évite les projectiles à tir direct).\n<color=black>•</color> Hérite des chances de tir rapide et de propagation de Lance-fléau.\n<color=black>•</color> Les projectiles n’infligent plus de dégâts de zone et se divisent en mini-chou à l’ail, mini-grain de maïs à l’ail (25 % de chances de mini beurre à l’ail) et tranche de melon à l’ail.\n<color=black>•</color> Ces projectiles se comportent comme leurs équivalents miniatures sans ail (voir Bout de maïs, Bout de pastèque et Bout de choux) et confèrent chacun 1 point de poison, augmentant les dégâts de (5 × points de poison).</color></size>",
             "cost": "<size=36>Formule de Conversion : <color=#8B0000>×3 + Lance-pastèque <-> Champi-gnon</color></size>"
+        },
+        {
+            "seedType": 970,
+            "name": "Ortie Cornvoyeuse",
+            "introduce": "<align=justified><size=36><color=black>Ortie Cornvoyeuse travaille dans une immense usine de transformation du beurre. Le travail lourd et répétitif l’épuise tellement qu’il tire la langue toute la journée. Après le boulot, tout ce qu’elle veut, c’est s’allonger chez elle et se reposer… mais les zombies arrivent comme des mouches, la forçant à retourner au combat. Malheureusement pour elle, se battre est tout aussi monotone que son travail : une interminable ligne de convoyage au beurre.</color></size>",
+            "info": "<size=36>Une \" route \" collante et glissante pour zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Dégâts : </color><color=#8B0000>40 / 1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ignorée par les véhicules et immunisée contre la plupart des types de dégâts ; subit 10 dégâts lorsqu’elle est écrasée par un Gargantua.\n<color=black>•</color> Les attaques repoussent les zombies mais ne font plus éclater les pneus.\n<color=black>•</color> Toutes les 3 attaques cumulées, applique 1 seconde d’étourdissement au beurre à un zombie.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Durée de l’étourdissement au beurre de l’Ortie Cornvoyeuse ×3\n2. Les zombies se trouvant dessus glissent désormais en continu vers la droite</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur Écrasé + Ortie Beurrée</color></size>"
         }
     ]
 }
