@@ -2981,6 +2981,55 @@
             "introduce": "<align=justified><size=36><color=black>L’hiver est la saison de la méditation. Le froid aiguise l’esprit. Avec les vents mordants et les nuits silencieuses, un moment aussi propice à la réflexion ne devrait pas être gaspillé. Depuis des jours entiers, la Planterne Boréale qui veille la nuit se demande à quoi elle devrait penser. Oh, attends… c’est ça ! Penser à ce à quoi elle devrait penser !</color></size>",
             "info": "<size=36>Gèle les zombies grâce à une aura glaciale et permet aux lasers d’infliger des effets de froid.\n\n<color=black>Dégâts : </color><color=#8B0000>20 / 1 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Une fois par seconde, inflige 20 dégâts et applique l’effet Gel aux zombies dans un rayon de 1,5 case, et prolonge de 0,4 seconde la durée de Gel des zombies déjà gelés.\n<color=black>•</color> Les lasers anti-sol du Cactus Lumos deviennent cyan et acquièrent la capacité d’appliquer l’effet Gel après les avoir traversés.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Planterne</color></size>"
+        },
+        {
+            "seedType": 1348,
+            "name": "Troufle Solaire",
+            "introduce": "<align=justified><size=36><color=black>Troufle Solaire arbore toujours un sourire paisible et aime répéter : \" Ciel dégagé, brise printanière et soleil radieux… que demander de plus ? \" Malheureusement, les zombies ne comprennent rien à cette beauté. Ce qu’il souffle n’est pas une douce brise, mais un véritable vent solaire.</color>",
+            "info": "<size=36>Capable de projeter un grand nombre de tirs solaires.\n\n<color=black>Damage: </color><color=#8B0000>10×72</color>\n<color=black>Special: </color><color=#8B0000>Fait tournoyer ses feuilles et tire deux spirales totalisant 72 tirs solaires. Chaque tir génère 5 Soleils à l’impact. Peut être renforcée par la Torche Infernale pour infliger 40 dégâts et générer 15 Soleils par tir.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Troufle</color>"
+        },
+        {
+            "seedType": 1347,
+            "name": "Tireur-multiple",
+            "introduce": "<align=justified><size=36><color=black>\" Vous avez déjà pris chacun votre tour pendant trois minutes, maintenant c’est à moi ! \" Les trois têtes du Tireur multiple se disputent les objets partagés depuis l’enfance — billes, bandes dessinées, jusqu’à un badge de commando en édition limitée sculpté dans des pois.</color>",
+            "info": "<size=36>Peut alterner entre trois modes d’attaque, permettant une répartition flexible de la puissance de feu.\n\n<color=black>Damage: </color><color=#8B0000>20×6 (ou n)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Dispose de trois modes d’attaque, modifiables en appuyant dessus ; le comportement de ciblage change en conséquence :\n<color=black>•</color> 1. Mode standard : tire 2 pois dans sa ligne ainsi que dans les deux lignes adjacentes ;\n<color=black>•</color> 2. Mode dispersion : tire 1 pois dans chaque ligne (si la carte comporte moins de 6 lignes, les dégâts des tirs manquants sont redistribués équitablement entre les tirs restants) ;\n<color=black>•</color> 3. Mode focalisé : tire 6 pois dans sa propre ligne.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Pisto-pois + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1339,
+            "name": "Mine Terrestre",
+            "introduce": "<align=justified><size=36><color=black>Après une longue période d’attente, la Mine terrestre a puisé suffisamment d’énergie dans le soleil et l’humidité pour atteindre une puissance comparable à celle d’une Cerise explosive. \" Spudow ! \" s’est-il écrié… laissant les zombies plus surpris qu’autre chose.</color>",
+            "info": "<size=36>Peut évoluer deux fois.\n\n<color=black>Damage: </color><color=#8B0000>900 (initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Commence directement armée. Après 30 s, évolue et double ses dégâts.\n<color=black>•</color> Après 30 s supplémentaires, évolue à nouveau et augmente le rayon d’explosion à 1,5 case sur les lignes adjacentes.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-mer > Mine Patate</color>"
+        },
+        {
+            "seedType": 1340,
+            "name": "Mine Marine",
+            "introduce": "<align=justified><size=36><color=black>Dès qu’elle entre dans l’eau, la Mine Marine absorbe l’eau comme une petite éponge, convaincue que cela décuplera sa puissance explosive. Et elle n’a pas tort. En revanche, elle ne comprend toujours pas pourquoi la piscine ne finit jamais entièrement remplie de zombies morts.</color>",
+            "info": "<size=36>Plante aquatique pouvant évoluer deux fois.\n\n<color=black>Dégâts : </color><color=#8B0000>900 (initial)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Commence directement armée. Après 30 s, évolue et double ses dégâts.\n<color=black>•</color> Après 30 s supplémentaires, évolue à nouveau et augmente le rayon d’explosion à 1,5 case sur les lignes adjacentes.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine Patate > Champi-mer</color>"
+        },
+        {
+            "seedType": 1233,
+            "name": "Algue Mine",
+            "introduce": "<align=justified><size=36><color=black>\" Attention aux navires — récifs en vue ! \" Algue Mine officie comme agent de sécurité du cours d’eau, signalant le danger à l’aide d’une lumière rouge. Elle fait très bien son travail : là où elle apparaît, le danger n’est jamais loin.</color>",
+            "info": "<size=36>Une Algue aussi explosive qu’une Mine-patate.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Noyade)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Élimine instantanément le premier zombie approchant et inflige 600 dégâts aux zombies dans une zone de 3×3.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine-patate > Algue agrippante</color>"
+        },
+        {
+            "seedType": 1357,
+            "name": "Pot Peureux",
+            "introduce": "<align=justified><size=36><color=black>À l’école, le Pot peureux se recroqueville toujours sur lui-même et évite les autres. Comme les champignons qu’il fait pousser sont moins nombreux que ceux de ses camarades, il se croit inférieur. Ce que sa peur l’empêche de voir, c’est que ses camarades sont en réalité jaloux — les champignons qu’il cultive sont les plus délicieux de tous.</color>",
+            "info": "<size=36>Accorde des bonus en fonction de la valeur de la plante placée dessus.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Confère à la plante placée dessus un bonus de dégâts égal à [0,04 × (coût en Soleil de la plante)] %, jusqu’à un maximum de 20 %.\n<color=black>•</color> Si la plante placée dessus est un Champignon de type Peureux, le bonus devient 2 × (bonus de base + 10 %), avec un maximum de 60 %.\n<color=black>•</color> Devient effrayé lorsqu’un zombie est présent dans une zone de 3×3 et cesse alors de fournir son bonus d’attaque. Une fois l’état de peur terminé, le bonus se régénère progressivement sur 3 s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-peureux > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1352,
+            "name": "Coquille de Pastèque",
+            "introduce": "<align=justified><size=36><color=black>\" Ha ha ! Devine où sont passés mes sourcils ! \" s’esclaffe la Coquille de Pastèque devant son public. Célèbre illusionniste des toits, elle maîtrise toutes sortes de tours, y compris celui de faire disparaître la moitié de ses yeux. Mais son numéro le plus impressionnant reste la Grande Transformation de la pastèque. À ce jour, personne n’a jamais vu comment elle parvient à cacher une pastèque entière dans le seau d’un Lance-pastèque.</color>",
+            "info": "<size=36>Lance des pastèques supplémentaires lorsqu’elle protège une plante de type catapulte.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>80 / ? s</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque attaque de la plante catapulte protégée, une pastèque supplémentaire est lancée simultanément.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Lance-pastèque > Citrouille</color>"
         }
     ]
 }
