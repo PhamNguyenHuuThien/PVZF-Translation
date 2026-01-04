@@ -99,8 +99,8 @@
         {
             "theZombieType": 17,
             "name": "Zombie Tuba",
-            "introduce": "<size=36><color=black>Snorkel Zombie a peut-être un masque cassé, mais cela n'entrave pas sa capacité à plonger et à flotter dans l'eau. Son soi-disant « naufrage » n’est pas dû à ses compétences en plongée ; il n'a tout simplement pas besoin d'air pour respirer.</color>",
-            "info": "<size=36>Les tubas zombies peuvent nager sous l'eau.\n\n<color=black>Robustesse : </color><color=#4B0082>270</color>\n<color=black>Spécial : </color><color=#4B0082>S'immerger pour éviter les attaques.</color>"
+            "introduce": "<size=36><color=black>Le Zombie Tuba a peut-être un masque cassé, mais cela ne gêne en rien sa capacité à plonger et à flotter dans l’eau. Son soi-disant \" coulage \" n’est pas dû à ses talents de plongeur ; il n’a tout simplement pas besoin d’air pour respirer..</color>",
+            "info": "<size=36>Les zombies tubas peuvent nager sous l'eau.\n\n<color=black>Robustesse : </color><color=#4B0082>270</color>\n<color=black>Spécial : </color><color=#4B0082>S'immerger pour éviter les attaques des plantes.</color>"
         },
         {
             "theZombieType": 18,
