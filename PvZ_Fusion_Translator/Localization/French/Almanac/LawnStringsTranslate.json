@@ -94,16 +94,16 @@
         {
             "seedType": 13,
             "name": "Écraseur",
-            "introduce": "<size=36><color=black>\"Je suis prêt !\" crie Écraseur. \"Faisons-le ! Mettez-moi dedans ! Il n'y a personne de mieux ! Je suis votre homme ! Allez ! Qu'attendez-vous ? J'ai besoin de ça !\"</color></size>",
-            "info": "<size=36>L'Écraseur écrasera le premier zombie à proximité.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"JE SUIS PRÊT!\" crie Écraseur. \"Allez! Pose-moi! Personne n'écrase mieux que moi! C'est MON moment! Dépêche-toi! J'en ai besoin!\"</color></size>",
+            "info": "<size=36>L'Écraseur écrase le premier zombie qui s'approche trop près.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Les zombies écrasés n'activent pas leurs effets après la mort.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         },
         {
             "seedType": 14,
             "name": "Triple Pisto-pois",
-            "introduce": "<size=36><color=black>Triple Pistopois aime la lecture, le backgammon et les longues périodes d'immobilité dans le parc. Triple Pisto-pois aime aller aux spectacles, notamment de jazz moderne. \"Je recherche juste quelqu'un de spécial\", dit-il. Le numéro préféré de Triple Pisto-pois est le 5.</color></size>",
-            "info": "<size=36>Les Triple Pisto-pois tirent des pois dans 3 lignes.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>275</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Triple Pisto-pois aime lire, jouer au backgammon et rester immobile longtemps dans le parc. Il aime aller à des spectacles, surtout du jazz moderne. \"Je cherche juste quelqu'un de spécial,\" dit-il. Son chiffre préféré est le 5.</color></size>",
+            "info": "<size=36>Triple Pisto-pois tire des pois sur trois rangées.\n\n<color=black>Dégâts: </color><color=#8B0000>20×3 / 1.5 s</color>\n<color=black>Spécial: </color><color=#8B0000>Triple Pisto-pois et ces fusions redirigent les projectiles qui seraient perdus hors-carte depuis les rangées supérieures ou inférieures vers leur propre rangée.</color></size>",
+            "cost": "<size=36>Coût: <color=#8B0000>275</color>\nRecharge: <color=#8B0000>7.5 s</color></size>"
         },
         {
             "seedType": 15,
@@ -261,10 +261,10 @@
         },
         {
             "seedType": 251,
-            "name": "Noix Géante",
-            "introduce": "<size=36><color=black>anneaux de taille 500 ，让我帮他个忙，所以我来了。能难到哪里去呢？总不可能是冲进僵尸堆里吧？</color></size>",
-            "info": "<size=36>Écrasez les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color></size>",
-            "cost": ""
+            "name": "Noix Solaire Géante",
+            "introduce": "<size=36><color=black>\"Double Noix Solaire m’a demandé de lui rendre un service contre 500 Soleil, alors je suis venu. À quel point ça peut être difficile ? Ça ne peut quand même pas être foncer droit dans un tas de zombies... pas vrai...? PAS VRAI ?!\"</color></size>",
+            "info": "<size=36>Écrase les zombies en roulant sur eux comme une boule de bowling.\n\n<color=black>Dégâts : </color><color=#8B0000>600 / 0,02 s</color></size>",
+            "cost": "<size=36>Apparaît lorsque Double Noix Solaire est activée avec suffisamment de Soleil.</size>"
         },
         {
             "seedType": 252,
@@ -290,9 +290,9 @@
         {
             "seedType": 255,
             "name": "Noix Géante",
-            "introduce": "<size=36><color=black>\"Je suis invincible sur le champ de bataille, et mes partenaires ne peuvent quitter ma silhouette majestueuse des yeux !\" \" se vantait la noix géante. \"Un an après avoir été viré du Noix Tumbler Club, j'ai enfin trouvé un travail qui me correspond vraiment.\"</color></size>",
-            "info": "<size=36>La Noix Géante roulera en avant et renversera tous les zombies qu'elle rencontrera.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Roule sur sa ligne, éliminant tous les zombies sur son chemin.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Noix</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>\"Je suis invincible sur le champ de bataille, et mes partenaires ne peuvent détacher leurs yeux de ma silhouette majestueuse !\" se vantait la Noix Géante. \"Un an après avoir été expulsée du Wall-nut Tumbler Club, j’ai enfin trouvé un travail qui me correspond vraiment.\"</color></size>",
+            "info": "<size=36>La Noix Géante roule en avant et écrase tous les zombies sur son passage.\n\n<color=black>Dégâts : </color><color=#8B0000>600 / 0,02 s</color>\n<color=black>Spécial : </color><color=#8B0000>Roule le long de sa ligne, éliminant tous les zombies sur son chemin.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noix + Noix</color></size>"
         },
         {
             "seedType": 256,
@@ -366,10 +366,10 @@
         },
         {
             "seedType": 909,
-            "name": "Carambole Cosmophile",
-            "introduce": "<size=36><color=black>Personne ne sait d'où vient Carambole Cosmophile, mais une chose est sûre : il n'était pas responsable des dinosaures. Pas du tout !</color></size>",
-            "info": "<size=36>Pourquoi est-ce qu'il y a une météorite dans mon jardin !?\n\n<color=black>Dégâts : </color><color=#8B0000>25*5/1.5 Secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>+20 Dégâts par niveau de Lumos.</color>\n<color=#495057>Système magnétique : </color><color=#8B0000>+5 % de dégâts par plante magnétique.\n<color=#6A0C9D>Les deux systèmes peuvent augmenter les dégâts des étoiles jusqu'à 300 maximum.</color>\n<color=black>Spécial : </color><color=#8B0000>Invoque un météore toutes les 20 secondes, infligeant 1 800 dégâts à l'impact. Se divise en plusieurs étoiles qui se concentrent sur les zombies et infligent 100 dégâts chacune.</color></color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Carambole Filante + Cactus Magnétique</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Intervalle d'attaque → 0,5 seconde\n2. Les dégâts de base sont doublés et le limiteur (120) est supprimé</color></size>",
-            "cost": ""
+            "name": "Étoile Polaire",
+            "introduce": "<align=justified><size=36><color=black>Personne ne sait d’où vient l'Étoile Polaire, mais une chose est sûre : elle n’est absolument pas responsable de l’extinction des dinosaures. Pas du tout.</color></size>",
+            "info": "<size=36>Pourquoi diable y a-t-il une météorite sur ma pelouse !?\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable</color>\n<color=black>Dégâts : </color><color=#8B0000>30×5/1.5s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>+20 dégâts par niveau de Lumos.</color>\n<color=#666699>Système Magnétique : </color><color=#8B0000>+5 % de dégâts par plante magnétique dans le même système.\nLes deux systèmes peuvent augmenter les dégâts des étoiles jusqu’à un maximum de 300.</color>\n<color=black>Spécial : </color><color=#8B0000>Invoque une météorite toutes les 15 secondes, infligeant 1800 dégâts à l’impact. Se divise ensuite en plusieurs étoiles qui poursuivent les zombies et infligent 100 dégâts chacune. Hérite de la capacité anti-aérienne du Cactus Magnétique et peut également abattre les tridents.</color>\n<color=black>Modificateurs Odyssée principaux :</color>\n<color=#8B0000>1. Intervalle d’attaque → 0.5s\n2. Niv.1 : dégâts de base ×2 et plafond de dégâts (300) porté à 3000 ; Niv.2 : dégâts de base ×3, plafond de dégâts supprimé</color>\n\n<color=black>Modificateur de synergie Chou Hélios :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de l'Étoile Polaire et du Chou Hélios doivent être débloqués.\n<color=black>•</color> Avec au moins 10 Étoile Polaire et 10 Choux Hélios sur le terrain, Magnetar invoque une Météorite Hélios à la place, et le Mini-Soleil du Chou Hélios ne disparaît plus et inflige 5× dégâts.\n<color=black>•</color> Météorite Hélios : (1800 + 1800 × nombre de Magnetars) × (1 + 0.2 × nombre de Choux Hélios) dégâts, et génère 1250 Soleils.</color>\n<color=black>Modificateur de synergie Chou Séléné :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de l'Étoile Polaire et du Chou Séléné doivent être débloqués.\n<color=black>•</color> Avec au moins 10 Étoile Polaire et 10 Choux Séléné sur le terrain, le Mini-Lune du Chou Séléné ne disparaît plus. Chaque Magnetar et Chou Séléné canalise un rayon vers la Mini-Lune, les fusionnant en un faisceau concentré unique.\n<color=black>•</color> Dégâts du faisceau : 100 × (nombre de plantes canalisantes) toutes les 0.02s, ciblant toujours le zombie ayant le plus de PV max. Les dégâts augmentent linéairement dans le temps lorsqu’un seul ennemi est focalisé.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Étoile Filante + Cactus Magnétique</color>"
         },
         {
             "seedType": 910,
@@ -380,17 +380,17 @@
         },
         {
             "seedType": 911,
-            "name": "Citrouille Laser",
-            "introduce": "<size=36><color=black>\"La puissance de Champi-aimant reste inégalée\", a déclaré Citrouille Laser. \"Après tout, les blindages composites, les catapultes électromagnétiques et les canons à plasma sont arrivés près d'un siècle après les porte-avions.\" D'autres plantes enviaient l'équipement de haute technologie de Citrouille Laser, mais seul Champi-aimant savait que son pouvoir provenait d'une météorite Carambole Cosmophile.</color></size>",
-            "info": "<size=36>Fait apparaître des drones laser qui ciblent les ennemis.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>A toujours un ailier du Drone Laser avec lui lorsqu'il apparaît. Génère régulièrement un drone laser au-dessus d'une grille 3x3.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Trouflethorn Citrouille + MagTroufle</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Montant des ailiers → 3\n2. Hérite des effets de Joker Citrouille lorsqu'il est dans le même système magnétique | Blast Citrouille Sous-espèce Débloqué</color></size>",
-            "cost": ""
+            "name": "Citrouille-laser",
+            "introduce": "<align=justified><size=36><color=black>\" La puissance de Champi-aimant reste inégalée \", affirme Citrouille-laser. \" Après tout, les blindages composites, les catapultes électromagnétiques et les armes à plasma sont apparus presque un siècle après les porte-avions. \" Les autres plantes envient son équipement de pointe, mais seul Champi-aimant sait que sa véritable source d’énergie provient d’une météorite de l'Étoile Polaire.</color></size>",
+            "info": "<size=36>Génère des drones laser qui poursuivent automatiquement les ennemis.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable</color>\n<color=black>Dégâts : </color><color=#8B0000>200/1.5s (Drone)\n200/1s (Ailier)</color>\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=#666699>Système Magnétique :</color> <color=#8B0000>Lorsqu’elle fait partie d’un Système Magnétique avec une Citrouille Mécanique ou toute Citrouille métalique (y compris la Citrouille Diabolique du la Citrouille Bunker), elle hérite de leurs effets spéciaux. De plus, elle convertie toutes les Citrouille Mécanique du système en Citrouilles-laser toutes les 30s (10s la première fois).</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Apparaît toujours avec un drone laser. Génère un drone laser sur une case autour d’une zone de 3×3 toutes les 30s (10s la première fois).\n<color=black>•</color> Renvoie 100 dégâts aux zombies qui la mordent.\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Nombre de drone → 3\n2. Dégâts de tous les drones ×3</color></size>",
+            "cost": "<size=35>\nFormule de Fusion : <color=#8B0000>Troufle Magnétique > Citrouille-convoyeuse</color>"
         },
         {
             "seedType": 912,
             "name": "Drones Laser",
-            "introduce": "<size=36><color=black>感谢究极杨桃，现在我们有一整套新装备了！看看这些新奇玩意，复我最喜欢的花瓶！</color></size>",
-            "info": "<size=36>Les drones laser peuvent tirer des attaques laser pénétrantes.\n\n<color=black>Dégâts : </color><color=#8B0000>200/1.5 Secondes (作为植物) 200/1 Secondes(作为僚机)</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Grâce à la Citrouille-laser, nous disposons désormais d’un véritable arsenal d’équipements high-tech ! Admirez ces merveilles : armure en alliage composite, rotor électromagnétique et railgun à plasma… Attendez—NON !!! C’ÉTAIT MON VASE PRÉFÉRÉ !!!</color></size>",
+            "info": "<size=36>Les Drones Laser tirent des lasers perforants pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>200 / 1,5 s</color></size>",
+            "cost": "<size=36>"
         },
         {
             "seedType": 913,
@@ -401,17 +401,17 @@
         },
         {
             "seedType": 914,
-            "name": "Cata-fléau",
-            "introduce": "<size=36><color=black>Après avoir surmonté les luttes passées, Cata-fléau vise désormais une vie calme. \"Tout ce que je veux maintenant, c'est regarder des films classiques et vivre en paix.\"</color>",
-            "info": "<size=36>Capable de lancer des volées de projectiles rapides et à propagation.\n\n<color=black>Dégâts : </color><color=#8B0000>120/2 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. A une chance égale de propager le feu en nombre égal au nombre de zombies dans sa voie. Les projectiles se divisent en Ail, maïs et melon lors de l'impact.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Salade-pult + Ail-pult</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. La propagation du feu est désormais garantie\n2. Les traits de Melon Pot sont désormais hérités</color>",
-            "cost": "<size=36>"
+            "name": "Lance-fléau",
+            "introduce": "<size=36><color=black>Après avoir surmonté les luttes du passé, Lance Fléau aspire désormais à une vie paisible. \"Tout ce que je veux maintenant, c’est regarder des films classiques et vivre en paix.\"</color></size>",
+            "info": "<size=36>Capable de lancer des volées de projectiles à tir rapide et en dispersion.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>120 / 2 s</color>\n<color=black>Spécial : </color><color=#8B0000>42 % de chances de tir rapide. Possède une chance équivalente de tirer en dispersion un nombre de fois égal au nombre de zombies présents dans sa voie. Les projectiles se divisent à l’impact en chou à l’ail, grain de maïs à l’ail (25 % de chances de beurre à l’ail) et melon à l’ail.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Le tir en dispersion est désormais garanti\n2. Niveau 1 : L’accumulation de points de poison empoisonne immédiatement le zombie et le plafond de valeur de poison passe à 120 ; Niveau 2 : le plafond de valeur de poison est supprimé</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance Salade + Lance-ail</color></size>"
         },
         {
             "seedType": 915,
             "name": "Canon Apocalyptique",
-            "introduce": "<size=36><color=black>Vêtu d'une armure glacée et sombre en guise d'avertissement, chaque tir de Canon Apocalyptique apporte la destruction. Les zombies touchés n'ont pas besoin de se préparer : il ne restera rien après le flash.</color>",
-            "info": "<size=36>Possède une puissance bouleversante.\n\n<color=black>Dégâts : </color><color=#8B0000>Main Blast - 1800 dans une zone 3x3. 1 800 + 30 % supplémentaires des PV max des zombies sur tout l'écran. Pistolet latéral : 360*2/1,5 secondes avec Slow </color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cryo Cannon + CryoChampi-mort</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. Les dégâts de l'explosion principale sont multipliés par 4\n2. Temps de rechargement → 12 secondes</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>Vêtu d’une armure glacée et sombre comme un avertissement, chaque tir du Canon Apocalyptique apporte la destruction. Les zombies touchés n’ont pas besoin de se préparer : rien ne subsistera après l’éclair.</color></size>",
+            "info": "<size=36>Possède une puissance dévastatrice capable de briser la terre.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>\n<color=black>•</color> Explosion principale : 1800 dans une zone de 3×3.\n<color=black>•</color> Dégâts additionnels : 1800 + 30 % des PV max des zombies sur l’ensemble de l’écran.\n<color=black>•</color> Canon latéral : 360 × 2 / 1,5 s</color>\n<color=black>Temps de rechargement : </color><color=#8B0000>36 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Imprègne toutes les plantes du terrain avec les effets de Champi-glace (prioritaire) ou de Champi-mort (sauf les Pots de fleur).\n<color=black>•</color> Le canon latéral inflige l’altération Gel et ajoute 10 points de Cryo.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Les dégâts de l’explosion principale sont multipliés par 4\n2. Temps de rechargement → 12 s</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Canon Arctique + Champi-omnicide</color></size>"
         },
         {
             "seedType": 916,
@@ -444,9 +444,9 @@
         {
             "seedType": 920,
             "name": "Gravitron",
-            "introduce": "<size=36><color=black>Le Gravitron maîtrise l'électromagnétisme avec Carambole Cosmophile. \"Ce n'est pas sorcier : force à gauche, électricité à droite\", se vantait-il. \"Et n'oubliez pas l'aimant mobile : faites confiance à la plante la plus intelligente du marché !\"</color>",
-            "info": "<size=36>Gravitron attire les Étoiles, les attirent et les lances sur les zombies à force maximale.\n\n<color=black>Spécial : </color><color=#8B0000>Limite de stockage - 60, Temps d'accélération - 1,5 secondes, Dégâts - trois fois</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Carambole Cosmophile + Troufle</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Gravitron a maîtrisé l’électromagnétisme aux côtés de l'Étoile Polaire. \" Ce n'est pas sorcier : la force de la main gauche, l'électricité de la main droite.  \", fanfaronne-t-il. \" Et n’oublie jamais l’aimant en mouvement… fais confiance à la plante la plus intelligente du coin ! \"</color>",
+            "info": "<size=36>Gravitron attire les étoiles, les accélère, puis les projette sur les zombies à puissance maximale.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable avec l'Étoile Polaire</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l'Étoile Polaire.\n<color=black>•</color> Capacité de stockage : 60 | Temps d’accélération : 1.5s | Dégâts ×3 | Vitesse des projectiles ×2</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Carambole <-> Troufle</color>"
         },
         {
             "seedType": 921,
@@ -457,10 +457,10 @@
         },
         {
             "seedType": 922,
-            "name": "Citrouille Grenade",
-            "introduce": "<size=36><color=black>Cerise ? Citrouille ? Ou un hybride né de la fusion ? Le Blast Citrouille ne s'embarrasse pas de tels détails. Pour lui, Halloween consiste à distribuer des cerises juteuses aux gentils enfants et des bombes cerises aux méchants – rien d'autre n'a d'importance. </couleur>",
-            "info": "<size=36>Citrouille anti-explosion.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>N'engendre plus de drones en vol stationnaire, immunisés contre les explosions de cerises et n'en soigne plus. Toutes les 30 secondes, un drone autodestructeur apparaît qui recherche les zombies et explose comme une Cerise Explosive.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Citrouille Laser + Cerise Explosive</color>",
-            "cost": ""
+            "name": "Citrouille-grenade",
+            "introduce": "<align=justified><size=36><color=black>Cerise ? Citrouille ? Ou hybride né d’une fusion ? La Citrouille-grenade ne s’encombre pas de ces détails. Pour elle, Halloween consiste à distribuer de juteuses cerises aux gentils enfants… et des bombes cerises aux vilains. Le reste est secondaire.</color></size>",
+            "info": "<size=36>Citrouille résistante aux explosions.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable avec Citrouille-laser</color>\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Citrouille-laser. Hérite de ses autres propriétés mais ne génère plus de drones laser et n’assimile plus les Citrouilles Mécanique. À la place, elle déploie toutes les 30 s des drones kamikazes qui traquent les zombies et explosent comme une Cerise Explosive.\n<color=black>•</color> Absorbe les dégâts des explosions de cerises pour se soigner.</color></size>",
+            "cost": "\n<size=36>Formule de conversion : <color=#8B0000>Cactus <-> Cerise Explosive</color></size>"
         },
         {
             "seedType": 923,
@@ -486,9 +486,9 @@
         {
             "seedType": 1001,
             "name": "Pisto-cerise",
-            "introduce": "<align=justified><size=36><color=black>\" Tu crois que j’ai des problèmes de colère brûlants ? Moi ? Bah ! C’est toi qui es rouge et chaud ! Toute ta famille est rouge ! \" Pisto-cerise détestait qu’on se moque de la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. Ce fut simplement un heureux accident. Après avoir mangé des cerises spéciales, Pisto-Pois devint rouge et ardent, et, à sa grande surprise, il pouvait tirer des cerises.</color></size></align>",
-            "info": "<size=36>Pisto-cerise tire des cerises puissantes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color></size>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Cerise Explosive</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\" Tu crois que j’ai des problèmes de colère ? Moi ? Pff ! C’est toi qui es rouge et brûlant ! Toute ta famille est rouge ! \" Pisto-cerise détestait qu’on se moque de la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. Ce ne fut qu’un heureux accident : après avoir mangé des cerises spéciales, Pisto-pois est devenu rouge et brûlant… et, contre toute attente, capable de tirer des cerises.</color></size>",
+            "info": "<size=36>Pisto-cerise tire de puissantes cerises.\n\n<color=black>Dégâts : </color><color=#8B0000>40 / 1.5 s</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1002,
@@ -534,10 +534,10 @@
         },
         {
             "seedType": 1008,
-            "name": "Double Pisto-Cerise",
-            "introduce": "<size=36><color=black>Cherrypeater vit selon la devise \" les bonnes choses vont par paires \". Qu'il s'agisse de combattre des zombies ou de distribuer des cadeaux, il le fait à deux. \"Mais allez,\" taquina Double Pistopois, \"vos cerises ne sont même pas presque mûres.\"</color></size>",
-            "info": "<size=36>Double Pisto-Cerise peut tirer deux cerises à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>60*2/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Double Pisto-pois + Cerise Explosive</color></size>",
-            "cost": ""
+            "name": "Double-cerise",
+            "introduce": "<align=justified><size=36><color=black>Double-cerise vit selon une devise simple : \" les bonnes choses vont toujours par deux \". Que ce soit pour combattre les zombies ou distribuer des cadeaux, il fait tout en double. \" Franchement \", le taquine Double-pois, \" tes cerises sont loin d’être mûres \".</color></size>",
+            "info": "<size=36>Double-cerise peut tirer deux cerises simultanément.\n\n<color=black>Dégâts : </color><color=#8B0000>40 × 2 / 1.5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyez pour se fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Double-pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1009,
@@ -598,9 +598,9 @@
         {
             "seedType": 1017,
             "name": "Sulfateuse à Cerises",
-            "introduce": "<size=36><color=black>Le canon de la Sulfateuse à Cerises était toujours chauffé au rouge. Il a assuré à tout le monde qu'il était préchauffé pour assurer un tir plus rapide. Tout le monde a cru à l'histoire, jusqu'à ce qu'ils le surprennent en train de manger des cerises spéciales sans même retirer le fût.</color></size>",
-            "info": "<size=36>La forme finale de Pisto-cerise.\n\n<color=black>Dégâts : </color><color=#8B0000>60*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Gatling Pea + Cerise Explosive</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Le canon de la Sulfateuse à Cerises était toujours brûlant. Il assurait à tout le monde que c’était un préchauffage nécessaire pour tirer plus vite. Tout le monde y a cru… jusqu’au jour où on l’a surpris en train de manger des cerises explosives sans même retirer le canon.</color></size>",
+            "info": "<size=36>Forme finale du Pisto-cerise !\n\n<color=black>Dégâts : </color><color=#8B0000>40×4 / 1.5 s</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Sulfateuse à Pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1018,
@@ -716,10 +716,10 @@
         },
         {
             "seedType": 1034,
-            "name": "Pois Geleur",
-            "introduce": "<align=justified><size=36><color=black>Le Pois Geleur, montre rarement ses émotions aux autres plantes. Certains disent que son cœur est encore plus froid que les pois glacés qu’il tire. Il ne veut pas donner cette impression, mais chaque fois qu’il ouvre la bouche, les projectiles qu’il lance font chuter la température ambiante jusqu’à des niveaux glacials.</color></size></align>",
-            "info": "<size=36>Les Pois Geleurs tirent des pois de gelé qui infligent des dégâts et ralentissent les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque pois inflige un effet de gel et ajoute 10 points Cryo. Inflige ×4 dégâts aux zombies gelés.</color></size>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Champi-glace</color></size>"
+            "name": "Pois Glacé",
+            "introduce": "<align=justified><size=36><color=black>De nature froide, le Pois Glacé montre rarement ses émotions aux autres plantes. Certains disent que son cœur est encore plus gelé que les pois qu’il tire. Il n’en a pourtant pas l’intention : chaque fois qu’il ouvre la bouche, ses projectiles font chuter la température autour de lui jusqu’au gel.</color></size>",
+            "info": "<size=36>Le Pois Glacé tire des pois de neige qui infligent des dégâts et ralentissent les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>20 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque pois de neige applique l’effet Gel et ajoute 10 points de Cryo. Inflige ×4 dégâts aux zombies gelés.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1035,
@@ -808,9 +808,9 @@
         {
             "seedType": 1047,
             "name": "Triple Pisto-écraseur",
-            "introduce": "<size=36><color=black>\"Il a trois têtes, et sa base n'est même pas une feuille ! Il ne ressemble en rien à un pois ordinaire !\" De nombreuses plantes se recroquevillent devant l'apparence particulière de l'Écraseur-épandeur. Pourtant, l’Écraseur-épandeur reste imperturbable. Il s'épanouit dans sa vie vibrante, combattant les zombies, lisant avec voracité, jouant aux échecs et remportant tous les concours de saut à la piscine.</color></size>",
-            "info": "<size=36>Écraseur-spreader peut tirer des petits écraseurs rebondissants.\n\n<color=black>Dégâts : </color><color=#8B0000>40*3/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque fois qu'un mini-Écraseur touche le sol, il inflige 40 points de dégâts aux zombies proches.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Triple Pisto-pois</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Trois têtes, pas une seule feuille, et ce n'est même pas un vrai Pisto-pois!\" Beaucoup de plantes reculent devant l'apparence étrange du Triple Pisto-écraseur. Lui, il s'en fiche. Il aime sa vie pleine d'énergie : combattre des zombies, lire sans arrêt, jouer aux échecs et gagner tous les concours de ricochets.</color></size>",
+            "info": "<size=36>Le Triple Pisto-écraseur tire de petits Écraseurs rebondissants.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3 / 3 s</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque contact avec le sol, un mini-écraseur inflige 40 dégâts aux zombies proches.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Triple Pisto-pois</color></size>"
         },
         {
             "seedType": 1049,
@@ -821,10 +821,10 @@
         },
         {
             "seedType": 1050,
-            "name": "Mutil-algue",
-            "introduce": "<size=36><color=black>Mangle Kelp s'impose comme un véritable philosophe parmi les plantes. Il réfléchit souvent à des questions profondes telles que : \" D'où vient l'herbe et où va-t-elle ? Cependant, son mépris de l'hygiène personnelle et ses cheveux négligés font fuir les autres plantes, préférant garder leurs distances.</color></size>",
-            "info": "<size=36>Mutil-algue peut tirer 3 zombies sous l'eau.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta*3</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Algue</color></size>",
-            "cost": ""
+            "name": "Algue Étrangleuse",
+            "introduce": "<align=justified><size=36><color=black>L'Algue Étrangleuse se démarque comme une vraie philosophe parmi les plantes. Elle se pose souvent des questions profondes, comme \"D'où vient l'herbe, et où va-t-elle?\" Mais son manque d'hygiène et ses algues emmêlées font que les autres plantes préfèrent garder leurs distances.</color></size>",
+            "info": "<size=36>L'Algue Étrangleuse peut entraîner trois zombies dans l'eau.\n\n<color=black>Dégâts: </color><color=#8B0000>Mort instantanée (Noyade) ×3</color>\n<color=black>Spécial: </color><color=#8B0000>Elle entraîne trois zombies dans l'eau. Chaque traînée inflige aussi 600 dégâts aux zombies proches.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Algue</color></size>"
         },
         {
             "seedType": 1051,
@@ -912,10 +912,10 @@
         },
         {
             "seedType": 1063,
-            "name": "Écraseur écrasé",
-            "introduce": "<size=36><color=black>\"Hein ? Ouais.\" Ce slogan appartient à Écraseurweed, qui parle rarement et laisse souvent les autres incertains. Après le dîner, le thème des épines devient toujours un thème favori parmi les plantes. On raconte qu'un après-midi ordinaire, alors qu'Écraseur se préparait à écraser un zombie à proximité, il a négligé les épines qui se cachaient sous ses pieds.</color></size>",
-            "info": "<size=36>Les zombies seront repoussés à chaque attaque.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque repoussera les zombies et tirera 1 mini-Écraseur rebondissant.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Ortie</color></size>",
-            "cost": ""
+            "name": "Écraseur Écrasé",
+            "introduce": "<align=justified><size=36><color=black>\"Hein? Ouais.\" C'est la phrase fétiche de l'Écraseur Écrasé, qui parle rarement et laisse souvent les autres incertains. Après le dîner, le sujet des orties devient toujours un favori parmi les plantes. On raconte qu'un après-midi ordinaire, alors que l'Écraseur s'apprêtait à écraser un zombie proche, il a oublié les orties tapis sous ses pieds.</color></size>",
+            "info": "<size=36>Les zombies sont repoussés à chaque attaque.\n\n<color=black>Dégâts: </color><color=#8B0000>20 / 1.5 s</color>\n<color=black>Spécial: </color><color=#8B0000>Chaque attaque repousse les zombies et lance 1 mini-Écraseur rebondissant.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Ortie</color></size>"
         },
         {
             "seedType": 1064,
@@ -947,17 +947,17 @@
         },
         {
             "seedType": 1068,
-            "name": "Jonc Glacé",
-            "introduce": "<size=36><color=black>\"Je ne suis pas qu'un chat... Je suis... Je suis un chat super bleu !\" \" Déclara Frost Cattail. \"As-tu de l'herbe à chat froide...?\" Son amour pour l'herbe à chat transparaît et il a une fascination indéniable pour tout ce qui est cool.</color></size>",
-            "info": "<size=36>Jonc Glacé peut attaquer n'importe quels zombies dans le jardin et les ralentir.\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes (Ralentissements) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque coup sur un zombie ajoute 5 points Cryo. Concentre également ses attaques sur le zombie affecté.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Quenouilles</color></size>",
-            "cost": ""
+            "name": "Nénu-chat Glacé",
+            "introduce": "<align=justified><size=36><color=black>\"Je ne suis pas qu’un chat… je suis… je suis un super chat bleu !\" proclama Nénu-chat Glacé. \"T’aurais pas un peu d’herbe à chat bien fraîche, genre sortie du frigo… ?\" Son amour pour l’herbe à chat est miaou-numental, et sa fascination pour tout ce qui est cool est… glaciairement évidente.</color></size>",
+            "info": "<size=36>Nénu-chat Glacé peut attaquer n’importe quel zombie sur la ligne et infliger des dégâts supplémentaires aux cibles ralenties par le froid.\n\n<color=black>Dégâts : </color><color=#8B0000>40 × 2 / 1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×2 dégâts aux zombies glacés. Inflige ×4 dégâts aux zombies gelés.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace > Nénu-chat</color></size>"
         },
         {
             "seedType": 1069,
-            "name": "Jonc Enflammé",
-            "introduce": "<size=36><color=black>\"Quand j'étais jeune, je pensais que je serais une quenouilles normale\", a déclaré Flame Cattail, réchauffant sa queue avec fierté. \"Il s'avère que je suis un enfer flamboyant de génialité !\" Frost Cattail soupira depuis le coin et marmonna \" Showoff \".</color></size>",
-            "info": "<size=36>Jonc Enflammé peut attaquer n'importe quels zombies dans le jardin et infliger de gros dégats.\n\n<color=black>Dégâts : </color><color=#8B0000>40*2/1.5 Secondes</color>\n<color=#720026>Debuff enflammé : </color><color=#8B0000>Inflige trois fois plus de dégâts aux zombies enflammés.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Cattail</color></size>",
-            "cost": ""
+            "name": "Nénu-chat Enflammé",
+            "introduce": "<align=justified><size=36><color=black>\"Quand j’étais jeune, je pensais devenir un simple Nénu-chat,\" déclara Nénu-chat Enflammé en réchauffant fièrement sa queue. \"Finalement, je suis un brasier incandescent de génialité !\" Nénu-chat Glacé soupira depuis un coin, marmonnant : \"Frimeur.\"</color></size>",
+            "info": "<size=36>Nénu-chat Enflammé vise les zombies sur n’importe quelle ligne et inflige de lourds dégâts.\n\n<color=black>Dégâts : </color><color=#8B0000>40 × 2 / 1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×3 dégâts aux zombies enflammés.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Jalapeño > Nénu-chat</color></size>"
         },
         {
             "seedType": 1070,
@@ -997,9 +997,9 @@
         {
             "seedType": 1075,
             "name": "Lave Épineuse",
-            "introduce": "<size=36><color=black>Il n'y a pas si longtemps, Spikinferno s'est rendu au Mexique et a été emporté par l'enthousiasme vibrant des locaux, tombant rapidement amoureux des tacos. Maintenant, il consacre toute son énergie dans un musée de tacos aux côtés de Spikecicle, bien que Spikecicle ne semble pas partager son enthousiasme.</color></size>",
-            "info": "<size=36>Enflamme les zombies qui marchent dessus et perce les pneus.\n\n<color=black>Robustesse : </color><color=#8B0000>450</color>\n<color=black>Dégâts : </color><color=#8B0000>40*2/1 Secondes</color>\n<color=#720026>Debuff Enflammé : </color><color=#8B0000>Applique le Debuff Enflammé lorsque vous attaquez des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Spikerock</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Il n'y a pas si longtemps, Lave Épineuse s'est rendu au Mexique et a été emporté par l'enthousiasme vibrant des locaux, tombant rapidement amoureux des tacos. Maintenant, elle consacre toute son énergie dans un musée de tacos aux côtés de Glace Épineuse, bien que Glace Épineuse ne semble pas partager son enthousiasme.</color></size>",
+            "info": "<size=36>Enflamme les zombies qui marchent dessus et crève les pneus des véhicules.\n\n<color=black>Robustesse: </color><color=#8B0000>450</color>\n<color=black>Dégâts: </color><color=#8B0000>40×2/1 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Hérite des caractéristiques de Pierre Épineuse. Applique le débuff \" Enflammé \" quand il attaque des zombies.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Jalapeño + Pierre Épineuse</color>"
         },
         {
             "seedType": 1076,
@@ -1060,9 +1060,9 @@
         {
             "seedType": 1084,
             "name": "Troufle d'Étoiles",
-            "introduce": "<size=36><color=black>\"Rassemblez les étoiles autour de moi et donnez-les à ceux qui souhaitent une étoile filante\", déclare fièrement StarTroufle, estimant qu'il s'agit d'une noble mission. Cependant, tout le monde ne l'apprécie pas, surtout lorsque la pluie d'étoiles arrive directement sur eux.</color></size>",
-            "info": "<size=36>Tenue des étoiles pour tourner autour d'elle et les fait décoller à pleine vitesse.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les projectiles d'étoiles à proximité. Après 6 secondes, les tire comme des projectiles de poursuite avec une vitesse et des dégâts deux fois supérieurs. Attire jusqu'à 20 étoiles maximum.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Troufle + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>\" Rassemblez les étoiles autour de moi et offrez-les à ceux qui font un vœu sur une étoile filante \", déclare fièrement Troufle d’Étoiles, convaincu qu’il s’agit d’une noble mission. Cependant, tout le monde ne l’apprécie pas, surtout lorsque la pluie d’étoiles fonce droit sur eux.</color></size>",
+            "info": "<size=36>Attire les étoiles pour les faire tourner autour de lui avant de les projeter.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les projectiles d’étoiles à proximité. Après 1,5 seconde, les tire comme des projectiles à tête chercheuse avec une vitesse doublée. Si les projectiles possédaient déjà un effet de poursuite avant l’accélération, leurs dégâts sont augmentés de 50 % à la place. Peut attirer jusqu’à 20 étoiles.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Carambole</color></size>"
         },
         {
             "seedType": 1085,
@@ -1109,9 +1109,9 @@
         {
             "seedType": 1091,
             "name": "Citrouille Troufle",
-            "introduce": "<size=36><color=black>Pour Windgourd, avoir fière allure est une priorité absolue. Il ne quitte jamais la maison sans avoir d'abord passé une bonne demi-heure à perfectionner les feuilles sur sa tête, garantissant ainsi un style impeccable.</color></size>",
-            "info": "<size=36>Une troufle apparaîtra de temps en tant pour faire disperser le brouillard.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Produit une truffe toutes les 30 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Troufle + Citrouille</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Pour Citrouille Troufle, avoir fière allure est une priorité absolue. Il ne quitte jamais la maison sans passer une bonne demi-heure à perfectionner les feuilles sur sa tête, s’assurant ainsi un style impeccable.</color></size>",
+            "info": "<size=36>Fait apparaître périodiquement un Troufle pour dissiper le brouillard.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Produit un Troufle toutes les 30 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle > Citrouille</color></size>"
         },
         {
             "seedType": 1092,
@@ -1186,9 +1186,9 @@
         {
             "seedType": 1102,
             "name": "Troufle Magnétique",
-            "introduce": "<size=36><color=black>Les plantes appellent souvent MagTroufle \" Magneto \". Il lance avec confiance son sort préféré, \" Désarmement ! \" aux zombies, même s'il n'a aucune idée de comment fonctionne la conversion de l'énergie éolienne en énergie magnétique dans les coulisses.</color></size>",
-            "info": "<size=36>Aspire tout les objets en métal présent.\n\n<color=black>Spécial : </color><color=#8B0000>Attirez jusqu'à 10 objets en fer.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Troufle + Champi-aimant</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les plantes appellent souvent Troufle Magnétique \"Magneto\". Il lance avec assurance son sort préféré, \"Désarmement !\", sur les zombies, même s’il n’a aucune idée de la façon dont la conversion de l’énergie éolienne en énergie magnétique fonctionne en coulisses.</color></size>",
+            "info": "<size=36>Aspire tous les objets métalliques présents sur le terrain.\n\n<color=black>Spécial : </color><color=#8B0000>Attire jusqu’à 10 objets métalliques sur l’ensemble du terrain. Chaque objet nécessite 1 seconde pour être traité. Disparaît après 10 secondes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Champi-aimant</color></size>"
         },
         {
             "seedType": 1103,
@@ -1206,31 +1206,31 @@
         },
         {
             "seedType": 1105,
-            "name": "Double Pois Geleur",
-            "introduce": "<size=36><color=black>\"Qu'est-ce qui t'est arrivé ?\" une curieuse plante demanda Neige Double Pisto-pois. Il rit doucement et dit : \"Je suis toujours un Double Pistopois dans l'âme. J'ai juste oublié de me blottir sous une couverture pendant les nuits d'hiver.\"</color></size>",
-            "info": "<size=36>Tire 2 pois gelés successivement.\n\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Double Pisto-pois + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Double Pois-glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Qu’est-ce qui t’est arrivé ? \" demanda une plante intriguée. Double Pois-glacé esquissa un léger sourire : \" Je reste un Double-pois dans l’âme. J’ai juste oublié de me blottir sous une couverture pendant les nuits d’hiver. \"</color></size>",
+            "info": "<size=36>Tire deux pois de glace à la suite.\n\n<color=black>Dégâts : </color><color=#8B0000>20×2 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points de Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyez pour fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Double-pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1106,
-            "name": "Sulfateuse à Pois Geleurs",
-            "introduce": "<size=36><color=black>\"Ses mains sont froides, son visage est froid, son cœur est froid, et même son sang est froid… Est-il gelé ?\" \" quelqu’un s’est demandé à voix haute. Gatling Snow frissonna, rassurant les plantes concernées : \"Je ne suis pas gelé ! Le canon de ma mitrailleuse est encore brûlant !\"</color></size>",
-            "info": "<size=36>Sulfateuse à pois geleur tire 4 pois gelés à la suite.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Gatling Pea + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Sulfateuse à Pois-glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Ses mains sont froides, son visage est froid, son cœur est froid… même son sang est glacé. Est-il gelé ? \" se demanda quelqu’un à voix haute. La Sulfateuse à Pois-glacé frissonna et rassura les plantes inquiètes : \" Je ne suis pas gelé ! Le canon de ma sulfateuse est toujours brûlant ! \"</color></size>",
+            "info": "<size=36>La Sulfateuse à Pois-glacé tire quatre pois de glace à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>20×4 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 Cryo.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Sulfateuse à Pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1107,
-            "name": "Double-geleur",
-            "introduce": "<size=36><color=black>\"Ne vous laissez pas induire en erreur par sa façade glaciale ; il pourrait y avoir une chaleur cachée\", a suggéré quelqu'un. Mais Digger Zombie ricana : \"Ne faites pas de suppositions stupides. Ce type n'a que des côtés froids !\"</color></size>",
-            "info": "<size=36>Tire des pois gelés en avant et en arrière en même temps.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pois cassés + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Triple Pois-glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Ne te fie pas à son apparence glaciale, il cache peut-être une once de chaleur \", suggéra quelqu’un. Le Zombie Mineur ricana : \" Ne raconte pas n’importe quoi. Ce type n’a que des côtés froids. \"</color></size>",
+            "info": "<size=36>Tire des pois de glace vers l’avant et l’arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3 / 1.5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points de Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyez pour fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Triple-pois + Champi-glace</color></size>"
         },
         {
             "seedType": 1108,
-            "name": "Double-cerise",
-            "introduce": "<size=36><color=black>Cherryshooter a rampé hors de la tranchée, déconcerté. \"Qui a lancé cette bombe ?\" \" a-t-il demandé. \"Désolé, mon frère\", répondit timidement Split Cherry, \"Je t'ai vu pointer ton arme sur nous et j'ai pensé que tu étais un zombie.\"</color></size>",
-            "info": "<size=36>Pneu double cerise des cerises en avant et en arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>60*3/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pois Cassés + Cerise Explosive</color></size>",
-            "cost": ""
+            "name": "Triple-cerise",
+            "introduce": "<align=justified><size=36><color=black>Pisto-cerise sortit de la tranchée, complètement sonné. \" Qui a lancé cette bombe ? \" exigea-t-il. \" Désolé, frère \", répondit Triple-cerise, un peu penaud. \" Je t’ai vu pointer ton arme vers nous… j’ai cru que tu étais un zombie. \"</color></size>",
+            "info": "<size=36>Triple-cerise tire des cerises vers l’avant et vers l’arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3 / 1.5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyer pour fusionner automatiquement avec un Pisto-pois gratuit 15 s après la plantation.</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Triple-pois + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1109,
@@ -1248,8 +1248,8 @@
         },
         {
             "seedType": 1111,
-            "name": "Cata-Soleil",
-            "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Cata-Soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Cata-Soleil se contente de sourire : \" D’où pensez-vous que viennent les Soleils de la cour avant ? \"</color></size>",
+            "name": "Lance-soleil",
+            "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Lance-soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Lance-soleil se contente de sourire : \" D’où pensez-vous que viennent les Soleils de la cour avant ? \"</color></size>",
             "info": "<size=36>Lance des choux solaires pour attaquer les zombies et peut aussi générer du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>50/5s</color>\n<color=black>Spécial : </color><color=#8B0000>Rend 100 Soleil lors de la fusion. Chaque tir rebondit une fois après avoir touché un zombie. Pour chaque tranche de 200 Soleil, il peut rebondir une fois supplémentaire ; chaque rebond fait perdre 5 Soleil.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-chou + Tournesol</color></size>"
         },
@@ -1325,7 +1325,7 @@
         },
         {
             "seedType": 1122,
-            "name": "Canon Volcanique",
+            "name": "Canon Enflammé",
             "introduce": "<size=36><color=black>Pyro Cannon a une activité de pop-corn en plein essor. L'arôme enflammé fait courir les zombies, ajoutant du piquant à n'importe quel événement. Il envisage même bientôt une séance de hot pot avec Jalapeño.</color>",
             "info": "<size=36>Utilisez-le manuellement pour tirer un projectile enflammé explosif à dégâts élevés qui brûle les zombies et infuse les plantes à proximité de Jalapeño.\n\n<color=black>Dégâts : </color><color=#8B0000>3600 (Incendiaire), inflige le Debuff Enflammé</color>\n<color=black>Spécial : </color><color=#8B0000>Infuse les plantes dans son rayon d'explosion avec du Jalapeño.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Jalapeño</color>",
             "cost": "<size=36>"
@@ -1514,7 +1514,7 @@
         },
         {
             "seedType": 1149,
-            "name": "Pastèque Enflammé",
+            "name": "Pastèque Enflammée",
             "introduce": "<align=justified><size=36><color=black>Les plantes ont toujours l'impression que les Lance-pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais le Lance-pastèque explique : \" Je n'ai pas mis de pétards dans la pastèque ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !\"</color>",
             "info": "<size=36>Lance des pastèques incroyablement chaud !\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s </color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Jalapeño</color>"
@@ -1626,10 +1626,10 @@
         },
         {
             "seedType": 925,
-            "name": "<size=36>Mine-Obsidiènne",
-            "introduce": "<color=#3D1400>Mine-Obsidiènne possède un immense pouvoir malgré sa taille. Il ne craint aucun zombie. Cependant, il a ses problèmes, car les bloqueurs armés de pioches en diamant viennent souvent lui frapper sur la tête.</color>",
-            "info": "<size=36>A une ténacité extrêmement élevée et peut bloquer les Diggers.\n\n<color=#3D1400>Résistance : </color><color=red>32000</color>\n<color=#3D1400>Spécial : </color><color=red>Sous-espèce de noix d'obsidienne. Vous pouvez basculer entre les deux avec Mine Patate ou Tall-nut. Bloque les zombies Digger et déclenche une petite explosion de pomme de terre et de noix tous les 1 000 dégâts reçus (avant réduction des dégâts), infligeant 500 dégâts aux zombies dans une petite zone.</color>",
-            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Obsidian-nut + Mine Patate"
+            "name": "Mine Obsidienne",
+            "introduce": "<align=justified><size=36><color=black>Malgré sa petite taille, la Mine obsidienne renferme une puissance colossale. Elle ne craint aucun zombie. En revanche, elle a un sérieux problème : des individus armés de pioches en diamant viennent régulièrement frapper sur sa tête.</color>",
+            "info": "<size=36>Possède une robustesse extrêmement élevée et peut bloquer les zombies mineurs.\n\n<color=#4A2900>Condition d’utilisation : </color><color=#8B0000>Mode Odyssée | Déblocable avec Noix Obsidienne</color>\n<color=black>Robustesse : </color><color=#8B0000>32000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de la Noix Obsidienne.\n<color=black>•</color> Plante basse (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Anti-écrasement, subit un maximum de 200 dégâts par coup.\n<color=black>•</color> Bloque les zombies mineurs.\n<color=black>•</color> Libère une petite explosion de Mine Patate tous les 1000 dégâts subis (avant réduction), infligeant 500 dégâts aux zombies dans une petite zone.</color>",
+            "cost": "<size=36>Formule de conversion : <color=#8B0000>Noix géante <-> Mine Patate</color>"
         },
         {
             "seedType": 926,
@@ -1808,10 +1808,10 @@
         },
         {
             "seedType": 1181,
-            "name": "Troufle Puant",
-            "introduce": "<size=36>",
-            "info": "<size=36>Foul Blover peut empoisonner les zombies.\n\n<color=black>Spécial : </color><color=#8B0000>Inflige 5 points de poison à chaque zombie présent à l'écran et applique le debuff empoisonné. Cela augmente également la durée de séjour du debuff de 5 secondes supplémentaires et les oblige à changer de voie. </couleur>",
-            "cost": "\n<size=36><color=black>Formule de Fusion : </color><color=#8B0000>Ail + Troufle</color>"
+            "name": "Dégouteur",
+            "introduce": "<align=justified><size=36><color=black>Dégouteur menait autrefois une vie simple, travaillant dans un barbecue bondé où les affaires allaient bon train. \"Ah, c’était le bon temps…\" soupire-t-il. \"Les clients repartaient avec une lueur verte de bonheur après que j’aie dissipé l’odeur écrasante de l’ail. Et maintenant ? Plus rien n’est pareil.\"</color></size>",
+            "info": "<size=36>Dégouteur peut empoisonner les zombies.\n\n<color=#5E1675>Système de Poison : </color><color=#8B0000>Inflige 5 points de Poison à chaque zombie non empoisonné présent à l’écran et applique l’altération Empoisonné. Inflige ensuite 1 point de Poison supplémentaire et prolonge la durée de l’altération de 5 secondes supplémentaires.</color>\n<color=black>Spécial : </color><color=#8B0000>Force les zombies à changer de voie.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ail + Troufle</color></size>"
         },
         {
             "seedType": 1245,
@@ -2335,20 +2335,20 @@
             "seedType": 1268,
             "name": "Double Hypno-pois",
             "introduce": "<align=justified><size=36><color=black>Le Double Hypno-pois parle si vite qu’il termine souvent ses phrases avant que quelqu’un d’autre ne commence à parler. \" La réalité est une boucle ! J’ai déjà tiré cette rafale… deux fois ! \"\n\n— Écrit par Ocean Soul</color></size>",
-            "info": "<size=36>Un Double Pisto-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
-            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double Pisto-pois + Champi-hypno</color></size>"
+            "info": "<size=36>Un Double-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double-pois + Champi-hypno</color></size>"
         },
         {
             "seedType": 1269,
             "name": "Triple Hypno-pois",
             "introduce": "<align=justified><size=36><color=black>\" Je me sens tout étourdi ! \" \" En vrai, ça va. \" \" Non, je suis complètement désorienté. \" \" Normal, ta tête est à l’arrière. \" \" C’est une expression. \" \" Moi, je parle littéralement. \" \" Ces deux-là se disputent encore \", soupire l’Hypno-pois, \" sûrement pour la 3 682ᵉ fois. \"</color></size>",
-            "info": "<size=36>Un Triple-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Tire-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "info": "<size=36>Un Triple-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple-pois + Champi-hypno</color></size>"
         },
         {
             "seedType": 1270,
-            "name": "Sulfateuse Hypnotique",
-            "introduce": "<align=justified><size=36><color=black>Vedette du Club des Zombinamis, la Sulfateuse Hypnotique ne mâche pas ses mots. \" Mes yeux vont très bien. Je sais parfaitement quels zombies peuvent être sauvés. \" Elle critique sévèrement l’Hypno Ecraseur : \" Il est beaucoup trop violent. Nous devrions être plus bienveillants avec nos potentiels collaborateurs. \" Leur débat est devenu si intense qu’il ne reste plus qu’eux deux dans le club… en plus de celui qui en est à l’origine.</color></size>",
+            "name": "Sulfateuse à Hypno-pois",
+            "introduce": "<align=justified><size=36><color=black>Vedette du Club des Zombinamis, la Sulfateuse à Hypno-pois ne mâche pas ses mots. \" Mes yeux vont très bien. Je sais parfaitement quels zombies peuvent être sauvés. \" Elle critique sévèrement l’Hypno Ecraseur : \" Il est beaucoup trop violent. Nous devrions être plus bienveillants avec nos potentiels collaborateurs. \" Leur débat est devenu si intense qu’il ne reste plus qu’eux deux dans le club… en plus de celui qui en est à l’origine.</color></size>",
             "info": "<size=36>Une Sulfateuse qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Invoque un Zombie Hypno-pois hypnotisé lorsqu’elle tue une cible.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois + Champi-hypno</color></size>"
         },
@@ -2368,7 +2368,7 @@
         },
         {
             "seedType": 1322,
-            "name": "Sulfateuse Brûlante",
+            "name": "Sulfateuse à Pois-brûlant",
             "introduce": "<align=justified><size=36><color=black>Fatigué de soigner des victimes de brûlures à la chaîne, ce docteur de pois a décidé d’appliquer sa fière invention, la pyrothérapie… pour traiter le problème directement à la source.</color></size>",
             "info": "<size=36>Tire 4 Pois Brûlants en même temps.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques appliquent l’altération Enflammé.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois + Jalapeno</color></size>"
@@ -2802,9 +2802,9 @@
         },
         {
             "seedType": 1210,
-            "name": "Lance Portail",
-            "introduce": "<align=justified><size=36><color=black>\" Tu as vu Interstellar, hein ? \" demande Lance Portail en abordant, comme toujours, son film de science-fiction préféré. \" Le héros traverse un champ de maïs au début, puis un trou noir à la fin… Il y a *forcément* un lien entre les deux ! \" insiste-t-il.</color>",
-            "info": "<size=36>Le Lance Portail peut projeter une noix neutronique capable de créer une mini singularité.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer une noix neutronique infligeant 100 dégâts et générant une mini singularité à l’impact. Celle-ci ralentit fortement les zombies puis explose après 2 secondes, infligeant 100 dégâts et réduisant de 30 secondes le compte à rebours des zombies affectés par la Chronodissolution.</color>",
+            "name": "Lance-portail",
+            "introduce": "<align=justified><size=36><color=black>\" Tu as vu Interstellar, hein ? \" demande Lance-portail en abordant, comme toujours, son film de science-fiction préféré. \" Le héros traverse un champ de maïs au début, puis un trou noir à la fin… Il y a *forcément* un lien entre les deux ! \" insiste-t-il.</color>",
+            "info": "<size=36>Le Lance-portail peut projeter une noix neutronique capable de créer une mini singularité.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer une noix neutronique infligeant 100 dégâts et générant une mini singularité à l’impact. Celle-ci ralentit fortement les zombies puis explose après 2 secondes, infligeant 100 dégâts et réduisant de 30 secondes le compte à rebours des zombies affectés par la Chronodissolution.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Maïs Magnétique</color>"
         },
         {
@@ -2876,6 +2876,188 @@
             "introduce": "<align=justified><size=36><color=black>Il a abandonné la tourelle au tir incessant pour un railgun à la puissance précise et silencieuse, canalisant une force électromagnétique capable de rappeler à certains le célèbre Railgun de la Cité Académique, ainsi qu’un tireur implacable vêtu de noir.</color>",
             "info": "<size=36>Consomme de la Robustesse pour tirer des rayons pulsés à perforation infinie.\n\n<color=#4A2900>Condition d’utilisation : </color><color=#8B0000>Mode Odyssée | Déblocable avec la Tourelle de l’Apoicalypse</color>\n<color=black>Dégâts : </color><color=#8B0000>300×5/3 s</color>\n<color=black>Portée de recherche : </color><color=#8B0000>Secteur horizontal ±10°</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de la Tourelle Apoicalypse : ses attaques percent à l’infini et peuvent cibler les unités aériennes.\n<color=black>•</color> Si la Robustesse est supérieure à 500, chaque attaque consomme 100 points de Robustesse. Les autres plantes ne peuvent pas absorber les dégâts à sa place.\n<color=black>•</color> La puissance d’attaque augmente linéairement à mesure que la Robustesse diminue, jusqu’à un maximum de 900.</color>",
             "cost": "<size=36>Formule de conversion : <color=#8B0000>Pisto-pois <-> Pois-sniper</color>"
+        },
+        {
+            "seedType": 943,
+            "name": "McCornics le Quantique",
+            "introduce": "<size=36><color=black>Né à l’aube de l’univers, McCornics le Quantique est une entité dont l’âge dépasse toute mesure. Depuis le vide primordial, il a arraché trois étoiles pour les faire graviter autour de lui comme des lunes — des trésors que même les trous noirs ne pourraient lui dérober. Aujourd’hui, l’ancien trouve du plaisir à jouer avec ce souvenir cosmique, aussi ancien que lui.</color></size>",
+            "info": "<size=36>Lance des trous noirs ultra-denses qui s’effondrent en explosions, libérant toute l’énergie absorbée.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 2 s (Mini Beurre)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique.\n<color=black>•</color> 75 % de chances de lancer un Mini Beurre, réduisant la taille et les PV des zombies (hors mini-boss) à 70 %. En cas d’échec, la cible est étourdie pendant 1,5 seconde. Élimine instantanément les zombies de type diablotin.\n<color=black>•</color> 25 % de chances de lancer un Trou Noir Ultime durant 2 secondes, ralentissant les zombies à proximité et absorbant les projectiles de McCornics dans une zone de 3×3.\n<color=black>•</color> Chaque projectile absorbé ajoute 2 secondes à sa durée, jusqu’à un maximum de 7,5 secondes. Lorsqu’il disparaît, il déclenche une grande explosion (de la taille d’une Cerise explosive) infligeant 320 dégâts + 60 % des dégâts stockés. Si sa durée a dépassé 5 secondes, le rayon de l’explosion est considérablement augmenté.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Le Trou Noir Ultime peut absorber tous les projectiles\n2. Rayon d’absorption du Trou Noir Ultime ×2</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-portail > Bout de maïs ×3</color></size>"
+        },
+        {
+            "seedType": 945,
+            "name": "Noix Astrale",
+            "introduce": "<size=36><color=black>Noix Astrale voyage à travers d’innombrables mondes parallèles du multivers et a contemplé de nombreuses merveilles — d’un Sphinx jouant une musique inquiétante dans des déserts oubliés, à une ruine suspendue dans le ciel où s’agitait autrefois une idole à trois têtes ; des météorites luminescentes près des rivages de Tiberium aux forteresses blindées marquées du sceau Z-Tech. Il erre à travers les rêves, juste hors de portée de la mémoire. Le passé s’efface — mais ici, il est tout à fait prêt pour une nouvelle aventure.</color></size>",
+            "info": "<size=36>Noix cosmique dotée de capacités extraordinaires de rembobinage temporel et d’invulnérabilité.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec McCornics le Quantique</color>\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de McCornics le Quantique, immunisée contre l’écrasement et ne subit jamais plus de 1000 dégâts par coup.\n<color=black>•</color> Après avoir subi 4000 dégâts, rembobine ses PV à leur valeur d’il y a 3 secondes et devient invulnérable pendant 2 secondes. Dans les 10 secondes suivant un rembobinage, chaque rembobinage au-delà du troisième coûte 500 PV (les rembobinages effectués dans cette fenêtre de 10 secondes ne réinitialisent pas le compteur).\n<color=black>•</color> 33 % de chances d’ignorer les dégâts entrants. Possède 25 % de chances de téléporter les zombies mordants vers la case la plus à droite de sa voie (temps de recharge : 10 secondes).\n<color=black>•</color> Si ses PV tombent en dessous de sa robustesse maximale, restaure des PV équivalents à 1× sa robustesse après 30 secondes consécutives sans subir de dégâts.</color></size>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Lance-maïs <-> Noix</color></size>"
+        },
+        {
+            "seedType": 948,
+            "name": "Étincelle Infernale",
+            "introduce": "<align=justified><size=36><color=black>L’Étincelle Infernale brûle plus intensément que n’importe quelle flamme, mais c’est la cuisine futuriste qui a véritablement enflammé la compétition. Lors de la grande finale du Duel Culinaire, elle a partagé son trophée avec Noix Astrale, dont les en-cas temporels ont laissé les juges sans voix. Même le juge McCornics a qualifié le plat de \" hors du temps \".</color>",
+            "info": "<size=36>Une Torche embrasée par les flammes d'une Carambole, dotée d'une puissance de feu extrême et conférant aux projectiles étoiles un guidage automatique.\n\n<color=#4A2900>Condition d’utilisation : </color><color=#8B0000>Mode Odyssée | Déblocable avec Écraseur infernal</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l’Écraseur infernal.\n<color=black>•</color> Ne génère plus d’Écraseurs épicés. Tous les 51 projectiles affectés, fait apparaître une Carambole Épicée devant elle.\n<color=black>•</color> Enflamme les projectiles stellaires (sauf étoiles épicées) : dégâts ×2, suppression des propriétés d’origine (sauf étoiles Magnétar), et acquisition d’un guidage global avec priorité aux unités aériennes.\n<color=black>•</color> Les cerises explosives deviennent des Étoiles explosives : dégâts ×2, guidage global avec priorité antiaérienne.\n<color=black>•</color> Affecte les autres projectiles comme l’Écraseur infernal. Déclenche l’effet Jalapeño à sa destruction.</color>",
+            "cost": "<size=36>Formule de conversion : <color=#8B0000>Écraseur <-> Carambole</color>"
+        },
+        {
+            "seedType": 237,
+            "name": "Baie Hivernale",
+            "introduce": "<align=justified><size=36><color=black>Bien qu'elle crie souvent  \"Coupez leur la tête!\", la Baie Hivernale ne cherche pas le conflit. En tant que maître des arts martiaux de la Montagne Enneigée, sa technique consiste à transformer la glace en lames peut dissuader tout intrus indésirable.</color>",
+            "info": "<size=36>Chaque attaque libère 5 lames de glace en éventail.\n\n<color=blue>Plante de la collaboration avec SHUTTLE (jeu non officiel PVZ 2)</color>\n<color=black>Dégâts: </color><color=#8B0000>20×5/1.5s</color>\n<color=#0077b6>Système Cryo: </color>Les lames percent deux fois, appliquent l'Altération Cryo, ajoutent 5 points de Cryo et inflige ×4 de dégâts aux zombies déjà gelés.</color>\n<color=black>Spécial: </color><color=#8B0000>Attaque uniquement lorsqu’il y a des zombies dans sa propre ligne.",
+            "cost": "<size=36>Coût: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 953,
+            "name": "Canon Volcanique",
+            "introduce": "<align=justified><size=36><color=black>Né du feu qui forgea les étoiles, le Canon Volcanique brûle comme à l’aube de la création — non pour se répandre sans fin, mais pour mettre un terme à toute chose. Lorsque sa dernière flamme s’éteindra, il ne restera que le silence après la première étincelle.</color></size>",
+            "info": "<size=36>Projette des épis de lave et de chaleur pure.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable</color>\n<color=black>Dégâts : </color><color=#8B0000>3600 (zone 3×3) / 36 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Imprègne toutes les plantes dans la zone d’explosion (3×3) avec l’effet Cerise Explosive (prioritaire) ou Jalapeno (sauf Citrouilles et Pots de fleurs).\n<color=black>•</color> Les explosions infligent l’altération Enflammé avant d’appliquer les dégâts.\n<color=black>•</color> L’impact se divise en plusieurs bombes volcaniques, dont le nombre augmente selon le nombre de zombies touchés (minimum 6). Les bombes volcaniques infligent des dégâts de zone équivalents à 50 % de l’explosion principale.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>\n1. Dégâts des bombes volcaniques ×5\n2. Déclenche désormais des Détonations thermonucléaires lorsque l’explosion principale touche une Cerise Explosive ou un Jalapeno :\n • Cerise Explosive : libère 10 explosions de Cerise Explosive autour de l’impact\n • Jalapeno : libère 10 effets Jalapeno sur l’ensemble du terrain\n Chaque explosion inflige des dégâts équivalents à (dégâts de l’explosion principale × 18)</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Piment d'Espelette > Canon Enflammé</color></size>"
+        },
+        {
+            "seedType": 236,
+            "name": "Poirmafrost",
+            "introduce": "<align=justified><size=36><color=black>\"Je suis tombée d’un poirier, et je suis ici depuis longtemps,\" dit Poirmafrost. \"C’est dommage, Isaac Newton n’est pas sous l’arbre... Mais au moins, je peux réfléchir à la physique moi-même.\" Quand prendra-t-elle une pause ? Le jour où les zombies écervelés s’en prendront à elle.",
+            "info": "<size=36>Émet des ondes de choc lorsqu'elle est mordue, infligeant des dégâts et applique l'Altération Cryo\n\n<color=blue>Plante de la collaboration avec SHUTTLE (jeu non officiel PVZ 2)</color>\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Lorsqu'elle est mordue, émet une petite onde de choc toutes les 3 s, infligeant 20 dégâts et appliquant l'Altération Cryo, ajoutant 35 points de Cryo.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 238,
+            "name": "Sachrisanthème",
+            "introduce": "<align=justified><size=36><color=black>Le Sachrisanthème adore les plaines enneigées, chaque seconde ici est gratifiante et joyeuse. Après tout, il n'avait jamais vu la neige auparavant.</color>",
+            "info": "<size=36>Confère une invincibilité temporaire aux plantes proches.\n\n<color=blue>Plante de la collaboration avec PVZ: Ultimate (Mod PVZ 1)</color>\n<color=black>Spécial: </color><color=#8B0000>\nDisparaît 2 secondes après avoir été plantée. Confère pendant 6 secondes à toutes les plantes dans une zone de 3×3 une immunité contre tous les dégâts et l'écrasement.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>50s</color>"
+        },
+        {
+            "seedType": 235,
+            "name": "Double-passion",
+            "introduce": "<align=justified><size=36><color=black>Double-passion ne tire qu’un projectile à la fois, alors d'ou viens le \"Double\"? Ah, c’est le bruit des os des zombies qui se brisent. Quelle douce mélodie !</color>",
+            "info": "<size=36>Double-passion flotte et tire des graines sur les zombies.\n\n<color=blue>Plante de la collaboration avec SHUTTLE (jeu non officiel PVZ 2)</color>\n<color=black>Dégâts: </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Peut être planté au-dessus d'une autre plante.\n<color=black>•</color>Chaque coup inflige des dégâts supplémentaires égaux à 10 % de la Robustesse maximum du zombie sur son armure de tête (Type 1).\n<color=black>Ultime: </color>Coût : 3000 pièces, Recharge : 2 s ; Lance une graine géante infligeant des dégâts à l’armure équivalents à 20 % de la Robustesse actuels.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 940,
+            "name": "Champi-napalm",
+            "introduce": "<align=justified><size=36><color=black>Champi-napalm n’est pas seulement une boule de feu sur le champ de bataille — ses talents de barbecue sont légendaires. Son rêve ? Organiser le plus grand festin grillé jamais vu, en invitant chaque plante… et chaque zombie de la ville.</color></size>",
+            "info": "<size=36>Lance des pastèques au napalm qui se fragmentent à l’impact et laissent derrière elles un véritable enfer enflammé.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable</color>\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 6 s + 30 / 0.02 s (Inferno)</color>\n<color=#720026>Altération Enflammé : </color><color=#8B0000>Chaque pastèque crée une zone \" inferno \" durant 2.5 s.</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Portée : 4 cases ; tir manuel : terrain entier. Après avoir lancé une pastèque au napalm, Champi-napalm se repose pendant 1.5 s, puis charge pendant au minimum 6 s. Les dégâts augmentent selon la formule 1 + (temps de charge en secondes × 50 %), jusqu’à un maximum de 30 s de charge.\n<color=black>•</color> Les attaques ignorent toutes les armures et se divisent en 2 pastèques au napalm supplémentaires, ciblant des zombies proches avec les mêmes dégâts.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>\n1. Vitesse de charge et durée maximale de charge ×3\n2. Durée des zones d’inferno ×2</color></size>",
+            "cost": "\n<size=34>Formule de fusion : <color=#8B0000>Pastèque Enflammée + Champi-quarterback</color></size>"
+        },
+        {
+            "seedType": 934,
+            "name": "Chou Sol",
+            "introduce": "<size=36><color=black>Le Dieu Soleil — seigneur de la lumière et de la chaleur, souverain éternel des cieux. Là où il marche, les ténèbres s’effacent et la vie prospère sous son étreinte radieuse. Suspendu bien au-dessus du firmament, son éclat indomptable transperce le vide, chassant le désespoir, allumant l’espoir chez tous ceux qui se complaisent dans sa présence.</color></size>",
+            "info": "<size=36>Invoque un Mini Soleil pour attaquer les zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>300 × 5 / 2 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hérite des traits de Lance-soleil.\n<color=black>•</color> Invoque un Mini Soleil toutes les 30 secondes. Le Mini Soleil dure 15 secondes et inflige 60 + (40 × nombre de Chou Sol) de dégâts à tous les zombies toutes les 0,5 seconde.\n<color=black>•</color> Lorsque le Soleil dépasse 15 000, consomme 200 Soleil pour infliger des dégâts triplés à chaque attaque du Mini Soleil.\n<color=black>•</color> Tant que le Mini Soleil est présent, le taux de production de soleil du niveau est fortement augmenté (une fois toutes les 0,75 seconde).</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1000 pièces ; s’il n’y a aucun Mini Soleil sur le terrain, l’invoque immédiatement. Sinon, prolonge la durée du Mini Soleil de 15 secondes. Un seul Mini Soleil peut exister à la fois.</color>\n<color=black>Modificateurs principaux d’Odyssée :</color>\n<color=#8B0000>1. Lorsque le Soleil dépasse 15 000, chaque attaque consomme 0,5 % de l’excédent afin d’augmenter les dégâts des projectiles de 20 par 1 Soleil dépensé.\n2. Le Mini Soleil invoqué inflige désormais des dégâts ×3</color>\n\n<color=black>Modificateur de synergie Étoile Polaire :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de Étoile Polaire et de Chou Sol doivent être déverrouillés avant que cette synergie ne soit disponible dans la boutique.\n<color=black>•</color> Avec au moins 10 Étoile Polaire et 10 Chou Sol sur le terrain, les Étoile Polaire invoquent un Météore de Sol à la place, et le Mini Soleil de Chou Sol ne disparaît plus et inflige des dégâts ×5.\n<color=black>•</color> Météore de Sol : (1800 + 1800 × Magnetars) × (1 + 0,2 × Chou Sol) dégâts, et génère 1250 Soleil.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-soleil + Chou Doré</color></size>"
+        },
+        {
+            "seedType": 955,
+            "name": "Chou Luna",
+            "introduce": "<size=36><color=black>Elle est la Déesse de la Lune, incarnation du calme et de la guérison. Là où sa lumière se pose, les blessures se referment silencieusement et toute chose est baignée d’une douce restauration. Suspendue haut dans le ciel nocturne, elle équilibre le yin et le yang par la puissance des marées, accordant une vitalité infinie.</color></size>",
+            "info": "<size=36>Invoque périodiquement des Mini Lunes pour soigner le champ de bataille, à la lumière de la Lune.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec Chou Sol</color>\n<color=black>Dégâts : </color><color=#8B0000>300 × 5 / 1,5 s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Les projectiles gagnent +100 dégâts par niveau de Lumos (bonus maximal : +500).</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Chou Sol.\n<color=black>•</color> Invoque une Mini Lune toutes les 30 secondes. La Mini Lune dure 15 secondes et soigne toutes les plantes de 50 × (nombre de Chou Luna sur le terrain) Robustesse par seconde. Cet effet est triplé sur la plante ayant le pourcentage de Robustesse le plus faible.\n<color=black>•</color> Si un Mini Soleil est également présent, les effets de soin sont doublés.\n<color=black>•</color> Le premier modificateur de Chou Sol augmente le bonus de dégâts de Chou Luna à +300 dégâts par niveau de Lumos, avec un plafond maximal porté à 1500 ; le second triple la puissance de soin.</color>\n\n<color=black>Modificateur de synergie Étoile Polaire :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de Étoile Polaire et de Chou Sol doivent être déverrouillés avant que cette synergie ne soit disponible dans la boutique.\n<color=black>•</color> Avec au moins 10 Étoile Polaire et 10 Chou Luna sur le terrain, la Mini Lune de Chou Luna ne disparaît plus. Chaque Étoile Polaire et chaque Chou Luna canalise un rayon vers la Mini Lune, les fusionnant en un unique faisceau concentré.\n<color=black>•</color> Dégâts du faisceau : 100 × (plantes canalisant) toutes les 0,02 s, ciblant toujours le zombie ayant le plus de PV maximum. Les dégâts augmentent linéairement dans le temps lorsqu’ils se concentrent sur une seule cible, jusqu’à ×5.</color></size>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Tournesol <-> Planterne</color></size>"
+        },
+        {
+            "seedType": 957,
+            "name": "Pastèque Cyclone",
+            "introduce": "<size=36><color=black>Pastèque Cyclone est obsédé par la recréation de nébuleuses cosmiques dans le jardin. Alors, si jamais vous en voyez une se former au loin, fuyez. Ce n’est pas une nébuleuse : c’est un gigantesque cumulonimbus de pastèques prêt à s’abattre.</color></size>",
+            "info": "<size=36>Lance rapidement des pastèques-cryo à travers des vortex temporels et, une fois chargé, peut invoquer une faille nébuleuse faisant pleuvoir d’innombrables projectiles supplémentaires.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 0,35 s (dégâts de zone sans atténuation)</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Les attaques appliquent Gel, ajoutent 20 points de Cryo et infligent 4× plus de dégâts aux zombies gelés.\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Chaque impact direct d’attaque de base confère 1 charge d’énergie.\n<color=black>•</color> Lorsque la jauge d’énergie dépasse 50, cliquez manuellement pour consommer 30 énergies et invoquer une faille nébuleuse ; si la jauge dépasse 100, la faille nébuleuse double sa production de projectiles.\n<color=black>•</color> Une seule faille nébuleuse peut être active à la fois. Chacune dure 10 secondes, se déplaçant de gauche à droite à l’écran et faisant pleuvoir des pastèques de grêle.\n<color=black>•</color> Si une cryo-pastèque touche un zombie déjà en chronodécalage, elle applique le chronodécalage à jusqu’à 2 autres zombies dans la zone d’impact (3 s’il est renforcé par le Pot de Pastèque), en priorisant les cibles non affectées.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Pendant les 5 premières secondes, la faille nébuleuse se concentre sur le zombie ayant le moins de PV, réduisant sa zone d’attaque à 3 colonnes autour de la cible\n2. Les cryo-pastèques lobées infligent des dégâts ×6, mais le rayon de zone est réduit de 50 %</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pastèque Glacée + Pastèque Temporelle</color></size>"
+        },
+        {
+            "seedType": 952,
+            "name": "Lance-gangrène",
+            "introduce": "<size=36><color=black>\"Grand frère, grande sœur, tu ne me trouvez pas mignon ?\" Lance-gangrène fait de l’œil à chaque passant. \"Achetez de l’ail, s’il vous plaît.\" Il s’investit à fond dans son argumentaire de vente. Pourquoi un si petit enfant vendrait-il de l’ail ? \"Les films de grand-père sont trop ennuyeux, et notre maison est tellement remplie d’ail qu’on ne sait même plus où le stocker\", explique-t-il.</color></size>",
+            "info": "<size=36>Lance des mini-ails qui se divisent à l’impact, avec une chance de tir rapide ou de propagation.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec Lance-fléau</color>\n<color=black>Dégâts : </color><color=#8B0000>60 / 2 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte (évite les projectiles à tir direct).\n<color=black>•</color> Hérite des chances de tir rapide et de propagation de Lance-fléau.\n<color=black>•</color> Les projectiles n’infligent plus de dégâts de zone et se divisent en mini-chou à l’ail, mini-grain de maïs à l’ail (25 % de chances de mini beurre à l’ail) et tranche de melon à l’ail.\n<color=black>•</color> Ces projectiles se comportent comme leurs équivalents miniatures sans ail (voir Bout de maïs, Bout de pastèque et Bout de choux) et confèrent chacun 1 point de poison, augmentant les dégâts de (5 × points de poison).</color></size>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>×3 + Lance-pastèque <-> Champi-gnon</color></size>"
+        },
+        {
+            "seedType": 970,
+            "name": "Ortie Cornvoyeuse",
+            "introduce": "<align=justified><size=36><color=black>Ortie Cornvoyeuse travaille dans une immense usine de transformation du beurre. Le travail lourd et répétitif l’épuise tellement qu’il tire la langue toute la journée. Après le boulot, tout ce qu’elle veut, c’est s’allonger chez elle et se reposer… mais les zombies arrivent comme des mouches, la forçant à retourner au combat. Malheureusement pour elle, se battre est tout aussi monotone que son travail : une interminable ligne de convoyage au beurre.</color></size>",
+            "info": "<size=36>Une \" route \" collante et glissante pour zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Dégâts : </color><color=#8B0000>40 / 1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ignorée par les véhicules et immunisée contre la plupart des types de dégâts ; subit 10 dégâts lorsqu’elle est écrasée par un Gargantua.\n<color=black>•</color> Les attaques repoussent les zombies mais ne font plus éclater les pneus.\n<color=black>•</color> Toutes les 3 attaques cumulées, applique 1 seconde d’étourdissement au beurre à un zombie.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Durée de l’étourdissement au beurre de l’Ortie Cornvoyeuse ×3\n2. Les zombies se trouvant dessus glissent désormais en continu vers la droite</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur Écrasé + Ortie Beurrée</color></size>"
+        },
+        {
+            "seedType": 1338,
+            "name": "Planterne Boréale",
+            "introduce": "<align=justified><size=36><color=black>L’hiver est la saison de la méditation. Le froid aiguise l’esprit. Avec les vents mordants et les nuits silencieuses, un moment aussi propice à la réflexion ne devrait pas être gaspillé. Depuis des jours entiers, la Planterne Boréale qui veille la nuit se demande à quoi elle devrait penser. Oh, attends… c’est ça ! Penser à ce à quoi elle devrait penser !</color></size>",
+            "info": "<size=36>Gèle les zombies grâce à une aura glaciale et permet aux lasers d’infliger des effets de froid.\n\n<color=black>Dégâts : </color><color=#8B0000>20 / 1 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Une fois par seconde, inflige 20 dégâts et applique l’effet Gel aux zombies dans un rayon de 1,5 case, et prolonge de 0,4 seconde la durée de Gel des zombies déjà gelés.\n<color=black>•</color> Les lasers anti-sol du Cactus Lumos deviennent cyan et acquièrent la capacité d’appliquer l’effet Gel après les avoir traversés.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Planterne</color></size>"
+        },
+        {
+            "seedType": 1348,
+            "name": "Troufle Solaire",
+            "introduce": "<align=justified><size=36><color=black>Troufle Solaire arbore toujours un sourire paisible et aime répéter : \" Ciel dégagé, brise printanière et soleil radieux… que demander de plus ? \" Malheureusement, les zombies ne comprennent rien à cette beauté. Ce qu’il souffle n’est pas une douce brise, mais un véritable vent solaire.</color>",
+            "info": "<size=36>Capable de projeter un grand nombre de tirs solaires.\n\n<color=black>Damage: </color><color=#8B0000>10×72</color>\n<color=black>Special: </color><color=#8B0000>Fait tournoyer ses feuilles et tire deux spirales totalisant 72 tirs solaires. Chaque tir génère 5 Soleils à l’impact. Peut être renforcée par la Torche Infernale pour infliger 40 dégâts et générer 15 Soleils par tir.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Troufle</color>"
+        },
+        {
+            "seedType": 1347,
+            "name": "Tireur-multiple",
+            "introduce": "<align=justified><size=36><color=black>\" Vous avez déjà pris chacun votre tour pendant trois minutes, maintenant c’est à moi ! \" Les trois têtes du Tireur multiple se disputent les objets partagés depuis l’enfance — billes, bandes dessinées, jusqu’à un badge de commando en édition limitée sculpté dans des pois.</color>",
+            "info": "<size=36>Peut alterner entre trois modes d’attaque, permettant une répartition flexible de la puissance de feu.\n\n<color=black>Damage: </color><color=#8B0000>20×6 (ou n)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Dispose de trois modes d’attaque, modifiables en appuyant dessus ; le comportement de ciblage change en conséquence :\n<color=black>•</color> 1. Mode standard : tire 2 pois dans sa ligne ainsi que dans les deux lignes adjacentes ;\n<color=black>•</color> 2. Mode dispersion : tire 1 pois dans chaque ligne (si la carte comporte moins de 6 lignes, les dégâts des tirs manquants sont redistribués équitablement entre les tirs restants) ;\n<color=black>•</color> 3. Mode focalisé : tire 6 pois dans sa propre ligne.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Pisto-pois + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1339,
+            "name": "Mine Terrestre",
+            "introduce": "<align=justified><size=36><color=black>Après une longue période d’attente, la Mine terrestre a puisé suffisamment d’énergie dans le soleil et l’humidité pour atteindre une puissance comparable à celle d’une Cerise explosive. \" Spudow ! \" s’est-il écrié… laissant les zombies plus surpris qu’autre chose.</color>",
+            "info": "<size=36>Peut évoluer deux fois.\n\n<color=black>Damage: </color><color=#8B0000>900 (initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Commence directement armée. Après 30 s, évolue et double ses dégâts.\n<color=black>•</color> Après 30 s supplémentaires, évolue à nouveau et augmente le rayon d’explosion à 1,5 case sur les lignes adjacentes.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-mer > Mine Patate</color>"
+        },
+        {
+            "seedType": 1340,
+            "name": "Mine Marine",
+            "introduce": "<align=justified><size=36><color=black>Dès qu’elle entre dans l’eau, la Mine Marine absorbe l’eau comme une petite éponge, convaincue que cela décuplera sa puissance explosive. Et elle n’a pas tort. En revanche, elle ne comprend toujours pas pourquoi la piscine ne finit jamais entièrement remplie de zombies morts.</color>",
+            "info": "<size=36>Plante aquatique pouvant évoluer deux fois.\n\n<color=black>Dégâts : </color><color=#8B0000>900 (initial)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Commence directement armée. Après 30 s, évolue et double ses dégâts.\n<color=black>•</color> Après 30 s supplémentaires, évolue à nouveau et augmente le rayon d’explosion à 1,5 case sur les lignes adjacentes.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine Patate > Champi-mer</color>"
+        },
+        {
+            "seedType": 1233,
+            "name": "Algue Mine",
+            "introduce": "<align=justified><size=36><color=black>\" Attention aux navires — récifs en vue ! \" Algue Mine officie comme agent de sécurité du cours d’eau, signalant le danger à l’aide d’une lumière rouge. Elle fait très bien son travail : là où elle apparaît, le danger n’est jamais loin.</color>",
+            "info": "<size=36>Une Algue aussi explosive qu’une Mine-patate.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Noyade)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Élimine instantanément le premier zombie approchant et inflige 600 dégâts aux zombies dans une zone de 3×3.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine-patate > Algue agrippante</color>"
+        },
+        {
+            "seedType": 1357,
+            "name": "Pot Peureux",
+            "introduce": "<align=justified><size=36><color=black>À l’école, le Pot peureux se recroqueville toujours sur lui-même et évite les autres. Comme les champignons qu’il fait pousser sont moins nombreux que ceux de ses camarades, il se croit inférieur. Ce que sa peur l’empêche de voir, c’est que ses camarades sont en réalité jaloux — les champignons qu’il cultive sont les plus délicieux de tous.</color>",
+            "info": "<size=36>Accorde des bonus en fonction de la valeur de la plante placée dessus.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Confère à la plante placée dessus un bonus de dégâts égal à [0,04 × (coût en Soleil de la plante)] %, jusqu’à un maximum de 20 %.\n<color=black>•</color> Si la plante placée dessus est un Champignon de type Peureux, le bonus devient 2 × (bonus de base + 10 %), avec un maximum de 60 %.\n<color=black>•</color> Devient effrayé lorsqu’un zombie est présent dans une zone de 3×3 et cesse alors de fournir son bonus d’attaque. Une fois l’état de peur terminé, le bonus se régénère progressivement sur 3 s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-peureux > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1352,
+            "name": "Coquille de Pastèque",
+            "introduce": "<align=justified><size=36><color=black>\" Ha ha ! Devine où sont passés mes sourcils ! \" s’esclaffe la Coquille de Pastèque devant son public. Célèbre illusionniste des toits, elle maîtrise toutes sortes de tours, y compris celui de faire disparaître la moitié de ses yeux. Mais son numéro le plus impressionnant reste la Grande Transformation de la pastèque. À ce jour, personne n’a jamais vu comment elle parvient à cacher une pastèque entière dans le seau d’un Lance-pastèque.</color>",
+            "info": "<size=36>Lance des pastèques supplémentaires lorsqu’elle protège une plante de type catapulte.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>80 / ? s</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque attaque de la plante catapulte protégée, une pastèque supplémentaire est lancée simultanément.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Lance-pastèque > Citrouille</color>"
+        },
+        {
+            "seedType": 1350,
+            "name": "Citrouille Enfumée",
+            "introduce": "<align=justified><size=36><color=black>\" Je peux attaquer à la fois vers l’avant et vers l’arrière \", affirme Citrouille Enfumée avec assurance. \" Je suis un Champi-fumée bidirectionnel. \" Ce qu’il n’a visiblement pas remarqué, c’est qu’il ne regarde pas dans le même sens que tout le monde.</color>",
+            "info": "<size=36>Attaque comme un Champi-fumée… mais pas tout à fait dans la bonne direction.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20×3 / 1.5 s (perforants)</color>\n<color=black>Spécial : </color><color=#8B0000>Attaque depuis sa propre case jusqu’à 3 cases au-dessus et en dessous.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-fumée > Citrouille</color>"
+        },
+        {
+            "seedType": 1265,
+            "name": "Four Bambou",
+            "introduce": "<align=justified><size=36><color=black>En tant que plus grand garde du corps de la société de sécurité Bamblock, Four Bambou reste discret mais toujours sur ses gardes. Au fil de toutes ses rencontres avec les zombies, il n’a jamais été blessé — pas une seule fois. Un palmarès plutôt impressionnant.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé Bam'bou, avec une zone de protection élargie.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée étendue à une zone de 3×3. Redevient un Four Polaire normal après 60 secondes.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Bam'bou</color></size>"
+        },
+        {
+            "seedType": 1226,
+            "name": "Four Aloès",
+            "introduce": "<align=justified><size=36><color=black>Four Aloès a amélioré son système de circulation d’air afin de mieux réguler la température dans les zones restreintes. Le seul problème : l’eau qui s’écoule du condenseur a tendance à geler très rapidement sur le champ de neige.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé Aloès d’Eau, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 90 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Aloès d’Eau</color></size>"
+        },
+        {
+            "seedType": 1225,
+            "name": "Four Lotus",
+            "introduce": "<align=justified><size=36><color=black>\" Je suis né extraordinaire \", affirme Four Lotus. Il pense que sa lueur provient d’un feu phosphorescent… mais en réalité, ce sont simplement des lucioles qui se cachent du froid à l’intérieur de lui.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé le Lotus de Neige, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 60 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Lotus de Neige</color></size>"
         }
     ]
 }

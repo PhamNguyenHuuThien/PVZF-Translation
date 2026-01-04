@@ -45,20 +45,20 @@
         {
             "theZombieType": 8,
             "name": "Zombie Moustiquaire",
-            "introduce": "<size=34><color=black>Screen Door Zombie, autrefois membre d'un groupe de travail du FBI avec un mauvais caractère mais un cœur droit, n'a jamais négocié avec des voleurs : il se contentait d'enfoncer les portes pour sauver des otages. Après être devenu un zombie, son bon cœur est resté le même. Lorsqu'il a vu des zombies kidnapper un petit zombie fantôme, il a tenté de s'introduire par effraction, mais ils ont enduit la porte de colle, lui coinçant la main.</color>",
-            "info": "<size=34>Sa moustiquaire est un bouclier efficace.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1100</color>"
+            "introduce": "<align=justified><size=34><color=black>Le Zombie Moustiquaire, autrefois membre du FBI, il avait un très mauvais caractère, mais un cœur juste. Il n'a jamais négocié avec des voleurs : il se contentait d'enfoncer les portes pour sauver des otages. Après être devenu un zombie, sa bonté est resté la même. Lorsqu'il a vu des zombies kidnappant un petit zombie fantôme, il a tenté de s'introduire par effraction, mais ils ont enduit la porte avec de la colle, lui coinçant la main.</color>",
+            "info": "<size=34>Sa moustiquaire sert de bouclier contre les projectiles en face de lui.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>La Moustiquaire peut être enlevée par Champi-aimant.</color>"
         },
         {
             "theZombieType": 9,
             "name": "Zombie Quarterback",
-            "introduce": "<size=36><color=black>Football Zombie est une star du sport parmi les zombies, admiré par beaucoup pour sa présence héroïque sur le terrain. De nombreuses entreprises souhaitent l'embaucher, mais ses exigences salariales sont élevées : un salaire annuel de 10 000 cerveaux.</color>",
-            "info": "<size=36>Cour super vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1400</color>"
+            "introduce": "<align=justified><size=36><color=black>Le Zombie Quarterback est une star du sport parmi les zombies, admiré par beaucoup pour sa présence héroïque sur le terrain. De nombreuses entreprises souhaitent l'embaucher, mais ses exigences salariales sont élevées : un salaire annuel de 10 000 cerveaux.</color>",
+            "info": "<size=36>Cour très vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Son Caque de Rugby peut être enlevée par Champi-aimant.</color>"
         },
         {
             "theZombieType": 10,
             "name": "Michael Zombie",
-            "introduce": "<size=36><color=black>Costume noir, chapeau noir : il n'est pas là pour un enterrement. C'est juste un danseur, et vous pouvez l'appeler Michael Zombie.</color>",
-            "info": "<size=36>Mène la charge avec ses mouvements de danse ultimes.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Rassemblez les Zombies Danceurs.</color>"
+            "introduce": "<align=justified><size=36><color=black>Costume noir, chapeau noir : il n’est pas là pour un enterrement. C’est juste un danseur, et vous pouvez l’appeler Michael Jacks… Zombie. Ou simplement Michael Zombie.</color>",
+            "info": "<size=36>Mène l'assaut avec ses mouvements de danse ultimes.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Traits : </color><color=#4B0082>Invoque 4 zombies danseurs à la perche. Continue d’en invoquer si l’un d’eux meurt. N’invoque pas de zombies pendant qu’il mange.</color>"
         },
         {
             "theZombieType": 11,
@@ -81,20 +81,20 @@
         {
             "theZombieType": 14,
             "name": "Zombarine",
-            "introduce": "<size=36><color=black>La redoutable Zombarine, conçue sur la base de principes bioniques, est à la fois majestueuse et intimidante : une arme de guerre convoitée par les zombies. \"Il ne nous reste plus qu'à résoudre le problème des algues qui s'emmêlent dans l'hélice\", a déclaré le Dr Edgar.</color>",
-            "info": "<size=36>Le véhicule principal des zombies contre les plantes aquatiques.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>"
+            "introduce": "<align=justified><size=36><color=black>Le redoutable Zombarine, conçu selon des principes bioniques, il est à la fois majestueux et intimidant, un engin de guerre très convoité par les zombies. \"Il ne nous reste plus qu’à régler le problème de ses maudites algues qui s’emmêlent dans l’hélice,\" a déclaré le Dr Edgar.</color>",
+            "info": "<size=36>Le premier véhicule des zombies conçu pour affronter les plantes aquatiques.\n\n<color=black>Robustesse: </color><color=#4B0082>1350</color>\n<color=black>Spécial: </color><color=#4B0082>Se déplace rapidement et coule toute plante avec laquelle il entre en contact, à l’exception des algues et inflige 500 dégâts aux plantes anti-écrasement.</color>"
         },
         {
             "theZombieType": 15,
-            "name": "Zombie Savant",
-            "introduce": "<size=32><color=black>En tant qu'autorité de premier plan dans le domaine académique, Scholar Zombie est fréquemment vu dans la bibliothèque. Sa passion pour la lecture est profonde et le déranger pendant qu'il lit peut déclencher sa fureur. Ce vieux monsieur veillera à ce que vous compreniez le vrai sens de « la connaissance, c'est le pouvoir ».</color>",
-            "info": "<size=32>Inflige d'énormes dégâts avec ses dents robustes.\n\n<color=black>Dégâts : </color><color=#4B0082>400</color>\n<color=black>Robustesse : </color><color=#4B0082>720+1100</color>\n<color=black>Spécial : </color><color=#4B0082>Invincibilité temporaire et vitesse accumulée après la destruction du livre.</color>"
+            "name": "Zombie Érudit",
+            "introduce": "<align=justified><size=32><color=black>En tant que chef du Club de Science, Zombie Érudit est souvent vu dans la bibliothèque. Sa passion pour la lecture est profonde, et le déranger pendant qu’il lit peut déclencher sa fureur. Ce senior veillera à ce que vous compreniez le vrai sens de la phrase: \"le savoir est une arme.\"</color>",
+            "info": "<size=32>Inflige d'énormes dégâts avec ses dents robustes.\n\n<color=black>Dégâts : </color><color=#4B0082>400</color>\n<color=black>Robustesse : </color><color=#4B0082>720 + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Invincibilité temporaire et vitesse accentué après la destruction du livre (Vitesse de déplacement ×10, Vitesse d'attaque ×3).</color>"
         },
         {
             "theZombieType": 16,
             "name": "Zomboni",
-            "introduce": "<size=36><color=black>La conduite zombie est un excellent conducteur, d'autant plus que peu de zombies peuvent naviguer de la patinoire au terrain en herbe. Maintenant, il doit aller payer l'amende. La machine à glace qu'il exploite n'est pas une Zamboni ; c'est un Zomboni produit par la société B.</color>",
-            "info": "<size=36>Le zomboni applique la glace, la vapeur et la pression à vos plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>"
+            "introduce": "<size=36><color=black>Le zombie qui conduit est un excellent conducteur, surtout si l’on considère que peu de zombies peuvent se rendre de la patinoire jusqu'au terrain de gazon. Maintenant, il doit aller payer une amende. La machine à glace qu’il utilise n’est pas une Zamboni Mais une Zomboni produite par une Company.; B.</color>",
+            "info": "<size=36>Le zomboni applique de la glace sur le terrain. il est aussi Immunisé contre le Gel.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>"
         },
         {
             "theZombieType": 17,
@@ -111,8 +111,8 @@
         {
             "theZombieType": 19,
             "name": "Zombie Dauphin",
-            "introduce": "<size=36><color=black>Dolphin Rider Zombie est artiste à temps partiel et gardien de dauphins dans un aquarium. Le dauphin qu'il chevauche est un zombie, mais contrairement aux zombies typiques, ce \"dauphin zombie\" n'a aucun désir de cervelle.</color>",
-            "info": "<size=36>Les zombies dauphins utilisent les dauphins pour exploiter les faiblesses de votre défense aquatique.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saute au-dessus de la première plante qu'il rencontre.</color>"
+            "introduce": "<size=36><color=black>Le zombie Dauphin est artiste à temps partiel il est gardien de dauphins dans un aquarium. Le dauphin qu'il chevauche est un zombie, mais contrairement aux zombies typiques, ce \"dauphin zombie\" n'a aucun désir de cervelle.</color>",
+            "info": "<size=36>Les zombies dauphins utilisent les dauphins pour exploiter les faiblesses de votre défense aquatique.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saute au-dessus de la première plante qu'il rencontre, à part les plantes qui sont catégorisées comme des grandes Plantes.</color>"
         },
         {
             "theZombieType": 20,

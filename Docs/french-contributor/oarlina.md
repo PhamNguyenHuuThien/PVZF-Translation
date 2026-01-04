@@ -22,13 +22,29 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traductions ajustées : **14**
+* Traductions ajustées : **15**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `22/12/25 → 04/01/26`
+> [PR#47](https://github.com/Teyliu/PVZF-Translation/pull/47) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **1**
+
+---
+
+#### Détail
+
+## 🧩 **Modified Plants**
+* **Lave Épineuse** (`seedType: 1075`)
 
 ---
 

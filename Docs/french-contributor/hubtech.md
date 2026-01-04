@@ -21,14 +21,55 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traductions ajustées : **18**
-* Nouvelles traductions : **0**
+* Traductions ajustées : **30**
+* Nouvelles traductions : **11**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `22/12/25 → 04/01/26`
+> [PR#47](https://github.com/Teyliu/PVZF-Translation/pull/47) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **11**
+* Traductions ajustées : **12**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **McCornics le Quantique** (`seedType: 943`)
+* **Noix Astrale** (`seedType: 945`)
+* **Chou Sol** (`seedType: 934`)
+* **Chou Luna** (`seedType: 955`)
+* **Pastèque Cyclone** (`seedType: 957`)
+* **Lance-gangrène** (`seedType: 952`)
+* **Ortie Cornvoyeuse** (`seedType: 970`)
+* **Planterne Boréale** (`seedType: 1338`)
+* **Four Bambou** (`seedType: 1265`)
+* **Four Aloès** (`seedType: 1226`)
+* **Four Lotus** (`seedType: 1225`)
+
+## 🧩 **Modified Plants**
+* **Lance-soleil** (`seedType: 1111`)
+* **Troufle d'Étoiles** (`seedType: 1084`)
+* **Drones Laser** (`seedType: 912`)
+* **Noix Solaire Géante** (`seedType: 251`)
+* **Noix Géante** (`seedType: 255`)
+* **Lance-fléau** (`seedType: 914`)
+* **Citrouille Troufle** (`seedType: 1091`)
+* **Troufle Magnétique** (`seedType: 1102`)
+* **Dégouteur** (`seedType: 1181`)
+* **Nénu-chat Glacé** (`seedType: 1068`)
+* **Nénu-chat Enflammé** (`seedType: 1069`)
+* **Canon Apocalyptique** (`seedType: 915`)
 
 ---
 

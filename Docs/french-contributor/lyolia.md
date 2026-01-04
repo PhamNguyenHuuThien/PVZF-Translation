@@ -16,13 +16,34 @@ Ce document retrace l’ensemble des contributions effectuées par **Lyolia** au
 
 > Statistiques cumulées sur l’ensemble de la période.
 
+* Nouvelles traductions : **4**
 * Traductions ajustées : **21**
+
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `22/12/25 → 04/01/26`
+> [PR#47](https://github.com/Teyliu/PVZF-Translation/pull/47) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **4**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Baie Hivernale** (`seedType: 237`)
+* **Poirmafrost** (`seedType: 236`)
+* **Sachrisanthème** (`seedType: 238`)
+* **Double-passion** (`seedType: 235`)
 
 ---
 

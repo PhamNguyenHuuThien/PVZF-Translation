@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* **Traductions ajustées** : *112*
-* **Nouvelles traductions** : *147*
-* **Reviews effectuées** : *86*
+* Traductions ajustées : **113**
+* Nouvelles traductions : **167**
+* Reviews effectuées : **152**
 
 **Réseaux & contacts**
 
@@ -37,63 +37,94 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *14*
-* Nouvelles traductions : *0*
+* Nouvelles traductions : **0**
+* Traductions ajustées : **15**
 
 **Réseaux & contacts**
 
 * **GitHub** : [Oarlina](https://github.com/Oarlina) 
 * **LinkedIn** : [Rachel Marquant](https://www.linkedin.com/in/rachel-marquant-98bb4536a/)
 
+---
 
 ### [Hubtech](./french-contributor/hubtech.md)
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *18*
-* Nouvelles traductions : *0*
+* Nouvelles traductions : **11**
+* Traductions ajustées : **30**
 
 **Réseaux & contacts**
 
 * **GitHub** : [Hubtech280](https://github.com/Hubtech280)
 
+---
 
 ### [Samael](./french-contributor/same_el.md)
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *52*
-* Nouvelles traductions : *0*
+* Nouvelles traductions : **4**
+* Traductions ajustées : **57**
 
 **Réseaux & contacts**
 
 * **GitHub** : [Same-ael](https://github.com/Same-ael)
 
+---
 
 ### [Ink Stolas](./french-contributor/ink-stolas.md)
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *2*
-* Nouvelles traductions : *0*
+* Nouvelles traductions : **0**
+* Traductions ajustées : **2**
 
 **Réseaux & contacts**
 
 * **Email** : [argoss.secrets@gmail.com](mailto:argoss.secrets@gmail.com)
 * **GitHub** : [ink-stolas](https://github.com/ink-stolas)
 
+---
 
 ### [Lyolia](./french-contributor/lyolia.md)
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *21*
-* Nouvelles traductions : *0*
+* Nouvelles traductions : **4**
+* Traductions ajustées : **21**
 
 **Réseaux & contacts**
 
 * **GitHub** : [Deicture](https://github.com/Deicture)
 
+---
+
+### [ItGourmand](./french-contributor/itgroumand.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **5**
+
+**Réseaux & contacts**
+
+* **GitHub** : [ITGourmand](https://github.com/ITGourmand)
+
+---
+
+### [Capitain Artex](./french-contributor/artex2000.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **3**
+
+**Réseaux & contacts**
+
+* **Discord** : *artex2000*
+
+---
 
 ## Contributeur Innactif
 

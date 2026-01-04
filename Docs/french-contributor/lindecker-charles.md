@@ -28,15 +28,132 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traductions ajustées : **112**
-* Nouvelles traductions : **147**
-* Reviews effectuées : **107**
+* Traductions ajustées : **113**
+* Nouvelles traductions : **167**
+* Reviews effectuées : **152**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `22/12/25 → 04/01/26`
+> [PR#47](https://github.com/Teyliu/PVZF-Translation/pull/47) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **11**
+* Traductions ajustées : **20**
+* Reviews effectuées : **45**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Étincelle Infernale** (`seedType: 948`)
+* **Canon Volcanique** (`seedType: 953`)
+* **Champi-napalm** (`seedType: 940`)
+* **Troufle Solaire** (`seedType: 1348`)
+* **Tireur-multiple** (`seedType: 1347`)
+* **Mine Terrestre** (`seedType: 1339`)
+* **Mine Marine** (`seedType: 1340`)
+* **Algue Mine** (`seedType: 1233`)
+* **Pot Peureux** (`seedType: 1357`)
+* **Coquille de Pastèque** (`seedType: 1352`)
+* **Citrouille Enfumée** (`seedType: 1350`)
+
+## 🧩 **Modified Plants**
+* **Lance-portail** (`seedType: 1210`)
+* **Mine Obsidienne** (`seedType: 925`)
+* **Étoile Polaire** (`seedType: 909`)
+* **Gravitron** (`seedType: 920`)
+* **Citrouille-laser** (`seedType: 911`)
+* **Citrouille-grenade** (`seedType: 922`)
+* **Canon Enflammé** (`seedType: 1122`)
+* **Pastèque Enflammée** (`seedType: 1149`)
+* **Pisto-cerise** (`seedType: 1001`)
+* **Double-cerise** (`seedType: 1008`)
+* **Triple-cerise** (`seedType: 1108`)
+* **Sulfateuse à Cerises** (`seedType: 1017`)
+* **Double Hypno-pois** (`seedType: 1268`)
+* **Triple Hypno-pois** (`seedType: 1269`)
+* **Sulfateuse à Hypno-pois** (`seedType: 1270`)
+* **Sulfateuse à Pois-brûlant** (`seedType: 1322`)
+* **Pois Glacé** (`seedType: 1034`)
+* **Double Pois-glacé** (`seedType: 1105`)
+* **Triple Pois-glacé** (`seedType: 1107`)
+* **Sulfateuse à Pois-glacé** (`seedType: 1106`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Translations**
+[Hubtech](./hubtech.md) :
+* **McCornics le Quantique** (`seedType: 943`)
+* **Noix Astrale** (`seedType: 945`)
+* **Chou Sol** (`seedType: 934`)
+* **Chou Luna** (`seedType: 955`)
+* **Pastèque Cyclone** (`seedType: 957`)
+* **Lance-gangrène** (`seedType: 952`)
+* **Ortie Cornvoyeuse** (`seedType: 970`)
+* **Planterne Boréale** (`seedType: 1338`)
+* **Four Bambou** (`seedType: 1265`)
+* **Four Aloès** (`seedType: 1226`)
+* **Four Lotus** (`seedType: 1225`)
+
+[Lyolia](./lyolia.md) :
+* **Baie Hivernale** (`seedType: 237`)
+* **Poirmafrost** (`seedType: 236`)
+* **Sachrisanthème** (`seedType: 238`)
+* **Double-passion** (`seedType: 235`)
+
+[Same-ael](./same_el.md) :
+* **Baie Hivernale** (`seedType: 237`)
+* **Poirmafrost** (`seedType: 236`)
+* **Sachrisanthème** (`seedType: 238`)
+* **Double-passion** (`seedType: 235`)
+
+
+### 🧩 **Modified Plants**
+[Hubtech](./hubtech.md) :
+* **Lance-soleil** (`seedType: 1111`)
+* **Troufle d'Étoiles** (`seedType: 1084`)
+* **Drones Laser** (`seedType: 912`)
+* **Noix Solaire Géante** (`seedType: 251`)
+* **Noix Géante** (`seedType: 255`)
+* **Lance-fléau** (`seedType: 914`)
+* **Citrouille Troufle** (`seedType: 1091`)
+* **Troufle Magnétique** (`seedType: 1102`)
+* **Dégouteur** (`seedType: 1181`)
+* **Nénu-chat Glacé** (`seedType: 1068`)
+* **Nénu-chat Enflammé** (`seedType: 1069`)
+* **Canon Apocalyptique** (`seedType: 915`)
+
+[Oarlina](./oarlina.md) :
+* **Lave Épineuse** (`seedType: 1075`)
+
+[ITGourmand](./itgroumand.md) :
+* **Écraseur** (`seedType: 13`)
+* **Triple Pisto-écraseur** (`seedType: 1047`)
+* **Algue Étrangleuse** (`seedType: 1050`)
+* **Écraseur Écrasé** (`seedType: 1063`)
+* **Triple Pisto-pois** (`seedType: 14`)
+
+### 🛠️ **Modified Zombies**
+[Same-ael](./same_el.md) :
+* **Zombie Quarterback** (`theZombieType: 9`)
+* **Zombie Moustiquaire** (`theZombieType: 8`)
+* **Michael Zombie** (`theZombieType: 10`)
+* **Zombarine** (`theZombieType: 14`)
+* **Zombie Érudit** (`theZombieType: 15`)
+
+[Capitain Artex](./artex2000.md) :
+* **Zomboni** (`theZombieType: 16`)
+* **Zombie Bobsleigh** (`theZombieType: 18`)
+* **Zombie Dauphin** (`theZombieType: 19`)
 
 ---
 
