@@ -1312,8 +1312,8 @@
         {
             "seedType": 1120,
             "name": "Canon à Épi",
-            "introduce": "<size=36><color=black>Cob Cannon est une véritable puissance intellectuelle : la rumeur dit qu'il a étudié à Harvard et a travaillé dans un prestigieux cabinet d'avocats à New York. Connu pour son immense puissance, un seul tir de Cob Cannon peut décimer une vaste zone de zombies. Cependant, la véritable source de sa formidable énergie reste un mystère.</color>",
-            "info": "<size=36>Peut être tiré manuellement pour lancer des épis de maïs mortels qui causent des dommages au crémateur.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Doit être planté au-dessus de deux Lance-maïss.</color>",
+            "introduce": "<size=36><color=black>Canon à Épi est une véritable puissance intellectuelle : la rumeur dit qu'il a étudié à Harvard et a travaillé dans un prestigieux cabinet d'avocats à New York. Connu pour son immense puissance, un seul tir de Canon à Épi peut décimer une vaste zone de zombies. Cependant, la véritable source de sa formidable énergie reste un mystère.</color>",
+            "info": "<size=36>Peut être actionné manuellement pour lancer des épis de maïs mortels qui infligent des dégâts de crémation.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (crémation)</color>\n<color=black>Temps de rechargement : </color><color=#8B0000>36 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Doit être planté sur deux Lance-maïs côte à côte. </color>",
             "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>50 Secondes</color>"
         },
         {
@@ -1333,9 +1333,9 @@
         {
             "seedType": 1123,
             "name": "Canon Arctique",
-            "introduce": "<size=36><color=black>Malgré son extérieur glacial, Cryo Cannon est chaleureux, surtout envers ses amis. Pendant son temps libre, il aime skier, jouer du tambour et explorer des grottes. Son meilleur truc de fête ? Une blague froide pour \"cooler\" la foule.</color>",
-            "info": "<size=36>Utilisez-le manuellement pour tirer un projectile glacial qui endommage les zombies et infuse les plantes de Champi-glace.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire), Ralentissements</color>\n<color=black>Spécial : </color><color=#8B0000>Infuse les plantes dans son rayon de souffle avec du Champi-glace.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Champi-glace</color>",
-            "cost": "<size=36>"
+            "introduce": "<size=36><color=black>Malgré son extérieur glacial, Canon Arctique est chaleureux, surtout envers ses amis. Pendant son temps libre, il aime skier, jouer du tambour et explorer des grottes. Son meilleur truc de fête ? Une blague froide pour \"détendre\" la foule.</color>",
+            "info": "<size=36>Utilisez manuellement pour lancer un projectile glaçant qui inflige des dégâts aux zombies et imprègne les plantes de Champi-glace. n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Gel et infuse les plantes dans son rayon d'explosion avec Champi-glace (à l'exception des pots de fleurs).</color>",
+            "cost":  "\n<size=36>Formule de fusion: <color=#8B0000>Champi-glace + Canon à Épi</color>"
         },
         {
             "seedType": 1124,
