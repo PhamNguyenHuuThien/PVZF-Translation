@@ -45,9 +45,9 @@
         {
             "seedType": 6,
             "name": "Champi-gnon",
-            "introduce": "<size=36><color=black>\"Je n'ai pris conscience que récemment de l'existence des zombies\", explique Champi-gnon. \"Comme beaucoup de champignons, je pensais simplement qu'il s'agissait de contes de fées ou de monstres de cinéma. Toute cette expérience m'a été une énorme révélation.\"</color></size>",
-            "info": "<size=36>Les Champi-gnons ne sont pas chers, mais ne tirent pas loin.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Peut s'empiler jusqu'à trois fois dans une grille.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Je n’ai pris conscience que récemment de l'existence des zombies\", explique Champi-gnon. \"Comme beaucoup de champignons, je pensais simplement qu'il s'agissait de contes de fées ou de monstres de cinéma. Toute cette expérience m’a aidé à réaliser que la fiction peut devenir réalité.\"</color></size>",
+            "info": "<size=36>Les Champi-gnons ne sont pas chers, mais ne tirent pas loin.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Peut s'empiler jusqu'à trois fois sur une tuile.\n<color=black>•</color> Les fusions de Champi-gnon ne peuvent être créées qu’en plantant une autre plante sur un ou plusieurs Champi-gnons, ce qui tentera aussi de fusionner avec les autres plantes présentes sur la même tuile (pots, citrouilles).\n<color=black>•</color> Petite plante (évite les projectiles tirés en ligne droite).</color>\n<color=black>Propagation: </color><color=#8B0000>Plantez un Champi-fumée ou un Champi-peureux sur 1 / 2 / 3 Champi-gnon pour le propager vers les cases vides, Champi-fumée propage seulement en face de lui, Champi-peureux propage au-dessu de lui, devant lui et en dessous faisant apparaître 1 / 3 / 6 Champi-gnon.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 7,
@@ -605,9 +605,9 @@
         {
             "seedType": 1018,
             "name": "Champisto-pois",
-            "introduce": "<size=36><color=black>\"Ne vous laissez pas tromper par ma taille ; même un petit corps peut contenir beaucoup d'énergie\", prévient Pea-Shroom à ceux qui le sous-estiment. \"Nous avons tous commencé comme de minuscules champignons, progressant petit à petit. En vous consacrant à un petit-déjeuner ensoleillé, vous pouvez devenir comme moi.\"</color></size>",
-            "info": "<size=36>Champisto-pois tire plus loin que le Champi-gnon.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Pisto-pois (Dans l'ordre)</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Ne vous laissez pas tromper par ma taille ; petit corps mais beaucoup d'énergie à revendre !\", prévient Champisto-pois à ceux qui le sous-estiment. \"Nous avons tous commencé comme de minuscules champignons, progressant petit à petit. En vous consacrant à un petit-déjeuner ensoleillé, vous pouvez devenir comme moi.\"</color></size>",
+            "info": "<size=36>Champisto-pois tire plus loin que le Champi-gnon.\n\n<color=black>Dégâts : </color><color=#8B0000>20/2.25s</color>\n<color=black>Special: </color><color=#8B0000> Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Pisto-pois</color>"
         },
         {
             "seedType": 1019,
@@ -1325,10 +1325,10 @@
         },
         {
             "seedType": 1122,
-            "name": "Canon Enflammé",
-            "introduce": "<size=36><color=black>Pyro Cannon a une activité de pop-corn en plein essor. L'arôme enflammé fait courir les zombies, ajoutant du piquant à n'importe quel événement. Il envisage même bientôt une séance de hot pot avec Jalapeño.</color>",
-            "info": "<size=36>Utilisez-le manuellement pour tirer un projectile enflammé explosif à dégâts élevés qui brûle les zombies et infuse les plantes à proximité de Jalapeño.\n\n<color=black>Dégâts : </color><color=#8B0000>3600 (Incendiaire), inflige le Debuff Enflammé</color>\n<color=black>Spécial : </color><color=#8B0000>Infuse les plantes dans son rayon d'explosion avec du Jalapeño.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Jalapeño</color>",
-            "cost": "<size=36>"
+            "name": "Canon Volcanique",
+            "introduce": "<size=36><color=black>Canon Volcanique a une activité de pop-corn en plein essor. L'arôme enflammé fait courir les zombies, ajoutant du piquant à n'importe quel événement. Il envisage même bientôt une séance de hot pot avec Jalapeño.</color>",
+            "info": "<size=36<size=36>Utilisez-le manuellement pour tirer un projectile explosif enflammé qui inflige des dégâts importants, brûle les zombies et imprègne les plantes voisines de Jalapeño. n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé puis inflige des dégâts, et imprègne les plantes dans son rayon d'explosion de Jalapeño.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Jalapeño + Canon à Épi</color>"
         },
         {
             "seedType": 1123,
@@ -3072,6 +3072,13 @@
             "introduce": "<align=justified><size=36><color=black>Four Épicéa transporte toujours sur lui des aiguilles d’épicéa bien sèches. Il affirme que c’est un excellent combustible \" vert \" — inflammable et facile à récolter. En ce moment même, il est en train d’en faire sécher une nouvelle fournée au soleil.</color></size>",
             "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé l’Épicéa Tireur d’élite, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 210 secondes.</color></size>",
             "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Épicéa Tireur d’élite</color></size>"
+        },
+        {
+            "seedType": 227,
+            "name": "Imitateur en Diamant",
+            "introduce": "<align=justified><size=36><color=black>C'est un marchand, le plus cliché qui soit. Pas de position, pas loyal, motivé uniquement par le profit. Il change librement de camp entre les plantes et les zombies, faisant de la contrebande de marchandises. Ce qu'il apporte pourrait être la clé pour un retour en force… ou complétement inutile… ou encore un enemi puissant. Mais ce qui t'arrive finalement n'a rien à voir avec lui. Après tout, tu savais exactement ce que tu achetais.</color>",
+            "info": "<size=36>Je l'envoie! - Attendez, non, j'ai encore causé des problèmes!\n\n<color=#4A2900>Conditions de déblocage: Complète Odyssey Gacha: Imitateur en Diamant</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> 1.5 secondes après son apparition, génère une plante aléatoire, zombie, ou un évènement.\n<color=black>•</color> Chances: Odyssey plantes (10%); Plantes disponibles dans les coffrets cadeaux (50%); Odyssey zombies (10%); des bosses, des mini-bosses, ou Odyssey zombies (10%); des zombies communs (15%); des évènements aléatoire (5%). Les zombies générés ont une santé aléatoires de 0.8×/1×/1.2×.\n<color=black>•</color> Listes des évènements: \n<color=black>-</color> 1. Gagner 200 soleils.\n<color=black>-</color> 2. Obtenir un modificateur Odyssey.\n<color=black>-</color> 3. Tuez instantanément tous les zombies dans un rayon de 1,5 tuile.\n<color=black>-</color> 4. Infligez 4000 points de dégâts aux plantes dans une zone de 3×3.\n<color=black>-</color> 5. Crée une colonne de boules de feu qui roulent vers la droite, infligeant l'effet Enflammé et laissant une traînée de feu infligeant 40 points de dégâts.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>15 secondes</color>"
         }
     ]
 }
