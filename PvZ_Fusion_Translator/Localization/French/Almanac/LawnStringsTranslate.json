@@ -247,10 +247,10 @@
         },
         {
             "seedType": 249,
-            "name": "Carambole Épéiste",
-            "introduce": "<size=36><color=black>\"J'ai combattu sur 3 000 miles de champ de bataille, ma lame arrêtant des millions de personnes dans leur élan.\" Le Swordmaster Carambole, amateur de bonnes boissons et de poésie, est très fier de ses talents de cosplayer impeccables. Avec un sourire narquois, il ajoute : \"Mon épée ne saigne jamais, car ce n'est qu'une décoration.\"</color></size>",
-            "info": "<size=36>Un invité de loin, je pense que vous deviendrez amis.\n\n<color=black>Dégâts : </color><color=#8B0000>200*5+30*20/6 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque libère 5 épées qui transpercent à l'infini, infligeant 200 dégâts chacune. En plus, il inflige 600 dégâts à tous les zombies dans la grille environnante, répétés 20 fois.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>325</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
+            "name": "Carambole Maître-épéiste",
+            "introduce": "<align=justified><size=36><color=black>\"J’ai combattu sur 3 000 kilomètres de champs de bataille, ma lame arrêtant des millions d’ennemis dans leur élan.\" Carambole Maître-épéiste, amateur de bonnes boissons et de poésie, est très fier de ses talents de cosplayeur impeccables. Avec un sourire narquois, il ajoute : \"Mon épée ne saigne jamais, car ce n’est qu’une décoration.\"</color></size>",
+            "info": "<size=36>Un invité venu de loin, je pense que vous aurez envie de devenir amis.\n\n<color=#4A2900>Conditions de déverrouillage : Vaincre Les Dieux 1</color>\n<color=black>Dégâts : </color><color=#8B0000>(200×5 + 30×20) / 6 s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque libère 5 épées transperçantes à portée infinie, infligeant 200 dégâts chacune. De plus, il inflige 30 dégâts à tous les zombies dans la zone environnante, répétés 20 fois.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>325</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         },
         {
             "seedType": 250,
@@ -1612,10 +1612,10 @@
         },
         {
             "seedType": 243,
-            "name": "Burger Blaster",
-            "introduce": "<size=36><color=#3D1400>Les plantes s'interrogent souvent sur les origines de Burger Blaster, surtout lorsqu'elles le voient empiler d'autres plantes sur lui pour augmenter sa puissance. En vérité, il n’est qu’un sous-produit de la tentative de Dave de fabriquer un taco à partir de plantes. \"Le produit réel peut varier. Les remplissages supplémentaires sont fournis par vous-même.\"</color>",
-            "info": "<size=36>Un cadeau de l'édition Hybride !\n\n<color=#3D1400>Dégâts : </color><color=red>20x2/3 secondes</color>\n<color=#3D1400>Résistance : </color><color=red>1000</color>\n\n<color=#3D1400>Sortie Soleil : </color><color=red>25/25 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Tire des projectiles aléatoires. Mises à niveau en utilisant Cactus, Melon-pult et Winter Melon pour atteindre le plus haut niveau.\nCactus：Niveau 0→1, HP 1000→2000, Intervalle d'attaque 3→2,5, Num. des Tirs 2→4, Nouveaux Projectiles : Spike, Butter, Écraseur ;\nMelon-pult：Niveau 1 → 2, HP 2000 → 3000, Dégâts d'attaque 30 → 40, Num. des plans 4 → 6, nouveaux projectiles : melon chaud, melon ;\nMelon d'hiver ： Niveau 2 → 3, intervalle d'attaque 2,5 → 2, Num. des tirs 6 → 8, nouveaux projectiles : melon d'hiver, pois mange-tout, spore de neige, glaçon funeste <color=red></color>",
-            "cost": "<size=36>Coût :<color=red>150</color>\nRecharge : <color=red>30 Secondes</color>"
+            "name": "Canon Burger",
+            "introduce": "<align=justified><size=36><color=black>Les plantes se demandent souvent d’où vient Canon Burger, surtout quand elles le voient empiler d’autres plantes sur lui pour augmenter sa puissance. En vérité, il n’est qu’un sous-produit de la tentative de Dave de fabriquer un taco à partir de plantes. \"Le produit réel peut varier. Les garnitures supplémentaires sont à fournir par vous-même.\"</color></size>",
+            "info": "<size=36>Assemblez le burger en suivant les instructions sur les étiquettes !\n\n<color=blue>Plante de collaboration PvZ : Hybrid Edition</color>\n<color=#4A2900>Conditions de déverrouillage : Vaincre Casse-vases – Réaction en chaîne</color>\n<color=black>Dégâts : </color><color=#8B0000>20×2 / 3 s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25 / 25 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante haute. Tire des projectiles aléatoires. Peut être améliorée en utilisant Cactus, Lance-pastèque et Pastèque Glacée pour atteindre le niveau maximal. Consultez la page suivante pour les détails des améliorations.</color>\n\n<color=black>|</color> <color=black>Amélioration Cactus</color> <color=black>|</color> Niveau : 0 → 1\n<color=black>•</color> Robustesse : 1000 → 2000\n<color=black>•</color> Intervalle d’attaque : 3 → 2,5\n<color=black>•</color> Nombre de tirs : 2 → 4\n<color=black>•</color> Nouveaux projectiles : Pique, Beurre, Écraseur\n\n<color=black>|</color> <color=black>Amélioration Lance-pastèque</color> <color=black>|</color> Niveau : 1 → 2\n<color=black>•</color> Robustesse : 2000 → 3000\n<color=black>•</color> Dégâts d’attaque : 30 → 40\n<color=black>•</color> Nombre de tirs : 4 → 6\n<color=black>•</color> Nouveaux projectiles : Pastèque chaude, Pastèque\n\n<color=black>|</color> <color=black>Amélioration Pastèque d’Hiver</color> <color=black>|</color> Niveau : 2 → 3\n<color=black>•</color> Robustesse : 3000 → 4000\n<color=black>•</color> Intervalle d’attaque : 2,5 → 2\n<color=black>•</color> Nombre de tirs : 6 → 8\n<color=black>•</color> Nouveaux projectiles : Pastèque d’Hiver, Pois des Neiges, Spore de Neige, Pique Funeste</size>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         },
         {
             "seedType": 244,
@@ -1710,10 +1710,10 @@
         },
         {
             "seedType": 1167,
-            "name": "Pois Brasier",
-            "introduce": "<size=36><color=#3D1400>D'autres tireurs d'élite envient Pois Brasier car elle est une assistante fiable du commandant, même si elle est encore petite. \"Le talent est une chose, mais... je dois remercier le commandant de m'avoir cultivé !~\" dit Pois Brasier, mais en réalité, c'est parce que le Commando Geleur est naturellement froid et garde toujours Pois Brasier comme copain d'échauffement.< /couleur>",
-            "info": "<size=36>Peut verrouiller les zombies n'importe où sur la carte !\n\n<color=#3D1400>Dégâts : </color><color=red>300/3 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Les attaques provoquent Enflammé et infligent 100 dégâts aux zombies à proximité</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Sniper Pea + Jalapeno</color>",
-            "cost": ""
+            "name": "Pois-sniper Brasier",
+            "introduce": "<align=justified><size=36><color=black>D'autres tireurs d'élite envient Pois-sniper Brasier, car il est un assistant fiable du commandant, même si il est encore petit. \"Le talent est une chose, mais... je dois remercier le commandant de m'avoir formée !~\" dit Pois-sniper Brasier. En réalité, c’est surtout parce que le Commando Geleur est naturellement froid et garde toujours Pois-sniper Brasier comme compagnon d’échauffement.</color></size>",
+            "info": "<size=36>Marque et fait exploser des zombies n’importe où sur la carte !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Les attaques appliquent l’altération Enflammé et infligent 100 dégâts aux zombies à proximité.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pois-sniper + Jalapeno</color></size>"
         },
         {
             "seedType": 1168,
@@ -3079,6 +3079,13 @@
             "introduce": "<align=justified><size=36><color=black>C'est un marchand, le plus cliché qui soit. Pas de position, pas loyal, motivé uniquement par le profit. Il change librement de camp entre les plantes et les zombies, faisant de la contrebande de marchandises. Ce qu'il apporte pourrait être la clé pour un retour en force… ou complétement inutile… ou encore un enemi puissant. Mais ce qui t'arrive finalement n'a rien à voir avec lui. Après tout, tu savais exactement ce que tu achetais.</color>",
             "info": "<size=36>Je l'envoie! - Attendez, non, j'ai encore causé des problèmes!\n\n<color=#4A2900>Conditions de déblocage: Complète Odyssey Gacha: Imitateur en Diamant</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> 1.5 secondes après son apparition, génère une plante aléatoire, zombie, ou un évènement.\n<color=black>•</color> Chances: Odyssey plantes (10%); Plantes disponibles dans les coffrets cadeaux (50%); Odyssey zombies (10%); des bosses, des mini-bosses, ou Odyssey zombies (10%); des zombies communs (15%); des évènements aléatoire (5%). Les zombies générés ont une santé aléatoires de 0.8×/1×/1.2×.\n<color=black>•</color> Listes des évènements: \n<color=black>-</color> 1. Gagner 200 soleils.\n<color=black>-</color> 2. Obtenir un modificateur Odyssey.\n<color=black>-</color> 3. Tuez instantanément tous les zombies dans un rayon de 1,5 tuile.\n<color=black>-</color> 4. Infligez 4000 points de dégâts aux plantes dans une zone de 3×3.\n<color=black>-</color> 5. Crée une colonne de boules de feu qui roulent vers la droite, infligeant l'effet Enflammé et laissant une traînée de feu infligeant 40 points de dégâts.</color>",
             "cost": "<size=36>Coût: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>15 secondes</color>"
+        },
+        {
+            "seedType": 241,
+            "name": "Haricot Gelé",
+            "introduce": "<align=justified><size=36><color=black>Les plantes n’arrivaient pas à comprendre comment un haricot aussi minuscule pouvait refroidir l’air avec une telle efficacité. Mais Haricot Gelé se contentait de sourire d’un air malicieux. \"Tu sais pourquoi Nénu-chat éternue quand elle fait la lessive ? Parce qu’elle lave des vêtements de chat.\" Peut-être que la vraie magie venait simplement de son sens de l’humour.</color></size>",
+            "info": "<size=36>Hey↑ Yeh↓!\n\n<color=#4A2900>Conditions de déblocage : </color><color=#8B0000>Terminer Billard de Noix 1</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante flottante.\n<color=black>•</color> Renforce les Pois Glacés dans une zone de 3×3 autour de lui, leur permettant de tirer des pois de glace polaire, doublant les dégâts infligés et les points de Cryo appliqués aux zombies.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         }
     ]
 }
