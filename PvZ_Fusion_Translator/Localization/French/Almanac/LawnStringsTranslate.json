@@ -3086,6 +3086,83 @@
             "introduce": "<align=justified><size=36><color=black>Les plantes n’arrivaient pas à comprendre comment un haricot aussi minuscule pouvait refroidir l’air avec une telle efficacité. Mais Haricot Gelé se contentait de sourire d’un air malicieux. \"Tu sais pourquoi Nénu-chat éternue quand elle fait la lessive ? Parce qu’elle lave des vêtements de chat.\" Peut-être que la vraie magie venait simplement de son sens de l’humour.</color></size>",
             "info": "<size=36>Hey↑ Yeh↓!\n\n<color=#4A2900>Conditions de déblocage : </color><color=#8B0000>Terminer Billard de Noix 1</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante flottante.\n<color=black>•</color> Renforce les Pois Glacés dans une zone de 3×3 autour de lui, leur permettant de tirer des pois de glace polaire, doublant les dégâts infligés et les points de Cryo appliqués aux zombies.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>30 s</color></size>"
+        },
+        {
+            "seedType": 350,
+            "name": "Pisto-tournesol (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" En fait, le Tournesol derrière moi est ma sœur \", explique le Pisto-tournesol. \" On est inséparables depuis la naissance. Elle adore produire du Soleil, et moi je détruis les zombies pour elle. \" Après tout, chaque zombie qui s’approche de sa sœur finit mystérieusement vaporisé par la lumière du soleil.</color>",
+            "info": "<size=36>Le Pisto-tournesol tire des projectiles solaires qui peuvent générer du Soleil.\n\n<color=blue>Orientation réversible avec la touche R</color>\n<color=black>Dégâts : </color><color=#8B0000>20 / 1.5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque troisième tir génère 5 Soleil à l’impact.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(80 Soleil) Dégâts et vitesse d’attaque +20%\n<color=black>• Voie d’élite 1 : </color>(200 Soleil) Dégâts +200%\n<color=black>• Voie d’élite 2 : </color>(200 Soleil) Vitesse d’attaque +100%</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>7.5 s</color></size>"
+        },
+        {
+            "seedType": 351,
+            "name": "Champi-aube (TD)",
+            "introduce": "<align=justified><size=36><color=black>Banquier solaire chevronné, le Champi-aube propose des taux d’intérêt très avantageux sur vos dépôts. \" Vous avez choisi un dépôt à terme \", explique-t-il sèchement à une Double Noix solaire frustrée. \" Les retraits ne sont pas encore autorisés. \"</color>",
+            "info": "<size=36>Producteur de Soleil visionnaire qui absorbe et multiplie le Soleil à proximité, puis le redistribue par salves.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25 / 25 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Absorbe le Soleil au sol dans une zone de 5×5, multiplie sa valeur par ×1,3 et le stocke.\n<color=black>•</color> Libère autant de Soleil que possible par lots de 25 lors de la prochaine production.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(60 Soleil) Vitesse de production de Soleil +50%\n<color=black>• Voie d’élite 1 : </color>(150 Soleil) Vitesse de production de Soleil +200%\n<color=black>• Voie d’élite 2 : </color>(150 Soleil) Multiplicateur de valeur du Soleil ×2</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>7.5 s</color></size>"
+        },
+        {
+            "seedType": 352,
+            "name": "Pisto-grenade (TD)",
+            "introduce": "<align=justified><size=36><color=black>Voici le Pisto-grenade, le cauchemar des zombies. Plus irritable que jamais — qui aurait cru que le chaleureux Pisto-cerise avalerait encore une cerise spéciale ? Ne le provoquez pas. La cerise coincée dans sa gorge pourrait bien être son prochain tir… son visage vire déjà au rouge.</color>",
+            "info": "<size=36>Tire des cerises explosives qui détonnent à l’impact.\n\n<color=blue>Réversible en appuyant sur R</color>\n<color=black>Dégâts : </color><color=#8B0000>20 / 3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisé aux explosions de cerises et inflige des dégâts de zone.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(160 Soleil) Dégâts d’attaque +50 %\n<color=black>• Voie d’élite 1 : </color>(400 Soleil) Dégâts d’attaque +100 %, rayon d’explosion +50 %\n<color=black>• Voie d’élite 2 : </color>(400 Soleil) Vitesse d’attaque +200 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>400</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 353,
+            "name": "Noix Étoilée (TD)",
+            "introduce": "<align=justified><size=36><color=black>Noix Étoilée vit sous un rocher et bouge rarement. Ce n’est pas par paresse, mais par exigence. Il n’accepte d’agir que sur invitation d’un certain ami carré pour une séance de pêche aux méduses… ou pour piéger un voisin céphalopode.</color>",
+            "info": "<size=36>Défenseur réactif qui contre-attaque avec des étoiles.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Lance cinq étoiles infligeant 10 dégâts dans toutes les directions lorsqu’il subit des dégâts.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(80 Soleil) PV et Robustesse max +50 %\n<color=black>• Voie d’élite 1 : </color>(200 Soleil) PV +200 %\n<color=black>• Voie d’élite 2 : </color>(200 Soleil) Régénération +100 % (100 PV / 3 s)</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>30 s</color></size>"
+        },
+        {
+            "seedType": 354,
+            "name": "Mine Solaire (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" Arrêtez-vous au feu rouge, ralentissez au feu orange et respectez le code de la route ! \" Mine Solaire sermonne souvent les zombies. Mais eux ne voient qu’une lueur verdâtre peu engageante. Elle serre ses feuilles vertes et boude, rêvant de davantage de soleil. \" Après tout, c’est le soleil qui nous fait vivre ! \"</color>",
+            "info": "<size=36>Mine Solaire produit du Soleil jusqu’à — et après — son explosion.\n\n<color=black>Dégâts : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Fait tomber 50 Soleil lors de l’explosion.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(10 Soleil) Dégâts d’explosion +50 %\n<color=black>• Voie d’élite 1 : </color>(25 Soleil) Rayon d’explosion +50 %\n<color=black>• Voie d’élite 2 : </color>(25 Soleil) Dégâts d’explosion +100 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 355,
+            "name": "Champi-sombre Glacé (TD)",
+            "introduce": "<align=justified><size=36><color=black>Rêvant d’une carrière de physicien, Champi-sombre Glacé consacre ses journées à percer les mystères du monde, évitant soigneusement le contact avec les autres plantes. \" Pourquoi ai-je plusieurs filaments de stalactites qui me poussent sur la tête ? \" s’interroge-t-il, absorbé par cette nouvelle énigme. Il insiste d’ailleurs pour les appeler des \" cordes \".</color>",
+            "info": "<size=36>Diffuse des fumées glaciales autour de lui, capables de geler les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>5/3,8 s (Perçant)</color>\n<color=black>Spécial : </color><color=#8B0000>Les attaques appliquent l’altération Gel.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(80 Soleil) Vitesse d’attaque +50 %\n<color=black>• Voie d’élite 1 : </color>(200 Soleil) Les attaques ajoutent 10 points de Cryo\n<color=black>• Voie d’élite 2 : </color>(200 Soleil) Durée du Gel ×2</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 356,
+            "name": "Mordeur Explosif (TD)",
+            "introduce": "<align=justified><size=36><color=black>Depuis son verre partagé avec la Cerise Explosive, Mordeur est en permanence \" survoltée \". Chaque repas est devenu un véritable carnage : ses mâchonnements résonnent désormais comme des détonations, faisant voler assiettes et couverts dans toute la maison. Après un vote à main levée, Mordeur Explosif a été reléguée au jardin… au moins, il n’a plus besoin de racheter de vaisselle.</color>",
+            "info": "<size=36>Déclenche une explosion de cerise lorsqu’il dévore un zombie.\n\n<color=blue>Orientation réversible avec la touche R</color>\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40 s</color>\n<color=black>Spécial : </color><color=#8B0000>Après une morsure réussie, crée une explosion de Cerise Explosive en 3×3 sur la case située juste devant, infligeant 1 000 dégâts.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(200 Soleil) Dégâts d’explosion +20 %, Temps de digestion −10 s\n<color=black>• Voie d’élite 1 : </color>(500 Soleil) Dégâts d’explosion +100 %\n<color=black>• Voie d’élite 2 : </color>(500 Soleil) Temps de digestion −50 % (15 s)</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>500</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 358,
+            "name": "Champisto-pois (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" Ne vous fiez pas à ma taille : même un petit corps peut renfermer une grande énergie \", prévient Champisto-pois à ceux qui le sous-estiment. \" Nous avons tous commencé comme de minuscules champignons, progressant petit à petit. Avec de la persévérance et un bon petit-déjeuner ensoleillé, vous pouvez devenir comme moi. \"</color>",
+            "info": "<size=36>Champisto-pois tire plus loin que Champi-gnon.\n\n<color=blue>Orientation réversible avec la touche R</color>\n<color=black>Dégâts : </color><color=#8B0000>10/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse, empilable.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(20 Soleil) Dégâts d’attaque +50 %\n<color=black>• Voie d’élite 1 : </color>(50 Soleil) Dégâts d’attaque +100 %, tire désormais des mini-pois enflammés\n<color=black>• Voie d’élite 2 : </color>(50 Soleil) Dégâts d’attaque +200 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 359,
+            "name": "Champi-soleil (TD)",
+            "introduce": "<align=justified><size=36><color=black>Champi-soleil déteste le Soleil. Il le déteste tellement que, dès qu’il s’accumule en lui, il le recrache aussi vite que possible. Impossible de le supporter. À ses yeux, le Soleil est vulgaire.</color>",
+            "info": "<size=36>Champi-soleil produit d’abord de petits Soleils, puis des Soleils normaux.\n\n<color=black>Production de Soleil : </color><color=#8B0000>5 → 15 / 25 s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>120 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse, empilable.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(10 Soleil) Temps de production → 16,67 s\n<color=black>• Voie d’élite 1 : </color>(25 Soleil) Croît instantanément et produit du Soleil\n<color=black>• Voie d’élite 2 : </color>(25 Soleil) Produit désormais 2 Soleils à la fois</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 360,
+            "name": "Champi-cendré (TD)",
+            "introduce": "<align=justified><size=36><color=black>Champi-cendré, misanthrope et bourreau de travail, ne supporte pas la vue des zombies — bien trop distrayante. Il dispose d’un stock limité de munitions, mais largement suffisant pour être mortel. \" Ne me dérangez que si c’est urgent. Si vous les voulez morts, tirez vous-même. \" Malgré son caractère sec, son efficacité redoutable force le respect.</color>",
+            "info": "<size=36>Champi-cendré peut éliminer la majorité des zombies devant lui.\n\n<color=blue>Réversible en appuyant sur R</color>\n<color=black>Dégâts : </color><color=#8B0000>1000 / 60 s</color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez manuellement dans le menu d’amélioration pour attaquer tous les zombies de la ligne devant lui.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(200 Soleil) Dégâts +50 %\n<color=black>• Voie d’élite 1 : </color>(500 Soleil) Dégâts +200 %\n<color=black>• Voie d’élite 2 : </color>(500 Soleil) Temps de recharge d’attaque -50 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>500</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 361,
+            "name": "Dévoreur de Tombe (TD)",
+            "introduce": "<align=justified><size=36><color=black>Malgré son apparence inquiétante, Dévoreur de Tombe tient à ce que tout le monde sache qu’il adore les chatons et consacre son temps libre au bénévolat dans un centre local de réhabilitation des zombies. \" C’est simplement la bonne chose à faire \", affirme-t-il.</color>",
+            "info": "<size=36>Plantez Dévoreur de Tombe sur les statues pour les détruire.\n\n<color=black>Spécial : </color><color=#8B0000>Peut détruire les statues.</color>\n<color=black>Mécanique des Statues Solaires : </color><color=#8B0000>\n<color=black>•</color> Les statues bloquent les projectiles à tir direct et possèdent 1000 PV chacune.\n<color=black>•</color> Les statues ne peuvent être endommagées que par des projectiles ou par le Dévoreur de Tombe.\n<color=black>•</color> Les statues de Tournesol lâchent 100 Soleil à leur destruction, celles de Champi-soleil en lâchent 50.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>50 s</color></size>"
         }
     ]
 }
