@@ -3163,6 +3163,13 @@
             "introduce": "<align=justified><size=36><color=black>Malgré son apparence inquiétante, Dévoreur de Tombe tient à ce que tout le monde sache qu’il adore les chatons et consacre son temps libre au bénévolat dans un centre local de réhabilitation des zombies. \" C’est simplement la bonne chose à faire \", affirme-t-il.</color>",
             "info": "<size=36>Plantez Dévoreur de Tombe sur les statues pour les détruire.\n\n<color=black>Spécial : </color><color=#8B0000>Peut détruire les statues.</color>\n<color=black>Mécanique des Statues Solaires : </color><color=#8B0000>\n<color=black>•</color> Les statues bloquent les projectiles à tir direct et possèdent 1000 PV chacune.\n<color=black>•</color> Les statues ne peuvent être endommagées que par des projectiles ou par le Dévoreur de Tombe.\n<color=black>•</color> Les statues de Tournesol lâchent 100 Soleil à leur destruction, celles de Champi-soleil en lâchent 50.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 34,
+            "name": "Amp-gnion",
+            "introduce": "<align=justified><size=36><color=black>Amp-gnion pensait que son heure de gloire était arrivée — après tout, qui d’autre avait déjà mangé la foudre plus d’une centaine de fois ? Il se voyait déjà en monstre de Frankenstein. Mais lorsqu’il reçut le script, ses rêves grillèrent instantanément. Il n’était pas une star. Pas même un second rôle. Juste le paratonnerre du Dr Stanley…</color>",
+            "info": "<size=36>Attaque les zombies approchants avec des éclairs.\n\n<color=black>Dégâts : </color><color=#8B0000>100/1,5 s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>5×5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les Amp-gnions inactifs à portée canalisent leur énergie vers celui qui attaque, augmentant les dégâts de 150 chacun.\n<color=black>•</color> Chaque tir peut se propager vers d’autres zombies en infligeant la moitié des dégâts, jusqu’à un maximum de 3 cibles.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>225</color>\nRecharge : <color=#8B0000>7,5 s</color>"
         }
     ]
 }
