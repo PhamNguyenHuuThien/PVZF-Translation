@@ -116,15 +116,15 @@
         },
         {
             "theZombieType": 20,
-            "name": "Zombie Trident ",
-            "introduce": "<size=32><color=black>Trident Zombie n'était à l'origine qu'un simple lanceur de javelot devenu pêcheur après avoir pris sa retraite. Cependant, lorsqu'il est allé pêcher à la rivière, il a coulé parce qu'il ne savait pas nager. Lorsqu'il a débarqué, il a réalisé qu'il était devenu ce qu'il est maintenant.</color>",
+            "name": "Zombie Trident",
+            "introduce": "<size=32><color=black>Le Zombie Trident n'était à l'origine qu'un simple lanceur de javelot devenu pêcheur après avoir pris sa retraite. Cependant, lorsqu'il est allé pêcher à la rivière, il a coulé parce qu'il ne savait pas nager. Lorsqu'il a débarqué, il a réalisé qu'il était devenu un Zombie.</color>",
             "info": "<size=32>Lance un trident pour attaquer vos plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Lance un trident, infligeant des dégâts aux plantes égaux à 20 % (minimum de 60) de leur Robustesse actuelle</color>\n<color=black>Portée d'Attaque : </color><color=#4B0082>Au-delà de 3,5 grilles.</color>"
         },
         {
             "theZombieType": 21,
-            "name": "Zombie Boîte-en-Diamond",
-            "introduce": "<size=33><color=black>Ce soir, les Zombies Diamond-box dévoileront leur monde éblouissant. Leurs yeux brillent comme les étoiles les plus brillantes du ciel nocturne, et la lumière dorée semble couler comme une rivière à travers le temps, illuminant le chemin incertain qui les attend. Chaque fois que le couvercle de la boîte est doucement ouvert, vous avez l'impression d'ouvrir une porte vers un autre royaume.</color>",
-            "info": "<size=33>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>4400</color>\n<color=black>Spécial : </color><color=#4B0082>Se transformer en Zombie Boîte-en-Or en mourant.</color>"
+            "name": "Zombie Boîte-en-Diamand",
+            "introduce": "<size=33><color=black>Ce soir, les Zombies  dévoileront leur monde éblouissant. Leurs yeux scintillent comme les étoiles les plus brillantes du ciel nocturne, et la lumière dorée semble couler comme une rivière à travers le temps, illuminant le chemin incertain qui les attend. Chaque fois que le couvercle de la boîte est doucement ouvert, vous avez l'impression d'ouvrir une porte vers un autre royaume.</color>",
+            "info": "<size=33>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>4400</color>\n<color=black>Spécial : </color><color=#4B0082>Se transforme en Zombie Boîte-en-Or en perdant sont armure.</color>"
         },
         {
             "theZombieType": 22,
@@ -146,7 +146,7 @@
         },
         {
             "theZombieType": 25,
-            "name": "Zombie Ballon ",
+            "name": "Zombie Ballon",
             "introduce": "<size=33><color=black>Balloon Zombie, l'un des créateurs de Zomppelin, se fait souvent demander pourquoi il s'attache des ballons. Sa réponse habituelle est : « C'était ma conclusion. » Cependant, la vérité est que les ballons se sont simplement emmêlés par hasard.</color>",
             "info": "<size=33>Le ballon zombie vole au-dessus de la piste et est immunisé contre la plupart des attaques.\n\n<color=black>Robustesse : </color><color=#4B0082>270+20</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être endommagé par la plupart des plantes en volant.</color>"
         },
@@ -159,14 +159,14 @@
         {
             "theZombieType": 27,
             "name": "Yeti Baleine",
-            "introduce": "<size=30><color=black>La baleine blanche que monte Yeti Zombie possède des capacités de saut impressionnantes. Dolphin Rider Zombie est assez envieux et a toujours voulu l'emprunter pour une balade, mais Yeti Zombie refuse à chaque fois. \"Yeti Zombie n'a aucun contrôle sur sa baleine blanche\", a déclaré le Dr Edgar. \"Il veut toujours se cacher derrière moi, mais la baleine blanche finit par faire le chemin inverse.\"</color>",
-            "info": "<size=30>Saute de trois tuiles en avant et fait demi-tour, attaquant vos plantes par derrière.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être bloqué par Tall-nuts.</color>"
+            "introduce": "<size=30><color=black>La baleine blanche que monte le Zombie Yeti possède des capacités de saut impressionnantes. Le Zombie chevaucheur de dauphin est assez envieux et a toujours voulu l'emprunter pour une balade, mais le Zombie Yeti refuse à chaque fois. \"Zombie Yeti n'a aucun contrôle sur sa baleine blanche\", a déclaré le Dr Edgar. \"Il veut toujours se cacher derrière moi, mais la baleine blanche finit par faire le chemin inverse.\"</color>",
+            "info": "<size=30>Saute de trois tuiles en avant et fait demi-tour, attaquant vos plantes par derrière.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être bloqué par les Grandes-Noix.</color>"
         },
         {
             "theZombieType": 28,
             "name": "Zombie Mineur",
-            "introduce": "<size=34><color=black>Il y a longtemps, les Digger Zombies méprisaient les Champi-aimants pour avoir constamment confisqué leurs outils. Maintenant, ils détestent encore plus les Miner Citrouilles. \"Ma tête continue de recevoir des coups, ce qui me fait me sentir encore plus mal\", déplore-t-il.</color>",
-            "info": "<size=34>Ce zombie creuse pour contourner vos défenses.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Tunnels souterrains et apparaît sur le côté gauche de la pelouse. Vulnérable aux Champi-aimants.</color>"
+            "introduce": "<size=34><color=black>Il y a longtemps, les Zombies Mineur méprisaient les Champi-aimants pour avoir constamment confisqué leurs outils. Maintenant, ils détestent encore plus les Citrouilles Mineuse. \"Ma tête continue de recevoir des coups, ce qui me fait me sentir encore plus mal\", déplore-t-il.</color>",
+            "info": "<size=34>Ce zombie creuse pour contourner vos défenses.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Creuse un tunnel souterrain et apparaît sur le côté gauche de la pelouse. Vulnérable aux Champi-aimants.</color>"
         },
         {
             "theZombieType": 29,
