@@ -147,8 +147,8 @@
         {
             "theZombieType": 25,
             "name": "Zombie Ballon",
-            "introduce": "<size=33><color=black>Balloon Zombie, l'un des créateurs de Zomppelin, se fait souvent demander pourquoi il s'attache des ballons. Sa réponse habituelle est : « C'était ma conclusion. » Cependant, la vérité est que les ballons se sont simplement emmêlés par hasard.</color>",
-            "info": "<size=33>Le ballon zombie vole au-dessus de la piste et est immunisé contre la plupart des attaques.\n\n<color=black>Robustesse : </color><color=#4B0082>270+20</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être endommagé par la plupart des plantes en volant.</color>"
+            "introduce": "<size=33><color=black>Le Zombie ballon, l'un des créateurs du Zomppelin, On lui demande souvent pourquoi il s’attache des ballons. Il réponse habituelle est : \" C’était ma conclusion. \" Pourtant, la vérité est bien plus simple : les ballons se sont simplement emmêlés par hasard.</color>",
+            "info": "<size=33>Le Zombie Ballon vole au-dessus du terrain et est immunisé contre la plupart des attaques.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 20 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être endommagé par la plupart des plantes en volant.</color>"
         },
         {
             "theZombieType": 26,

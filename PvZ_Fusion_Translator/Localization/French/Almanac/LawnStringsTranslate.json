@@ -611,10 +611,10 @@
         },
         {
             "seedType": 1019,
-            "name": "Double Champisto-pois",
-            "introduce": "<size=36><color=black>\"Qui suis-je ? Le double-shot détient la réponse !\" s'exclame le petit champignon répétitif, affichant fièrement les feuilles jumelles au sommet de sa tête. Avec une cadence de tir doublée et une joie doublée, ces êtres fougueux s'épanouissent en groupe, déversant avec impatience leur puissance de feu sur le champ de bataille, démontrant que la taille ne définit pas leur force.</color></size>",
-            "info": "<size=36>Double Champisto-pois peut tirer deux petits pois à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Pisto-pois * 2</color></size>",
-            "cost": ""
+            "name": "Double-champi-pois",
+            "introduce": "<align=justified><size=36><color=black>\"Qui suis-je ? La réponse… se cache dans le deuxième tir !\" S’exclame le petit Double-champi-pois intrépide, affichant fièrement les feuilles jumelles au sommet de sa tête. Avec une cadence de tir doublée et une joie décuplée, ces êtres fougueux s’épanouissent en groupe, déversant avec discipline leur puissance de feu sur le champ de bataille, démontrant que le récit de David et Goliath existe aussi pour les plantes.</color></size>",
+            "info": "<size=36>Double-champi-pois peut tirer deux petits pois à la fois.\n\n<color=black>Dégâts: </color><color=#8B0000>20×2/2.25s</color>\n<color=black>Spécial: </color><color=#8B0000> Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Pisto-pois ×2 (Champi-gnon + Double-pois)</color>"
         },
         {
             "seedType": 1020,
@@ -632,10 +632,10 @@
         },
         {
             "seedType": 1022,
-            "name": "Mini Champi-hypno",
-            "introduce": "<size=36><color=black>\"Quand j'étais enfant, je croyais que les zombies n'étaient rien de plus que des monstres de contes de fées\", dit doucement Mini Champi-hypno. \"Maintenant, ne vous méprenez pas, je leur redonne simplement la forme de conte de fées qu'ils ont toujours été censés avoir.\"</color></size>",
-            "info": "<size=36>Réduit un zombie et le fait combattre pour vous !\n\n<color=black>Spécial : </color><color=#8B0000>Rend un zombie plus petit (réduit la santé de moitié) et se bat pour vous.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Champi-hypno (Dans l'ordre)</color></size>",
-            "cost": ""
+            "name": "Mini-hypno",
+            "introduce": "<align=justified><size=36><color=black>\"Plus jeune, je croyais que les zombies n’étaient rien de plus que des monstres imaginaires,\", dit doucement Mini-hypno. \"Cependant, ne vous méprenez pas : je leur donne simplement l’opportunité de se battre pour nous, et ceci au même niveau que moi… sans parler de la taille.\"</color></size>",
+            "info": "<size=36>Réduit un zombie et le fait combattre pour vous !\n\n<color=black>Spécial : </color><color=#8B0000>Rend un zombie plus petit (réduit sa Robustesse de 70%) et se bat pour vous. Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<color=black>Formule de Fusion: <color=#8B0000>Champi-gnon + Champi-hypno</color>"
         },
         {
             "seedType": 1023,
@@ -723,17 +723,17 @@
         },
         {
             "seedType": 1035,
-            "name": "Champi-stalactite",
-            "introduce": "<size=36><color=black>Les Champignons Icicle n'avaient pas pour objectif de maîtriser la technologie de la réfrigération. Lors d'une randonnée, ils ont oublié leurs couettes et ont passé une nuit entière figés au sommet d'une montagne, le givre se formant sur la tête. Plus tard, Snow Pea, captivé par leur aspect givré, leur a offert des glaçons pour compléter leur nouveau look.</color></size>",
-            "info": "<size=36>Champi-stalactite tire des glaçons qui ralentissent les ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoute 5 points Cryo pour chaque coup de glaçon. Percez 3 fois. Chaque glaçon infligera 4 fois plus de dégâts à un zombie gelé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Pois mange-tout (Dans l'ordre)</color></size>",
-            "cost": ""
+            "name": "Champi-stalagmite",
+            "introduce": "<align=justified><size=36><color=black>Les Champi-stalagmites n’avaient pas pour objectif de maîtriser la technologie de la cristallisation. Lors d’une randonnée, ils ont oublié leurs couettes et ont passé une nuit entière figés au sommet d’une montagne, le givre se formant sur leurs chapeaux. Au petit matin, Pois Glacé les rencontre par hasard, mais a été captivé par leur aspect givré et décide de leur offrir des stalagmites pour compléter leur nouveau look glaçant.</color></size>",
+            "info": "<size=36>Le Champi-stalagmite tire des pics givrés qui ralentissent les ennemis.\n\n<color=black>Dégâts: </color><color=#8B0000>20/1.5s</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Ajoute 5 points de Cryo à chaque coup de pic givré. Perce jusqu’à 2 fois. Chaque pic givré inflige 4× plus de dégâts à un zombie gelé. Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Pisto-pois + Champi-glace (Pois Glacé + Champi-gnon)</color>"
         },
         {
             "seedType": 1036,
-            "name": "Mini Champi-glace",
-            "introduce": "<size=36><color=black>\"Plus petite en taille, mêmes grandes capacités !\" Le visage impassible de Mini Champi-glace ne craque jamais lorsqu'il livre ses blagues, et c'est peut-être pour cela que les zombies se figent sur place.</color></size>",
-            "info": "<size=36>Mini Champi-glace peut geler temporairement les zombies avec lesquels il entre en contact.\n\n<color=black>Spécial : </color><color=#8B0000>Gèle sur place les zombies qui le mangent.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Champi-glace (Dans l'ordre)</color></size>",
-            "cost": ""
+            "name": "Mini-glace",
+            "introduce": "<align=justified><size=36><color=black>\"Plus petite en taille, mêmes puissance en capacités !\" Le visage impassible de Mini-Glace ne réagit jamais lorsqu’elle fait des blagues, et c’est peut-être pour cela que les zombies se figent sur place face à son humour glacial.</color></size>",
+            "info": "<size=36>Mini-glace peut geler temporairement les zombies avec lesquels elle entre en contact.\n\n<color=black>Spécial : </color><color=#8B0000>Gèle sur place les zombies qui la mangent. Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Champi-glace</color>"
         },
         {
             "seedType": 1037,
@@ -786,10 +786,10 @@
         },
         {
             "seedType": 1044,
-            "name": "Mini Champi-mort",
-            "introduce": "<size=36><color=black>Mini Champi-mort est peut-être petit, mais son caractère est explosif. Si vous n'êtes pas d'accord avec lui, il pourrait exploser – aucun contact visuel n'est nécessaire. Il est préférable de l'admirer de loin, mais ne vous approchez pas trop, sinon les choses pourraient devenir compliquées.</color></size>",
-            "info": "<size=36>Le Mini Champi-mort explose dès qu'un zombie entre en contact avec lui.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Explosera lorsque les zombies se rapprochent.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Champi-mort (Dans l'ordre)</color></size>",
-            "cost": ""
+            "name": "Mini-mort",
+            "introduce": "<align=justified><size=36><color=black>Mini-mort est peut-être petite, mais son caractère est explosif. Il suffit d’une seule contradiction et elle pourrait exploser — aucun contact visuel n’est nécessaire. Il est préférable de l’admirer de loin, mais ne vous approchez pas trop : vous pourriez l’énerver, et personne ne veut la voir en colère.</color></size>",
+            "info": "<size=36>Mini-mort explose dès qu'un zombie entre en contact avec elle.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Explose lorsque les zombies se rapprochent. Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Champi-mort</color>"
         },
         {
             "seedType": 1045,
@@ -926,10 +926,10 @@
         },
         {
             "seedType": 1065,
-            "name": "Champi-sulfat",
-            "introduce": "<size=36><color=black>\"Nous partons rejoindre l'armée !\" crièrent de joie les trois petits champignons. Même si leur taille ne répondait pas aux exigences et que trouver de petits casques était difficile, ces défis n'ont pas pu retenir les champignons Gatling Pea. Unis comme un seul homme, ils ont pour objectif de devenir le trio de tête de l'armée.</color></size>",
-            "info": "<size=36>Peut être stackés 3 fois pour tirer 12 petits pois en même temps !\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Pisto-pois * 4</color></size>",
-            "cost": ""
+            "name": "Champi-sulfateuse",
+            "introduce": "<align=justified><size=36><color=black>\"Nous allons rejoindre l'armée !\" Les trois petits champignons s’exclamèrent de joie. Bien que leur taille ne corresponde pas aux critères et que trouver de petits casques à laurs taille fût un vrai défi, ces obstacles ne pouvaient freiner les Champi-sulfateuses. Unis comme un seul être, ils se fixèrent pour objectif de devenir le trio numéro un de l’armée. Leurs crie de groupe était \" Un pour tous et tous pour un !\"</color></size>",
+            "info": "<size=36>Peut être empilé trois fois pour tirer 12 petits pois en même temps !\n\n<color=black>Dégâts: </color><color=#8B0000>20×4/2.25s</color>\n<color=black>Spécial: </color><color=#8B0000> Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + ×4 Pisto-pois (Champi-gnon + Sulfateuse à Pois)</color>"
         },
         {
             "seedType": 1066,
@@ -1536,16 +1536,16 @@
         {
             "seedType": 1152,
             "name": "Champi-seau",
-            "introduce": "<size=36><color=black>Champi-seau a une inquiétude constante : il est terrifié à l'idée que Champi-aimant le tire accidentellement. \"Où sont passées mes vis ?\" Alors que Crazy Dave arrive, il semble qu'il soit sur le point d'avoir un tout nouveau problème.</color>",
-            "info": "<size=36>Les Champi-seaus peuvent aussi repousser les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/2 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles repoussent les zombies et détruisent facilement les portes moustiquaires.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pois-champignons + Seau</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Champi-seau a une inquiétude constante : il est terrifié à l’idée que Champi-aimant le tire accidentellement. \"MAIS ! Où sont passées mes vis ?\" Alors que Dave le Dingo arrive, Aimant Charmant en main, il semble qu’il ne soit pas au bout de ses problèmes.</color>",
+            "info": "<size=36>Les projectiles des Champi-seaus peuvent repousser les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/2.25s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Les projectiles repoussent les zombies et détruisent facilement les armures de type 2. Petite plante (évite les projectiles tirés en ligne droite).</color></color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champisto-pois + Seau</color>"
         },
         {
             "seedType": 1153,
-            "name": "Champi-double-pois",
-            "introduce": "<size=36><color=black>La tête avant déclare : \" À mon tour d'utiliser le sourcil ! La tête arrière répond : \" Je suppose que nous devrons le diviser. \" Nées à seulement deux minutes d'intervalle, leur éternelle bataille pour le sourcil ne montre aucun signe d'arrêt.</color>",
-            "info": "<size=36>Tire les pois vers l'avant et vers l'arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>20x3/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les pois en arrière rebondissent si aucun zombie n'est touché.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Pisto-pois * 3</color>",
-            "cost": ""
+            "name": "Triple-champi-pois",
+            "introduce": "<align=justified><size=36><color=black>La tête avant déclare : \" À mon tour d'utiliser le sourcil ! La tête arrière répond : \" Non, tu l’as depuis hier, c’est à moi ! \" Nés à seulement deux minutes d’intervalle, ces siamois et leur éternelle bataille pour le sourcil ne risquent pas de s’arrêter de sitôt.</color>",
+            "info": "<size=36>Tire un pois vers l'avant et deux vers l'arrière.\n\n<color=black>Dégâts: </color><color=#8B0000>20x3/2.25s</color>\n<color=black>Spécial: </color><color=#8B0000>Les pois en arrière rebondissent si aucun zombie n'est touché. Petite plante (évite les projectiles tirés en ligne droite).</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + ×3 Pisto-pois (Champi-gnon + Triple-pois)</color>"
         },
         {
             "seedType": 1154,
