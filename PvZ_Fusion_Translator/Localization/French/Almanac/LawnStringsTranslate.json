@@ -829,9 +829,9 @@
         {
             "seedType": 1051,
             "name": "Triple Pisto-algue",
-            "introduce": "<size=36><color=black>L'épandeur de varech se prélassait au soleil, ses yeux scrutant l'horizon. \"Beaucoup de plantes ont peur de mon regard\", rigole-t-il. \"Mais ils comprendraient s'ils devaient porter trois paires de lunettes de soleil pour se protéger comme moi !\"</color></size>",
-            "info": "<size=36>Peut tirer des algues qui ralentissent les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Slows + Empilable avec Frozen </color>\n<color=black>Debuff Enchevêtrement : </color><color=#8B0000>Chaque varech causera un pourcentage de dégâts supplémentaire basé sur la valeur d'enchevêtrement du zombie. Le zombie sera instantanément tué lorsque la valeur d'enchevêtrement sera pleine.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pisto-pois + Algue</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Triple Pisto-algue se prélassait au soleil, les yeux scrutant l'horizon. \"Beaucoup de plantes ont peur de mon regard,\" en rigolant. \"Mais elles comprendraient si elles devaient porter trois paires de lunettes de soleil pour se protéger comme moi!\"</color></size>",
+            "info": "<size=36>Peut tire des algues qui ralentissent les zombies aquatiques.\n\n<color=black>Dégâts: </color><color=#8B0000>20×3 /1.5 s + Mort instantanée (Noyade)</color>\n<color=black>Spécial: </color><color=#8B0000>Chaque attaque ajoute 1 point d'Entrave.</color>\n<color=#006400>Altération d'Entrave: </color><color=#8B0000>Ralentit les ennemis et s’additionne à l’altération Cryo. Les zombies subissent des dégâts bonus selon leur niveau d’Entrave, jusqu’à être tués instantanément à Entrave max (30).</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Algue + Triple Pisto-pois</color></size>"
         },
         {
             "seedType": 1052,
@@ -857,9 +857,9 @@
         {
             "seedType": 1055,
             "name": "Triple-Torche",
-            "introduce": "<size=36><color=black>\"Pourquoi Torchtrois est-il si riche ?\" les plantes réfléchissaient fréquemment. \"Oh, ce n'est pas grave,\" il haussa les épaules. Torchtrois a ensuite sorti trois petits pois de ses cheveux et a ajouté : \"Je travaillais comme magicien dans un cirque.\"</color></size>",
-            "info": "<size=36>Peut transformer un pois en trois pois enflammés.\n\n<color=black>Spécial : </color><color=#8B0000>Divise les pois qui passent en 3 petits pois enflammés qui infligent 30 dégâts de zone.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pisto-pois + Torche</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Pourquoi Triple-Torche est-il si riche?\" se demandaient souvent les plantes. \"Oh, c'est n'est pas si difficile,\" haussa-t-il les épaules. Triple-Torche produisit alors trois pois de ses cheveux et ajouta, \"J’avais l’habitude de travailler dans un cirque comme charlat… hum, hum — comme magicien dans un cirque, je voulais dire.\"</color></size>",
+            "info": "<size=36>Divise les pois enflammés sur au maximum 3 rangées.\n\n<color=black>Spécial: </color><color=#8B0000>\nEnflamme les pois:\n<color=black>•</color> 1ère ignition est exactement comme la Torche;\n<color=black>•</color> 2ème ignition se divise en deux pois sur les rangées supérieures et inférieures;\n<color=black>•</color> 3ème ignition se divise en trois pois sur les trois rangées;\n<color=black>•</color> Le cycle se répète.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Triple Pisto-pois + Torche</color></size>"
         },
         {
             "seedType": 1056,
@@ -877,10 +877,10 @@
         },
         {
             "seedType": 1058,
-            "name": "Triple Pisto-pois Brûlé",
-            "introduce": "<size=36><color=black>\"Pourquoi Jalapeño obtient-il toujours tout le mérite ?\" S’exclama Triple Pisto-pois brûlé, de la fumée s’échappant de sa bouche. \"S'ils se rendaient compte que fusionner avec du Jalapeño vous brûle les petits pois.\" Il se tourna vers Torche avec un air sérieux. \"Croyez-moi, vous ne voudriez pas grignoter des petits pois grillés !\"</color></size>",
-            "info": "<size=36>Un Triple Pisto-pois qui ne peut pas fusionner parce qu'il est brûlé.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Produit une ligne de flammes qui inflige 1 800 (Incendiaire) dégâts sur trois voies lorsqu'elle est plantée ou fusionnée.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pisto-pois + Jalapeño</color></size>",
-            "cost": ""
+            "name": "Triple Pisto-brûlé",
+            "introduce": "<align=justified><size=36><color=black>\"Pourquoi Jalapeño reçoit toujours tout le mérite?\" s'exclame Triple Pisto-brûlé, de la fumée s'échappant de sa bouche. \"S'ils savaient seulement qu'en fusionnant avec Jalapeño, cela brûle mes pois.\" Il se tourne vers Torche avec un air sérieux. \"Crois-moi, Tu ne voudras pas croquer des pois carbonisés !\"</color></size>",
+            "info": "<size=36>Un Triple Pisto-pois qui ne peut pas fusionner parce qu'il est brûlé.\n\n<color=black>Dégâts: </color><color=#8B0000>40×3/1.5 s</color>\n<color=black>Spécial: </color><color=#8B0000>Lors de la fusion avec Jalapeño il produit une ligne de flammes infligeant 1800 (Crémateur) de dégâts sur trois rangées.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Triple Pisto-pois + Jalapeño</color></size>"
         },
         {
             "seedType": 1059,
@@ -919,10 +919,10 @@
         },
         {
             "seedType": 1064,
-            "name": "Triple Pisto-ortie",
-            "introduce": "<size=36><color=black>\"Ce n'était que des pellicules que j'ai jetées\", déclara Ortie avec désinvolture. L’épandeur de mauvaises herbes haussa un sourcil, pas convaincu. \"Parler de jalousie, si vous me le demandez,\" répondit-il. \"Vous ne pouvez pas me tromper avec cette excuse.\"</color></size>",
-            "info": "<size=36>Tire 3 orties qui font des dégâts boostés au véhicules.\n\n<color=black>Dégâts : </color><color=#8B0000>5*3/1.5 Secondes (Piercing)</color>\n<color=black>Spécial : </color><color=#8B0000>Les mauvaises herbes infligent 30 % de dégâts d'endurance maximum aux véhicules.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pisto-pois + Ortie</color></size>",
-            "cost": ""
+            "name": "Triple Ortie",
+            "introduce": "<align=justified><size=36><color=black>Triple Ortie est devenu célèbre sur Tumblr grâce à ses publications virales sur les techniques de désherbage, mais quand les fans ont essayé près de leurs tondeuses, les moteurs se sont bloqués et les capots ont fumé. \"Efficace, mais pas sûr pour les véhicules,\" haussa-t-il les épaules.</color></size>",
+            "info": "<size=36>Tire 1 orties sur 3 rangées qui infligent des dégâts accrus aux véhicules.\n\n<color=black>Dégâts: </color><color=#8B0000>5×3/1.5 s (Perçant)</color>\n<color=black>Spécial: </color><color=#8B0000>Les orties infligent 30 % de dégâts maximum sur la Robustesse des véhicules au prix de leur propre Robustesse.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Triple Pisto-pois + Ortie</color></size>"
         },
         {
             "seedType": 1065,
@@ -1606,9 +1606,9 @@
         {
             "seedType": 242,
             "name": "Reine Endoflame",
-            "introduce": "<size=36><color=#3D1400>La petite fleur autrefois ardente est devenue un maître dans la production de lumière solaire après avoir enduré des épreuves. Reine Endoflame n'a plus besoin de se blesser pour briller. La torche sur sa tête est devenue son pouvoir, flamboyant comme le soleil. Les flammes brillantes continuent de passer, créant une Endoflamme après l'autre.</color>",
-            "info": "<size=36>Réduit les zombies en poussière avec des éruptions solaires.\n\n<color=#3D1400>Dégâts : </color><color=red>300x8/2 secondes</color>\n<color=#3D1400>Résistance : </color><color=red>1000</color>\n\n<color=#3D1400>Spécial : </color><color=red>Cible les zombies sur l'écran. Les projectiles projettent le soleil lorsqu'ils touchent des zombies et peuvent être améliorés en passant par Infernowoods pour x4 dégâts.<color=red></color>",
-            "cost": "<size=36>Coût :<color=red>200</color>\nRecharge : <color=red>30 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>La petite fleur autrefois fougueuse est devenue une maîtresse dans l’art de la production de lumière solaire après avoir enduré de nombreuses épreuves. Reine Endoflame n’a plus besoin de se blesser pour briller. La torche sur sa tête est devenue l’essence de son pouvoir, flamboyante comme le soleil. Les flammes lumineuses continuent de flamboyer, créant une Endoflamme après l’autre.</color>",
+            "info": "<size=36>Réduit les zombies en poussière avec des éruptions solaires.\n\n<color=blue>Plante de la collaboration avec Barley Edition S6 (jeu non officiel PVZ)</color>\n<color=#4A2900>Conditions d’utilisation : Mode Odyssey</color>\n<color=#4A2900>Conditions de déverrouillage : Terminer l’Odyssey classique</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>50x8/3s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Augmente les dégâts de 50 % pour chaque type unique de Plante d’Odyssey présent sur le terrain.\n<color=black>•</color>Cible les zombies sur tout le champ de bataille.\n<color=black>•</color>Les projectiles rendent 8 petits soleils à l’impact qui rapportent 15 soleils et peuvent être améliorés en traversant la Torche Infernale / Écras-torche Infernale, infligeant alors x4 dégâts et rendant 25 soleils chacun (avec le modificateur Odyssey d’augmentation de soleil, ils rendent 25 et 75 soleils à la place).<color=#8B0000></color>",
+            "cost": "<size=36>Coût :<color=#8B0000>200</color>\nRecharge : <color=#8B0000>30s</color>"
         },
         {
             "seedType": 243,
