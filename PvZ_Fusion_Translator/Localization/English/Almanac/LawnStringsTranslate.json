@@ -2139,7 +2139,7 @@
             "seedType": 1157,
             "name": "Hypno Magnet",
             "introduce": "<align=justified><size=36><color=black>After countless days and nights of research, Hypno Magnet finally mastered the art of the magnetic charm field. 'Now I can better persuade zombie friends to fight alongside us,' he said. 'Some think I threaten them with metal tools, but one day, the truth will come to light.'</color>",
-            "info": "<size=36>Consumes metal objects and summon the corresponding zombies to fight for you.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Uses metal objects to spawn hypnotized zombies with 40% HP.\n<color=black>•</color> Auto-uses metals generated from Solar Magnet behind itself and those consumed by Magnet-shrooms in the same Magnetic System.</color>",
+            "info": "<size=36>Consumes metal objects and summons the corresponding zombies to fight for you.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Uses metal objects to spawn hypnotized zombies with 40% HP.\n<color=black>•</color> Auto-uses metals generated from Solar Magnet behind itself and those consumed by Magnet-shrooms in the same Magnetic System.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Magnet-shroom.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Magnet-shroom</color>"
         },
         {
@@ -3188,7 +3188,7 @@
         {
             "seedType": 1307,
             "name": "Solarfruit",
-            "introduce": "<align=justified><size=36><color=black>\"I'm Solarfruit, not Sunny Five-fingers! Don't mix us up!\" Solarfruit always tries to explain that he's different from Sunny Five-fingers, but his plant friends don't care. The only supporter he has is the zombies, since they think fingers are definitely more annoying to gnaw on than fruits.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I'm Solarfruit, not Sunny Five-fingers! Don't mix us up!\" Solarfruit always tries to explain that he's different from Sunny Five-fingers, but his plant friends don't care. supporters he has are the zombies, since they think fingers are definitely more annoying to gnaw on than fruits.</color>",
             "info": "<size=36>Uses Sun to shoot high-damage stars.\n\n<color=black>Damage: </color><color=#8B0000>100×5</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Click on a Solarfruit to spend 25 Sun and make it shoot 5 100-damage Stars in 5 directions.\n<color=black>•</color> Uses Sun and shoots automatically every 0.35s if placed in a Starry Pumpkin.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Starfruit</color>"
         },
@@ -3427,13 +3427,13 @@
             "seedType": 1341,
             "name": "Blacklight Plantern",
             "introduce": "<align=justified><size=36><color=black>Blacklight Plantern doesn't consume darkness to create light. Their light is fueled by their contempt for the Zombies, and a couple grams of plutonium. \"My light burns with rage. Pray you don't find it pointed at you.\"\n\n-Written by Goober</color>",
-            "info": "<size=36>His UV light re-ignites embers and grants lasers explosive effects.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 3s, supplies Doomwoods in a 3×3 area with 3 Ember value.\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus turn purple and gain the ability to apply trigger a 1-tile explosion dealing 10 damage on hit after passing through.</color>",
+            "info": "<size=36>His UV light re-ignites embers and grants lasers explosive effects.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 3s, supplies Doomwoods in a 3×3 area with 3 Ember value.\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus turn purple and gain the ability to trigger a 1-tile explosion dealing 10 damage on hit after passing through.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom + Plantern</color>"
         },
         {
             "seedType": 1342,
             "name": "Cab-barrage",
-            "introduce": "<align=justified><size=36><color=black>With a thunderous boom, bright-green shells soar into the sky. \"A farewell gift,\" says Cab-barrage with a nod. \"May their last meal be filling. Even if it is not brains. Everyone gets a serving.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>With a thunderous boom, bright-green shells soar into the sky. \"A farewell gift,\" says Cab-barrage with a nod. \"May their last meal be filling, even if it is not brains. Everyone gets a serving.\"</color>",
             "info": "<size=36>Bombards a wide area ahead with cabbages.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>40/0.75s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When attacking, lobs one cabbage at each zombie in the forward area of his lane and the 2 adjacent lanes.\n<color=black>•</color> Umbrella Kale or Midas Umbrella in front in of his lane can also intercept cabbages that would have been thrown to adjacent lanes and boost them.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult ∞ [Cabbage-pult] ∞ Cabbage-pult < Jicamagic (Place on Middle)</color>"
         },
