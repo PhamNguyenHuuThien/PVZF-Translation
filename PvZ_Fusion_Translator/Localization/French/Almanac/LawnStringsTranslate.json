@@ -1607,7 +1607,7 @@
             "seedType": 242,
             "name": "Reine Endoflame",
             "introduce": "<align=justified><size=36><color=black>La petite fleur autrefois fougueuse est devenue une maîtresse dans l’art de la production de lumière solaire après avoir enduré de nombreuses épreuves. Reine Endoflame n’a plus besoin de se blesser pour briller. La torche sur sa tête est devenue l’essence de son pouvoir, flamboyante comme le soleil. Les flammes lumineuses continuent de flamboyer, créant une Endoflamme après l’autre.</color>",
-            "info": "<size=36>Réduit les zombies en poussière avec des éruptions solaires.\n\n<color=blue>Plante de la collaboration avec Barley Edition S6 (jeu non officiel PVZ)</color>\n<color=#4A2900>Conditions d’utilisation : Mode Odyssey</color>\n<color=#4A2900>Conditions de déverrouillage : Terminer l’Odyssey classique</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>50x8/3s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Augmente les dégâts de 50 % pour chaque type unique de Plante d’Odyssey présent sur le terrain.\n<color=black>•</color>Cible les zombies sur tout le champ de bataille.\n<color=black>•</color>Les projectiles rendent 8 petits soleils à l’impact qui rapportent 15 soleils et peuvent être améliorés en traversant la Torche Infernale / Écras-torche Infernale, infligeant alors x4 dégâts et rendant 25 soleils chacun (avec le modificateur Odyssey d’augmentation de soleil, ils rendent 25 et 75 soleils à la place).<color=#8B0000></color>",
+            "info": "<size=36>Réduit les zombies en poussière avec des éruptions solaires.\n\n<color=blue>Plante de la collaboration avec Barley Edition S6 (jeu non officiel PVZ)</color>\n<color=#4A2900>Conditions d’utilisation : Mode Odyssey</color>\n<color=#4A2900>Conditions de déverrouillage : Terminer l’Odyssey classique</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>50x8/3s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Augmente les dégâts de 50 % pour chaque type unique de Plante d’Odyssey présent sur le terrain.\n<color=black>•</color>Cible les zombies sur tout le champ de bataille.\n<color=black>•</color>Les projectiles rendent 8 petits soleils à l’impact d'une valeur de 5 soleil et peuvent être améliorés en traversant la Torche Infernale / Écras-torche Infernale, infligeant alors x4 dégâts et rendant 15 soleil chacun (avec le modificateur Odyssey d’augmentation de soleil, ils rendent 15 et 25 soleils à la place).<color=#8B0000></color>",
             "cost": "<size=36>Coût :<color=#8B0000>200</color>\nRecharge : <color=#8B0000>30s</color>"
         },
         {
@@ -3239,7 +3239,7 @@
             "name": "Citrouille Incandescente",
             "introduce": "<align=justified><size=36><color=black>\"Joyeux Halloween!\" dit Citrouille Incandescente, distribuant des sacs de bonbons à de petites plantes espiègles. Quand tous ses bonbons ont été distribués, n’oubliez pas d’aller voir sa pièce de théâtre — il pourrait bien y jouer lui-même le rôle du Cavalier sans tête et sans cheval !</color>",
             "info": "<size=36>Une citrouille formée à des températures extrêmes, mais pas très différente de sa version d'origine.\n\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être utilisée pour les fusions.\n<color=black>•</color> Peut être convertie en citrouille normale à l’aide d’un Pot de Glace.</color>",
-            "cost": "\n<size=36>"
+            "cost": "\n<size=36>Coût : <color=#8B0000>Apparait pour 51 pois enflammés par Citrouille Foyé.</color></size>"
         },
         {
             "seedType": 228,
@@ -3254,6 +3254,34 @@
             "introduce": "<align=justified><size=36><color=black>\"Allez, goûte mon beurre frais!\" dit fièrement Champis-gras, montrant sa nouvelle recette. \"Si tu ne l'aime pas, secoue juste ta tête,\" rajouta-t-il. Tout le monde semble apprécier, ou du moins ils sont complètement immobiles.</color>",
             "info": "<size=36>Projette du beurre depuis le haut de son crâne sur les zombies à proximité.\n\n<color=black>Portée d'attaque: </color><color=#8B0000>Une zone dans un rayon de 2,2 cases</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Ne cible pas activement les zombies. Lorsqu'il est endommagé ou touché manuellement et qu'il y a des zombies à portée d'attaque, il effectue une attaque.\n<color=black>•</color> Lorsqu'il attaque, il perd 30 PV max (et PV actuels), lance un morceau de beurre sur chaque zombie à portée, infligeant 40 dégâts et les immobilisant pendant 4 secondes.</color>",
             "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-fumée + Lance-maïs</color>"
+        },
+        {
+            "seedType": 1283,
+            "name": "Noix Incandescente",
+            "introduce": "<align=justified><size=36><color=black>\"Que la lumière soit !\" Et la lumière fut. La Noix Incandescente sourit, irradiant d'une lueur délicate… et un parfum de cumin. Tout juste sortie d’un barbecue, sa coquille croustillante attire des regards affamés de tous côtés, les zombies comme les plante y compris.</color>",
+            "info": "<size=36>Une Noix formée à des températures intenses, mais pas si différente.\n\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être utilisée pour des fusions.\n<color=black>•</color> Peut être convertie en Noix normale à l’aide d’un Pot de glace.</color>",
+            "cost": "\n<size=36>Coût : <color=#8B0000>Apparait pour 51 pois enflammés par Noix Grillée.</color></size>"
+        },
+        {
+            "seedType": 1156,
+            "name": "Algue Incandescente",
+            "introduce": "<align=justified><size=36><color=black>Gérer une source thermale n’est pas chose facile, mais Algue Incandescente est fier de n’avoir jamais reçu aucune plainte de la part des clients. Sur le site ils mettent 5 étoiles. En fait, ils semblent tellement apprécier leur bain qu’ils n’en reviennent jamais. Les rumeurs racontent que tous les avis viennent de Algue Incandescente elle-même, mais qui sait ?</color>",
+            "info": "<size=36>La rumeur dit que cette Algue prospère également dans la lave.\n\n<color=black>Robustesse: </color><color=#8B0000>300</color>\n<color=black>Dégâts: </color><color=#8B0000>Mort instantanée (Noyade)</color>\n<color=black>Spécial: </color><color=#8B0000>Ne peut pas être utilisé dans des fusions.</color>",
+            "cost": "\n<size=36>Coût : <color=#8B0000>Apparait pour 101 pois enflammés par Algue-torche.</color></size>"
+        },
+        {
+            "seedType": 1155,
+            "name": "Ortie Incandescente",
+            "introduce": "<align=justified><size=36><color=black>\"Ce qui ne nous tue pas nous rend plus fort.\" dit sagement Ortie Incandescente, avant de devenir ce qu'elle est maintenant c'était une jeune Ortie fougueuse. Mais après l'épreuve du feu, elle est devenue simple, sage, plus brillante, et prête à offrir aux zombies un accueil plus chaleureux !</color>",
+            "info": "<size=36>Une Ortie brulante ? Qu'elle est la différence entre lui et l'ortie plus froide ?\n\n<color=black>Robustesse: </color><color=#8B0000>300</color>\n<color=black>Dégâts: </color><color=#8B0000>20/1s</color>\n<color=black>Spécial: </color><color=#8B0000>Ne peut pas être utilisée dans les fusions.</color>",
+            "cost": "\n<size=36>Coût : <color=#8B0000>Apparait pour 101 pois enflammés par Torchtie.</color></size>"
+        },
+        {
+            "seedType": 1057,
+            "name": "Écraseur Incandescent",
+            "introduce": "<align=justified><size=36><color=black>Les Écraseurs Incandescent sautent une par une hors d'Écras-torche : \" Ça chauffe ici ; tout notre corps grille, nous ne voulont pas finir en aliment pour Dave le dingo ! \" déclarent-ils.</color></size>",
+            "info": "<size=36>Juste un Écraseur brulant et enrobé d’un glaçage avec une délicieuse sève.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Portée de Détection: </color><color=#8B0000>0,5 tuile à gauche ; 1 tuile à droite</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être utilisée pour des fusions.\n<color=black>•</color> Peut être convertie en un Écraseur normale à l’aide d’un Pot de glace.</color></size>",
+            "cost": "\n<size=36>Coût : <color=#8B0000>Apparait pour 51 pois enflammés par Écras-torche.</color></size>"
         }
     ]
 }
