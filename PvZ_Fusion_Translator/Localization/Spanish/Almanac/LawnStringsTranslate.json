@@ -3928,7 +3928,7 @@
    "seedType": 911,
    "name": "Calatrón",
    "introduce": "<size=39><color=#3D1400>\u0022La fuerza de Magnetoseta es impresionante.\u0022 Calatrón comentó que innovaciones como el blindaje compuesto y las catapultas electromagnéticas surgieron mucho después de los portaaviones. Las plantas envidiaban el equipo futurista de Calatrón, pero solo Magnetoseta sabía que un meteorito del Emperador Estelar le había otorgado su poder.</color></size>",
-   "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\nInvoca Caladrones que rastrean zombis.\n<color=#8B0000>Sistema Magnético:</color>\n</color>- Al formar parte en el mismo sistema magnético que una Calabaza Electromecánica o cualquier Calabaza Metálica, heredará sus rasgos especiales. Adicionalmente, asimila todas las Calabazas Electromecánicas excepto una cada 30 segundos si van en el mismo sistema.</color>\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n<color=#3D1400>Daño:</color> <color=red>100 (por cada mordisco)\n\n<color=#3D1400>Especial:</color> <color=red>Siempre tiene un Caladrón de aliado cuando aparece. Genera otros Caladrones encima de una casilla en un área de 3x3 regularmente.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Drones aliados aumentados a 3 por Calatrón</color>\n- Daño de drones x3</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Echinocactus + Magnetrebol</color></size>",
+   "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\nInvoca Caladrones que rastrean zombis.\n<color=#8B0000>Sistema Magnético:</color>\n</color>- Al formar parte en el mismo sistema magnético que una Calabaza Mecánica o cualquier Calabaza Metálica, heredará sus rasgos especiales. Adicionalmente, asimila todas las Calabazas Electromecánicas excepto una cada 30 segundos si van en el mismo sistema.</color>\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n<color=#3D1400>Daño:</color> <color=red>100 (por cada mordisco)\n\n<color=#3D1400>Especial:</color> <color=red>Siempre tiene un Caladrón de aliado cuando aparece. Genera otros Caladrones encima de una casilla en un área de 3x3 regularmente.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Drones aliados aumentados a 3 por Calatrón</color>\n- Daño de drones x3</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Echinocactus + Magnetrebol</color></size>",
       "cost": "<size=33>Costo: <color=red>550, 625</color>   Recarga: <color=red>75 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
     },
     {
@@ -4094,9 +4094,9 @@
     },
     {
    "seedType": 935,
-   "name": "Calabaza Electromecánica",
+   "name": "Calabaza Mecánica",
    "introduce": "<size=39><color=#3D1400>La Cabaza Electromecánica ha sido modificada mecánicamente, con una mejor resistencia y puertos conectados a piezas de hierro. Está muy satisfecho con estos cambios, pero, ¿nadie le ha dicho que se parece mucho a un cangrejo?</color></size>",
-   "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\nTe protege de toda cosa metálica.\n<color=#8B0000>Sistema Magnético:</color>\n</color>- Al formar parte en el mismo sistema magnético que un Calatrón, esta heredará los rasgos especiales de Calabaza Electromecánica. Adicionalmente, asimila todas las Calabazas Electromecánicas excepto una cada 30 segundos si van en el mismo sistema.\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Inmune a explosiones de cajitas sorpresa, y obliga a zombis mineros a salir del piso tempranamente.\n- Recibe la mitad de daño de cerezas explosivas.\n- Puede recuperar PS con objetos metálicos.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Calabaza Magnética + Magnetoseta</color></size>",
+   "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\nTe protege de toda cosa metálica.\n<color=#8B0000>Sistema Magnético:</color>\n</color>- Al formar parte en el mismo sistema magnético que un Calatrón, esta heredará los rasgos especiales de Calabaza Mecánica. Adicionalmente, asimila todas las Calabazas Electromecánicas excepto una cada 30 segundos si van en el mismo sistema.\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Inmune a explosiones de cajitas sorpresa, y obliga a zombis mineros a salir del piso tempranamente.\n- Recibe la mitad de daño de cerezas explosivas.\n- Puede recuperar PS con objetos metálicos.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Calabaza Magnética + Magnetoseta</color></size>",
       "cost": "<size=33>Costo: <color=red>325, 475</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
     },
     {
@@ -5652,9 +5652,9 @@
     },
     {
       "seedType": 1170,
-      "name": "Papitapum",
-      "introduce": "<size=39><color=#3D1400>Una planta le preguntó: \"Papitapum, ¿por qué tu cabeza está tan roja?\" La Papitapum respondió: \"Y yo te pregunto, ¿y a ti qué?\"</color>",
-      "info": "<size=39>¡Puede reproducirse por sí misma!\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s</color>\n<color=#3D1400>Especial:</color> <color=red>Reproduce una nueva Papitapum cada 20 segundos. Las Papitapum sin tener su luz roja no podrán reproducirse. Al morir, inflige 300 de daño a los zombis cercanos.</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Patatapum</color>",
+      "name": "Papitaseta",
+      "introduce": "<size=39><color=#3D1400>Una planta le preguntó: \"Papitaseta, ¿por qué tu cabeza está tan roja?\" La Papitaseta respondió: \"Y yo te pregunto, ¿y a ti qué?\"</color>",
+      "info": "<size=39>¡Puede reproducirse por sí misma!\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s</color>\n<color=#3D1400>Especial:</color> <color=red>Reproduce una nueva Papitapum cada 20 segundos. Las Papitasetas sin tener su luz roja no podrán reproducirse. Al morir, inflige 300 de daño a los zombis cercanos.</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Patatapum</color>",
       "cost": "<size=39>Costo: <color=red>25, 100</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
