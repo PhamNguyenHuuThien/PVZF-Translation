@@ -268,10 +268,10 @@
         },
         {
             "seedType": 252,
-            "name": "Jonc-chan",
-            "introduce": "<size=36><color=black>\"Les chats ont généralement peur de l'eau, mais je suis une fille-chat magique, donc je n'ai pas peur.\" \" dit-elle avec enthousiasme, et les autres chats la regardèrent avec admiration. En fait, elle adore l'eau, et elle a dit cela pour se démarquer.</color></size>",
-            "info": "<size=36>Jonc-chan attaquera automatiquement tous les zombies qui apparaissent sur la carte.\n\n<color=black>Dégâts : </color><color=#8B0000>40*2/1.5 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "name": "Nénu-chan",
+            "introduce": "<align=justified><size=36><color=black>\"Les chats ont généralement peur de l'eau, mais je suis une mahō shōjo (héroïnes magiques), donc je n'ai pas peur car je ne suis pas un chat comme les autres !\" dit-elle avec enthousiasme, et les autres chats la regardèrent avec admiration. En fait, elle adore l'eau, et elle a dit cela pour se démarquer.</color></size>",
+            "info": "<size=36>Nénu-chan attaquera automatiquement tous les zombies qui apparaissent sur le champ.\n\n<color=blue>Plante de la collaboration avec PvZ Girls (jeu non officiel PvZ)</color>\n<color=#4A2900>Conditions de déverouillage: Finir l'attack des Gargantuas !</color>\n<color=black>Dégâts : </color><color=#8B0000>40×2/1.5s</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 253,
@@ -3226,6 +3226,20 @@
             "introduce": "<align=justified><size=36><color=black>Mine Tripatate adore jouer des tours sous terre. Elle surgit avec des surprises non pas une, ni deux, mais trois fois — comme une farceuse au stock d’explosifs inépuisable. Attention où vous mettez les pieds, ou vous pourriez bien vous prendre un triple coup qui vous fera décoller de vos bottes.\n\n- Écrit par Mme Draco</color></size>",
             "info": "<size=36>La Mine Tripatate refait surface après chaque explosion et tire des projectiles de pomme de terre sur trois lignes.\n\n<color=blue>Réversible en appuyant sur R</color>\n<color=black>Dégâts : </color><color=#8B0000>20×3/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Une fois armée, explose au contact, infligeant 3600 dégâts, repoussant les zombies d’1 case, puis retourne sous terre.\n<color=black>•</color> Réémerge 15 s après l’explosion. Explose et disparaît immédiatement au contact des véhicules.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(160 Soleil) Dégâts des projectiles +50 %\n<color=black>• Voie élite 1 : </color>(400 Soleil) Dégâts des projectiles +200 %\n<color=black>• Voie élite 2 : </color>(400 Soleil) Déclenche désormais une capacité ultime toutes les 60 s, tirant 250 projectiles droit devant pendant 5 s, plus 500 supplémentaires dans un cône de 0 à 45°</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>400</color>\nRecharge : <color=#8B0000>30 s</color></size>"
+        },
+        {
+            "seedType": 240,
+            "name": "Orge d'Obsidienne",
+            "introduce": "<align=justified><size=36><color=black>La statue d’Orge d'Obsidienne dans le jardin serait le résultat d’un mini-jeu de construction de plantes devenu incontrôlable. \"Ou peut-être pas, qui sais ?\" dit Orge d'Obsidienne en ricanant. \" Je pense qu’ils me voyaient déjà comme le défi ultime de \"Construit et Devine\" bien avant mon arrivée. Mais bon, ça ne me dérange pas — qui n’aimerait pas avoir une telle statue à sa propre effigie et qui nous affiches sous notre meilleur jour ?</color>",
+            "info": "<size=36>Une version élégante d'Orge à l’apparence d’obsidienne, qui se transforme périodiquement en une plante Odyssée/Ultime aléatoire.\n\n<color=#4A2900>Conditions d’utilisation : s'utilise comme Orge mais le remplace dans le mode Odyssée : Aventure</color>\n<color=black>Spécial: </color><color=#8B0000>Se transforme en une plante Odyssée/Ultime aléatoire toutes les 30 s (Champi-avare exclue)</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>500</color>\nRecharge: <color=#8B0000>60s</color>"
+        },
+        {
+            "seedType": 1289,
+            "name": "Citrouille Incandescente",
+            "introduce": "<align=justified><size=36><color=black>\"Joyeux Halloween!\" dit Citrouille Incandescente, distribuant des sacs de bonbons à de petites plantes espiègles. Quand tous ses bonbons ont été distribués, n’oubliez pas d’aller voir sa pièce de théâtre — il pourrait bien y jouer lui-même le rôle du Cavalier sans tête et sans cheval !</color>",
+            "info": "<size=36>Une citrouille formée à des températures extrêmes, mais pas très différente de sa version d'origine.\n\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être utilisée pour les fusions.\n<color=black>•</color> Peut être convertie en citrouille normale à l’aide d’un Pot de Glace.</color>",
+            "cost": "\n<size=36>"
         },
         {
             "seedType": 228,

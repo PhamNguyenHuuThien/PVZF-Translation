@@ -515,6 +515,12 @@
             "name": "Yéti Dragon",
             "introduce": "<size=36>",
             "info": "<size=36>Les zombies Nian ont des armures robustes.\n\n<color=black>Résistance : </color><color=#4B0082>8888+8888</color>\n<color=black>Faiblesse : </color><color=#4B0082>Bambooms</color>"
+        },
+        {
+            "theZombieType": 49,
+            "name": "Lance-neige de la Légion",
+            "introduce": "<align=justified><size=36><color=black>\" Bataille de boules de neige ! \" Le Lance-neige de la legion se réveille de son sommeil glacé, projetant des boules de neige dans toutes les directions.\n\n\" On devrait lui dire ? \"\n\" Nah, voyons combien de temps il lui faudra pour s’en rendre compte. \"\n\nSMACK ! — Une nouvelle boule de neige atteint sa cible.\n\n\" Ça fait quatorze. \"</color>",
+            "info": "<size=36>Le Lance-neige de la légion peut attaquer vos plantes avec des boules de neige et les geler.\n\n<color=black>Endurance : </color><color=#4B0082>720</color>\n<color=black>Dégâts : </color><color=#4B0082>20 / 2 s</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Immunisé contre le Refroidissement et le Gel. Vulnérable au Gel profond.\n<color=black>•</color> Après son apparition, il lance continuellement des boules de neige sur les plantes. Celles-ci infligent 20 dégâts et explosent à l’impact, neutralisant les plantes pendant 5 s dans une zone de 3 × 3. Les boules de neige infligent 10 points de Cryo aux zombies hypnotisés affectés.</color>\n<color=black>Faiblesse : </color><color=#4B0082>Ombrelle Pastèque</color>"
         }
     ]
 }
