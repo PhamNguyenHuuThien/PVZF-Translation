@@ -3900,7 +3900,7 @@
    "seedType": 907,
    "name": "Petantralladora",
    "introduce": "<size=39><color=#3D1400>\"Petantralladora es una fuerza prohibida\", dicen las plantas. Sin embargo, es amigable... aunque los zombis calcinados no estarían de acuerdo.</color></size>",
-   "info": "<size=39>Dispara ráfagas destructivas con daño en área.\n\n<color=#3D1400>Daño:</color> <color=red>300*4 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>Lanza una Petaseta que hace 1800 de daño cada 4 rondas de balas; dichas Petasetas hacen gran daño en área. Petantralladora descansa por 4,5s después de que la Petaseta es disparada.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Ya no necesita descansar entre cada ronda de disparos | Subespecie Setantralladora desbloqueada</color>\n- Ahora puede disparar Petasetas entre cada ronda de balas</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantralladora + Petaseta</color></size>",
+   "info": "<size=39>Dispara ráfagas destructivas con daño en área.\n\n<color=#3D1400>Daño:</color> <color=red>300*4 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>Lanza una Petaseta que hace 1800 de daño cada 4 rondas de balas; dichas Petasetas hacen gran daño en área. Petantralladora descansa por 4,5s después de que la Petaseta es disparada.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Ya no necesita descansar entre cada ronda de disparos | Subespecie Setantralladora Atómica desbloqueada</color>\n- Ahora puede disparar Petasetas entre cada ronda de balas</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantralladora + Petaseta</color></size>",
       "cost": "<size=33>Costo: <color=red>525, 600</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
     },
     {
@@ -4059,9 +4059,9 @@
     },
     {
    "seedType": 930,
-   "name": "Setantralladora",
+   "name": "Setantralladora Atómica",
    "introduce": "<size=39><color=#3D1400>Comparada con la serenidad de Petantralladora, esta versión tiene un temperamento explosivo. \"¡Silencio!\", grita al lanzarse al combate cuando la llaman un \"Huevo Gris\".</color></size>",
-   "info": "<size=39>Lentamente gana el coraje de disparar petasetitas a zombis.\n\n<color=#3D1400>Daño:</color> <color=red>300 cada 1,5s (mínimo 0,25)\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Petantralladora que se puede cambiar entre Seta Miédica y Lanzaguisantes. Cada ataque suyo bajará el intervalo de disparos por 0,1 segundos, hasta 0,25 segundos. Explota si algún zombi se acerca, y lanza una Petaseta cada 16 ataques, haciendo 1800 de daño (cada 4 ataques con uno de los modificadores de Petantralladora)\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Ya no necesita descansar entre cada ronda de balas | Subespecie Setantralladora desbloqueada</color>\n<color=black>   - Hereda sus características</color></color>\n- Ahora puede disparar Petasetas entre cada ronda de balas</color>\n<color=black>   - Hereda sus características.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Petantralladora + Seta Miédica</color></size>",
+   "info": "<size=39>Lentamente gana el coraje de disparar petasetitas a zombis.\n\n<color=#3D1400>Daño:</color> <color=red>300 cada 1,5s (mínimo 0,25)\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Petantralladora que se puede cambiar entre Seta Miédica y Lanzaguisantes. Cada ataque suyo bajará el intervalo de disparos por 0,1 segundos, hasta 0,25 segundos. Explota si algún zombi se acerca, y lanza una Petaseta cada 16 ataques, haciendo 1800 de daño (cada 4 ataques con uno de los modificadores de Petantralladora)\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Ya no necesita descansar entre cada ronda de balas | Subespecie Setantralladora Atómica desbloqueada</color>\n<color=black>   - Hereda sus características</color></color>\n- Ahora puede disparar Petasetas entre cada ronda de balas</color>\n<color=black>   - Hereda sus características.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Petantralladora + Seta Miédica</color></size>",
       "cost": "<size=33>Costo: <color=red>550, 675</color>   Recarga: <color=red>87,5 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Mejora de Odisea - S.I.</color></size>"
     },
     {
@@ -4157,8 +4157,8 @@
     },
     {
       "seedType": 944,
-      "name": "Electroseta",
-      "introduce": "<size=39><color=#3D1400>Electroseta domina el hierro con truenos explosivos. Otorga a su pueblo magnetismo eterno y construye un reino de electricidad. Sin embargo, más allá de sus conquistas militares y logros políticos, aún sufre dolores de cabeza en la búsqueda de una reina con una polaridad opuesta.</color></size>",
+      "name": "Magnetoseta Tesla",
+      "introduce": "<size=39><color=#3D1400>Magnetoseta Tesla domina el hierro con truenos explosivos. Otorga a su pueblo magnetismo eterno y construye un reino de electricidad. Sin embargo, más allá de sus conquistas militares y logros políticos, aún sufre dolores de cabeza en la búsqueda de una reina con una polaridad opuesta.</color></size>",
       "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> y <color=#8B0000>Sistema Magnético</color>\nExtremadamente magnético, absorbe rápidamente objetos metálicos y los convierte en cerezas explosivas.\n\n<color=#3D1400>Especial:</color> <color=red>\n- Hereda los rasgos de Luminimán; Recarga de absorción de objetos: 0,5s\n- Puede atraer los pogos de Pogozombis Bromistas y convertirlos en Cajitas Sorpresa. También hace lo mismo con los Drones Kírov, matándolos instantáneamente.\n- Hace 300 de daño cada 0,5s a un Vegezombi Pescador o un Vegezombi Letal-Star en su rango.\n- Lanza los metales absorbidos después de 3s, haciendo el mismo daño en área que cerezas explosivas.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Daño a Vegezombis Pescadores/Vegezombis Lethal-Stars x3, puede agarrar el triple de objetos</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Luminimán + Magnetoseta Carmesí</color></size>",
       "cost": "<size=33>Costo: <color=red>375, 525</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
     },
@@ -5864,7 +5864,7 @@
       "seedType": 1200,
       "name": "Calabaza Valiente",
       "introduce": "<size=39><color=#3D1400>\"Créeme, es muy seguro aquí dentro\". La Calabaza Valiente consuela suavemente a las Setas Miédicas, con un gramófono y un libro de cuentos que los protege del miedo a las hordas.</color></size>",
-      "info": "<size=39>Ayudan a las Setas Miédicas superar sus miedos.</color>\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Especial:</color> <color=red>Las fusiones de Seta Miédica no se esconden de los zombis al estar adentro de la Calabaza Valiente. (Miédica Atómica y la Setantralladora no se autodestruirán)</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Miédica + Calabaza</color></size>",
+      "info": "<size=39>Ayudan a las Setas Miédicas superar sus miedos.</color>\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Especial:</color> <color=red>Las fusiones de Seta Miédica no se esconden de los zombis al estar adentro de la Calabaza Valiente. (Miédica Atómica y la Setantralladora Atómica no se autodestruirán)</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Miédica + Calabaza</color></size>",
       "cost": "<size=39>Costo: <color=red>150, 225</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
