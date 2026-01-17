@@ -22,7 +22,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **1**
+* Nouvelles traductions : **3**
 * Traductions ajustées : **18**
 
 ---
@@ -30,6 +30,23 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `12/01/26 → 17/01/26`
+> [PR#59](https://github.com/Teyliu/PVZF-Translation/pull/59) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **2**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Necroflamme** (`seedType: 228`)
+* **Champi-gras** (`seedType: 1346`)
 
 ---
 

@@ -28,15 +28,85 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **178**
+* Nouvelles traductions : **187**
 * Traductions ajustées : **113**
-* Reviews effectuées : **171**
+* Reviews effectuées : **197**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `12/01/26 → 17/01/26`
+> [PR#59](https://github.com/Teyliu/PVZF-Translation/pull/59) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **9**
+* Reviews effectuées : **26**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Amp-gnion** (`seedType: 34`)
+* **Amp-gnion (TD)** (`seedType: 357`)
+* **Champi-courageux (TD)** (`seedType: 362`)
+* **Troufle Gelé (TD)** (`seedType: 363`)
+* **Étoile de la Mort (TD)** (`seedType: 364`)
+* **Rafale-coulante (TD)** (`seedType: 365`)
+* **Nénuphar (TD)** (`seedType: 366`)
+* **Noix Écraseuse (TD)** (`seedType: 367`)
+* **Mine Tripatate (TD)** (`seedType: 368`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Translations**
+[Same-ael](./same_el.md) :
+* **Orge d'Obsidienne** (`seedType: 240`)
+* **Citrouille Incandescente** (`seedType: 1289`)
+* **Noix Incandescente** (`seedType: 1283`)
+* **Algue Incandescente** (`seedType: 1156`)
+* **Ortie Incandescente** (`seedType: 1155`)
+* **Écraseur Incandescent** (`seedType: 1057`)
+
+[Oarlina](./oarlina.md) :
+* **Necroflamme** (`seedType: 228`)
+* **Champi-gras** (`seedType: 1346`)
+
+
+### 🧩 **Modified Plants**
+[Same-ael](./same_el.md) :
+* **Mini-hypno** (`seedType: 1022`)
+* **Mini-glace** (`seedType: 1036`)
+* **Mini-mort** (`seedType: 1044`)
+* **Champi-stalagmite** (`seedType: 1035`)
+* **Double-champi-pois** (`seedType: 1019`)
+* **Triple-champi-pois** (`seedType: 1153`)
+* **Champi-sulfateuse** (`seedType: 1065`)
+* **Champi-seau** (`seedType: 1152`)
+* **Triple-Torche** (`seedType: 1055`)
+* **Triple Pisto-algue** (`seedType: 1051`)
+* **Triple Pisto-brûlé** (`seedType: 1058`)
+* **Triple Ortie** (`seedType: 1064`)
+* **Reine Endoflame** (`seedType: 242`)
+* **Nénu-chan** (`seedType: 252`)
+
+### 🧟‍♂️ **Newly Added Zombie Translations**
+
+[Capitain Artex](./artex2000.md) :
+* **Lance-neige de la Légion** (`theZombieType: 49`)
+
+### 🛠️ **Modified Zombies**
+
+[Capitain Artex](./artex2000.md) :
+* **Zombie Tuba** (`theZombieType: 17`)
+* **Zombie Boîte-en-Or** (`theZombieType: 22`)
+* **Zombie Boîte-en-Argent** (`theZombieType: 23`)
 
 ---
 

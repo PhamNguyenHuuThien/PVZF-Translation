@@ -21,14 +21,52 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **4**
-* Traductions ajustées : **62**
+* Nouvelles traductions : **10**
+* Traductions ajustées : **76**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `12/01/26 → 17/01/26`
+> [PR#59](https://github.com/Teyliu/PVZF-Translation/pull/59) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **6**
+* Traductions ajustées : **14**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Orge d'Obsidienne** (`seedType: 240`)
+* **Citrouille Incandescente** (`seedType: 1289`)
+* **Noix Incandescente** (`seedType: 1283`)
+* **Algue Incandescente** (`seedType: 1156`)
+* **Ortie Incandescente** (`seedType: 1155`)
+* **Écraseur Incandescent** (`seedType: 1057`)
+
+## 🧩 **Modified Plants**
+* **Mini-hypno** (`seedType: 1022`)
+* **Mini-glace** (`seedType: 1036`)
+* **Mini-mort** (`seedType: 1044`)
+* **Champi-stalagmite** (`seedType: 1035`)
+* **Double-champi-pois** (`seedType: 1019`)
+* **Triple-champi-pois** (`seedType: 1153`)
+* **Champi-sulfateuse** (`seedType: 1065`)
+* **Champi-seau** (`seedType: 1152`)
+* **Triple-Torche** (`seedType: 1055`)
+* **Triple Pisto-algue** (`seedType: 1051`)
+* **Triple Pisto-brûlé** (`seedType: 1058`)
+* **Triple Ortie** (`seedType: 1064`)
+* **Reine Endoflame** (`seedType: 242`)
+* **Nénu-chan** (`seedType: 252`)
 
 ---
 

@@ -116,15 +116,15 @@
         },
         {
             "theZombieType": 20,
-            "name": "Zombie Trident ",
-            "introduce": "<size=32><color=black>Trident Zombie n'était à l'origine qu'un simple lanceur de javelot devenu pêcheur après avoir pris sa retraite. Cependant, lorsqu'il est allé pêcher à la rivière, il a coulé parce qu'il ne savait pas nager. Lorsqu'il a débarqué, il a réalisé qu'il était devenu ce qu'il est maintenant.</color>",
+            "name": "Zombie Trident",
+            "introduce": "<size=32><color=black>Le Zombie Trident n'était à l'origine qu'un simple lanceur de javelot devenu pêcheur après avoir pris sa retraite. Cependant, lorsqu'il est allé pêcher à la rivière, il a coulé parce qu'il ne savait pas nager. Lorsqu'il a débarqué, il a réalisé qu'il était devenu un Zombie.</color>",
             "info": "<size=32>Lance un trident pour attaquer vos plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Lance un trident, infligeant des dégâts aux plantes égaux à 20 % (minimum de 60) de leur Robustesse actuelle</color>\n<color=black>Portée d'Attaque : </color><color=#4B0082>Au-delà de 3,5 grilles.</color>"
         },
         {
             "theZombieType": 21,
-            "name": "Zombie Boîte-en-Diamond",
-            "introduce": "<size=33><color=black>Ce soir, les Zombies Diamond-box dévoileront leur monde éblouissant. Leurs yeux brillent comme les étoiles les plus brillantes du ciel nocturne, et la lumière dorée semble couler comme une rivière à travers le temps, illuminant le chemin incertain qui les attend. Chaque fois que le couvercle de la boîte est doucement ouvert, vous avez l'impression d'ouvrir une porte vers un autre royaume.</color>",
-            "info": "<size=33>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>4400</color>\n<color=black>Spécial : </color><color=#4B0082>Se transformer en Zombie Boîte-en-Or en mourant.</color>"
+            "name": "Zombie Boîte-en-Diamand",
+            "introduce": "<size=33><color=black>Ce soir, les Zombies  dévoileront leur monde éblouissant. Leurs yeux scintillent comme les étoiles les plus brillantes du ciel nocturne, et la lumière dorée semble couler comme une rivière à travers le temps, illuminant le chemin incertain qui les attend. Chaque fois que le couvercle de la boîte est doucement ouvert, vous avez l'impression d'ouvrir une porte vers un autre royaume.</color>",
+            "info": "<size=33>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>4400</color>\n<color=black>Spécial : </color><color=#4B0082>Se transforme en Zombie Boîte-en-Or en perdant sont armure.</color>"
         },
         {
             "theZombieType": 22,
@@ -146,9 +146,9 @@
         },
         {
             "theZombieType": 25,
-            "name": "Zombie Ballon ",
-            "introduce": "<size=33><color=black>Balloon Zombie, l'un des créateurs de Zomppelin, se fait souvent demander pourquoi il s'attache des ballons. Sa réponse habituelle est : « C'était ma conclusion. » Cependant, la vérité est que les ballons se sont simplement emmêlés par hasard.</color>",
-            "info": "<size=33>Le ballon zombie vole au-dessus de la piste et est immunisé contre la plupart des attaques.\n\n<color=black>Robustesse : </color><color=#4B0082>270+20</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être endommagé par la plupart des plantes en volant.</color>"
+            "name": "Zombie Ballon",
+            "introduce": "<size=33><color=black>Le Zombie ballon, l'un des créateurs du Zomppelin, On lui demande souvent pourquoi il s’attache des ballons. Il réponse habituelle est : \" C’était ma conclusion. \" Pourtant, la vérité est bien plus simple : les ballons se sont simplement emmêlés par hasard.</color>",
+            "info": "<size=33>Le Zombie Ballon vole au-dessus du terrain et est immunisé contre la plupart des attaques.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 20 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être endommagé par la plupart des plantes en volant.</color>"
         },
         {
             "theZombieType": 26,
@@ -159,14 +159,14 @@
         {
             "theZombieType": 27,
             "name": "Yeti Baleine",
-            "introduce": "<size=30><color=black>La baleine blanche que monte Yeti Zombie possède des capacités de saut impressionnantes. Dolphin Rider Zombie est assez envieux et a toujours voulu l'emprunter pour une balade, mais Yeti Zombie refuse à chaque fois. \"Yeti Zombie n'a aucun contrôle sur sa baleine blanche\", a déclaré le Dr Edgar. \"Il veut toujours se cacher derrière moi, mais la baleine blanche finit par faire le chemin inverse.\"</color>",
-            "info": "<size=30>Saute de trois tuiles en avant et fait demi-tour, attaquant vos plantes par derrière.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être bloqué par Tall-nuts.</color>"
+            "introduce": "<size=30><color=black>La baleine blanche que monte le Zombie Yeti possède des capacités de saut impressionnantes. Le Zombie chevaucheur de dauphin est assez envieux et a toujours voulu l'emprunter pour une balade, mais le Zombie Yeti refuse à chaque fois. \"Zombie Yeti n'a aucun contrôle sur sa baleine blanche\", a déclaré le Dr Edgar. \"Il veut toujours se cacher derrière moi, mais la baleine blanche finit par faire le chemin inverse.\"</color>",
+            "info": "<size=30>Saute de trois tuiles en avant et fait demi-tour, attaquant vos plantes par derrière.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être bloqué par les Grandes-Noix.</color>"
         },
         {
             "theZombieType": 28,
             "name": "Zombie Mineur",
-            "introduce": "<size=34><color=black>Il y a longtemps, les Digger Zombies méprisaient les Champi-aimants pour avoir constamment confisqué leurs outils. Maintenant, ils détestent encore plus les Miner Citrouilles. \"Ma tête continue de recevoir des coups, ce qui me fait me sentir encore plus mal\", déplore-t-il.</color>",
-            "info": "<size=34>Ce zombie creuse pour contourner vos défenses.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Tunnels souterrains et apparaît sur le côté gauche de la pelouse. Vulnérable aux Champi-aimants.</color>"
+            "introduce": "<size=34><color=black>Il y a longtemps, les Zombies Mineur méprisaient les Champi-aimants pour avoir constamment confisqué leurs outils. Maintenant, ils détestent encore plus les Citrouilles Mineuse. \"Ma tête continue de recevoir des coups, ce qui me fait me sentir encore plus mal\", déplore-t-il.</color>",
+            "info": "<size=34>Ce zombie creuse pour contourner vos défenses.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Creuse un tunnel souterrain et apparaît sur le côté gauche de la pelouse. Vulnérable aux Champi-aimants.</color>"
         },
         {
             "theZombieType": 29,
@@ -189,8 +189,8 @@
         {
             "theZombieType": 32,
             "name": "Zombie Pogo",
-            "introduce": "<size=36><color=black>Pogo Zombie adore sautiller, pensant que sauter vers le ciel est ce qui se rapproche le plus de voler. Mais personne ne leur a dit de ne pas utiliser de trampoline sur le toit...</color>",
-            "info": "<size=36>Un zombie qui peut sauter par-dessus vos défenses.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Peut sauter par-dessus les plantes</color>"
+            "introduce": "<align=justified><size=36><color=black>Sproing ! Sproing ! Sproing ! C'est le bruit d'un zombie puissant et efficace qui fait ce qu'il fait de mieux.</color>",
+            "info": "<size=36>Un zombie capable de sauter par-dessus vos défenses.\n\n<color=black>Résistance : </color><color=#4B0082>720</color>\n<color=black>Caractéristiques : </color><color=#4B0082>Peut sauter par-dessus les plantes. Le bâton sauteur peut être retiré par les plantes magnétique.</color>"
         },
         {
             "theZombieType": 33,
@@ -515,6 +515,12 @@
             "name": "Yéti Dragon",
             "introduce": "<size=36>",
             "info": "<size=36>Les zombies Nian ont des armures robustes.\n\n<color=black>Résistance : </color><color=#4B0082>8888+8888</color>\n<color=black>Faiblesse : </color><color=#4B0082>Bambooms</color>"
+        },
+        {
+            "theZombieType": 49,
+            "name": "Lance-neige de la Légion",
+            "introduce": "<align=justified><size=36><color=black>\" Bataille de boules de neige ! \" Le Lance-neige de la legion se réveille de son sommeil glacé, projetant des boules de neige dans toutes les directions.\n\n\" On devrait lui dire ? \"\n\" Nah, voyons combien de temps il lui faudra pour s’en rendre compte. \"\n\nSMACK ! — Une nouvelle boule de neige atteint sa cible.\n\n\" Ça fait quatorze. \"</color>",
+            "info": "<size=36>Le Lance-neige de la légion peut attaquer vos plantes avec des boules de neige et les geler.\n\n<color=black>Endurance : </color><color=#4B0082>720</color>\n<color=black>Dégâts : </color><color=#4B0082>20 / 2 s</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Immunisé contre le Refroidissement et le Gel. Vulnérable au Gel profond.\n<color=black>•</color> Après son apparition, il lance continuellement des boules de neige sur les plantes. Celles-ci infligent 20 dégâts et explosent à l’impact, neutralisant les plantes pendant 5 s dans une zone de 3 × 3. Les boules de neige infligent 10 points de Cryo aux zombies hypnotisés affectés.</color>\n<color=black>Faiblesse : </color><color=#4B0082>Ombrelle Pastèque</color>"
         }
     ]
 }

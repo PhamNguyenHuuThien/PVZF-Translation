@@ -21,13 +21,39 @@ Ce document retrace l’ensemble des contributions effectuées par **Ink Stolas*
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traductions ajustées : **6**
+* Nouvelles traductions : **2**
+* Traductions ajustées : **12**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `12/01/26 → 17/01/26`
+> [PR#59](https://github.com/Teyliu/PVZF-Translation/pull/59) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+* Traductions ajustées : **6**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Lance-neige de la Légion** (`theZombieType: 49`)
+
+## 🛠️ **Modified Zombies**
+* **Zombie Trident** (`theZombieType: 20`)
+* **Zombie Boîte-en-Diamand** (`theZombieType: 21`)
+* **Yeti Baleine** (`theZombieType: 27`)
+* **Zombie Mineur** (`theZombieType: 28`)
+* **Zombie Ballon** (`theZombieType: 25`)
+* **Zombie Pogo** (`theZombieType: 32`)
 
 ---
 
