@@ -619,6 +619,30 @@
             "info": "<size=36>A tough, smug parkour enthusiast who, once locked in, swerves and sprints with a burst of speed.\n\n<color=blue>Xiaoxiaosu Collab Zombie, exclusive to Vasebreaker and Gacha Modes</color>\n<color=black>Toughness: </color><color=#4B0082>9527</color>\n<color=black>Traits: </color><color=#4B0082>Switches lanes and speeds up by 3× when HP drops to 2/3.</color>"
         },
         {
+            "theZombieType": 126,
+            "name": "Flame Tall-nut Zombie",
+            "introduce": "<align=justified><size=36><color=black>Flame Tall-nut Zombie is seething with rage, not because he has a bad temper or entered a chili-eating contest, but because he's had a falling-out with his brother, Frost Tall-nut Zombie. His brother prefers to eat mushrooms raw and frozen, while he insists mushrooms should be properly grilled before eating.</color>",
+            "info": "<size=36>Unafraid of the trials of fire, but particularly vulnerable to the cold.\n\n<color=black>Damage: </color><color=#4B0082>100</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to enflamed and butter. Immune to Jalapeno effects. Receives true damage equal to 1/3 of his max HP when affected by an Ice-shroom. Movement speed increases over time after appearance, up to 2× its initial speed.</color>"
+        },
+        {
+            "theZombieType": 127,
+            "name": "Obsidian Tall-nut Zombie",
+            "introduce": "<align=justified><size=36><color=black>Tempered by both frost and flame, Obsidian Tall-nut Zombie's head has become nearly indestructible!…That is, as long as the temperature doesn't change too quickly.</color>",
+            "info": "<size=36>Forged by ice and fire into extreme hardness, but Jalapenos and Ice-shrooms remain his weakness.\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>1500 + 4500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill, freeze, enflamed and butter. Has an innate 90% incoming damage reduction. Receives true damage equal to 1/3 of his max HP when affected by an Ice-shroom or a Jalapeno. When a Frost Tall-nut Zombie and a Flame Tall-nut Zombie are in the same tile, they fuse into an Obsidian Tall-nut Zombie.</color>"
+        },
+        {
+            "theZombieType": 128,
+            "name": "Solar-nut Zombie",
+            "introduce": "<align=justified><size=36><color=black>Unlike other zombies, Solar-nut Zombie can satisfy most of its physiological needs simply by basking in sunlight. As for why it still obsessively chases brains like every other zombie - perhaps the craving for brains means far more to zombies than ordinary survival needs ever could.</color>",
+            "info": "<size=36>Periodically drains your sun.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Drains 25 Sun from the player every 15s not stunned or frozen.</color>"
+        },
+        {
+            "theZombieType": 129,
+            "name": "Twin Solar-nut Zombie",
+            "introduce": "<align=justified><size=36><color=black>Compared to his peers, Twin Solar-nut Zombie boasts a more splendid appearance, a harder head, and far greater power, standing head and shoulders above the rest. But the trait he's most proud of, and the one that earned him the \"Most Unique Zombie\" award at Tombstone Festival, is this: he has four eyes.</color>",
+            "info": "<size=36>Consumes your sun to reduce incoming damage.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Drains 25 Sun from the player every 15s not stunned or frozen. When taking damage, negates that damage and instead takes a fixed 20 damage while draining 5 Sun from the player. When a Wall-nut Zombie and a Solar-nut Zombie are in the same tile, they fuse into a Twin Solar-nut Zombie.</color>"
+        },
+        {
             "theZombieType": 200,
             "name": "Sharkmarine",
             "introduce": "<align=justified><size=36><color=black>\"An excellent diver should not only be able to dive but also drive a super submarine!\" declared Sharkmarine Zombie as he increased the submarine's horsepower by one gear.</color>",
@@ -857,6 +881,24 @@
             "name": "Clown-on-the-Jetski Zombie",
             "introduce": "<align=justified><size=36><color=black>The first zombie to use pogo sticks and Jack-in-the-Boxes on water. How did he do it? \"Science! Newton's third law, nitroglycerin, and springs! Oh yeah!\" Is he a genius or a maniac? Who knows!</color>",
             "info": "<size=36>Uses a modified pogo stick to jetski across water lanes, rushing at plants and littering a cluster of Jack-in-the-Boxes.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Very fast. When stopped by a plant, dies instantly and litters bombs that detonate like Jack-in-the-Boxes within a 3.5-tile radius, for a total of (plants hit × map lanes) bombs.\n<color=black>•</color> Always triggers a Jack-in-the-Box explosion on death.</color>"
+        },
+        {
+            "theZombieType": 240,
+            "name": "Trident Jugger-nut Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>When Gargantuars of different lineages meet on the battlefield, they exchange pleasantries with deep roars, and the Trident Jugger-nut Gargantuar always straightens his back at such moments. The Jugger-nut atop his head is like a badge filled with glory - proof of honor earned only after smashing three hundred Wall-nuts.</color>",
+            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to stun. For each type of Gargantuar present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3</color>"
+        },
+        {
+            "theZombieType": 241,
+            "name": "Celestial Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>When the old Master Zomboss refined the Elemental Gargantuars, he believed their training incomplete - he felt something invisible behind their powers he could not fully grasp. That unseen medium was Aether, the fifth element whispered of in forgotten notes, the substance that carries force, binds matter, and fills the space between. By anchoring the element into a Gargantuar's body, Dr. Zomboss created a titan that does not merely wield the elements, but moves through them as though the world itself were obliged to make way.</color>",
+            "info": "<size=36>When heavily wounded, becomes impervious to all effects, summons clones, and gains sky-crumbling power under their cover.\n\n<color=black>Damage: </color><color=#4B0082>4800 (smash)</color>\n<color=black>Toughness: </color><color=#4B0082>18000 +18000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> When the main body's HP first drops below 50% max, Enflamed, Ember, Poison, Chill, and Freeze debuffs are removed; for each debuff removed, recovers HP equal to 10% of Toughness, then permanently gains immunity to all five. At the same time, summon one Element-infused Gargantuar clone in each row of this column, each with 1/3 of the main body's toughness. While any clone exists, the main body is immune to damage. If any clones remain after 15s, Celestial Gargantuar absorbs them all, enters gigantified state with double Toughness and Attack Power, and thereafter each attack additionally deals damage equal to (20% of Attack Power × [number of absorbed clones]) to all plants on the field.\n<color=black>•</color> When the main body's HP first drops below 1% max, recover HP equal to 10% of Toughness.</color>"
+        },
+        {
+            "theZombieType": 242,
+            "name": "Gatling Doom Newspaper Zombie",
+            "introduce": "<align=justified><size=36><color=black>Gatling Doom Newspaper Zombie is highly accomplished in both explosives science and nuclear physics. After dedicating half his life to science, he now chooses to hide his achievements and simply enjoy his crossword puzzles. But if anyone dares to disturb his reading time, he does not mind showing off his old graduation project.</color>",
+            "info": "<size=36>Fires hard-to-extinguish Ember Shells and can forcibly heal himself by reducing his own lifespan.\n\n<color=black>Damage: </color><color=#4B0082>400 (bite) 1000 (doom shell)</color>\n<color=black>Toughness: </color><color=#4B0082>1500 +1500 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Inherits traits from Scholar Zombie.\n<color=black>•</color> After losing his newspaper, fires 4 Ember Shells every 0.5s. These each deal a total of 5 instances of damage to plants, with 5s between each instance of damage. After dealing damage to plants, recovers an equal amount of HP when taking damage but reduces own max HP by 1%.</color>"
         },
         {
             "theZombieType": 300,
