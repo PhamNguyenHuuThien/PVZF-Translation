@@ -199,7 +199,7 @@
   "([^\\s]+)\n\n该词条已拥有(\\d+)个\n\n当前武器词条上限：\n(\\d+)/(\\d+)": "{0}\n\nBu Modifikasyon Zaten {1} Kere Geliştirildi.\n\nŞüanki Silah Modifikasyon Sınırı:\n{2}/{3}",
   "手套冷却速度增加(\\d+)%": "Eldiven Geri Yüklenme Süresi +{0}%",
   "手套冷却速度增加(\\d+)%，锤子的冷却速度增加(\\d+)%": "Eldiven Geri Yüklenme Süresi +{0}%, Çekiç Geri Yüklenme Süresi +{1}%",
-  "刷新，消耗金币(\\d+)": "<size=18>Yenileme, Mağliyeti {0} Para"
+  "刷新，消耗金币(\\d+)": "<size=18>Yenileme, Mağliyeti {0} Para",
   "干得好，即将出现第(\\d+)批墓碑！": "İyi İş! Yakın Zamanda bir Gurup {0} Mezar Çıkacak!",
   "资产：(\\d+)": "Para: ${0}",
   "选择地图：([^\\s]+)": "<size=24>Harita Seç: {0}\n(dahafazlası İçin Kaydır)",
@@ -229,4 +229,24 @@
   "([^\\s]+)，推荐难度：(\\d+)": "{0}, Tavsiye Edilen Zorluk: {1}",
   "([^\\s]+)\n等级：(\\d+)\n生效范围：\n([^\\s]+)\n生效间隔：\n(\\d+)秒": "{0}\nSeviye: {1}\nMenzil: \n{2}\nAralık: \n{3} Saniye",
   "^(\\d+)级$": "Seviye {0}"
+  "历史最高：第(\\d+)关": "Rekor: Seviye {0}",
+  "关卡制作中：([^\\s]+)": "Seviye Düzenleniyor: {0}",
+  "当前偏好：([^\\s]+)": "Şuanki Favori: {0}",
+  "第(\\d+)关\n场景：([^\\s]+)\n总波数：(\\d+)波\n特殊环境：([^\\s]+)\n难度：(\\d+)": "Seviye {0}\nSahne: {1}\nToplam Dalga: {2}\nModifikasyon: {3}\nZorluk: {4}",
+  "事件：([^\\s]+)": "Modifikasyonlar: {0}",
+  "成功保存文件到:([^\\s]+)": "Özelleştirilmiş Seviye Başarıyla Kaydedildi! Seviye Dosyasının Yeri:\r\n{0}",
+  "^图鉴——(.*)": "Kentsel Bilgi Kitabı— {0}",
+  "^队伍(\\d)": "Sıra {0}",
+  "^第(\\d)路$": "Sıra {0}",
+  "View 词条(\\d)": "Sıra {0} Modifikasyonları",
+  "^已选择第(\\d)路": "Sıra {0} Seçildi!!!",
+  "随机到的僵尸词条：\n([^\\s]+)": "Bu Raund İçin Zombi Modifikasyonları:\n{0}",
+  "第(\\d)路活到了最后": "Sıra {0} Bu Raundun Sonuna Kadar Yaşadı!!!",
+  "对局结束，第(\\d)路获胜！": "Maç Bitti - Sıra {0} Kazandı!!!",
+  "^分(\\d+)": "Skor: {0}",
+  "数据已导出在：([^\\s]+)": "Veri {0} A Çıkarıldı !",
+  "场上已经没有该植物\n总伤害：(\\d+)": "Bu Bitki Artık Sahada Bulunmuyor!\nOrtak Toplam Hasar: {0}\nHata: Sıfıra Böldun ıjfahuıfdhaısudıauıdh",
+  "数量：(\\d+)\n总伤害：(\\d+)\n平均伤害：(\\d+)": "Şu Anki Sayı: {0}\nOrtak Toplam Hasar: {1}\nStok Ve Giderin-Dengesis Ortalaması Var: {2}",
+  "数量：(\\d+)\n总伤害：(\\d+)": "Şu Anki Sayı: {0}\nOrtak Toplam Hasar: {1}",
+  "错误信息：([^\\s]+)\n追踪：([^\\s]+)\n": "Hata Mesajı: {0}\nHata İzleme Dökumu: {1}"
 }

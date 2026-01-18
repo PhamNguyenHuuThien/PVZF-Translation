@@ -1,258 +1,258 @@
 {
     "Welcome": {
         "achievement": 0,
-        "Name": "Oyunun temel mekaniğini dene.",
+        "Name": "Oyunun Temel Mekaniklerini Dene.",
         "Text": "Plants vs Zombies: Fusion"
     },
     "PeaSunflower": {
         "achievement": 1,
-        "Name": "Bezelye Ayçiçeği'ni keşfet.",
-        "Text": "Füzyon Çağı"
+        "Name": "Bezelye Ayçiçeğini Keşfet.",
+        "Text": "Fizyon Çağı"
     },
     "GatlingPea": {
         "achievement": 2,
-        "Name": "Mitralyöz Bezelye'yi keşfet.",
-        "Text": "Yükseltme Kazanıldı"
+        "Name": "Mitralyöz Bezelye Atıcıyı Keşfet.",
+        "Text": "Yükseltme Almak"
     },
     "TwinFlower": {
         "achievement": 3,
         "Name": "İkiz Ayçiçeğini keşfet.",
-        "Text": "İkiz Ayçiçeği mi O?"
+        "Text": "O İkiz Ayçiçeğini Değilmi?"
     },
     "SuperGatling": {
         "achievement": 4,
-        "Name": "Komando Bezelye-fırtınası'nı keşfet.",
-        "Text": "Abi Çok Kızgın"
+        "Name": "Comando Bezelye Atıcıyı Keşfet.",
+        "Text": "Büyük Kardeş Çok Kızgın"
     },
     "CherryPaper": {
         "achievement": 5,
-        "Name": "Bir Kiraz Bombası'yla 4 ya da daha fazla Bitkin patlatılsın.",
-        "Text": "Patlayıcı Uzmanı"
+        "Name": "4 Ve ya Daha Fazla Bitkinin Tek Bir Kiraz Bombasıyla Patlamasına İzin ver.",
+        "Text": "Patlayıcı Uzmanı."
     },
     "BigWallNut": {
         "achievement": 6,
-        "Name": "Ceviz Duvarı'nın Üstüne Başka Bir Ceviz Duvarı Koy.",
-        "Text": "Nereye Kaçtı Bu?"
+        "Name": "Ceviz Duvarının Üstüne Bir Ceviz Düvarı koy.",
+        "Text": "Nasıl Kaçtı?"
     },
     "CherryPaper95": {
         "achievement": 9,
-        "Name": "Kiraz-Mitralyöz Gazete Zombisi ile Karşılaş.",
-        "Text": "Kirazlarda Kıran Kırana!"
+        "Name": "Mitralyöz Kiraz Gazete Zombiyle Karşılaş.",
+        "Text": "Kirazlarda Büyük İndirim!"
     },
     "Puff": {
         "achievement": 7,
-        "Name": "Püf Mantarı'nı Yaymak İçin Korkak Mantar yada Püskürme Mantarı Kullan.",
-        "Text": "Ben Nerden Geldim?"
+        "Name": "Puf Mantarı Yaymak İçin Korkak Mantar yada Duman Mantarı Kullan.",
+        "Text": "Ben Nereden Geldim?"
     },
     "SunBomb": {
         "achievement": 8,
-        "Name": "Bir Güneş Bombasıyla 10 zombiyi birden patlat.",
-        "Text": "Her Güne Bir Parıltı"
+        "Name": "Tek Bir Güneş Bombasıyla 10 Zombiyi Birden Patlat.",
+        "Text": "Günde Bir Flaş"
     },
     "BigWallNut2": {
         "achievement": 10,
-        "Name": "Bir Dev Ceviz ile tekte 10 zombiyi ez.",
+        "Name": "Bir Dev Cevizin Tekte 10 Zombiyi Ezmesini Sağla.",
         "Text": "Buharlı Silindir"
     },
     "BigWallNut3": {
         "achievement": 11,
-        "Name": "Bir Dev Ceviz ile aynı zombiye 20.000 hasar ver.",
-        "Text": "Yuvarlan Ve Bi' Daha"
+        "Name": "Dev Cevizin Tek Bir Zombiye 20,000 Hasar Vermesini Sağla .",
+        "Text": "Yüvarlan Ve Tekrarla"
     },
     "HypnoShroom": {
         "achievement": 12,
-        "Name": "Hipnoz Mantarı'nı kullanarak bir zombiyi hipnotize et.",
-        "Text": "Bugün olmaz!"
+        "Name": "Hipno Mantar Kullanarak BİR Zombiyi Hipnotize et.",
+        "Text": "Bu Gün Değil!"
     },
     "JacksonZombie": {
         "achievement": 13,
-        "Name": "Michael Zombi ile karşılaş.",
-        "Text": "Maykıl da mı Burdaymış?"
+        "Name": "Michael Zombiyle Karşılaş.",
+        "Text": "Michaelda Burdaymış"
     },
     "ScaredyHypno": {
         "achievement": 14,
-        "Name": "Sanrı Mantarı'nı Kullanarak Bir Zombiyi Hipnotize et.",
-        "Text": "Kavramsal Tanrı"
+        "Name": "Tuhaf Mantar Kullanarak Zorla Bir Zombiyi Hipnotize et.",
+        "Text": "Konsept Tanrısı"
     },
     "HypnoNut": {
         "achievement": 15,
-        "Name": "Hipno-Ceviz ile bir Altın Sürpriz-kutusu Zombi yarat.",
-        "Text": "Kimim Ben?"
+        "Name": "Hipno Cevizden Bir Altın Gizem Kutusu Zombisi Çıkart.",
+        "Text": "Ben kimim?"
     },
     "LilyPad": {
         "achievement": 16,
-        "Name": "Zambak Yaprağı ile bir bitki Oluştur.",
+        "Name": "Nilüfer Yaprağına Bir Bitki Oluşturt.",
         "Text": "Genç Nilüfer' \nSivri Üç"
     },
     "ThreePeater": {
         "achievement": 17,
-        "Name": "Üçlü Bezelye'yi kenardaki satirlara koy ki saldırdığında kendi kulvarında iki bezelye atsın.",
-        "Text": "Yörünge Sola Eğiliyor"
+        "Name": "Üçlu Bezelye atıcısını Kenar Sıraya Yerleştir Ve İkitane Bezelye Atmasını Sağla.",
+        "Text": "Yörünge Sola Eğilimli"
     },
     "SquashKelp": {
         "achievement": 18,
-        "Name": "Boğucu Yosun'u keşfet.",
-        "Text": "Derinlerdeki Yaratık"
+        "Name": "Boğucu Yosunu Keşfet.",
+        "Text": "Derinler Deki Yaratık"
     },
     "ThreeSpike": {
         "achievement": 19,
-        "Name": "Çatalmuk Yayıcı ile tekerlek patlat .",
+        "Name": "Ot Yayıcıyla Tekerlek Patlat .",
         "Text": "Takla Lastiği"
     },
     "SunSeaShroom": {
         "achievement": 20,
-        "Name": "Günbatımı Mantarı'nı keşfet.",
+        "Name": "Gün Batımı Mantarını Keşfet.",
         "Text": "Havuzda Gün Batımı"
     },
     "StarBlover": {
         "achievement": 21,
-        "Name": "Yıldız Körüğü ile yıldız mermilerini çek.",
+        "Name": "Yıldız Üfleyiciyle Yıldız Mermilerini Çek.",
         "Text": "Sapan Manevrası"
     },
     "MagnetShroom": {
         "achievement": 22,
-        "Name": "Manyetik Sistemi kullan.",
-        "Text": "Sığ Öncelikli Arama Algoritması"
+        "Name": "Magnetik Sistemi Kullan.",
+        "Text": "Genişlik Öncelikli Arama Algoritması"
     },
     "CornCabbage": {
         "achievement": 23,
-        "Name": "Tako Mancınığı keşfet .",
-        "Text": "Tako Mancınık Senin Yalanın"
+        "Name": "Taco Katapultu Keşfet .",
+        "Text": "Taco Katapultu senin yalanın"
     },
     "GarlicCorn": {
         "achievement": 24,
-        "Name": "Bir zombiyi zehirle.",
-        "Text": "Kim Sarımsak Yedi?"
+        "Name": "Bir Zombi Zehirle.",
+        "Text": "Kim Sarımsak Yiyiyor?"
     },
     "CabbageUmbrella": {
         "achievement": 25,
-        "Name": "Karalahana Şemsiyesi kullanarak Zombi Mancınık tarafından atılan bir mermiyi savuştur.",
+        "Name": "Şemsiye Lahanasını Kullanarak Katapultan atılan Bir mermiyi savuştur.",
         "Text": "Hokkabaz"
     },
     "GoldMelon": {
         "achievement": 26,
-        "Name": "Gökyüzünden Altın Karpuz yağdır.",
-        "Text": "Dolu Gibi Karpuzlar"
+        "Name": "Gök Yüzünden Altın Karpuz Yağmasına İzinver.",
+        "Text": "Karpuzdan Yapılmış Dolu"
     },
     "SquashTorch": {
         "achievement": 27,
-        "Name": "Kabak Kütüğünü kullanarak Su Kabağı üret.",
-        "Text": "Yakıcı Şey"
+        "Name": "Su Kabağı Kütüğünü Kullanarak Su Kabağı Üret.",
+        "Text": "Sıcak Şeyler"
     },
     "UltimateTorch": {
         "achievement": 28,
-        "Name": "Cehennem Kabak-kütüğünü keşfet.",
+        "Name": "Cehennem Su Kabağı Kütüğünü Keşfet.",
         "Text": "Cehennemin Mutfağı"
     },
     "Superkelp": {
         "achievement": 29,
-        "Name": "Hidro Yosun'u keşfet.",
+        "Name": "Krakerberusu Keşfet.",
         "Text": "Derinlerdeki Dehşet"
     },
     "DarkThreePeater": {
         "achievement": 30,
-        "Name": "Üçlu Bezelye'yi yakmayı dene.",
-        "Text": "Ateş ile Dans"
+        "Name": "Üçlu Bezelye atıcısını Yakmayı Dene.",
+        "Text": "Ateşle dans"
     },
     "AshThreePeater": {
         "achievement": 31,
-        "Name": "Kavrulmuş Bezelye'yi tekrar Yak.",
-        "Text": "Kurak Toprak"
+        "Name": "Kavrulmuş Üçlu Bezelye atıcısını Tekrar Yak.",
+        "Text": "Kuruak Dunya"
     },
     "SuperThreePeater": {
         "achievement": 32,
-        "Name": "Üçlu Bezelye küllerinden geri yükselsin.",
-        "Text": "Alevlerden Yeniden Doğus"
+        "Name": "Üçlu Bezelye atıcısını Küllerinden Doğmasına İzin ver.",
+        "Text": "Küllerinden Yeniden Doğan"
     },
     "MagnetCactus": {
         "achievement": 33,
-        "Name": "Manye-diken kullanarak bir Hava Gemisi düşür.",
-        "Text": "Güç Seninle Olsun!"
+        "Name": "Mıknatıs kaktüs Küllanarak Bir Hava Gemisi Düşür.",
+        "Text": "Güçü Kullan"
     },
     "SuperStar": {
         "achievement": 34,
-        "Name": "Gökyüzünden bir meteor inişine tanık ol.",
-        "Text": "Gökyüzü Düşsün!"
+        "Name": "Gök Yüzünden Meteor Düşmesini İzle.",
+        "Text": "Gök Yüzünün Düşmesine İzin Ver"
     },
     "UltimateStar": {
         "achievement": 35,
-        "Name": "Yıldız-natıs'ı keşfet.",
+        "Name": "Mıknatıs Yıldızını Keşfet.",
         "Text": "Seviye 1436"
     },
     "MagnetShroom2": {
         "achievement": 36,
-        "Name": "50 bitkiyi Manyetik Sistem ile bağla.",
-        "Text": "Manyetosfer"
+        "Name": "Manyetik Sistme Tek Severde 50 Tane Bitki Bağla .",
+        "Text": "Magnetosfer"
     },
     "UltimateStar2": {
         "achievement": 37,
-        "Name": "Yıldız-natıs'ın meteoru 1800'den fazla hasar versin",
-        "Text": "Uzay Gemisi"
+        "Name": "Mıknatıs Yıldızın Meteor Hasarını 1800'ü aşmasını Sağla.",
+        "Text": "Yıldız Gemisi"
     },
     "HypnoMagnet": {
         "achievement": 38,
-        "Name": "Hipno Mıknatıs ile bir Koskocaman Robot üret.",
-        "Text": "Çelik Sağanak"
+        "Name": "Hipno Mıknatıstan Mecanik Dev Üret.",
+        "Text": "Çelik Seli"
     },
     "SunMagnet": {
         "achievement": 39,
-        "Name": "Şemse Mıknatısı kullanarak bir metal eşya üret.",
+        "Name": "güneş Mıknatısını Kullanarak Metal Bir Eşya Üret.",
         "Text": "Kendine Yeten"
     },
     "SuperCherryShooter": {
         "achievement": 40,
-        "Name": "Patla-atıcıyı Keşfet.",
-        "Text": "Parçalar İçinde Uyu"
+        "Name": "Patlyıcı Atıcıyı Keşfet.",
+        "Text": "Parçalar İçinde Yat"
     },
     "UltimateGatling": {
         "achievement": 41,
-        "Name": "Mitralyöz Kiraz Bombacısı'nı Keşfet.",
-        "Text": "Yaylam Bombardımanı"
+        "Name": "Mitralyöz kiraz Bombacısını Keşfet.",
+        "Text": "Yaylam Bombardıman"
     },
     "HypnoEmperor": {
         "achievement": 42,
-        "Name": "İmparotoriçe Mantar'ı keşfet.",
-        "Text": "Bi' Tür Bi' Sihir"
+        "Name": "İmparotoriçe Mantarı Keşfet.",
+        "Text": "Bu Bir tür Sihir"
     },
     "CobCannon": {
         "achievement": 43,
-        "Name": "Darı Füzesi'ni keşfet.",
-        "Text": "Hala Nişanı Keskin"
+        "Name": "Mısır Topunu Keşfet.",
+        "Text": "Her Zamanki Kadar Keskin"
     },
     "IceCannon": {
         "achievement": 44,
-        "Name": "Buz Füzesi ile başka bitkilere füzyon oluştur.",
-        "Text": "Donuk"
+        "Name": "Buz Topunu Başka Bitkileri Birleştirmek İçin Kullan.",
+        "Text": "Donmuş"
     },
     "FireCannon": {
         "achievement": 45,
-        "Name": "Ateş Füzesi ile başka bitkilere füzyon oluştur.",
-        "Text": "Dünya'nın Yanışını İzle"
+        "Name": "Ateş Topunu Başka Bitkileri Birleştirmek İçin Kullan.",
+        "Text": "Dünyanın Yanmasını İzle"
     },
     "UltimateCannon": {
         "achievement": 46,
-        "Name": "Yokoluş Füzes'ni keşfet.",
-        "Text": "Şimdi Ben Ölumüm."
+        "Name": "Mısır Yokediş Topunu Keşfet.",
+        "Text": "Ben ölumum"
     },
     "SuperUmbrella": {
         "achievement": 47,
-        "Name": "Simyager Şemsiye'yi kullanarak para üret.",
+        "Name": "Simyacı Şemsiyesini Kullanarak Parra Üret.",
         "Text": "Dönüşüm"
     },
     "EmeraldUmbrella": {
         "achievement": 48,
-        "Name": "Şemsiye Midas ile Mızrak Atıcılara hava at.",
-        "Text": "Sıkıyosa Vur!"
+        "Name": "Midas Şemsiyesini Kullanarak mızrak Atıcılarını kızdır.",
+        "Text": "Gelde Bana vur!"
     },
     "RedEmeraldUmbrella": {
         "achievement": 49,
-        "Name": "Şemsiye Aegis'i kullanarak zombilerin mermilerini savuştur.",
+        "Name": "Koruma Şemsiyesini Kullanarak Zombilerin Mermilerini Savuştur.",
         "Text": "Gönderene İade"
     },
     "Plantern": {
         "achievement": 50,
-        "Name": "Bir bitkinin Işık Seviyesini 10'dan faazla yap.",
-        "Text": "Parlak Işıklandırılmış"
+        "Name": "Bir Bitkinin Işık Seviyesini 10dan Daha Yüksek Yap.",
+        "Text": "Parlak Işık"
     },
     "SuperFume": {
         "achievement": 51,
@@ -261,7 +261,7 @@
     },
     "UltimateFume": {
         "achievement": 52,
-        "Name": "Mahşer Mantarı'nı Keşfet",
+        "Name": "Kıyametin Mantarını Keşfet",
         "Text": "Hakimiyet"
     },
     "UltimteGloom": {
@@ -271,117 +271,117 @@
     },
     "CattailPlant": {
         "achievement": 54,
-        "Name": "Nilüfer Yaprağı'nın üzerine gübre dök.",
+        "Name": "Nilüfer Yaprağının Üzerine Gübre Dök.",
         "Text": "Kedilerin Dokuz Çanı Var"
     },
     "CattailGirl": {
         "achievement": 55,
-        "Name": "Kediotu Kız'ı keşfet.",
-        "Text": "Bahçende Bir Küçük Kız Var"
+        "Name": "Kedi Kuyruklu Kızı Keşfet.",
+        "Text": "bahçende küçük Bir Kız Var"
     },
     "Cattailour": {
         "achievement": 56,
-        "Name": "Aristo Kediotu'nu keşfet.",
-        "Text": "Bu Bir Fela-kedi!"
+        "Name": "Aristo Kedi kuyrunu Keşfet.",
+        "Text": "Bu Bir Fela'Kedi!"
     },
     "WallNut": {
         "achievement": 57,
-        "Name": "Ceviz Duvarı kullanarak Zombilere karşı evini savun.",
-        "Text": "Dur Yolcu!"
+        "Name": "Ceviz Duvarı Kullanarak Zombileri Savun.",
+        "Text": "Buradan Asla geçemessin!"
     },
     "SuperChomper": {
         "achievement": 58,
-        "Name": "Isırzilla'yı keşfet",
+        "Name": "Chompzillayı Keşfet",
         "Text": "Sert Adam"
     },
     "UltimateChomper": {
         "achievement": 59,
-        "Name": "Kirazzilla'yı keşfet",
+        "Name": "Cherrizillayı Keşfet",
         "Text": "Savaş Tanrısı"
     },
     "UltimateTallNut": {
         "achievement": 60,
-        "Name": "Obsidyen Uzunceviz'i kullanarak Patlamalardan korun.",
-        "Text": "Ice Bucket Challenge"
+        "Name": "Uzun Obsidyen Cevizi Kullanarak Patlamalardan Korun.",
+        "Text": "Buzlu kova Meydan Okuması"
     },
     "SuperMachineNut": {
         "achievement": 61,
-        "Name": "Giga Meka Ceviz'i canı 1 milyonu aşana kadar iyileştir.",
-        "Text": "Giga Ex Machina"
+        "Name": "Dev Mecha Cevizi Canı 1Milyonu aşasaya Kadar İyleştir.",
+        "Text": "Dev Ex Makina"
     },
     "SuperSunNut": {
         "achievement": 62,
-        "Name": "İkiz-güneş Cevizi'nden Dev Güneş Cevizi üret.",
-        "Text": "İşte Güneş Geliyor"
+        "Name": "İkiz Güneş Cevizinden Dev Güneş Cevizi Çıkart.",
+        "Text": "İşte Güneş çıkıtor"
     },
     "UltimatePumpkin": {
         "achievement": 63,
-        "Name": "Uçan Zombilere karşı savunmak için Lazer Balkabağı'nı kullan.",
-        "Text": "Ben Asla Iskalamam"
+        "Name": "Havadaki Zombileri Savunmak İçin Lazer Balkabağını Kullan.",
+        "Text": "Ben Asla Kaçırmam"
     },
     "MelonJump": {
         "achievement": 64,
-        "Name": "Karpuz Pogo Zombisi'ni yere indirmek için Şemsiye Yaprağı'nı kullan .",
+        "Name": "Pogo Karpuz Zombisini Yere İndirmek İçin Şemsiye bitkisini Kullan .",
         "Text": "Cennet Ve Dünya"
     },
     "IronNut": {
         "achievement": 65,
-        "Name": "Kova-ceviz'i keşfet",
-        "Text": "Donanım Kazanıldı"
+        "Name": "Kova Cevizi Keşfet",
+        "Text": "Donanım Elde Edildi"
     },
     "Sub": {
         "achievement": 999,
-        "Name": "Gelecek güncellemeler için haberde kal!",
-        "Text": "Haberde Kal!"
+        "Name": "Gelecek Güncellemelr İçin Beklemede Kal!",
+        "Text": "Beklemede Kal!"
     },
     "WelcomeChallenge": {
         "achievement": 1000,
-        "Name": "Al sana birkaç tane gelişmiş meydan okuma.",
-        "Text": "Cesurlukla Devam Et"
+        "Name": "İşte Birkaç Gelişmiş Meydan Okumalar.",
+        "Text": "Cesurca Devam Et"
     },
     "Travel": {
         "achievement": 1001,
-        "Name": "Yolculuk: Hayatta Kalma'yı bitir.",
-        "Text": "Macera Zamanı"
+        "Name": "Destan Hayatta Kalmayı bitir.",
+        "Text": "Mağcera Zamanı"
     },
     "Travel2": {
         "achievement": 1002,
-        "Name": "Yolculuk: Son Direniş'i bitir.",
+        "Name": "Destan Son Direnişi Bitir.",
         "Text": "Sıcak Türistlik Yerler"
     },
     "Travel3": {
         "achievement": 1003,
-        "Name": "Yolculuk: Araf'ı bitir.",
-        "Text": "Cenneti Bulabildik Mi?"
-    },        
+        "Name": "Destan Arafı Bitir.",
+        "Text": "Cenneti Buldukmu?"
+    },
     "Travel_noBuff": {
         "achievement": 1004,
-        "Name": "Yolculuk Modu'nu hiçbir modifikasyon seçmeden bitir.",
-        "Text": "Odyssey Uzmanı"
+        "Name": "Destan Modunu Hiçbir Modifikasyon Seçmeden Bitir.",
+        "Text": "Destan Uzmanı"
     },
     "Travel_noNut": {
         "achievement": 1005,
-        "Name": "Yolculuk Modu'nu Kirazzilla, Obsidyen Uzunceviz, Giga Meka Ceviz, Ve İkiz-güneş Cevizi'ni kullanmadan bitir.",
+        "Name": "Destan Modunu Cherrizillayı, Obsidyen Uzun Cevizi, Dev Mekanik Cevizi, Ve İkiz Güneş Cevizini Kullanmadan bitir.",
         "Text": "Çıplak Dövüş"
     },
     "Travel_sun": {
         "achievement": 1006,
-        "Name": "Bir Odyssey Modu Turunda 1.000.000'den fazla Günışığı harca.",
-        "Text": "Güneş'i Harcamak"
+        "Name": "Tek Bir Destan Modu Raundunda 1milyondan Dha Fazla Güneş Harca.",
+        "Text": "Güneş Harcamak"
     },
     "Travel_fast": {
         "achievement": 1007,
-        "Name": "Odyssey Modu'nu 40 dakikadan daha hızlı bitir.",
+        "Name": "Destan Modunu 40 Dakkadan Daha Hızlı Bitir.",
         "Text": "Speedrunner"
     },
     "SuperMachineNut_health": {
         "achievement": 1008,
-        "Name": "Giga Meka Ceviz'i canı 100.000.000'u aşana kadar onu iyileştir.",
-        "Text": "Peki Neden?"
+        "Name": "Dev Mecha Cevizi Canı 100 Milyonu aşasaya Kadar İyleştirn.",
+        "Text": "Sadece NEDEN!"
     },
     "SuperDamage": {
         "achievement": 1009,
-        "Name": "Boşluksal Koskocaman'ı 'Bozulma Güçlendirmesi' olmadan 10 saniyede ya da daha hızlı yen .",
+        "Name": "Abisal Devi bozulma Güçlendirmesi Olmadan 10 Saniyeden Daha Hızlı Yen .",
         "Text": "Mutlak Güç"
     }
 }
