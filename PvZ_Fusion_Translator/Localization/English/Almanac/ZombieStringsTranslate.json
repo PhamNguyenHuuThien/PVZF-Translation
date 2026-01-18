@@ -10,7 +10,7 @@
             "theZombieType": 1,
             "name": "Flag Zombie",
             "introduce": "<align=justified><size=36><color=black>Make no mistake, Flag Zombie loves brains but somewhere down the line he also picked up a fascination with flags. Maybe it's because the flags always have brains on them. Hard to say.</color>",
-            "info": "<size=36>Flag Zombie marks the arrival of a huge pile or \"wave\" of zombies.\n\n<color=black>Toughness: </color><color=#4B0082>270\n<color=black>Traits: </color><color=#4B0082>Only appears in flag waves, slightly faster than regular Zombies.</color>"
+            "info": "<size=36>Flag Zombie marks the arrival of a huge pile or \"wave\" of zombies.\n\n<color=black>Toughness: </color><color=#4B0082>270\n<color=black>Traits: </color><color=#4B0082>Only appears in flag waves by default, slightly faster than regular Zombies.</color>"
         },
         {
             "theZombieType": 2,
@@ -266,7 +266,7 @@
         },
         {
             "theZombieType": 44,
-            "name": "Dr. Zomboss",
+            "name": "<u><i>Dr. Zomboss</u></i>",
             "introduce": "<align=justified><size=36><color=black>Edgar George Zomboss achieved his Doctorate in Thanatology in only two years. Quickly mastering thanatological technology, he built his fearsome Zombot and set about establishing absolute dominance of his local subdivision.</color>",
             "info": "<size=36>Dr. Zomboss rules them all.\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Drops a trophy upon defeat. Incoming damage is capped at 5000 before reduction. Immune to most status effects, except Chill, Freeze, and Enflamed. Has multiple attack modes:\n<color=black>•</color> Deploys regular zombies on the right half of the lawn.\n<color=black>•</color> Stomps on plants in the rightmost 4 columns.\n<color=black>•</color> Releases rolling ice and fireballs that crush plants in a lane.\n<color=black>•</color> Drops 3 Bungee Zombies on the left half of the lawn.\n<color=black>•</color> At half health, starts to throw campers that crush all plants in a 2x3 area.</color>"
         },
@@ -278,7 +278,7 @@
         },
         {
             "theZombieType": 46,
-            "name": "Dr. Zomboss Auric Prime",
+            "name": "<u><i>Dr. Zomboss Auric Prime</u></i>",
             "introduce": "<align=justified><size=36><color=black>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non consectetur odio, ac consectetur dui.</color>",
             "info": "<size=36>I'm watching you every step of the way.\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from Dr. Zomboss. Additionally, disables player's gloves and mallet on appearance. Mallet is unlocked at 2/3 health. Gloves are unlocked at 1/3 health. Thrown campers also clears the conveyor belt.</color>\n<size=36>Fusion Formula: <color=#4B0082>Dr. Zomboss + Trophy</color>"
         },
@@ -424,7 +424,7 @@
             "theZombieType": 70,
             "name": "Football Knight Captain Zombie",
             "introduce": "<align=justified><size=36><color=black>Jed and his horse Spiky are superstars in the Seven Undercontinents Zombie Football League. With Spiky's speed and Football launchers he bought at high prices from plants, they sweep through the field. Even though this is a serious foul, and the projectiles aren't even footballs, no one cares as long as he targets the few referees who actually understand football first.</color>",
-            "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 50% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts with fully restored HP, and starts to fire Iron peas every 0.1s.</color>"
+            "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 66% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts with fully restored HP, and starts to fire Iron peas every 0.1s.</color>"
         },
         {
             "theZombieType": 71,
@@ -532,7 +532,7 @@
             "theZombieType": 111,
             "name": "Frost Tall-nut Zombie",
             "introduce": "<align=justified><size=36><color=black>Frost-nut Zombie's head has sparked numerous opinions in the zombie world. Some say he aims to distance himself from the cold world, while others suspect it relates to Dr. Edgar's wild experiments. Yet, only he knows that this headgear appeared after he ate a specific blue mushroom.</color>",
-            "info": "<size=36>A sturdy zombie that can also nullify the Chill effect from ice projectiles.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and freeze.</color>"
+            "info": "<size=36>A sturdy zombie that can also nullify the Chill effect from ice projectiles.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and freeze. Receives true damage equal to 1/3 of his max HP when affected by a Jalapeno.</color>"
         },
         {
             "theZombieType": 112,
@@ -754,7 +754,7 @@
             "theZombieType": 222,
             "name": "<u>Jackson Worldwide</u>",
             "introduce": "<align=justified><size=36><color=black>The spotlight flickered as Jackson Worldwide stepped forward, his grin sharp and his voice low. \"You think this is a game?\" he said, snapping his fingers. Superstar Zombies materialized, their instruments screeching. \"This garden's my stage now. Let's see how long you last.\"",
-            "info": "<size=36>Jackson Worldwide has dedicated his entire life to the passion of stage performance and touring.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to all status effects.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Takes a maximum damage of 480 when affected by spikeweed-like attacks.\n<color=black>•</color> Grants cryo-immunity to zombies nearby and summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters periodically.\n<color=black>•</color> Spawns 2 Michael Zombonis and a Superstar Zombie upon death.</color>"
+            "info": "<size=36>Jackson Worldwide has dedicated his entire life to the passion of stage performance and touring.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to all status effects.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Takes a maximum damage of 480 when affected by spikeweed-like attacks.\n<color=black>•</color> Grants cryo-immunity to zombies nearby and summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters every 10 dance movements.\n<color=black>•</color> Spawns 2 Michael Zombonis and a Superstar Zombie upon death.</color>"
         },
         {
             "theZombieType": 223,
@@ -808,13 +808,13 @@
             "theZombieType": 231,
             "name": "<u><i>Vengeful Archduke</i></u>",
             "introduce": "<align=justified><size=36><color=black>War is the finest whetstone for a commander. Once demoted and defeated, the Giga Football Archduke returned from hellish training with his steed, ready to rebuild his command platform from the corpses of his enemies.</color>",
-            "info": "<size=36>\"Come, my fallen warriors - take their souls!\"\n\n<color=black>Damage: </color><color=#4B0082>500 (sword slash)</color>\n<color=black>Toughness: </color><color=#4B0082>90000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Boss. Crushes plants. Normally moves up and down in the rightmost column. Periodically uses one of the following skills:\n<color=black>1.</color> Waves his banner to summon 1 zombie in each lane.\n<color=black>2.</color> Charges forward, releasing a sword slash, then turns and releases another.\n<color=black>3.</color> Fires three wide sword slashes ahead.\n<color=black>4.</color> Summons a Phantom Archduke at the far right of each lane that charges left, dealing 1000 damage to plants along the way.\n<color=black>5.</color> Leaps to a random spot in the left or middle area, crushing plants, then returns to the right side.</color>"
+            "info": "<size=36>\"Come, my fallen warriors - take their souls!\"\n\n<color=black>Damage: </color><color=#4B0082>500 (sword slash)</color>\n<color=black>Toughness: </color><color=#4B0082>90000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Boss. Crushes plants and instantly defeats hypnotized zombies. Normally moves up and down in the rightmost column. Periodically uses one of the following skills:\n<color=black>1.</color> Waves his banner to summon 1 zombie in each lane.\n<color=black>2.</color> Charges forward, releasing a sword slash, then turns and releases another.\n<color=black>3.</color> Fires three wide sword slashes ahead.\n<color=black>4.</color> Summons a Phantom Archduke at the far right of each lane that charges left, dealing 1000 damage to plants along the way.\n<color=black>5.</color> Leaps to a random spot in the left or middle area, crushing plants, then returns to the right side.</color>"
         },
         {
             "theZombieType": 232,
             "name": "Phantom Archduke",
             "introduce": "<align=justified><size=36><color=black>\"He has returned!\" cry the zombies in awe. \"He has returned!\" panic the plants. Meanwhile, Dr. Zomboss tinkers proudly with his hologram projector, confident it will shine in the zombie war of vengeance.</color>",
-            "info": "<size=36>An army of holograms that tear through defenses despite being mere projections.\n\n<color=black>Toughness: </color><color=#4B0082>15000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to chill, freeze, stun, and knockback. Ignores plants while charging left, dealing 1000 damage to all plants it passes through.\n<color=black>•</color> Does not trigger Lawn-mowers or game overs.</color>"
+            "info": "<size=36>An army of holograms that tear through defenses despite being mere projections.\n\n<color=black>Toughness: </color><color=#4B0082>15000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to chill, freeze, stun, and knockback. Ignores plants while charging left, dealing 1000 damage to all plants it passes through and instantly defeating all hypnotized zombies.\n<color=black>•</color> Does not trigger Lawn-mowers or game overs.</color>"
         },
         {
             "theZombieType": 233,
