@@ -275,5 +275,8 @@
   "抽取究极需要(\\d+)点阳光": "You need {0} Sun to draw an Odyssey plant!",
   "已为在场的植物增加(\\d+)%攻击力": "Granted {0}% bonus attack power to all plants on the field!",
   "已为在场的植物回复(\\d+)%最大生命值以及(\\d+)点血量上限": "Healed all plants on the field by {0}% max HP and raised HP cap by {1}!",
-  "请选择一个任务完成\n([^\\s]+)\n奖励：([^\\s]+)\n([^\\s]+)\n奖励：([^\\s]+)": "Choose 1 task to complete!\n{0}\nReward: {1}\n{2}\nReward: {2}"
+  "请选择一个任务完成\n([^\\s]+)\n奖励：([^\\s]+)\n([^\\s]+)\n奖励：([^\\s]+)": "Choose 1 task to complete!\n{0}\nReward: {1}\n{2}\nReward: {2}",
+  "([^\\s]+)\n<color=([^\\s]+)>价格：(\\d+)</color>": "{0}\n<color={1}>Cost: {2}</color>",
+  "([^\\s]+)阶\n([^\\s]+)": "Tier {0}\n{1}",
+  "([^\\s]+)（已选）": "{0} (Selected)"
 }
