@@ -276,7 +276,14 @@
   "已为在场的植物增加(\\d+)%攻击力": "Granted {0}% bonus attack power to all plants on the field!",
   "已为在场的植物回复(\\d+)%最大生命值以及(\\d+)点血量上限": "Healed all plants on the field by {0}% max HP and raised HP cap by {1}!",
   "请选择一个任务完成\n([^\\s]+)\n奖励：([^\\s]+)\n([^\\s]+)\n奖励：([^\\s]+)": "Choose 1 task to complete!\n{0}\nReward: {1}\n{2}\nReward: {2}",
-  "([^\\s]+)\n<color=([^\\s]+)>价格：(\\d+)</color>": "{0}\n<color={1}>Cost: {2}</color>",
+  "星辉([^\\s]+)：第(\\d+)关\n奖励1：": "Starbound Adventures: {0} | Level {1}\nReward 1: ",
   "([^\\s]+)阶\n([^\\s]+)": "Tier {0}\n{1}",
-  "([^\\s]+)（已选）": "{0} (Selected)"
+  "([^\\s]+)阶\nHP：(\\d+)/(\\d+)": "Tier {0}\nHP: {1}/{2}",
+  "([^\\s]+)阶\nHP：(\\d+)/(\\d+)\n一类：(\\d+)/(\\d+)\n二类：(\\d+)n/(\\d+)": "Tier {0}\nHP: {1}/{2}\nType 1 armor: {3}/{4}\nType 2 armor: {5}/{6}",
+  "([^\\s]+)阶\nHP：(\\d+)/(\\d+)\n一类：(\\d+)/(\\d+)": "Tier {0}\nHP: {1}/{2}\nType 1 armor: {3}/{4}",
+  "([^\\s]+)阶\nHP：(\\d+)/(\\d+)\n二类：(\\d+)/(\\d+)": "Tier {0}\nHP: {1}/{2}\nType 2 armor: {3}/{4}",
+  "([^\\s]+)\n<color=([^\\s]+)>价格：(\\d+)</color>$": "{0}\n<color={1}>Cost: {2}</color>",
+  "([^\\s]+)\n<color=([^\\s]+)>价格：(\\d+)</color>\n<color=([^\\s]+)>需要完成前置关卡：NightPool6</color>$": "{0}\n<color={1}>Cost: {2}</color>\n<color={3}>Requires completion of Starbound Adventure: Fog | Level 6</color>",
+  "([^\\s]+)\n<color=([^\\s]+)>价格：(\\d+)</color>\n<color=([^\\s]+)>需要完成前置关卡：([^\\s]+)6</color>$": "{0}\n<color={1}>Cost: {2}</color>\n<color={3}>Requires completion of Starbound Adventure: {4} | Level 6</color>",
+  "([^\\s]+)（已选）$": "{0} (Selected)"
 }
