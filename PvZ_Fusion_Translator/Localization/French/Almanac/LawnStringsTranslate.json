@@ -3282,6 +3282,13 @@
             "introduce": "<align=justified><size=36><color=black>Les Écraseurs Incandescent sautent une par une hors d'Écras-torche : \" Ça chauffe ici ; tout notre corps grille, nous ne voulont pas finir en aliment pour Dave le dingo ! \" déclarent-ils.</color></size>",
             "info": "<size=36>Juste un Écraseur brulant et enrobé d’un glaçage avec une délicieuse sève.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Portée de Détection: </color><color=#8B0000>0,5 tuile à gauche ; 1 tuile à droite</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être utilisée pour des fusions.\n<color=black>•</color> Peut être convertie en un Écraseur normale à l’aide d’un Pot de glace.</color></size>",
             "cost": "\n<size=36>Coût : <color=#8B0000>Apparait pour 51 pois enflammés par Écras-torche.</color></size>"
+        },
+        {
+            "seedType": 1349,
+            "name": "Champi-trouille",
+            "introduce": "<align=justified><size=36><color=black>Les trois frères Champi-gnon Citrouille sont des enfants très aimés et bien élevés : calmes, ordonnés et jamais querelleurs. Leur seul passe-temps consiste à essayer d'assembler le puzzle de citrouille qui se trouve sur leur tête, mais malheureusement, ils n'y sont jamais tout à fait parvenus. .</color>",
+            "info": "<size=36>Plus il y a de Champi-gnon dans la Champi-trouille, plus la protection est forte!\n\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Plante courte (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Restaure 50 pv toutes les 3 secondes. Commence avec 1/4 de ces pv max.\n<color=black>•</color> A 1/3 max des PV ou plus, réduit les dégâts subis de 50 %.\n<color=black>•</color> À 2/3 des PV max ou plus, absorbe les dégâts pour la plante à l'intérieur.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-gnon + Citrouille</color>"
         }
     ]
 }
