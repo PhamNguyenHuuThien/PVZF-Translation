@@ -3601,7 +3601,7 @@
         {
             "seedType": 1361,
             "name": "Fall Melon",
-            "introduce": "<align=justified><size=36><color=black>Other melons call him lazy, Fall Melon calls himself efficient; “Just let gravity do the work for you!” he always says. “Lobbing takes too much energy!” He seems to ignore the loss in range this causes.</color>",
+            "introduce": "<align=justified><size=36><color=black>Other melons call him lazy, but Fall Melon insists he's efficient. \"Just let gravity do the work! Throwing things is exhausting!\" He seems to completely ignore the fact that this also shortens his range.</color>",
             "info": "<size=36>Provides close-range air support by dropping melons.\n\n<color=black>Damage: </color><color=#8B0000>80×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Melon-pult</color>"
         },
