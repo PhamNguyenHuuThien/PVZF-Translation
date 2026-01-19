@@ -256,7 +256,7 @@
   "^支线(\\d+)": "Side Story {0}",
   "^：(\\d+)$": ": {0}",
   "章节难度：([^\\s]+)": "<size=90%>Chapter Difficulty: {0}",
-  "难度阶数：(\\d+)": "Difficulty Level: {0}",
+  "难度阶数：(\\d+)": "Difficulty Level: {0}\n(Click for Info)",
   "星辉白天：第(\\d+)关$": "Starbound Adventure: Day | Level {0}",
   "星辉黑夜：第(\\d+)关$": "Starbound Adventure: Night | Level {0}",
   "星辉泳池：第(\\d+)关$": "Starbound Adventure: Pool | Level {0}",
