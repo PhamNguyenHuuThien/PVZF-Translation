@@ -1256,16 +1256,16 @@
         {
             "seedType": 1112,
             "name": "Pot de Chou",
-            "introduce": "<size=36><color=black>\"Je ne suis pas seulement un pot pour contenir des choux, et Lance-chou n'est pas la plante la plus faible ! Lance-chou et moi sommes les meilleurs amis\", dit Cabbage Pot avec assurance. Leur amitié est peut-être née parce que... l'un d'eux est chauve et l'autre est déjà chauve.</color>",
-            "info": "<size=36>Donne un bonus de vitesse d'attaque de 50% pour n'imorte quelle plante de type choux en haut d'elle.\n\n<color=black>Spécial : </color><color=#8B0000>Accorde une augmentation de vitesse d'attaque de 50 % aux plantes de type Chou.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Pot de Fleur</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>\"Je ne suis pas seulement un pot pour contenir des choux, et Lance-chou n'est pas la plante la plus fragile ! Lance-chou et moi sommes les meilleurs amis,\" dit fièrement Pot de Chou. Leur amitié a peut-être commencé parce que... l'un d'eux perd ses cheveux, et l'autre est déjà chauve.</color>",
+            "info": "<size=36>Confère un bonus de vitesse d'attaque aux plantes de type Chou au-dessus de lui.\n\n<color=black>Spécial: </color><color=#8B0000>Réduit l'intervalle d'attaque de Lance-fléau et Chou Sol au-dessus de lui à 1.5 secondes, et diminue l'intervalle d'attaque des autres plantes de type Chou de 33 %.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Pot de Fleur</color>"
         },
         {
             "seedType": 1113,
-            "name": "Cata-taco",
-            "introduce": "<size=36><color=black>Taco-pult se demande toujours pourquoi, malgré l'apprentissage des compétences de Lance-maïs et ses bonnes performances sur le champ de bataille, Dave a du mal à le regarder et l'évite même. En vérité, c'est parce que Taco-pult ressemble trop à un taco, et chaque fois que Dave le voit, il a juste envie de le prendre dans ses bras et de le manger.</color>",
-            "info": "<size=36>Lance des tacos qui peuvent rebondir une fois et peut aussi lancer du beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles rebondissent une fois. A 1/4 de chance de lancer du beurre, infligeant 80 dégâts et immobilisant les zombies pendant 4 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-maïs</color>",
-            "cost": "<size=36>"
+            "name": "Lance-taco",
+            "introduce": "<align=justified><size=36><color=black>Lance-taco se demande toujours pourquoi, malgré ses compétences apprises de Lance-maïs et ses performances au combat, Dave a du mal à le regarder et l'évite même. En réalité, c'est parce que Lance-taco ressemble trop à un taco, et chaque fois que Dave le voit, il a juste envie de le prendre et de le manger.</color>",
+            "info": "<size=36>Lance des tacos qui peuvent rebondir une fois et peut aussi lancer du beurre.\n\n<color=black>Dégâts: </color><color=#8B0000>40/3 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Les projectiles rebondissent une fois. Possède 1 chance sur 4 de lancer du beurre, infligeant 60 dégâts et immobilisant les zombies pendant 4 secondes.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Lance-maïs</color>"
         },
         {
             "seedType": 1114,
@@ -3289,6 +3289,62 @@
             "introduce": "<align=justified><size=36><color=black>Les trois frères Champi-gnon Citrouille sont des enfants très aimés et bien élevés : calmes, ordonnés et jamais querelleurs. Leur seul passe-temps consiste à essayer d'assembler le puzzle de citrouille qui se trouve sur leur tête, mais malheureusement, ils n'y sont jamais tout à fait parvenus. .</color>",
             "info": "<size=36>Plus il y a de Champi-gnon dans la Champi-trouille, plus la protection est forte!\n\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Plante courte (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Restaure 50 pv toutes les 3 secondes. Commence avec 1/4 de ces pv max.\n<color=black>•</color> A 1/3 max des PV ou plus, réduit les dégâts subis de 50 %.\n<color=black>•</color> À 2/3 des PV max ou plus, absorbe les dégâts pour la plante à l'intérieur.</color>",
             "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-gnon + Citrouille</color>"
+        },
+        {
+            "seedType": 230,
+            "name": "Champi-lumière: lumière du soleil",
+            "introduce": "<align=justified><size=36><color=black>La première fois que Champi-lumière a vu une luciole quand il était enfant, il était captivée. Les lumières vacillantes dans l'herbe: Une vie si belle et pourtant si éphémère, comme les lampes ou les étoiles, qui peignent le ciel nocturne de rêves. Peut-être est-ce pour cela qu'il regarde les soleils qu'elle produit avec joie plutôt qu'avec dégoût.</color>",
+            "info": "<size=36>Champi-lumière: lumière du soleil vit en symbiose avec les lucioles.\n\n<color=blue>PvZ: Plante symbiotique collaborative</color>\n<color=black>Production de soleil: </color><color=#8B0000>20→35/25 secondes\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Les Champi-soleil se transforment en Champi-lumière, obtiennent la compétence <u>Champi-solaire</u> après 150 secondes si le niveau Lumos de leur case est supérieur ou égal à 1. Chaque niveau Lumos supplémentaire accélère la conversion de 100 %.\n<color=black>•</color></color> Lumo-solaire : produit des soleil, qui valent 20 chacun (35 à maturité).</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-solaire + Lumos level</color>"
+        },
+        {
+            "seedType": 231,
+            "name": "Champi-lumière: lumière de l’esprit",
+            "introduce": "<align=justified><size=36><color=black>Ce n'est qu'après avoir entendu l'histoire de \"l'herbe pourrie donnant naissance à des lucioles\" que Champi-lumière comprenait pourquoi ses amis ne semblaient jamais tristes lorsqu'ils se séparaient. Pour eux, chaque cycle était une grande réunion, et non la fin de la vie. \" Nous sommes destinés à nous séparer, mais nous sommes également destinés à nous retrouver. \"</color>",
+            "info": "<size=36>Deuxième forme de Champi-lumière.\n\n<color=blue>PvZ: Plante symbiotique collaborative</color>\n<color=black>Production solaire: </color><color=#8B0000>20→35/25 secondes\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Après 150 secondes supplémentaires sous Lumos, les Champi-lumière acquièrent la capacité <u>lumière de l’esprit</u>. Chaque niveau Lumos supplémentaire accélère la vitesse des mises à niveau de 100 %.\n<color=black>•</color> Lumière de l’esprit: Quand un zombie mord un Champi-lumière, 1 lumière de l’esprit commence à suivre ce zombie (2 s'il est adulte). Chaque fois qu'un zombie suivi subit des dégâts, 1 lumière de l’esprit s'envole et produit un petit lumière du soleil. Lorsque le zombie meurt, tous les lumière de l’esprit qui le suivaient sont libérés, laissant tomber un nombre égal de soleil. Un zombie peut avoir jusqu'à 20 lumière de l’esprit qui le suivent à la fois.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-lumière + Lumos Level</color>"
+        },
+        {
+            "seedType": 232,
+            "name": "Champi-lumière: explosion de lumière",
+            "introduce": "<align=justified><size=36><color=black>\"Si tu lèves les yeux et que tu vois les lucioles virevolter, c'est moi, de retour à tes côtés.\" Champi-lumière n'a jamais craint la mort. Née de l'herbe fanée, brillant à la fin de l'été, elle embrasse une dernière et résolue splendeur pour déclencher la symphonie de la renaissance. À la tombée de la nuit, le silence s'installe, la roue du yin et du yang tourne, et le cycle se perpétue à l'infini.</color>",
+            "info": "<size=36>Troisième forme de Champi-lumière.\n\n<color=blue>PvZ: Plante symbiotique collaborative</color>\n<color=black>Production solaire: </color><color=#8B0000>20→35/25 secondes\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Après 150 secondes supplémentaires sous Lumos, les Champi-lumières acquièrent la capacité<u>explosion de lumière</u>.Chaque niveau Lumos supplémentaire accélère la vitesse des mises à niveau de 100 %.\n<color=black>•</color> Explosion de lumière: Quand un Champi-lumière meurt, tous les zombies dans un petit rayon sont suivis par cinq Lumo-flies (portée augmentée à maturité).</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-lumière + Lumos Level</color>"
+        },
+        {
+            "seedType": 1356,
+            "name": "Champi-étoile filante",
+            "introduce": "<align=justified><size=36><color=black>Lorsque le chapeau en forme d'étoile du Champi-étoile filante touche un zombie, il libère des projectiles en forme d'étoiles, ce qui améliore considérablement l'efficacité des projectiles. \"En fait, si l'étoile à propulsion arrière était également optimisée, le rendement pourrait être encore plus élevé.\" L'un de ses camarades fit remarquer tout en esquivant le projectile qui revenait.</color>",
+            "info": "<size=36>Des feux transperçant des étoiles qui se divisent en cinq étoiles au contact.\n\n<color=black>Dégat: </color><color=#8B0000>0 + 20×5×(0-3)/1.5 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>La casquette étoilée ne cause aucun dégât et peut transpercer deux fois. Chaque fois qu'elle entre en contact avec un zombie, elle libère 1 projectile étoilé dans chacune des 5 directions, chacun infligeant 20 points de dégâts.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-fumée + Carambole</color>"
+        },
+        {
+            "seedType": 1341,
+            "name": "Planterne Ultraviolet",
+            "introduce": "<align=justified><size=36><color=black> Les Planternes Ultraviolet ne consomment pas l’obscurité pour créer de la lumière. Leurs lumières est alimentée par leurs mépris pour les Zombies, et quelques grammes de plutonium. \"Il n’y a pas d’échappatoire face à la lumière. Brûlez tous les trompeurs !\"\n\n-Par Kayle la vertueuse</color>",
+            "info": "<size=36>Sa lumière UV rallume les braises et confère aux lasers des effets explosifs.\n\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Toutes les 3 s, fournit 3 points de braise (valeur de Braise) aux Torche Maudites dans une zone de 3×3.\n<color=black>•</color>Le laser du Cactus Lumineux devient violet et acquiert la capacité de déclencher une explosion sur 1 tuile, infligeant 10 points de dégâts à l’impact après avoir traversés les zombies.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mort + Planterne</color>"
+        },
+        {
+            "seedType": 1345,
+            "name": "Écraseur Maudit",
+            "introduce": "<align=justified><size=36><color=black>Écraseur Maudit parle rarement à quiconque sur la pelouse. Il se déplace silencieusement d’un endroit à l’autre, ne laissant derrière lui que des cratères. La rumeur raconte qu’il devait à l’origine être déployé uniquement en \"circonstances désespérées\", mais qu’il aurait d’une manière ou d’une autre échappé au confinement.\n\n- SCP-682</color>",
+            "info": "<size=36>Un Écraseur extrêmement explosif, avec une forte propension aux dégâts collatéraux.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur) + 1800 (zone 5×5, Crémateur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche ; 3 cases à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l’atterrissage, déclenche une explosion de Champi-mort, laissant un cratère à l’endroit de l’impact et détruisant également toutes les plantes présentes sur cette case.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Champi-mort</color>"
+        },
+        {
+            "seedType": 1343,
+            "name": "Lance-courge",
+            "introduce": "<align=justified><size=36><color=black>L’Écraseur est lourd, mais trop mou. Les pastèques sont lourdes aussi, mais trop fragiles. Désormais, ces problèmes sont résolus. Ou peut-être simplement combinés.</color>",
+            "info": "<size=36>Les projectiles écrasent les zombies comme un Écraseur, puis se brisent comme une Pastèque, infligeant des dégâts de zone.\n\n<color=black>Dégâts : </color><color=#8B0000>120 (Écraseur) / 3 s</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles infligent des dégâts d’écrasement en zone à l’atterrissage, puis se brisent peu après, infligeant des dégâts de zone avec atténuation, similaires à Lance-pastèque.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1344,
+            "name": "Écraseur Cerise",
+            "introduce": "<align=justified><size=36><color=black>Même parmi les Écraseurs, Écraseur Cerise est réputé pour son caractère explosif et son tempérament très court. \"Essaie donc de porter quelque chose d’aussi lourd sur ton dos\", grogne-t-il. Les autres Écraseurs se soucient moins de son humeur que de la façon dont il parvient à sauter si haut et si loin avec un tel poids.</color>",
+            "info": "<size=36>Un Écraseur extrêmement explosif.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur) + 1800 (3×3, Crémateur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche ; 3 cases à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l’atterrissage, déclenche une explosion de Cerise explosive.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Cerise explosive</color>"
         }
     ]
 }
