@@ -1977,7 +1977,7 @@
   "小丑爆炸伤害降低至5000，且不再伤害南瓜里的植物": "Jack-in-the-Box Explosion Damage is reduced to 5k and can no longer harm plants in Pumpkins",
   "保护IV：提交6个原版南瓜头": "Submit 6 unfused Pumpkins",
   "南瓜植物获得30%伤害减免": "Pumpkins gain a 30% Incoming Damage Reduction",
-  "资源紧张：进入关卡时最多携带6张卡牌": "Don't enter the level with more than 6 Seed Slots in use",
+  "资源紧张：进入关卡时最多携带6张卡牌": "Enter the level with 6 or fewer Seed Slots in use",
   "关卡开始时，位于卡槽前6位的卡牌价格降低5": "Plants in the first 6 Slots cost 5 less Sun",
   "无伤通关：不丢失花盆通关": "Don't lose any of the initial Flower Pots (they can still be fused)",
   "关卡开局额外赠送一列阳光花盆": "Start with an extra column of Solar Pots",
