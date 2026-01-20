@@ -849,10 +849,10 @@
         },
         {
             "seedType": 1054,
-            "name": "Écraseur Épicé",
-            "introduce": "<size=36><color=black>\"Je ne suis pas aussi impatient que mon frère\", déclara calmement l'Écraseur Épicé. \"Il se précipite dans tout, mais j'ai appris que le véritable succès vient de la patience et d'une observation attentive. Parfois, il vaut mieux attendre et laisser le feu mijoter.\"</color></size>",
-            "info": "<size=36>L'Écraseur Épicé peut bruler toute une rangée de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000> 1800 (Tuile simple) + 1800 (Allée + Crémateur)</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Jalapeño</color></size>",
-            "cost": ""
+            "name": "Écraseur Pimenté",
+            "introduce": "<align=justified><size=36><color=black>\"Je ne suis pas aussi impatient que mon frère,\" déclare calmement l'Écraseur Pimenté. \"Lui fonce dans tout, mais j'ai appris que le vrai succès vient de la patience et de l'observation attentive. Parfois, il vaut mieux attendre et laisser le feu mijoter.\"</color></size>",
+            "info": "<size=36>L'Écraseur Pimenté peut brûler toute une rangée de zombies.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Case unique) + 1800 (Rangée + Crémateur)</color>\n<color=black>Spécial: </color><color=#8B0000>Libère l'effet Jalapeño en écrasant les zombies.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Jalapeño</color></size>"
         },
         {
             "seedType": 1055,
@@ -885,9 +885,9 @@
         {
             "seedType": 1059,
             "name": "Écras-torche",
-            "introduce": "<size=36><color=black>\"Il fait beaucoup trop chaud ! Trop chaud !\" Cria Écraseur, piégé dans les flammes de Torche. \"Qui m'a mis ici ? Je devrais être en train d'écraser des zombies, pas d'être la punchline d'un barbecue !\" La chaleur était accablante et alors qu'il atteignait son point de rupture, il s'enflamma, jaillissant de la torche pour rejoindre la bataille contre les zombies.</color></size>",
-            "info": "<size=36>Produit un écraseur devant lui pour chaque 60 pois qui lui passe à travers\n<color=black>Spécial : </color><color=#8B0000>A chaque fois que 60 petits pois seront allumés, un Écraseur sera planté devant.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Torche</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Il fait beaucoup trop chaud ! AU FEU !\" Cria Écraseur, piégé dans les flammes de Torche. \"Qui m'a mis ici ? Je devrais être en train d'écraser des zombies, pas d'etre de la garniture dans un barbecue !\" La chaleur était accablante et alors qu'il atteignait son point de rupture, il s'enflamma, jaillissant de la torche pour rejoindre la bataille contre les zombies.</color></size>",
+            "info": "<size=36>Produit un écraseur devant lui pour chaque 51 pois qui lui passe à travers\n<color=black>Spécial : </color><color=#8B0000>A chaque fois que 51 pois seront allumés, un Écraseur Incandescent sera planté devant.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Écraseur + Torche</color>"
         },
         {
             "seedType": 1060,
@@ -1297,10 +1297,10 @@
         },
         {
             "seedType": 1118,
-            "name": "Cata-oignon",
-            "introduce": "<size=36><color=black>\"La combinaison de chou et d'Ail est fraîche, délicieuse et saine, et elle est simple à préparer. Ajouter quelques gousses d'Ail avant de servir rehausse la saveur\", explique le chef Ail. Manger Ail aurait également un effet sur la prévention de la chute des cheveux.</color>",
-            "info": "<size=36>Lance un projectile qui rebondit une fois, et chaque fois qu'il touche un zombie avec des points de poison supérieurs à 0, il peut rebondir à nouveau. Il n'y a pas de limite aux temps de rebond et chaque coup ajoute 1 point de poison.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque coup de zombie ajoute 1 point de poison. Voir Pulte de clou de girofle pour plus de détails.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Ail</color>",
-            "cost": "<size=36>"
+            "name": "Lance-chou puant",
+            "introduce": "<align=justified><size=36><color=black>\"La combinaison de chou et d'ail est fraîche, délicieuse et saine, et elle est simple à préparer. Ajouter quelques gousses d'ail avant de servir rehausse la saveur,\" explique Chef cuisto Ail. Manger de l'ail est également réputé pour avoir un effet contre la perte de cheveux.</color></size>",
+            "info": "<size=36>Lance des choux puants et des restent pourris sur les zombies.\n\n<color=black>Dégâts: </color><color=#8B0000>40/3s</color>\n<color=#5E1675>Système de Poison: </color><color=#8B0000>\n<color=black>•</color> Voir Lance-girofle pour les détails sur le système de Poison.\n<color=black>•</color> Chaque fois qu'il touche un zombie ayant des points de Poison supérieur à 0, il peut rebondir à nouveau. Aucun nombre limite de rebonds.\n<color=black>•</color> Chaque coup reçoit des dégâts bonus proportionnels à la valeur de Poison du zombie, puis ajoute 1 point de Poison.\n<color=black>Spécial: </color><color=#8B0000>Lance un projectile qui rebondit une fois.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Ail</color></size>"
         },
         {
             "seedType": 1119,
@@ -1367,10 +1367,10 @@
         },
         {
             "seedType": 1128,
-            "name": "Parapluie de Chou",
-            "introduce": "<size=36><color=black>Quand on lui a demandé quel était son secret pour réussir, Umbrella Kale a répondu : \"En fait, j'aime vraiment laisser les couilles reposer sur ma tête.\" Elle fit une pause, \"Mais les autres plantes me félicitent toutes comme étant une protectrice de premier ordre.\"</color>",
-            "info": "<size=36>Peut faire rebondir des projectiles de type catapulte. S'il n'y a pas de zombies, il peut stocker des projectiles pendant un certain temps et augmenter considérablement leurs dégâts.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Priorité aux catapultes pour le ciblage et augmente les dégâts des projectiles de 80 %, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Ombrelle</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Chou",
+            "introduce": "<align=justified><size=36><color=black>Quand on demande qu'elle est son secret pour réussir, Ombrelle Chou répond, \"En fait, j'aime juste vraiment laisser les balles se reposer sur ma tête.\" Elle fait une pause, \"Mais les autres plantes me considèrent toutes comme une protectrice hors pair.\"</color></size>",
+            "info": "<size=36>Peut renvoyer les projectiles de type catapulte pour augmenter leurs dégâts.\n\n<color=black>Robustesse: </color><color=#8B0000>1000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Priorisée par les catapultes pour le ciblage. Augmente les dégâts des projectiles de 75%.\n<color=black>•</color> Si aucun zombie n'est présent, elle peut stocker des projectiles temporairement.\n<color=black>•</color> Repousse les zombies au prix de sa Robustesse. Voir Ombrelle Beurrée pour s'informer sur la consommation de Robustesse lors de repousse.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Ombrelle</color></size>"
         },
         {
             "seedType": 1129,
@@ -3345,6 +3345,34 @@
             "introduce": "<align=justified><size=36><color=black>Même parmi les Écraseurs, Écraseur Cerise est réputé pour son caractère explosif et son tempérament très court. \"Essaie donc de porter quelque chose d’aussi lourd sur ton dos\", grogne-t-il. Les autres Écraseurs se soucient moins de son humeur que de la façon dont il parvient à sauter si haut et si loin avec un tel poids.</color>",
             "info": "<size=36>Un Écraseur extrêmement explosif.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur) + 1800 (3×3, Crémateur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche ; 3 cases à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l’atterrissage, déclenche une explosion de Cerise explosive.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Cerise explosive</color>"
+        },
+        {
+            "seedType": 1351,
+            "name": "Écraseur Solaire",
+            "introduce": "<align=justified><size=36><color=black>L’activité préférée d’Écraseur Solaire consiste à tapoter délicatement les pétales sur sa tête avec sa feuille, puis à se vanter fièrement auprès des autres Écraseurs : \"Voilà ce que donne un shampoing alimenté au Soleil. Regardez comme mes cheveux sont soyeux.\" Heureusement pour lui, les autres Écraseurs sont tous très sérieux et ne se moquent jamais, si bien qu’il ignore toujours qu’il arbore une calvitie naissante tout à fait classique.</color>",
+            "info": "<size=36>Peut consommer du Soleil pour rester sur la pelouse après avoir écrasé un zombie.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l’atterrissage ou à la mort, consomme 50 + (nombre de résurrections précédentes) Soleil pour rester sur la case d’atterrissage / de résurrection. En cas d’échec, 50 Soleil sont remboursés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Écraseur</color>"
+        },
+        {
+            "seedType": 1353,
+            "name": "Écrase-patate",
+            "introduce": "<align=justified><size=36><color=black>Vous avez déjà vu des Écraseurs pousser sur des lianes, mais en avez-vous déjà vu un surgir directement du sol ? Ne vous laissez pas tromper : Écrase-patate n’est en réalité qu’une purée de pommes de terre façonnée en forme d’Écraseur. Mais ne vous avisez surtout pas de vous moquer de sa petite taille. S’il vous entend, il fera en sorte que vous soyez encore plus petit que lui.</color>",
+            "info": "<size=36>Produit des Purées de Patate capables d’écraser les zombies.\n\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles à tir direct).\n<color=black>•</color> Commence armé par défaut. Lorsqu’un zombie entre dans sa zone de détection, génère immédiatement une Purée de Patate à l’emplacement ciblé, puis s’enterre pendant 15 secondes afin de se réarmer.\n<color=black>•</color> La Purée de Patate possède le même effet et les mêmes dégâts qu’un Écraseur, mais avec une portée de détection plus large.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Écraseur</color>"
+        },
+        {
+            "seedType": 1354,
+            "name": "Purée de Patate",
+            "introduce": "<align=justified><size=36><color=black>Ne vous fiez pas à sa petite taille : ses ambitions sont tout sauf modestes. \"Je ne vivrai pas éternellement sous la protection de l’Écrase-patate. Je pars trouver ma propre voie.\" Sur ces mots, il bondit en avant et écrase le zombie sur son passage. Peut-être qu’un jour, lui aussi trouvera son propre cratère, tout comme l’Écrase-patate avant lui.</color>",
+            "info": "<size=36>Similaire à un Écraseur, mais bien plus facile à déclencher.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>1,5 case à gauche ; 2,5 cases à droite</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1355,
+            "name": "Ail de mort",
+            "introduce": "<align=justified><size=36><color=black> Lors d'un championnat de zombies mangeurs d’Ail, l'Ail de mort fut servi comme plat final. Le résultat : trois des dix concurrents abandonnèrent, cinq furent transportés d’urgence à l’hôpital, et les deux restants explosèrent sur place. Faute de concurrents restants, Ail de mort lui-même fut déclaré champion de l’édition de cette année.</color>",
+            "info": "<size=36>Fait exploser les zombies qui le mordent à leur mort.\n\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Inflige l'Altération Braise aux zombies qui le mordent. Les zombies maudits par la Braise explosent à leur mort dans un rayon de 1,5 tuile, infligeant 300 points de dégâts.\n<color=black>•</color> Inflige l'Altération Poison et 1 point de Poison aux zombies qui le mordent.\n<color=black>•</color> Lorsque l'Altération Braise et Poison sont actifs simultanément sur un zombie, la durée du Poison devient infinie.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mort + Ail</color>"
         }
     ]
 }
