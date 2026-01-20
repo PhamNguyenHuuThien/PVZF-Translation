@@ -62,7 +62,7 @@
   "烈焰_聚塑": "<color=#AA0022>Ignis:</color>\nIntegration",
   "每拥有1个烈焰词条，植物的攻击力增加{value}%，激活火球效果": "For each Ignis modifier, plants attack gain {value}% attack damage and the Fireball effect is activated.",
   "烈焰_爆破": "<color=#AA0022>Ignis:</color>\nConflagration",
-  "红温的僵尸死亡时的爆炸伤害提高{value}%": "Enflamed zombies deal {value}% more explosive damage on death.",
+  "红温的僵尸死亡时的爆炸伤害提高{value}%": "تسبب الزومبي المشتعلة {value}٪ ضرر انفجار إضافي عند موتها.",
   "烈焰_怒火": "<color=#AA0022>Ignis:</color>\nInfernal Heat",
   "红温增伤提高{value}%": "Enflamed damage bonus increased by {value}%.",
   "烈焰_红唇": "<color=#AA0022>Ignis:</color>\nIncendiary Explosion",

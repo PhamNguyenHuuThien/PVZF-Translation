@@ -680,15 +680,15 @@
         },
         {
             "theZombieType": 205,
-            "name": "Kirov Zomppelin",
-            "introduce": "<align=justified><size=36><color=black>Was that a huge flying object? No, it was actually a gigantic airship, featuring a sturdy shell and the ability to release a squadron of fighters. Even when destroyed, the airship could still wreak havoc on surrounding creatures, causing other zombies to keep their distance, fearing that a crash might send them to their demise.</color>",
-            "info": "<size=36>An aircraft carrier being developed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Summons a Kirov Drone into action every 3s.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Zomppelins and Kirov Zomppelins now have their movement speed ×5 and become immune to Blovers.\n2. Each Kirov Drone Toughness increased to 25k.</color>"
+            "name": "الطراد القاذفة",
+            "introduce": "<align=justified><size=36><color=black>هل كان هذا جسم طائر ضخم? لا ، لقد كان في الواقع منطادا عملاقا ، يتميز بقذيفة قوية والقدرة على إطلاق سرب من المقاتلين. حتى عند تدميرها ، لا يزال بإمكان المنطاد أن يعيث فسادا في المخلوقات المحيطة ، مما يتسبب في إبقاء الزومبي الآخرين على مسافة بينهم ، خوفا من أن يؤدي الانهيار إلى زوالهم.</color>",
+            "info": "<size=36>حاملة طائرات طورتها فيلق جي فيش.\n\n<color=black>الصحة: </color><color=#4B0082>3000</color>\n<color=black>السمات: </color><color=#4B0082>استدعاء طائرة بدون طيار كيروف للعمل كل 3 ثوان.</color>\n<color=black>تحسينات أوديسي:\n</color><color=#4B0082>1. القاذفات وقاذفات القنابل كيروف لها سرعة حركتها مضروبة في 5 وتصبح محصنة ضد برسيم الرياح.\n2. ارتفعت صحة الطائرات بدون طيار كيروف إلى 25000</color>"
         },
         {
             "theZombieType": 206,
-            "name": "Kirov Drone",
-            "introduce": "<align=justified><size=36><color=black>This is no ordinary aircraft; it is a special plane that has been compressed through water pressure. While the exact method of compression remains a mystery, its battlefield strength rivals that of conventional bombers.</color>",
-            "info": "<size=36>Kirov drones fly faster, releasing bombs over the plants they fly over.\n\n<color=black>Bomb Damage: </color><color=#4B0082>500</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and Blovers. Drops Jack-in-the-Box Bombs to the plants directly below every 3s.</color>"
+            "name": "طائرة كيروف بدون طيار",
+            "introduce": "<align=justified><size=36><color=black>هذه ليست طائرة عادية ؛ إنها طائرة خاصة تم ضغطها من خلال ضغط الماء. في حين أن الطريقة الدقيقة للضغط لا تزال لغزا ، فإن قوتها في ساحة المعركة تنافس قوة القاذفات التقليدية.</color>",
+            "info": "<size=36>تطير طائرات كيروف بدون طيار بشكل أسرع ، وتطلق قنابل فوق النباتات تحتها.\n\n<color=black>أضرار القنابل: </color><color=#4B0082>500</color>\n<color=black>الصحة: </color><color=#4B0082>500</color>\n<color=black>السمات: </color><color=#4B0082>محصن من البرودة وتأثير برسيم الرياح. يسقط قنابل جاك في الصندوق على النباتات الموجودة أسفل كل 3 ثوان مباشرة.</color>"
         },
         {
             "theZombieType": 207,
@@ -770,7 +770,7 @@
         },
         {
             "theZombieType": 220,
-            "name": "<u>Giga Football Striker</u>",
+            "name": "<u>قائد كرة القدم المظلم</u>",
             "introduce": "<align=justified><size=36><color=black>There was no escaping him. Giga Football Striker moved with unnatural precision, his unblinking eyes scanning for the next victim. He wasn't just a destroyer—he was a harvester, a nightmare that took more than just life. Every plant he touched became part of him, twisted and corrupted. And as he advanced, his presence whispered the same terrifying truth: \"No matter where you run, I will find you.\"</color>",
             "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs and stuns.\n<color=black>•</color> Disables plant healing, converting it to 0.1× damage against himself, capped at 1% of his max HP.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3s, damage ×2 (stackable, max 1M), restores 6000 armor HP, and increases speed by 30% (max 3 times the original speed).</color>"
         },
@@ -788,7 +788,7 @@
         },
         {
             "theZombieType": 223,
-            "name": "<u>Professor Cherryz</u>",
+            "name": "<u>البروفيسور تشيري</u>",
             "introduce": "<align=justified><size=36><color=black>As Dr. Edgar's mentor, the esteemed Prof. Cherryz exudes an air of refined calm and grace in his speech. But he is obsessed with the studying of scientific artifacts, especially explosives; rumor has it that Cherrizilla was originally his creation...</color>",
             "info": "<size=36>A research-obsessed scholar who now has his eyes on you.\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>6000 + 15000 (Type 1) + 3000 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs.\n<color=black>•</color> Invulnerable until his newspaper is destroyed. Upon losing it, he briefly becomes invincible and converts up to 30 zombies into enraged Gatling Cherry Newspaper Zombie. He then fires a cherry barrage, catapulting cherries to the last column while accelerating forward.\n<color=black>•</color> Stops only upon encountering Spikeweed, which instantly destroys his newspaper.</color>"
         },
