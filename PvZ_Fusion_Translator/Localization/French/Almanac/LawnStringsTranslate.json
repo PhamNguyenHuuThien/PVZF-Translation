@@ -1339,10 +1339,10 @@
         },
         {
             "seedType": 1124,
-            "name": "Cata-pastèque",
-            "introduce": "<size=36><color=black>\"Enlevez l'extérieur vert et vous trouverez un cœur de roses à l'intérieur.\" Cette phrase signifie ne pas entrer au hasard dans un salon de coiffure inconnu : ce serait une décision époustouflante.\n\nMelon Pot : \"Après avoir fini une pastèque, porter l'écorce sur la tête est quelque chose que tout le monde faisait quand on était enfant.\" Pot de Fleur remarque : \"Honnêtement, c'est un peu idiot.\"</color>",
-            "info": "<size=36>Tire des melons qui rebondissent une fois.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Lance-pastèque Dumara",
+            "introduce": "<align=justified><size=36><color=black>\"Retirez l'extérieur vert, et vous trouverez un cœur de roses à l'intérieur.\" Cette phrase signifie : ne vous aventurez pas au hasard dans un salon de coiffure inconnu, ce serait une décision que vous pourriez regretter.\" Pot de Pastèque remarque, \"Après avoir fini une pastèque, mettre la peau de pastèque sur la tête est quelque chose que tout le monde faisait enfant.\" Pot de Pastèque ajoute : \"Honnêtement, c'était un peu ridicule quand on y pense.\"</color></size>",
+            "info": "<size=36>Tire des pastèques qui rebondissent une fois.\n\n<color=black>Dégâts: </color><color=#8B0000>80/3s</color>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Lance-pastèque</color></size>"
         },
         {
             "seedType": 1125,
@@ -1409,10 +1409,10 @@
         },
         {
             "seedType": 1134,
-            "name": "Chou Argenté",
-            "introduce": "<size=36><color=black>En plus d'un extérieur argenté brillant, Silver Cabbage a également un cœur argenté. Silver Cabbage rêve de devenir enseignant et a déjà un slogan en tête : \"Instructeur Silver Cabbage, à votre service.\"</color>",
-            "info": "<size=36>Lance des choux argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Lance-chou</color>",
-            "cost": "<size=36>"
+            "name": "Lance-chou Argenté",
+            "introduce": "<align=justified><size=36><color=black>En plus d'un extérieur argenté brillant, Lance-chou Argenté a également un cœur en argent. Il rêve de devenir enseignant et a déjà une phrase fétiche en tête : \"Si le combat est sûr d’aboutir à la victoire, alors vous devez combattre !\" Par Soldat TF2</color></size>",
+            "info": "<size=36>Lance des choux argentés pour attaquer les zombies.\n\n<color=black>Dégâts: </color><color=#8B0000>60/3s</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Souci + Lance-chou</color></size>"
         },
         {
             "seedType": 1135,
@@ -3373,6 +3373,20 @@
             "introduce": "<align=justified><size=36><color=black> Lors d'un championnat de zombies mangeurs d’Ail, l'Ail de mort fut servi comme plat final. Le résultat : trois des dix concurrents abandonnèrent, cinq furent transportés d’urgence à l’hôpital, et les deux restants explosèrent sur place. Faute de concurrents restants, Ail de mort lui-même fut déclaré champion de l’édition de cette année.</color>",
             "info": "<size=36>Fait exploser les zombies qui le mordent à leur mort.\n\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Inflige l'Altération Braise aux zombies qui le mordent. Les zombies maudits par la Braise explosent à leur mort dans un rayon de 1,5 tuile, infligeant 300 points de dégâts.\n<color=black>•</color> Inflige l'Altération Poison et 1 point de Poison aux zombies qui le mordent.\n<color=black>•</color> Lorsque l'Altération Braise et Poison sont actifs simultanément sur un zombie, la durée du Poison devient infinie.</color>",
             "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mort + Ail</color>"
+        },
+        {
+            "seedType": 1238,
+            "name": "Algue Séchée",
+            "introduce": "<align=justified><size=36><color=black>Fondateur de l’entreprise désormais célèbre de massages aquatiques pour les pieds, Algue Séchée a redéfini la thérapie spa. Avec des établissements dans tous les biomes et une nouvelle gamme de voies de massage pour véhicules, les affaires sont florissantes — surtout avec une clientèle zombifiée de masse.</color>",
+            "info": "<size=36>Algue Séchée entrave les zombies même sur la terre ferme.\n\n<color=black>Dégâts: </color><color=#8B0000>20/1s</color>\n<color=black>Spécial: </color><color=#8B0000>Les attaques ajoutent 1 point de Valeur d’Entrave terrestre (1/3 de l’efficacité de la Valeur d’Entrave aquatique).</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Ortie + Algue</color>"
+        },
+        {
+            "seedType": 941,
+            "name": "Capitaine Algue-d'or",
+            "introduce": "<align=justified><size=36><color=black>Depuis son retour de la bataille de l’Abîme du Maelstrom, le Capitaine Algue-d’Or est devenu une bête transformée — plus féroce, plus avide et deux fois plus courageux. Aujourd’hui, en tant que capitaine du maudit Hollandais Volant, lié par deux cœurs — l’un arraché de sa propre poitrine, l’autre volé au rival tombé — la fureur du Capitaine Algue-d’Or règne sur les Sept Mers. Osez poser la main sur ses cœurs, et vous verrez votre navire sombrer tout droit au cimetière des navires fantômes, là où votre nom appartiendra au passé, condamné à périr sous les flots salés.</color>",
+            "info": "<size=36>Seigneur avide des Sept Mers, capable d’extraire jusqu’à la dernière goutte de valeur des zombies.\n\n<color=#4A2900>Condition d'Utilisation: Mode Odyssée | Déverouillage</color>\n<color=black>Dégâts: </color><color=#8B0000>40×3/1.5s + mort instantanée (Noie les zombies) × ∞</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Conserve tous les traits de l'Algue Hydre, mais peut noyer les zombies sous l’eau un nombre infini de fois (jusqu’à une fois par seconde).\n<color=black>•</color> Les zombies touchés par ses projectiles deviennent dorés — lorsqu’ils meurent, ils accordent ×3 points Odyssée. Bonus maximum : +2000 points par vague.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Les plantes infligent 5 % de dégâts supplémentaires pour chaque total de 1000 points possédés (jusqu’à +300 %), 2. La boutique Odyssée offre désormais une réduction de 30 % sur les modificateurs</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Double Souci + Algue Hydre</color>"
         }
     ]
 }

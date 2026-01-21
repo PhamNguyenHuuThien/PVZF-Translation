@@ -195,8 +195,8 @@
         {
             "theZombieType": 33,
             "name": "Zombie Échelle",
-            "introduce": "<size=32><color=black>Ladder Zombie a entendu dire en ligne qu'avec une échelle et des vêtements de travail, il pouvait se faufiler au-delà de toutes les défenses. Armé d'une échelle et habillé comme un ouvrier, il part à la conquête des défenses de l'usine.\nCommentaire de Pisto-pois : \"Personne ne lui a dit que sa peau de zombie était beaucoup trop visible...?\"</color>",
-            "info": "<size=32>Ce zombie utilise une échelle pour contourner les obstacles.\n\n<color=black>Robustesse : </color><color=#4B0082>720+720</color>\n<color=black>Spécial : </color><color=#4B0082>Peut utiliser l'échelle pour ignorer les défenses des plantes.</color>"
+            "introduce": "<align=justified><size=36><color=black>Zombie Échelle a entendu dire sur Internet qu'avec une échelle et des vêtements de travail, il pouvait se faufiler au-delà de toutes les défenses. Armé d'une échelle et habillé comme un ouvrier, il part à la conquête des défenses des plantes.\nCommentaire du Pisto-pois : \"Personne ne lui a dit que sa peau de zombie était beaucoup trop visible...?\"</color></size>",
+            "info": "<size=36>Ce zombie utilise une échelle pour contourner les obstacles.\n\n<color=black>Robustesse : </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>Peut utiliser son échelle pour ignorer les défenses des plantes. Les plantes équipées d'une échelle ne peuvent pas être déplacées par le Gant. Les échelles peuvent être détruites par les Crémateurs. L'échelle peut être retirée par les Champi-aimants.</color></size>"
         },
         {
             "theZombieType": 34,
@@ -213,14 +213,14 @@
         {
             "theZombieType": 36,
             "name": "Méga Gargantua",
-            "introduce": "<size=36><color=black>Bien que le Giga-gargantuar fasse des ravages sur le champ de bataille, ses yeux rouge sang instillant la peur chez tous ceux qui lui font face, il y a un secret peu connu : le monstre est perpétuellement irritable à cause d'un sommeil chronique. privation.</color>",
-            "info": "<size=36>Le Gargantuar enragé écrase tout sur son passage avec une force terrifiante.\n\n<color=black>Robustesse : </color><color=#4B0082>6000</color>"
+            "introduce": "<align=justified><size=36><color=black>Bien que le Méga Gargantua fasse des ravages sur le champ de bataille, ses yeux rouge sang instillant la peur chez tous ceux qui lui font face, il existe un secret peu connu : le monstre est perpétuellement irritable à cause d'une privation chronique de sommeil.</color></size>",
+            "info": "<size=36>Le Gargantua enragé écrase tout sur son passage avec une force terrifiante.\n\n<color=black>Robustesse : </color><color=#4B0082>6000</color>\n<color=black>Spécial : </color><color=#4B0082>Hérite de tous les traits des Gargantuas classiques.</color></size>"
         },
         {
             "theZombieType": 37,
             "name": "Diablotin",
-            "introduce": "<size=36><color=black>Les Diablotins aiment se faufiler dans les espaces restreints, causant souvent des ennuis. Ne soyez pas surpris si vous en voyez un rebondir de manière inattendue !</color>",
-            "info": "<size=36>Petit et sournois, Diablotin adore se faufiler dans les espaces restreints, ce qui le rend agile et plus difficile à cibler.\n\n<color=black>Robustesse : </color><color=#4B0082>270</color>"
+            "introduce": "<align=justified><size=36><color=black>Les Diablotins aiment se faufiler dans les espaces restreints, causant souvent des ennuis. Ne soyez pas surpris si vous en voyez un rebondir de manière inattendue !</color></size>",
+            "info": "<size=36>Petit et sournois, le Diablotin adore se glisser dans les espaces étroits, ce qui le rend agile et plus difficile à cibler.\n\n<color=black>Robustesse : </color><color=#4B0082>270</color>\n<color=black>Spécial : </color><color=#4B0082>Pendant qu'il est en l'air, peut être projeté hors de l'écran par les attaques Ultimes de certaines fusions d'Ombrelle.</color></size>"
         },
         {
             "theZombieType": 38,
@@ -230,9 +230,9 @@
         },
         {
             "theZombieType": 39,
-            "name": "Méga Ggargantua Mecha",
-            "introduce": "<size=36><color=black>Un zombie du populaire Plant Girls vs Zombies.</color>",
-            "info": "<size=36>Dernière création du Dr Gargantuar, cette version mécanisée est immunisée contre le gel et charge directement vos défenses.\n\n<color=black>Robustesse : </color><color=#4B0082>6000</color>\n<color=black>Spécial : </color><color=#4B0082>Immunisé aux effets de contrôle, continue de bouger même lorsqu'il est repoussé, vulnérable aux Champi-aimants.</color>"
+            "name": "Méga Gargantua Mecha",
+            "introduce": "<align=justified><size=36><color=black>Un zombie issu du populaire Plant Girls vs Zombies.</color></size>",
+            "info": "<size=36>Dernière création du Dr Gargantua, cette machine de destruction avance lentement avec des pas lourds et implacables.\n\n<color=black>Robustesse : </color><color=#4B0082>6000</color>\n<color=black>Spécial : </color><color=#4B0082>Hérite de tous les traits des Gargantuas Mecha classiques.</color></size>"
         },
         {
             "theZombieType": 40,
