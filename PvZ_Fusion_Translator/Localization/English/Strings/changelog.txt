@@ -7,7 +7,7 @@ Please visit our community for future updates and support.
 <align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.3.0 Part 1 Changelog</size></align>
 
 1. New Mode - Starbound Adventure
-- Accessed through the Challenges menu.
+- Accessed through the Challenge Mode menu.
 - Progress through the main story to unlock basic plants. Tackle side quests to unlock upgrade plants (purple cards) and utility plants (white cards). Strategically combine task reward effects to conquer high-difficulty stages!
 - This mode features 5 chapters (Day - Roof), each containing 6 main story levels and 6 side story levels. Complete the main story and collect 6 stars from the side story to unlock the next chapter.
 - In the main story, choose between two tasks to complete and earn rewards. You can rebeat levels to unlock both rewards and switch between them.
@@ -54,11 +54,11 @@ Please visit our community for future updates and support.
   - Twin Solar-nut Zombie
 
 4. New Skins
-- Endoflame > Christmas Endoflame
-- Nyan Squash > Nyan Crusher
+- Santaflame (for Endoflames)
+- Moe Squash for (Nyan Squash)
 
-5. New Map - Volcano
-- 6 Lane Map: Lanes 1, 2, 5 and 6 are exposed volcanic rock; lanes 3 and 4 are lava.
+5. New Map - Lava
+- 6 Lane Map: Lanes 1, 2, 5 and 6 are exposed volcanic rock; lanes 3 and 4 are lava lanes.
 - Aquatic plants can be placed on lava but will take continuous damage.
 - Every 60 seconds, lava in a random location will erupt, dealing massive damage to plants in a 3x3 area. Ice-shrooms can suppress lava activity.
 
@@ -74,8 +74,8 @@ Please visit our community for future updates and support.
 - Purchase a new modifier to unlock the Iceborg Prototype and have her fight alongside you in your Odyssey runs!
 
 8. Balance Adjustments
-- The "ember" debuff now enhances other status effects.
-  - Ember + Frost: Reduces zombie speed by an additional 10%
+- The "Ember" debuff now enhances other status effects.
+  - Ember + Chill: Reduces zombie speed by an additional 10%
   - Ember + Poison: Poison duration becomes infinite
   - Ember + Enflamed: Damage increase from enflamed is increased by 10%
 
