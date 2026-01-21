@@ -3364,7 +3364,7 @@
             "seedType": 1327,
             "name": "Chompkin",
             "introduce": "<align=justified><size=36><color=black>Chompkin opened a gym for Chompers, meant to help them digest better, burn fat, and stay in shape. It became wildly popular, but he's not happy. \"They're not training, they're eating! My gym’s become a buffet!\" he vents.</color>",
-            "info": "<size=36>Provides digestive aids for Chomper-type plants inside his shell to speed up digestion.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Periodically uses a reserve Digestive Sac to help the Chomper plant in the same tile to instantly finish swallowing.\n<color=black>•</color> Generates 1 Digestive Sac every 40s, up to a maximum of 3 at the same time. First Digestive Sac takes 7.5s to generate.</color>",
+            "info": "<size=36>Provides digestive aids for Chomper-type plants inside his shell to speed up digestion.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Periodically uses a reserve Digestive Sac to help the Chomper plant in the same tile to instantly finish digesting (or to instantly recharge the Devour abilities of Chompzillas and its fusions).\n<color=black>•</color> Generates 1 Digestive Sac every 40s, up to a maximum of 3 at the same time. First Digestive Sac takes 7.5s to generate.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper > Pumpkin</color>"
         },
         {
