@@ -200,15 +200,15 @@
         },
         {
             "theZombieType": 34,
-            "name": "Zombie Pogo Melon",
-            "introduce": "<size=32><color=black>Citation : « Il est très peu probable que des obus explosent deux fois dans le même cratère ! C'est ce que dit la « Théorie du cratère ».\" dit Pogo Melon Zombie en ajustant son chapeau en peau de melon. Cependant, personne ne lui a dit que ses couleurs rouge et vert ressortaient un peu trop dans une foule de zombies.</color>",
-            "info": "<size=32>Ce zombie charge et saute dans vos défenses !\n\n<color=black>Robustesse : </color><color=#4B0082>270+2200</color>\n<color=black>Spécial : </color><color=#4B0082>Se charge pendant 5 secondes, puis effectue un grand saut.</color>"
+            "name": "Zombie Pogo Pastèque",
+            "introduce": "<align=justified><size=36><color=black>Citation : \"Il est très peu probable que des obus explosent deux fois dans le même cratère ! C'est ce que dit la \"Théorie du cratère\".\" déclara le Zombie Pogo Pastèque en ajustant son chapeau en peau de pastèque. Cependant, personne ne lui a jamais dit que ses couleurs rouge et vert ressortaient un peu trop dans une foule de zombies.</color></size>",
+            "info": "<size=36>Ce zombie se prépare puis saute au cœur de vos défenses !\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>S'il se trouve du côté droit de la pelouse, il se charge pendant 5 secondes puis effectue un grand saut (environ 4 cases). Ne peut effectuer cette action qu'une seule fois.</color>\n<color=black>Faiblesse : </color><color=#4B0082>Fusions d'Ombrelle</color></size>"
         },
         {
             "theZombieType": 35,
             "name": "Gargantua",
-            "introduce": "<size=36><color=black>Le Gargantuar est comme une bête massive et maladroite, sa taille étant un avantage au détriment de son intelligence. Il ne comprend ni les plantes ni les cerveaux ; il ne sait qu'avancer, sans relâche. </color>",
-            "info": "<size=36>Un zombie massif et lent qui écrase tout sur son passage grâce à sa taille énorme.\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>"
+            "introduce": "<align=justified><size=36><color=black>Le Gargantua est comme une bête massive et maladroite, sa taille étant un avantage au détriment de son intelligence. Il ne comprend ni les plantes ni les cerveaux ; il ne sait qu'avancer, sans relâche.</color></size>",
+            "info": "<size=36>Un zombie massif et lent qui écrase tout sur son passage grâce à sa taille énorme.\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>Lance un Diablotin lorsqu'il atteint la moitié de ses PV. Inflige 500 dégâts aux plantes anti-écrasement, 50 dégâts aux Pierres Épineuses et 1800 dégâts aux zombies hypnotisés à chaque coup écrasant.</color></size>"
         },
         {
             "theZombieType": 36,
@@ -225,8 +225,8 @@
         {
             "theZombieType": 38,
             "name": "Gargantua Mecha",
-            "introduce": "<size=36><color=black>Un zombie du populaire Plant Girls vs Zombies.</color>",
-            "info": "<size=36>Une autre invention du Dr Gargantuar, immunisée contre le gel et qui chargera vos défenses sans hésitation.\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>Spécial : Immunisé aux effets de contrôle, continue de bouger même lorsqu'il est repoussé, vulnérable aux Champi-aimants.</color>"
+            "introduce": "<align=justified><size=36><color=black>Un zombie issu du populaire Plant Girls vs Zombies.</color></size>",
+            "info": "<size=36>Une autre invention du Dr Gargantua, entièrement métallique, qui piétine vos défenses sans la moindre hésitation.\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Immunisé à la plupart des effets de statut.\n<color=black>•</color> Écrase les plantes, inflige 500 dégâts aux plantes anti-écrasement et 150 dégâts aux Pierres Épineuses. Inflige 1000 dégâts par seconde aux zombies hypnotisés.</color>\n<color=black>Faiblesse : </color><color=#4B0082>Champi-aimant</color></size>"
         },
         {
             "theZombieType": 39,
