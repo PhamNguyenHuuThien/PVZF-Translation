@@ -305,5 +305,6 @@
   "^\n价格：(\\d+)\n冷却：([^\\s]+)秒\n暴击率：([^\\s]+)%": "\nCost: {0}\nCooldown: {1}s\nCritical DMG Chance: {2}%",
   "^: (\\d+)$": ": {0}",
   "^\n价格：(\\d+)$": "\nCost: {0} ",
-  "生命值：(\\d+)\n攻击力：(\\d+)\n攻击间隔：([^\\s]+)秒\n价格：(\\d+)\n冷却：([^\\s]+)秒\n暴击率：([^\\s]+)%\n暴击伤害：([^\\s]+)%\n伤害加成：([^\\s]+)%\n赋能：([^\\s]+)": "HP: {0}\nAttack Power: {1}\nAttack Interval: {2}s\nCost: {3}\nCooldown: {4}s\nCritical DMG Chance: {5}%\nCritical DMG: {6}%\nDamage Boost: {7}%\nEmpowerment: {8}"
+  "生命值：(\\d+)\n攻击力：(\\d+)\n攻击间隔：([^\\s]+)秒\n价格：(\\d+)\n冷却：([^\\s]+)秒\n暴击率：([^\\s]+)%\n暴击伤害：([^\\s]+)%\n伤害加成：([^\\s]+)%\n赋能：([^\\s]+)": "HP: {0}\nAttack Power: {1}\nAttack Interval: {2}s\nCost: {3}\nCooldown: {4}s\nCritical DMG Chance: {5}%\nCritical DMG: {6}%\nDamage Boost: {7}%\nEmpowerment: {8}",
+  "出怪等级: (\\d+)\n出怪权重: (\\d+)": "Spawn Level: {0}\nSpawn Weight: {1}"
 }
