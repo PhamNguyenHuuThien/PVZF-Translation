@@ -1,0 +1,79 @@
+<align=center><size=20>Sorumluluk Reddi</size></align>
+PvZ Fusion'ın resmi kaynağı yalnızca geliştirici olan 蓝飘飘fly'ın Bilibili kanalıdır.</color>
+Bu çevirinin tek geçerli kaynağı bu topluluktur: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> ve ilgili GitHub sayfaları.
+Çalışmalarımızı izinsiz paylaşan <color=#8B0000>pvzfusion.net</color> veya <color=#8B0000>pvzfusion.pro</color> gibi diğer kaynaklardan uzak durun.
+Gelecekteki güncellemeler ve destek için lütfen topluluğumuzu ziyaret edin.
+
+<align=center><size=130%>Plants VS. Zombies: Fusion - Güncelleme 3.2.1 Değişim Günlüğü</size></align>
+
+1. Yeni Bitkiler
+- Temel Füzyonlar:
+  - Aurora Feneri (Buz-mantarı + Fener)
+  - Kara Mayını (Deniz-mantarı > Patates Mayını)
+  - Deniz Mayını (Patates Mayını > Deniz-mantarı)
+  - Mor Işık Feneri (Kıyamet-mantarı + Fener)
+  - Lahana-Barajı (Lahana Fırlatıcı ∞ [Lahana Fırlatıcı] ∞ Lahana Fırlatıcı < Jicamagic (Ortaya Yerleştir))
+  - Ezici-Atar (Ezici + Kavun Fırlatıcı)
+  - Kirazlı Ezici (Kiraz Bombası + Ezici)
+  - Kıyamet Ezicisi (Kıyamet-mantarı + Ezici)
+  - Sürü-mantarı (Kasvet-mantarı + Mısır Fırlatıcı)
+  - Çoklu-Atıcı (Bezelye Fırlatıcı + Üçlemeli Bezelye)
+  - Güneşli Esinti (Ayçiçeği + Esinti-otu)
+  - Pofur-Kabak (Pofur-mantarı > Kabak)
+  - Kasvetli Kabak (Kasvet-mantarı > Kabak)
+  - Güneşli Ezici (Ayçiçeği + Ezici)
+  - Kavun Kabuğu (Kavun Fırlatıcı > Kabak)
+  - Patates Ezici (Patates Mayını + Ezici)
+  - Patates Püresi (Patates Ezici tarafından oluşturulur)
+  - Kıyamet Sarımsağı (Kıyamet-mantarı + Sarımsak)
+  - Yıldız Patlaması-mantarı (Kasvet-mantarı + Yıldız Meyvesi)
+  - Tırsak Saksı (Tırsak-mantar > Saksı)
+- Odyssey/Nihai Füzyonlar:
+  - Yaygın:
+    - Büyük Çatırtı Ezicisi (Büyük Patlama Kirazı + Ezici)
+    - İkiz İnferno-Ceviz (İkiz Güneş-mantarı + Jalapeno)
+    - Mısır-Konveyör Otu (Ezici-otu + Tereyağlı Ot)
+  - Epik:
+    - Pandemelonium (Mısır-Literator + Kavun Fırlatıcı)
+    - Kaledera Patlatıcısı (Vulkanon + Mısır Fırlatıcı)
+    - Büyüleyici Kabak (Charmatron > Kabak)
+  - SP:
+    - Epik İkiz Güneş-mantarı (Ceviz + İkiz Güneş-mantarı)
+    - Epik İkiz İnferno-Ceviz (Ceviz + İkiz İnferno-Ceviz, Epik İkiz Güneş-mantarı + Jalapeno)
+- Benzersiz/Çeşitli Bitkiler:
+  - Kova
+  - Futbol Kaskı
+  - XXS Saksı
+  - Üstünlük-mantarı (Efsanevi Hasat Modu Kartı)
+
+2. Yeni Zombiler
+- Üçlü Mızraklı Gargantuar
+
+3. Almanak Güncellemesi
+- Arama fonksiyonu, güncellenmiş organizasyon ve görseller içeren tamamen yenilenmiş bir Almanak artık mevcut! (Ayrıca bir seviyedeyken farenizi bir bitkinin üzerine getirip C tuşuna basarak Almanak girişini anında görüntüleyebilirsiniz.)
+
+4. Yeni Gacha Modu - Odyssey Gacha: Rerolled
+- Bu modda temel bitkiler konveyör bandında görünecektir. Alttaki sayı, bitkinin kaç kez dikilebileceğini gösterir. Konveyör bandında rastgele değiştiriciler de görünebilir!
+
+5. Ben, Zombi Değişiklikleri
+- Yepyeni bir Koridor Arenası.
+- Tüm zombiler artık Ben, Zombi Kum Havuzu (Sandbox) moduna yerleştirilebilir.
+
+6. Yeni Görünümler (Skinler)
+- Aristokrat-Kediotu > Cadılar Bayramı Aristokrat-Kediotu
+- Magnetar > Sihirbaz Magnetar
+
+7. Zombi Ayarlamaları
+- Ultra Mekanik-Ceviz
+  - HP: 90.000 → 300.000
+  - Hasar Sınırı: 100 → 300
+  - Hasar Emilimi: Zombiler artık Ultra Mekanik-Ceviz hasarı emdiğinde vuruş başına zorunlu 1 hasar alacak.
+- Elementli Gargantuarlar
+  - Değiştiriciler:
+    - 4 Gargantuar'ın tamamı aynı yetenekleri kazanacak.
+    - 4 Gargantuar'ın tamamı aynı bağışıklıkları kazanacak.
+
+8. Chibi Bosslar
+- Bir sonraki Odyssey turlarınızda ekstra yardım için Abyssal Chibi veya Mini Striker'ın kilidini açmak üzere değiştiriciler satın alın!
+
+9. Çeşitli hata düzeltmeleri.
