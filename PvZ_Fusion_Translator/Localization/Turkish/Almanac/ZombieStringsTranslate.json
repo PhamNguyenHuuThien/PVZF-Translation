@@ -2,591 +2,591 @@
     "zombies": [
         {
             "theZombieType": 0,
-            "name": "Zombie",
-            "introduce": "<align=justified><size=36><color=black>Zombie hates how his name makes him seem like an ordinary, well, zombie. He doesn't think of himself as some unnamed enemy or just another common corpse. He's an individual, damn it! And he's going to do something extraordinary, even if it kills you.</color>",
-            "info": "<size=36>Regular Garden-variety zombie.\n\n<color=black>Damage: </color><color=#4B0082>50 / 0.5 Seconds (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "name": "Zombi",
+            "introduce": "<align=justified><size=36><color=black>Zombi, isminin onu sıradan bir zombi gibi göstermesinden nefret ediyor. Kendini isimsiz bir düşman veya alelade bir ceset olarak görmüyor. O bir birey, lanet olsun! Ve sizi öldürmesi gerekse bile olağanüstü bir şey yapacak.</color>",
+            "info": "<size=36>Sıradan, bahçe tipi zombi.\n\n<color=black>Hasar: </color><color=#4B0082>50 / 0.5 Saniye (Isırma)</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 2,
-            "name": "Conehead Zombie",
-            "introduce": "<align=justified><size=36><color=black>The Conehead Zombie has no clue what a traffic cone is. To it, it looks like an ice cream cone, and when it finds out it can't eat it, it just sticks it on its head.</color>",
-            "info": "<size=36>His traffic cone headpiece makes him twice as tough as normal zombies.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
+            "name": "Koni Kafalı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Koni Kafalı Zombi'nin trafik konisinin ne olduğu hakkında hiçbir fikri yok. Ona göre bu bir dondurma külahı gibi görünüyor ve onu yiyemeyeceğini anladığında, sadece kafasına takıyor.</color>",
+            "info": "<size=36>Trafik konisi başlığı onu normal zombilerden iki kat daha dayanıklı yapar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 370 (Tip 1)</color>"
         },
         {
             "theZombieType": 3,
-            "name": "Pole Vaulting Zombie",
-            "introduce": "<align=justified><size=36><color=black>Once the best high jumper in his town, Pole Vaulting Zombie's career took a turn the day he forgot to set up the cushions behind the high jump stand.</color>",
-            "info": "<size=36>Pole Vaulting Zombie vaults with a pole.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Jumps over the first plant he runs into. Can be blocked by Tall-nuts.</color>"
+            "name": "Sırıkla Atlayan Zombi",
+            "introduce": "<align=justified><size=36><color=black>Bir zamanlar kasabasının en iyi yüksek atlamacısı olan Sırıkla Atlayan Zombi'nin kariyeri, minderleri kurmayı unuttuğu gün dramatik bir dönüş yaptı.</color>",
+            "info": "<size=36>Sırıkla Atlayan Zombi, bir sırıkla engellerin üzerinden atlar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Karşılaştığı ilk bitkinin üzerinden atlar. Uzun Cevizler (Tall-nuts) tarafından engellenebilir.</color>"
         },
         {
             "theZombieType": 4,
-            "name": "Buckethead Zombie",
-            "introduce": "<align=justified><size=36><color=black>Once upon a time, Buckethead Zombie, who was merely a painter, was hailed as a genius among zombies for his creative use of a bucket. Years have passed, and now the zombies wonder if he still has some secret killer tricks up his sleeve. Is he running out of ideas, or is he hiding something? Who knows?</color>",
-            "info": "<size=36>His bucket hat makes him extremely resistant to damage.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Bucket can be removed by Magnet-shrooms.</color>"
+            "name": "Kova Kafalı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Bir zamanlar sadece bir ressam olan Kova Kafalı Zombi, bir kovayı yaratıcı bir şekilde kullandığı için zombiler arasında dahi olarak görülmüştü. Yıllar geçti ve şimdi zombiler hala saklı numaraları olup olmadığını merak ediyor. Fikirleri mi bitti yoksa bir şeyler mi saklıyor? Kim bilir?</color>",
+            "info": "<size=36>Kova şapkası onu hasara karşı son derece dirençli kılar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 1100 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Kovası Mıknatıs Mantarlar (Magnet-shrooms) tarafından çıkarılabilir.</color>"
         },
         {
             "theZombieType": 5,
-            "name": "Newspaper Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"You can't fault him for being frustrated; he was just about to finish the crossword puzzle (vertical word number 23 is 'Brains'), which explains why he was holding the paper upside down.\"</color>",
-            "info": "<size=36>His newspaper provides limited defense.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Travels normally at first, but speeds up after losing his newspaper (movement speed x2.5, attack speed x1.5).</color>"
+            "name": "Gazeteli Zombi",
+            "introduce": "<align=justified><size=36><color=black>\"Sinirli olduğu için onu suçlayamazsınız; tam kare bulmacayı bitirmek üzereydi (23 aşağı: 'Beyinler'), bu da gazeteyi neden ters tuttuğunu açıklıyor.\"</color>",
+            "info": "<size=36>Gazetesi sınırlı bir savunma sağlar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 200 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Önce normal hızda ilerler, ancak gazetesini kaybettikten sonra hızlanır (Hareket hızı x2.5, Saldırı hızı x1.5).</color>"
         },
         {
             "theZombieType": 6,
-            "name": "Dancing Zombie",
-            "introduce": "<align=justified><size=36><color=black>Dancing Zombie's athletic skills are average by zombie standards. On the advice of the Backup Dancers, he decided to pursue the idol path. Now, his pop song \"Just Brains,\" a collaboration with Michael Jackson, is becoming a hit.</color>",
-            "info": "<size=36>After vaulting over, summons his backup dancers.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Summons 4 Backup Dancers after jumping. Does not summon if the jumping is blocked.</color>"
+            "name": "Dansçı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Dansçı Zombi'nin atletik becerileri zombi standartlarına göre ortalamadır. Yedek Dansçıların tavsiyesi üzerine idol yolunda ilerlemeye karar verdi. Şimdi, Michael Jackson ile işbirliği yaptığı pop şarkısı \"Just Brains\" hit oluyor.</color>",
+            "info": "<size=36>Atladıktan sonra yedek dansçılarını çağırır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Atladıktan sonra 4 Yedek Dansçı çağırır. Atlaması engellenirse çağırmaz.</color>"
         },
         {
             "theZombieType": 7,
-            "name": "Backup Dancer",
-            "introduce": "<align=justified><size=36><color=black>The four brothers, once troubled orphans, developed twisted personalities and bullied others at the Zombie Academy. One day, they saw Dancing Zombie performing joyfully on stage, and it changed them. From that moment, they joined him in performing on stage together.</color>",
-            "info": "<size=36>Climb over a plant.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "name": "Yedek Dansçı",
+            "introduce": "<align=justified><size=36><color=black>Bir zamanlar sorunlu yetimler olan dört kardeş, çarpık kişilikler geliştirdi ve Zombi Akademisi'nde başkalarına zorbalık yaptı. Bir gün Dansçı Zombi'yi sahnede neşeyle performans sergilerken gördüler ve bu onları değiştirdi. O andan itibaren sahnede ona katılmaya başladılar.</color>",
+            "info": "<size=36>Bir bitkinin üzerine tırmanır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 8,
-            "name": "Screen Door Zombie",
-            "introduce": "<align=justified><size=36><color=black>Screen Door Zombie, once an FBI task force member with a bad temper but a righteous heart, never negotiated with robbers—he'd just break down doors to save hostages. After becoming a zombie, his kind heart stayed the same. When he saw zombies kidnapping a little ghost zombie, he tried to break in, but they coated the door with glue, trapping his hand.</color>",
-            "info": "<size=36>Can block bullets coming from the front.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Screen Door can be removed by Magnet-shrooms.</color>"
+            "name": "Sineklik Kapılı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Bir zamanlar kötü huylu ama doğru kalpli bir FBI görevlisi olan Sineklik Kapılı Zombi, soyguncularla asla pazarlık yapmazdı; rehineleri kurtarmak için sadece kapıları kırardı. Zombi olduktan sonra bile nazik kalbi değişmedi. Zombilerin küçük bir hayalet zombiyi kaçırdığını görünce içeri girmeye çalıştı ama kapıyı tutkalla kapladılar ve elini sıkıştırdılar.</color>",
+            "info": "<size=36>Önden gelen mermileri engelleyebilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 1100 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Sineklik kapı Mıknatıs Mantarlar tarafından çıkarılabilir.</color>"
         },
         {
             "theZombieType": 9,
-            "name": "Football Zombie",
-            "introduce": "<align=justified><size=36><color=black>Football Zombie is a sports star among zombies, admired by many for his heroic presence on the field. Many companies want to hire him, but his salary demands are steep—an annual pay of 10,000 brains.</color>",
-            "info": "<size=36>Runs super fast.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1400  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Football Helmet can be removed by Magnet-shrooms."
+            "name": "Amerikan Futbolcusu Zombi",
+            "introduce": "<align=justified><size=36><color=black>Amerikan Futbolcusu Zombi, zombiler arasında bir spor yıldızıdır ve sahadaki kahramanca duruşuyla hayranlık uyandırır. Birçok şirket onu işe almak istiyor ama maaş talepleri çok yüksek: Yıllık 10.000 beyin.</color>",
+            "info": "<size=36>Süper hızlı koşar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 1400 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Futbol kaskı Mıknatıs Mantarlar tarafından çıkarılabilir.</color>"
         },
         {
             "theZombieType": 10,
-            "name": "Michael Zombie",
-            "introduce": "<align=justified><size=36><color=black>Black suit, black hat—he's not here for a funeral. He's just a dancer, and you can call him Michael Zombie.</color>",
-            "info": "<size=36>Leads the charge with his ultimate dance moves.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Summons 4 Dancing Zombies at a time, keeps summoning if a Dancing Zombie dies. Does not summon while eating.</color>"
+            "name": "Michael Zombi",
+            "introduce": "<align=justified><size=36><color=black>Siyah takım elbise, siyah şapka; buraya cenaze için gelmedi. O sadece bir dansçı ve ona Michael Zombi diyebilirsiniz.</color>",
+            "info": "<size=36>Efsanevi dans figürleriyle saldırıyı yönetir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Aynı anda 4 Dansçı Zombi çağırır, bir Dansçı Zombi ölürse çağırmaya devam eder. Yemek yerken çağırmaz.</color>"
         },
         {
             "theZombieType": 11,
-            "name": "Duck Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "name": "Ördek Zombi (OYUNDA DEĞİL)",
+            "introduce": "<align=justified><size=36><color=black>Sadece belirli zombiler ördek can simidi zombisi olabilir, her zombi buna uygun değildir. Bazı can simitleri biraz hava kaçırıyor ama bununla başa çıkamıyorlar, kurtulduktan sonra beyin arzusundan sonsuza dek vazgeçiyorlar.</color>",
+            "info": "<size=36>Suda hareket edebilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 12,
-            "name": "Coneduck Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>都说差生文具多，但是路障鸭子并不这么认为，毕竟他不想承认他是个差生。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
+            "name": "Koni Ördek Zombi (OYUNDA DEĞİL)",
+            "introduce": "<align=justified><size=36><color=black>Zayıf öğrencilerin kırtasiye malzemesi çok olur derler ama Koni Ördek öyle düşünmüyor, sonuçta zayıf bir öğrenci olduğunu kabul etmek istemiyor.</color>",
+            "info": "<size=36>Suda hareket edebilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 370 (Tip 1)</color>"
         },
         {
             "theZombieType": 13,
-            "name": "Bucket-duck Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
+            "name": "Kova Ördek Zombi (OYUNDA DEĞİL)",
+            "introduce": "<align=justified><size=36><color=black>Kova Ördek o hava kaçıran simidi takmak istemiyordu ama elinden bir şey gelmez, o paslanmaya meyilli kovayı kim taktı ki zaten?</color>",
+            "info": "<size=36>Suda hareket edebilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 1100 (Tip 1)</color>"
         },
         {
             "theZombieType": 14,
-            "name": "Zombarine",
-            "introduce": "<align=justified><size=36><color=black>The formidable Zombarine, designed based on bionic principles, is both majestic and intimidating—a coveted war weapon for zombies. \"Now we just need to tackle the issue of seaweed getting tangled in the propeller,\" said Dr. Edgar.</color>",
-            "info": "<size=36>The zombies' premier vehicle against water plants.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Moves fast and sinks any plant it comes to contact with."
+            "name": "Zombarin",
+            "introduce": "<align=justified><size=36><color=black>Biyonik ilkelere göre tasarlanan heybetli Zombarin, hem görkemli hem de korkutucu; zombiler için gıpta ile bakılan bir savaş silahı. Dr. Edgar, \"Şimdi tek yapmamız gereken pervaneye takılan yosun sorununu çözmek,\" dedi.</color>",
+            "info": "<size=36>Zombilerin su bitkilerine karşı bir numaralı aracı.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1350</color>\n<color=black>Özellikler: </color><color=#4B0082>Hızlı hareket eder ve temas ettiği her bitkiyi batırır.</color>"
         },
         {
             "theZombieType": 15,
-            "name": "Scholar Zombie",
-            "introduce": "<align=justified><size=36><color=black>As a leading authority in the academic realm, Scholar Zombie is frequently seen in the library. His passion for reading runs deep, and disturbing him while he reads can spark his fury. This old gentleman will make sure you understand the true meaning of \"knowledge is power.\"</color>",
-            "info": "<size=36>Deals huge damage alongside his sturdy books.\n\n<color=black>Damage: </color><color=#4B0082>400</color>\n<color=black>Toughness: </color><color=#4B0082>720 +1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Short-term invincibility and increased speed (movement speed x10, attack speed x3) after its book is broken.</color>"
+            "name": "Bilgin Zombi",
+            "introduce": "<align=justified><size=36><color=black>Akademik dünyada önde gelen bir otorite olan Bilgin Zombi, kütüphanede sıkça görülür. Okuma tutkusu çok derindir ve okurken onu rahatsız etmek öfkesini tetikleyebilir. Bu yaşlı beyefendi, size \"bilgi güçtür\" sözünün gerçek anlamını öğretecek.</color>",
+            "info": "<size=36>Sağlam kitaplarıyla devasa hasar verir.\n\n<color=black>Hasar: </color><color=#4B0082>400</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>720 + 1100 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Kitabı parçalandıktan sonra kısa süreli yenilmezlik ve artan hız (hareket hızı x10, saldırı hızı x3) kazanır.</color>"
         },
         {
             "theZombieType": 16,
             "name": "Zomboni",
-            "introduce": "<align=justified><size=36><color=black>The zombie driving is an excellent driver, especially considering that few zombies can navigate from the ice rink to the grass field. Now, he must go pay the fine. The ice machine he operates isn't a Zamboni; it's a Zomboni produced by Company B.</color>",
-            "info": "<size=36>The Zomboni applies ice, steam and pressure to your plants.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>"
+            "introduce": "<align=justified><size=36><color=black>Bu zombi mükemmel bir sürücüdür, özellikle de buz pistinden çim sahaya kadar pek az zombinin yol alabildiği düşünülürse. Şimdi cezayı ödemeye gitmeli. Kullandığı buz makinesi bir Zamboni değil; B Şirketi tarafından üretilen bir Zomboni.</color>",
+            "info": "<size=36>Zomboni, bitkilerinize buz, buhar ve basınç uygular.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1350</color>"
         },
         {
             "theZombieType": 17,
-            "name": "Snorkel Zombie",
-            "introduce": "<align=justified><size=36><color=black>Snorkel Zombie may have a broken mask, but that doesn't hinder his ability to dive and float in the water. His so-called \"sinking\" isn't due to his diving skills; he simply doesn't require air to breathe.</color>",
-            "info": "<size=36>Snorkel Zombie can swim underwater.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>\n<color=black>Traits: </color><color=#4B0082>Submerges to avoid straight-firing projectile attacks.</color>"
+            "name": "Şnorkelli Zombi",
+            "introduce": "<align=justified><size=36><color=black>Şnorkelli Zombi'nin maskesi kırık olabilir ama bu onun suda dalma ve yüzme yeteneğine engel değil. Sözde \"batması\" dalış becerilerinden değil; sadece nefes almak için havaya ihtiyaç duymamasındandır.</color>",
+            "info": "<size=36>Şnorkelli Zombi suyun altında yüzebilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270</color>\n<color=black>Özellikler: </color><color=#4B0082>Düz ateş eden mermi saldırılarından kaçınmak için suyun altına girer.</color>"
         },
         {
             "theZombieType": 18,
-            "name": "Bobsled Zomboni",
-            "introduce": "<align=justified><size=36><color=black>This car, designed by ski enthusiasts, drives smoothly on snow and ice, even achieving higher speeds than on grass. Unfortunately, it has a flaw: it can only be started on icy surfaces.</color>",
-            "info": "<size=36>Only appears when there's ice on the field.\n\n<color=black>Toughness: </color><color=#4B0082>2700</color>\n<color=black>Traits: </color><color=#4B0082>Moves very fast when on top of ice.</color>"
+            "name": "Buz Kızağı Takımı",
+            "introduce": "<align=justified><size=36><color=black>Kayak meraklıları tarafından tasarlanan bu araç, karda ve buzda sorunsuz sürülür, hatta çimendekinden daha yüksek hızlara ulaşır. Maalesef bir kusuru var: Sadece buzlu yüzeylerde çalıştırılabilir.</color>",
+            "info": "<size=36>Sadece sahada buz olduğunda görünür.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>2700</color>\n<color=black>Özellikler: </color><color=#4B0082>Buz üzerindeyken çok hızlı hareket eder.</color>"
         },
         {
             "theZombieType": 19,
-            "name": "Dolphin Rider Zombie",
-            "introduce": "<align=justified><size=36><color=black>Dolphin Rider Zombie is a part-time performer and dolphin keeper at an aquarium. The dolphin he rides is a zombie, but unlike typical zombies, this \"zombie dolphin\" has no desire for brains.</color>",
-            "info": "<size=36>Dolphin Rider Zombies use dolphins to bypass your defense.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Jumps over the first plant he runs into. Can be blocked by Tall-nuts.</color>"
+            "name": "Yunus Binicisi Zombi",
+            "introduce": "<align=justified><size=36><color=black>Yunus Binicisi Zombi, bir akvaryumda yarı zamanlı bir gösterici ve yunus bakıcısıdır. Bindiği yunus bir zombidir ama tipik zombilerin aksine bu \"zombi yunus\" beyin arzulamaz.</color>",
+            "info": "<size=36>Yunus Binicisi Zombiler savunmanızı aşmak için yunusları kullanır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Karşılaştığı ilk bitkinin üzerinden atlar. Uzun Cevizler tarafından engellenebilir.</color>"
         },
         {
             "theZombieType": 20,
-            "name": "Trident Zombie",
-            "introduce": "<align=justified><size=36><color=black>Trident Zombie was originally just a regular javelin thrower who became a fisherman after retiring. However, when he went to the river to fish, he sank because he couldn't swim. When he came ashore, he realized he had become what he is now.</color>",
-            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>3.5 Tiles in Front</color>"
+            "name": "Üçlü Mızraklı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Üçlü Mızraklı Zombi aslında emekli olduktan sonra balıkçı olan düzenli bir cirit atıcıydı. Ancak balık tutmak için nehre gittiğinde yüzme bilmediği için battı. Karaya çıktığında, şimdiki haline dönüştüğünü fark etti.</color>",
+            "info": "<size=36>Bitkilerinize saldırmak için üçlü mızrak fırlatır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Bitkilerin mevcut Dayanıklılığının %20'sine (en az 60) eşit hasar veren bir mızrak fırlatır.</color>\n<color=black>Minimum Arama Menzili: </color><color=#4B0082>Öndeki 3.5 Kare</color>"
         },
         {
             "theZombieType": 21,
-            "name": "Diamond-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>Tonight, Diamond-box Zombies will unveil their dazzling world. Their eyes shine like the brightest stars in the night sky, and the golden light appears to flow like a river through time, illuminating the uncertain path ahead. Each time the lid of the box is gently opened, it feels like unlocking a door to another realm.</color>",
-            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Gold-box Zombie upon dying.</color>"
+            "name": "Elmas Kutulu Zombi",
+            "introduce": "<align=justified><size=36><color=black>Bu gece, Elmas Kutulu Zombiler göz kamaştırıcı dünyalarını ortaya çıkaracaklar. Gözleri gece gökyüzündeki en parlak yıldızlar gibi parlıyor ve altın ışık, önlerindeki belirsiz yolu aydınlatarak zamanda akan bir nehir gibi görünüyor. Kutunun kapağı her hafifçe açıldığında, başka bir aleme kapı açılıyor gibi hissettiriyor.</color>",
+            "info": "<size=36>Bu bir... Koni Kafalı Zombi mi?\n\n<color=black>Dayanıklılık: </color><color=#4B0082>2000 + 4400 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Öldüğünde Altın Kutulu Zombi'ye dönüşür.</color>"
         },
         {
             "theZombieType": 22,
-            "name": "Gold-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"Underneath the golden box, other boxes in different colors await. Can you guess what the box inside is made from?\"</color>",
-            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Silver-box Zombie upon dying.</color>"
+            "name": "Altın Kutulu Zombi",
+            "introduce": "<align=justified><size=36><color=black>\"Altın kutunun altında, farklı renklerde başka kutular bekliyor. İçindeki kutunun neden yapıldığını tahmin edebilir misin?\"</color>",
+            "info": "<size=36>Bu bir... Koni Kafalı Zombi mi?\n\n<color=black>Dayanıklılık: </color><color=#4B0082>2000 + 2200 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Öldüğünde Gümüş Kutulu Zombi'ye dönüşür.</color>"
         },
         {
             "theZombieType": 23,
-            "name": "Silver-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>Silver-box Zombie thinks of the box on his head as a pot, so it must be one. Given his mindset, why don't you grasp his perspective? And you do see the exclamation mark on his box, right?</color>",
-            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Conehead Zombie upon dying.</color>"
+            "name": "Gümüş Kutulu Zombi",
+            "introduce": "<align=justified><size=36><color=black>Gümüş Kutulu Zombi kafasındaki kutunun bir tencere olduğunu düşünüyor, o halde öyledir. Onun bu zihniyetiyle, neden onun bakış açısını kavramıyorsun? Ve kutusundaki ünlem işaretini görüyorsun, değil mi?</color>",
+            "info": "<size=36>Bu bir... Koni Kafalı Zombi mi?\n\n<color=black>Dayanıklılık: </color><color=#4B0082>2000 + 1100 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Öldüğünde Koni Kafalı Zombi'ye dönüşür.</color>"
         },
         {
             "theZombieType": 24,
-            "name": "Jack-in-the-Box Zombie",
-            "introduce": "<align=justified><size=36><color=black>Although Jack-in-the-Box Zombie is a mental patient, the circus welcomed his application. Be wary of what's in his toy box; it's sure to scare you.</color>",
-            "info": "<size=36>This zombie carries an explosive surprise.\n\n<color=black>Explosion Damage: </color><color=#4B0082>1 Million</color>\n<color=black>Explosion Radius: </color><color=#4B0082>1.375 Tiles (≈ 3x3)</color>\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Will sometimes explode and insta-kill surrounding plants.</color>"
+            "name": "Kutulu Sürpriz Zombi",
+            "introduce": "<align=justified><size=36><color=black>Kutulu Sürpriz Zombi bir akıl hastası olmasına rağmen, sirk başvurunu memnuniyetle karşıladı. Oyuncak kutusunda ne olduğuna dikkat edin; sizi korkutacağı kesin.</color>",
+            "info": "<size=36>Bu zombi patlayıcı bir sürpriz taşır.\n\n<color=black>Patlama Hasarı: </color><color=#4B0082>1 Milyon</color>\n<color=black>Patlama Yarıçapı: </color><color=#4B0082>1.375 Kare (≈ 3x3)</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Bazen patlar ve çevredeki bitkileri anında öldürür.</color>"
         },
         {
             "theZombieType": 25,
-            "name": "Balloon Zombie",
-            "introduce": "<align=justified><size=36><color=black>Balloon Zombie, one of the Zomppelin creators, frequently gets asked why he's tied balloons to himself. His usual reply is, \"That was my conclusion.\" However, the truth is that the balloons simply got tangled by chance.</color>",
-            "info": "<size=36>Balloon Zombie floats above the fray, immune to most attacks.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 20 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Cannot be damaged by most plants while flying.</color>"
+            "name": "Balonlu Zombi",
+            "introduce": "<align=justified><size=36><color=black>Zomppelin yaratıcılarından biri olan Balonlu Zombi'ye neden kendisine balon bağladığı sıkça sorulur. Olağan cevabı şudur: \"Bu benim çıkarımımdı.\" Ancak gerçek şu ki, balonlar tesadüfen birbirine dolandı.</color>",
+            "info": "<size=36>Balonlu Zombi kargaşanın üzerinde uçar, çoğu saldırıya bağışıklıdır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 20 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Uçarken çoğu bitki tarafından hasar alamaz.</color>"
         },
         {
             "theZombieType": 26,
             "name": "Zomppelin",
-            "introduce": "<align=justified><size=36><color=black>The Zomppelin, Dr. Edgar's latest creation, is quickly becoming the zombies' trusted ally. Speculation abounds about who will pilot this powerful weapon—perhaps the imp or even the airship itself? \"It's just a balloon,\" Dr. Edgar remarked. \"Zombies need to keep up with the times. I'm even considering turning it into a drone to avoid embarrassment when defeated by plants.\"</color>",
-            "info": "<size=36>Drops deadly bombs as it flies over your plants.\n\n<color=black>Bomb Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Drops Jack-in-the-Box Bombs every 3 Seconds to the plant directly below. Can be pushed back by Blovers.</color>"
+            "introduce": "<align=justified><size=36><color=black>Dr. Edgar'ın son icadı olan Zomppelin, hızla zombilerin güvenilir müttefiki haline geliyor. Bu güçlü silahı kimin uçuracağı konusunda spekülasyonlar çok; belki bir cüce, hatta belki zeplinin kendisi? Dr. Edgar, \"Bu sadece bir balon,\" dedi. \"Zombilerin zamana ayak uydurması gerekiyor. Hatta bitkiler tarafından yenildiğimde utanmamak için onu bir drona dönüştürmeyi düşünüyorum.\"</color>",
+            "info": "<size=36>Bitkilerinizin üzerinden uçarken ölümcül bombalar bırakır.\n\n<color=black>Bomba Hasarı: </color><color=#4B0082>1000</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>1350</color>\n<color=black>Özellikler: </color><color=#4B0082>Her 3 saniyede bir doğrudan altındaki bitkiye Kutulu Bomba bırakır. Esinti Çiçekleri (Blovers) tarafından geri itilebilir.</color>"
         },
         {
             "theZombieType": 27,
-            "name": "Whale Rider Yeti",
-            "introduce": "<align=justified><size=36><color=black>The white whale that Yeti Zombie rides has impressive jumping skills. Dolphin Rider Zombie is quite envious and has always wanted to borrow it for a ride, but Yeti Zombie refuses each time. \"Yeti Zombie has no control over his white whale,\" Dr. Edgar said. \"He always wants to hide behind me, but the white whale ends up going the other way.\"</color>",
-            "info": "<size=36>Jumps forward three tiles and turns back, attacking your plants from behind.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Cannot be blocked by Tall-nuts.</color>"
+            "name": "Balina Binicisi Yeti",
+            "introduce": "<align=justified><size=36><color=black>Yeti Zombi'nin bindiği beyaz balina etkileyici zıplama yeteneklerine sahip. Yunus Binicisi Zombi buna oldukça imreniyor ve her zaman bir tur binmek için ödünç almak istiyor ama Yeti Zombi her seferinde reddediyor. Dr. Edgar, \"Yeti Zombi'nin beyaz balinası üzerinde hiçbir kontrolü yok,\" dedi. \"O hep arkama saklanmak istiyor ama beyaz balina tam tersi yöne gidiyor.\"</color>",
+            "info": "<size=36>Üç kare ileri zıplar ve geri dönerek bitkilerinize arkadan saldırır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Uzun Cevizler tarafından engellenemez.</color>"
         },
         {
             "theZombieType": 28,
-            "name": "Digger Zombie",
-            "introduce": "<align=justified><size=36><color=black>A long time ago, Digger Zombies despised Magnet-shrooms for constantly confiscating their tools. Now, they hate Miner Pumpkins even more. \"My head keeps getting hit, which makes me feel even worse,\" he laments.</color>",
-            "info": "<size=36>This zombie digs to bypass your defenses.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Tunnels underground and appears on the left side of the lawn. Vulnerable to Magnet-shrooms and fully-armed Potato Mines.</color>"
+            "name": "Kazıcı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Uzun zaman önce Kazıcı Zombiler, aletlerine sürekli el koyduğu için Mıknatıs Mantarlardan nefret ederlerdi. Şimdi Madenci Kabaklardan daha çok nefret ediyorlar. \"Kafam sürekli darbe alıyor, bu da beni daha kötü hissettiriyor,\" diye yakınıyor.</color>",
+            "info": "<size=36>Bu zombi savunmalarınızı aşmak için kazar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Yeraltından tünel kazar ve bahçenin sol tarafında belirir. Mıknatıs Mantarlara ve tam kurulu Patates Mayınlarına karşı savunmasızdır.</color>"
         },
         {
             "theZombieType": 29,
-            "name": "Bucknut-copter Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"Friends, did you know about the Berlin airship? It inspired my design...\" All the zombies want to hide from Bucknut-copter Zombie, not only because he talks too much about the airship, but also because the noise from his balloon's propeller is unbearable.</color>",
-            "info": "<size=36>Bucknut-copter Zombie is immune to Blovers!\n\n<color=black>Toughness: </color><color=#4B0082>270 + 500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blovers. Gains a Type 1 Bucknut Helmet with 2200 Toughness upon touching ground.</color>"
+            "name": "Kova-Ceviz Helikopteri Zombisi",
+            "introduce": "<align=justified><size=36><color=black>\"Arkadaşlar, Berlin zeplinini duymuş muydunuz? Tasarımıma ilham verdi...\" Tüm zombiler Kova-Ceviz Helikopteri Zombisi'nden kaçmak istiyor, sadece zeplin hakkında çok fazla konuştuğu için değil, aynı zamanda balonunun pervanesinden gelen gürültü dayanılmaz olduğu için.</color>",
+            "info": "<size=36>Kova-Ceviz Helikopteri Zombisi Esinti Çiçeklerine karşı bağışıklıdır!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 500 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Esinti Çiçeklerinden etkilenmez. Yere değdiğinde 2200 Dayanıklılığa sahip Tip 1 Kova-Ceviz Kaskı kazanır.</color>"
         },
         {
             "theZombieType": 30,
-            "name": "King Clown-in-the-Box Zombie",
-            "introduce": "<align=justified><size=36><color=black>For every clown zombie, self-destruction is the highest form of art, and King Clown excels above all. \"King Clown will never take off his mask or let go of the gift box in his hand!\"</color>",
-            "info": "<size=36>King Clown may also explode after his death!\n\n<color=black>Toughness: </color><color=#4B0082>720 + 370 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Becomes violent after exploding, doubling his speed. Upon defeat, has a chance to explode and transform into a Jack-in-the-Box Zombie. The longer it is on the lawn, the higher the chance.</color>"
+            "name": "Kral Palyaço Kutuda Zombi",
+            "introduce": "<align=justified><size=36><color=black>Her palyaço zombi için kendini yok etmek sanatın en yüksek formudur ve Kral Palyaço her konuda üstündür. \"Kral Palyaço asla maskesini çıkarmaz veya elindeki hediye kutusunu bırakmaz!\"</color>",
+            "info": "<size=36>Kral Palyaço ölümünden sonra da patlayabilir!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720 + 370 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Patladıktan sonra saldırganlaşır ve hızını ikiye katlar. Yenildiğinde patlama ve Kutulu Sürpriz Zombi'ye dönüşme şansı vardır. Bahçede ne kadar uzun süre kalırsa şans o kadar artar.</color>"
         },
         {
             "theZombieType": 31,
-            "name": "Catapult Zombie",
-            "introduce": "<align=justified><size=36><color=black>Nobody knows how Catapult Zombie manages to throw with such precision, but one thing's for sure—if you see him, cover your head quickly!</color>",
-            "info": "<size=36>Catapults basketballs to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>60 / 3 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>850</color>\n<color=black>Traits: </color><color=#4B0082>Throws basketballs at the leftmost plant in its lane. When all 25 basketballs are used, moves forward and crushes plants.</color>"
+            "name": "Mancınık Zombi",
+            "introduce": "<align=justified><size=36><color=black>Mancınık Zombi'nin bu kadar hassas fırlatmayı nasıl başardığını kimse bilmiyor ama bir şey kesin; eğer onu görürseniz kafanızı çabuk örtün!</color>",
+            "info": "<size=36>Bitkilerinize saldırmak için basketbol topları fırlatır.\n\n<color=black>Hasar: </color><color=#4B0082>60 / 3 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>850</color>\n<color=black>Özellikler: </color><color=#4B0082>Kendi şeridindeki en soldaki bitkiye basketbol topu fırlatır. 25 topun tamamı kullanıldığında ileri doğru hareket eder ve bitkileri ezer.</color>"
         },
         {
             "theZombieType": 32,
-            "name": "Pogo Zombie",
-            "introduce": "<align=justified><size=36><color=black>Pogo Zombie love to hop around, thinking that jumping toward the sky is as close as they'll ever get to flying. But no one told them not to use a trampoline on the roof...</color>",
-            "info": "<size=36>A zombie that can leap over your defenses.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Can jump over plants. The Pogo Stick can be removed by Magnet-shrooms.</color>"
+            "name": "Pogo Zombi",
+            "introduce": "<align=justified><size=36><color=black>Pogo Zombileri etrafta zıplamayı severler, gökyüzüne doğru zıplamanın uçmaya en yakın oldukları an olduğunu düşünürler. Ama kimse onlara çatıda trambolin kullanmamalarını söylememiş...</color>",
+            "info": "<size=36>Savunmalarınızın üzerinden atlayabilen bir zombi.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Bitkilerin üzerinden zıplayabilir. Pogo Çubuğu Mıknatıs Mantarlar tarafından çıkarılabilir.</color>"
         },
         {
             "theZombieType": 33,
-            "name": "Ladder Zombie",
-            "introduce": "<align=justified><size=36><color=black>Ladder Zombie heard online that with a ladder and some work clothes, he could sneak past any defenses. Armed with a ladder and dressed like a worker, he sets out to conquer the plant defenses.\nPeashooter's comment: \"Didn't anyone tell him that his zombie skin is way too noticeable...?\"</color>",
-            "info": "<size=36>This zombie uses a ladder to bypass obstacles.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Can use the ladder to ignore plant defenses. Laddered plants cannot be moved by gloves. Ladders can be destroyed by Cremators. Held Ladder can be removed by Magnet-shrooms.</color>"
+            "name": "Merdivenli Zombi",
+            "introduce": "<align=justified><size=36><color=black>Merdivenli Zombi internette, bir merdiven ve biraz iş kıyafetiyle her türlü savunmayı geçebileceğini duymuş. Bir merdivenle kuşanmış ve bir işçi gibi giyinmiş olarak, bitki savunmalarını fethetmeye koyulur.\nBezelye Atan'ın yorumu: \"Kimse ona zombi derisinin çok fark edilir olduğunu söylemedi mi?\"</color>",
+            "info": "<size=36>Bu zombi engelleri aşmak için merdiven kullanır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720 + 720 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Bitki savunmalarını görmezden gelmek için merdiveni kullanabilir. Merdivenli bitkiler eldivenle hareket ettirilemez. Merdivenler Yakıcılar (Cremators) tarafından yok edilebilir. Eldeki merdiven Mıknatıs Mantarlar tarafından çıkarılabilir.</color>"
         },
         {
             "theZombieType": 34,
-            "name": "Pogo Melon Zombie",
-            "introduce": "<align=justified><size=36><color=black>Quote: \"It's highly unlikely for shells to explode in the same crater twice! This is what 'Crater Theory' states.\" Pogo Melon Zombie says while adjusting his melon peel hat. However, no one told him that his red-and-green color scheme stands out a bit too much in a crowd of zombies.</color>",
-            "info": "<size=36>This zombie charges up and leaps into your defenses!\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Charges up for 5 seconds, then performs a big jump (about 4 Tiles long). Can be knocked down from his Pogo Stick by Umbrella fusions.</color>"
+            "name": "Pogo Kavun Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Alıntı: \"Mermilerin aynı kraterde iki kez patlaması pek olası değildir! 'Krater Teorisi' bunu söyler.\" diyor Pogo Kavun Zombisi, kavun kabuğu şapkasını düzeltirken. Ancak kimse ona kırmızı-yeşil renk düzeninin zombi kalabalığında biraz fazla göze çarptığını söylemedi.</color>",
+            "info": "<size=36>Bu zombi güç toplar ve savunmanıza dalar!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 2200 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>5 saniye güç toplar, ardından büyük bir zıplama (yaklaşık 4 kare uzunluğunda) gerçekleştirir. Şemsiye füzyonları tarafından Pogo Çubuğu'ndan düşürülebilir.</color>"
         },
         {
             "theZombieType": 35,
             "name": "Gargantuar",
-            "introduce": "<align=justified><size=36><color=black>The Gargantuar is like a massive, clumsy beast, its size an advantage at the cost of intelligence. It doesn't understand plants or brains; it only knows how to move forward, relentlessly. </color>",
-            "info": "<size=36>A massive, slow-moving zombie that crushes everything in its way with its enormous size.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Throws an Imp upon reaching half health. Deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
+            "introduce": "<align=justified><size=36><color=black>Gargantuar, devasa ve hantal bir canavar gibidir; boyutu, zeka pahasına bir avantajdır. Bitkileri veya beyinleri anlamaz; sadece durmaksızın ileri gitmeyi bilir.</color>",
+            "info": "<size=36>En devasa boyutuyla yolundaki her şeyi ezen devasa, yavaş hareket eden bir zombi.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>Canı yarıya indiğinde bir Cüce fırlatır. Ezilmeye dirençli bitkilere 500 hasar, Dikenli Taşlara 50 hasar ve hipnotize edilmiş zombilere her vuruşta 1800 hasar verir.</color>"
         },
         {
             "theZombieType": 36,
             "name": "Giga-gargantuar",
-            "introduce": "<align=justified><size=36><color=black>Although the Giga-gargantuar wreaks havoc on the battlefield, its blood-red eyes instilling fear in all who face it, there's a little-known secret: the monster is perpetually irritable due to chronic sleep deprivation.</color>",
-            "info": "<size=36>The enraged Gargantuar crushes everything in its path with terrifying strength.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from regular Gargantuars.</color>"
+            "introduce": "<align=justified><size=36><color=black>Giga-gargantuar savaş alanında yıkıma yol açıp kan kırmızısı gözleriyle herkese korku salsa da, az bilinen bir sırrı var: Canavar, kronik uykusuzluk yüzünden sürekli sinirlidir.</color>",
+            "info": "<size=36>Öfkeli Gargantuar, yolundaki her şeyi korkunç bir güçle ezer.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>6000</color>\n<color=black>Özellikler: </color><color=#4B0082>Normal Gargantuarların tüm özelliklerine sahiptir.</color>"
         },
         {
             "theZombieType": 37,
-            "name": "Imp",
-            "introduce": "<align=justified><size=36><color=black>Imps enjoy sneaking through tight spaces, often causing mischief. Don't be surprised if you see one bouncing around unexpectedly!</color>",
-            "info": "<size=36>Small and sneaky, Imp loves to squeeze into tight spaces, making him agile and harder to target.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>\n<color=black>Traits: </color><color=#4B0082>Can be flung out of the screen by the Ultimate moves from some Umbrella fusions.</color>"
+            "name": "Cüce",
+            "introduce": "<align=justified><size=36><color=black>Cüceler dar alanlardan süzülmekten ve yaramazlık yapmaktan keyif alırlar. Birinin beklenmedik bir şekilde etrafta zıpladığını görürseniz şaşırmayın!</color>",
+            "info": "<size=36>Küçük ve sinsi Cüce, dar alanlara girmeyi sever, bu da onu çevik ve hedef alması zor kılar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270</color>\n<color=black>Özellikler: </color><color=#4B0082>Bazı Şemsiye füzyonlarının Özel Hareketleri ile ekrandan dışarı savrulabilir.</color>"
         },
         {
             "theZombieType": 38,
-            "name": "Mecha Gargantuar",
-            "introduce": "<align=justified><size=36><color=black>A zombie from the popular Plant Girls vs Zombies.</color>",
-            "info": "<size=36>Another invention by Dr. Gargantuar, immune to freezing and will charge at your defenses without hesitation.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to control effects.\n<color=black>•</color> Crushes plants, deals 500 Damage to anti-crush plants and 150 Damage to Spike Rocks.  Deals 1000 Damage to hypnotized zombies every second.\n<color=black>•</color> Vulnerable to Magnet-shrooms.</color>"
+            "name": "Mekanik Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Popüler Plant Girls vs Zombies oyunundan bir zombi.</color>",
+            "info": "<size=36>Dr. Gargantuar'ın bir başka icadı; donmaya karşı bağışıklıdır ve tereddüt etmeden savunmanıza saldırır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Kontrol etkilerine bağışıklıdır.\n<color=black>•</color> Bitkileri ezer, ezilme karşıtı bitkilere 500 hasar ve Dikenli Taşlara 150 hasar verir. Hipnotize edilmiş zombilere her saniye 1000 hasar verir.\n<color=black>•</color> Mıknatıs Mantarlara karşı savunmasızdır.</color>"
         },
         {
             "theZombieType": 39,
-            "name": "Mecha Giga-gargantuar",
-            "introduce": "<align=justified><size=36><color=black>A zombie from the popular Plant Girls vs Zombies.</color>",
-            "info": "<size=36>A latest creation by Dr. Gargantuar, this mechanized version is immune to freezing and charges directly at your defenses.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all Traits from regular Mecha Gargantuars.</color>"
+            "name": "Mekanik Giga-gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Popüler Plant Girls vs Zombies oyunundan bir zombi.</color>",
+            "info": "<size=36>Dr. Gargantuar'ın son icadı olan bu mekanize versiyon, donmaya karşı bağışıklıdır ve doğrudan savunmanıza saldırır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>6000</color>\n<color=black>Özellikler: </color><color=#4B0082>Normal Mekanik Gargantuarların tüm özelliklerine sahiptir.</color>"
         },
         {
             "theZombieType": 40,
-            "name": "Mecha-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Mecha-nut Zombie doesn’t have time for small talk—literally. With every turn, crash, and slope-assisted sprint, it’s all about momentum. \"Gotta keep rolling, gotta keep crushing,\" it mutters in a tinny, robotic voice, steam hissing from its joints. Plants unlucky enough to be in its path? Flattened. But even machines have limits—when it finally grinds to a halt, the Imps inside spill out, ready to pick up where their rolling fortress left off.",
-            "info": "<size=36>A rolling bowling ball on the zombies' side.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Switches lanes when hitting plants, speeds up on slopes. Slows down after switching lanes.\n<color=black>•</color>Crushes plants that has less than or equal to 1000 Toughness, and deals 1000 damage to tougher plants.\n<color=black>•</color> Can be rendered immobile by Umbrella fusions. \n<color=black>•</color> Spawns 5 Imps upon death.\n<color=black>•</color> Has equal probablities to drop an ice ball, fireball, or Mecha Fragment.\n<color=black>•</color> The balls can crush plants, block up to 30 bullets, and last 30 seconds. Can be countered by Ice-/Fire-based plant fusions.</color>"
+            "name": "Mekanik-Ceviz Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Mekanik-Ceviz Zombisi'nin havadan sudan konuşmaya vakti yok—kelimenin tam anlamıyla. Her dönüş, çarpışma ve eğim destekli sprint tamamen ivmeyle ilgili. Robotik bir sesle \"Yuvarlanmaya devam etmeli, ezmeye devam etmeli,\" diye mırıldanıyor, eklemlerinden buhar fışkırırken. Yoluna çıkacak kadar şanssız olan bitkiler mi? Dümdüz edildiler. Ama makinelerin bile sınırları vardır—nihayet durduğunda, içindeki Cüceler dökülür ve yuvarlanan kalelerinin bıraktığı yerden devam etmeye hazır olurlar.</color>",
+            "info": "<size=36>Zombi tarafında yuvarlanan bir bowling topu.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1350</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Bitkilere çarptığında şerit değiştirir, yokuşlarda hızlanır. Şerit değiştirdikten sonra yavaşlar.\n<color=black>•</color> 1000 veya daha az Dayanıklılığa sahip bitkileri ezer ve daha dayanıklı bitkilere 1000 hasar verir.\n<color=black>•</color> Şemsiye füzyonları tarafından hareketsiz hale getirilebilir.\n<color=black>•</color> Öldüğünde 5 Cüce çıkarır.\n<color=black>•</color> Bir buz topu, ateş topu veya Mekanik Parça düşürme ihtimali eşittir.\n<color=black>•</color> Toplar bitkileri ezebilir, 30 mermiye kadar engelleyebilir ve 30 saniye sürer. Buz veya Ateş tabanlı bitki füzyonları ile karşı koyulabilir.</color>"
         },
         {
             "theZombieType": 43,
-            "name": "Armored Gargantuar",
-            "introduce": "<align=justified><size=36><color=black>The Armored Gargantuar is a big fan of a skin called 'Cavalier' from his favorite game. So, he spent a fortune custom-ordering a set of medieval armor tailored just for him. However, when he tried to take it off, he found it was stuck for good... And that's how he ended up with a permanent 'Cadavelier' skin.</color>",
-            "info": "<size=36>Spawns Imps every time he smashes with his mace!\n\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Moves at half the speed of regular Gargantuars.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Immune to being hypnotized, devoured and knocked back, other status effects only last half as long.\n<color=black>•</color> Throws a Mecha-nut ball when its Toughness is at half, spawning 5 Imps when it breaks.\n<color=black>•</color> Spawns 1-3 Imps every time he slams the ground with his mace.</color>"
+            "name": "Zırhlı Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Zırhlı Gargantuar, en sevdiği oyundaki 'Cavalier' adlı kostümün büyük bir hayranıdır. Bu yüzden, tam kendisine göre uyarlanmış bir ortaçağ zırh seti sipariş etmek için bir servet harcadı. Ancak onu çıkarmaya çalıştığında, tamamen sıkıştığını fark etti... Ve böylece kalıcı bir 'Kadavra-valier' görünümüne sahip oldu.</color>",
+            "info": "<size=36>Gürzle her vurduğunda Cüceler çıkarır!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>8000 + 24000 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Normal Gargantuarların yarı hızında hareket eder.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 5000 hasar alır.\n<color=black>•</color> Hipnotize edilmeye, yutulmaya ve geri itilmeye karşı bağışıklıdır; diğer durum etkileri sadece yarı sürede geçer.\n<color=black>•</color> Dayanıklılığı yarıya indiğinde bir Mekanik-Ceviz topu fırlatır ve kırıldığında 5 Cüce çıkarır.\n<color=black>•</color> Gürzünü yere her vurduğunda 1-3 Cüce çıkarır.</color>"
         },
         {
             "theZombieType": 44,
             "name": "Dr. Zomboss",
-            "introduce": "<align=justified><size=36><color=black>Edgar George Zomboss achieved his Doctorate in Thanatology in only two years. Quickly mastering thanatological technology, he built his fearsome Zombot and set about establishing absolute dominance of his local subdivision.</color>",
-            "info": "<size=36>Dr. Zomboss rules them all.\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Drops a trophy upon defeat. Incoming damage is capped at 5000 before reduction. Immune to most status effects, except Chill, Freeze, and Enflamed. Has multiple attack modes:\n<color=black>•</color> Deploys regular zombies on the right half of the lawn.\n<color=black>•</color> Stomps on plants in the rightmost 4 columns.\n<color=black>•</color> Releases rolling ice and fireballs that crush plants in a lane.\n<color=black>•</color> Drops 3 Bungee Zombies on the left half of the lawn.\n<color=black>•</color> At half health, starts to throw campers that crush all plants in a 2x3 area.</color>"
+            "introduce": "<align=justified><size=36><color=black>Edgar George Zomboss, Tanatoloji doktorasını sadece iki yılda tamamladı. Tanatolojik teknolojide hızla ustalaşarak korkunç Zombot'unu inşa etti ve yerel mahallesinde mutlak hakimiyet kurmaya koyuldu.</color>",
+            "info": "<size=36>Dr. Zomboss hepsine hükmeder.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>60000</color>\n<color=black>Özellikler: </color><color=#4B0082>Yenildiğinde bir kupa düşürür. Alınan hasar, azaltmadan önce 5000 ile sınırlıdır. Serinlik, Donma ve Yanma dışındaki çoğu durum etkisine bağışıklıdır. Birden fazla saldırı modu vardır:\n<color=black>•</color> Bahçenin sağ yarısında normal zombiler konuşlandırır.\n<color=black>•</color> En sağdaki 4 sütundaki bitkileri ezer.\n<color=black>•</color> Bir şeritteki bitkileri ezen yuvarlanan buz ve ateş topları salar.\n<color=black>•</color> Bahçenin sol yarısına 3 Bungee Zombisi bırakır.\n<color=black>•</color> Yarı cana geldiğinde, 2x3 bir alandaki tüm bitkileri ezen karavanlar fırlatmaya başlar.</color>"
         },
         {
             "theZombieType": 45,
-            "name": "Bungee Zombie",
-            "introduce": "<align=justified><size=36><color=black>Bungee Zombie loves to take risks. After all, what's the point of being dead if you don't live a little?</color>",
-            "info": "<size=36>Descends from the sky and steals a plant. Prioritizes Pumpkins.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>Gains a 90% Damage reduction, and can now drop Ultimate zombies to the left of column 5 (excluding Diamond Mystery-boxes and Mini-bosses).</color>"
+            "name": "Bungee Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Bungee Zombisi risk almayı sever. Sonuçta, birazcık yaşamadıktan sonra ölü olmanın ne anlamı var?</color>",
+            "info": "<size=36>Gökten iner ve bir bitkiyi çalar. Kabaklara (Pumpkins) öncelik verir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Odyssey Düzenleyicisi:\n</color><color=#4B0082>%90 Hasar azaltma kazanır ve artık 5. sütunun soluna Üst Düzey zombiler bırakabilir (Elmas Gizemli Kutular ve Mini-bölüm sonu canavarları hariç).</color>"
         },
         {
             "theZombieType": 46,
             "name": "Dr. Zomboss Auric Prime",
             "introduce": "<align=justified><size=36><color=black>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non consectetur odio, ac consectetur dui.</color>",
-            "info": "<size=36>Plants vs. Zombies: Fusion Edition\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from Dr. Zomboss. Additionally, disables player's gloves and mallet on appearance. Mallet is unlocked at 2/3 health. Gloves are unlocked at 1/3 health. Thrown campers also clears the conveyor belt.</color>\n<size=36>Fusion Formula: <color=#4B0082>Dr. Zombie + Trophy</color>"
+            "info": "<size=36>Plants vs. Zombies: Fusion Sürümü\n\n<color=black>Dayanıklılık: </color><color=#4B0082>60000</color>\n<color=black>Özellikler: </color><color=#4B0082>Dr. Zomboss'un tüm özelliklerine sahiptir. Ek olarak, göründüğünde oyuncunun eldivenlerini ve tokmağını devre dışı bırakır. Tokmak 2/3 canda açılır. Eldivenler 1/3 canda açılır. Fırlatılan karavanlar ayrıca taşıma bandını temizler.</color>\n<size=36>Füzyon Formülü: <color=#4B0082>Dr. Zombi + Kupa</color>"
         },
         {
             "theZombieType": 47,
-            "name": "Yeti Zombie",
-            "introduce": "<align=justified><size=36>Many details about Yeti Zombie remain shrouded in mystery. His past? Classified. His motives? Unknown. The only things on record? His name, birth date, social security number, education, work history… and an unwavering passion for roast beef sandwich sandwiches.",
-            "info": "<size=36>Yeti Zombies can sometimes run away.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Silences/freezes plants in a 3x3 area around it. Jalapenos, Torchwoods and Ice-shrooms are immune to this effect.</color>"
+            "name": "Yeti Zombi",
+            "introduce": "<align=justified><size=36>Yeti Zombi hakkındaki birçok ayrıntı gizemini koruyor. Geçmişi? Gizli. Motivasyonları? Bilinmiyor. Kayıtlardaki tek şeyler? Adı, doğum tarihi, sosyal güvenlik numarası, eğitimi, iş geçmişi… ve rostolu sandviç sandviçlerine olan sarsılmaz tutkusu.",
+            "info": "<size=36>Yeti Zombileri bazen kaçabilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1350</color>\n<color=black>Özellikler: </color><color=#4B0082>Çevresindeki 3x3 bir alandaki bitkileri susturur/dondurur. Jalapenolar, Meşale Kütükleri ve Buz Mantarları bu etkiye bağışıklıdır.</color>"
         },
         {
             "theZombieType": 48,
-            "name": "Nian Zombie",
-            "introduce": "<align=justified><size=36><color=black>To celebrate the New Year, the zombie party sends out Nian Zombie, the embodiment of festive spirit.\n\n\"Look at my new clothes! Don’t I look just like a lion dancer? Pretty nice, right? Now, time to give my New Year's greetings to the plants!\"\n\nUnfortunately for him, the plants were too polite. After a flurry of cheerful “thank yous”, Nian Zombie found himself promptly swept away—whether he liked it or not.",
-            "info": "<size=36>Nian Zombies have very strong armor.\n\n<color=black>Toughness: </color><color=#4B0082>8888 + 8888 (Type 1)</color>\n<color=black>Weakness: </color><color=#4B0082>Bamboom deals 15x Damage to Nian Zombies.</color>"
+            "name": "Nian Zombi",
+            "introduce": "<align=justified><size=36><color=black>Yeni Yılı kutlamak için zombi partisi, şenlik ruhunun somutlaşmış hali olan Nian Zombi'yi gönderir.\n\n\"Yeni kıyafetlerime bakın! Tıpkı bir aslan dansçısı gibi görünmüyor muyum? Çok güzel, değil mi? Şimdi, bitkilere Yeni Yıl selamlarımı verme zamanı!\"\n\nNe yazık ki onun için bitkiler çok nazikti. Bir dizi neşeli “teşekkürler”den sonra, Nian Zombi kendini -istesin ya da istemesin- hemen süpürülmüş buldu.</color>",
+            "info": "<size=36>Nian Zombilerinin çok güçlü zırhları vardır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>8888 + 8888 (Tip 1)</color>\n<color=black>Zayıflık: </color><color=#4B0082>Bamboom, Nian Zombilerine 15 kat hasar verir.</color>"
         },
         {
             "theZombieType": 49,
-            "name": "Frost Legion Snowball Launcher",
-            "introduce": "<align=justified><size=36><color=black>\"Snowball fight!\" Snowball Launcher Zombie wakes up from his icy slumber, flinging snowballs wildly in every direction.\n\n\"Should we tell him?\"\n\"Nah, let’s see how long it takes him to figure it out.\"\n\nSMACK!—Another snowball lands.\n\n\"That makes fourteen.\"</color>",
-            "info": "<size=36>Snowball Launcher Zombie can attack your plants with snowballs and freeze them.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Damage: </color><color=#4B0082>75 / 2 Seconds</color>\n<color=black>Traits: </color><color=#4B0082>After appearing, it will continually launch snowballs at plants, which will explode upon impact, causing 75 damage in a 3x3 range and disabling them for 5 seconds. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
+            "name": "Don Lejyonu Kartopu Atıcı",
+            "introduce": "<align=justified><size=36><color=black>\"Kartopu savaşı!\" Kartopu Atıcı Zombi buzlu uykusundan uyanır ve her yöne çılgınca kartopları fırlatır.\n\n\"Ona söylemeli miyiz?\"\n\"Hayır, bakalım ne kadar sürede anlayacak.\"\n\nÇAT!—Bir kartopu daha isabet eder.\n\n\"Bu on dört oldu.\"</color>",
+            "info": "<size=36>Kartopu Atıcı Zombi bitkilerinize kartopuyla saldırabilir ve onları dondurabilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Hasar: </color><color=#4B0082>75 / 2 Saniye</color>\n<color=black>Özellikler: </color><color=#4B0082>Göründükten sonra bitkilere sürekli kartopu fırlatır, bunlar çarptığında patlayarak 3x3 bir menzilde 75 hasar verir ve onları 5 saniye devre dışı bırakır. Kartopları etkilenen hipnotize edilmiş zombilere 10 Buzlanma puanı verir.</color>\n<color=black>Zayıflık: </color><color=#4B0082>Şemsiye Kabuğu</color>"
         },
         {
             "theZombieType": 50,
-            "name": "Frost Legion Shieldbearer",
-            "introduce": "<align=justified><size=36><color=black>Frost Legion Shieldbearer was once an elite soldier on the battlefield. Now retired, he’s the reigning champion of the graveyard snowball fight tournament. He treasures the shield that brought him so much glory, constantly checking it for scratches—though some say that very habit might be what got him injured and retired in the first place.</color>",
-            "info": "<size=36>A shieldbearer from the snowy plains, he deflects straight-firing projectiles and returns them as snowballs.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill and Freeze. Raises shield every 1.5 seconds to reflect straight-firing projectiles as snowballs. Takes 20 damage when reflecting and does not block the projectile. Delivers shield bashes instead of biting when holding the shield, dealing 50 damage.</color>"
+            "name": "Don Lejyonu Kalkan Taşıyıcı",
+            "introduce": "<align=justified><size=36><color=black>Don Lejyonu Kalkan Taşıyıcı bir zamanlar savaş alanında seçkin bir askerdi. Şimdi emekli oldu ve mezarlık kartopu savaşı turnuvasının son şampiyonu. Ona çok fazla ün getiren kalkanına değer veriyor, sürekli çizik olup olmadığını kontrol ediyor—gerçi bazıları onu yaralayıp emekli eden şeyin tam da bu alışkanlığı olduğunu söylüyor.</color>",
+            "info": "<size=36>Karlı ovalardan gelen bir kalkan taşıyıcı, düz ateş eden mermileri saptırır ve onları kartopu olarak geri gönderir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720 + 2200 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Serinlik ve Donmaya karşı bağışıklıdır. Düz ateş eden mermileri kartopu olarak yansıtmak için her 1.5 saniyede bir kalkanını kaldırır. Yansıtırken 20 hasar alır ve mermiyi engellemez. Kalkanı tutarken ısırmak yerine kalkan darbesi indirerek 50 hasar verir.</color>"
         },
         {
             "theZombieType": 51,
-            "name": "Frost Legion Trident Thrower",
-            "introduce": "<align=justified><size=36><color=black>At the ongoing 5th Undead Olympics Winter Games, Frost Legion Trident Thrower hogs all the spotlight. He plans to use his prize money to buy a new sled for himself and his crew—and maybe treat them to a luxurious foot massage to make up for all the damage from stepping on Spikeweeds.</color>",
-            "info": "<size=36>From the snowy plains comes the Frost Legion Trident Thrower — silencing foes with every icy toss!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill and Freeze. Inherits traits from Trident Zombie. Ice Tridents are not attracted to Umbrellas and apply Silence for 5 seconds on hit.</color>"
+            "name": "Don Lejyonu Mızrak Atıcı",
+            "introduce": "<align=justified><size=36><color=black>Devam eden 5. Ölüler Kış Olimpiyatları'nda, Don Lejyonu Mızrak Atıcı tüm ilgiyi üzerine çekiyor. Ödül parasını kendisi ve ekibi için yeni bir kızak almak ve belki de Dikenli Otlara basmaktan kaynaklanan tüm hasarı telafi etmek için onlara lüks bir ayak masajı ısmarlamak için kullanmayı planlıyor.</color>",
+            "info": "<size=36>Karlı ovalardan Don Lejyonu Mızrak Atıcı geliyor; her buzlu atışıyla düşmanları susturuyor!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Serinlik ve Donmaya karşı bağışıklıdır. Üçlü Mızraklı Zombi'nin özelliklerine sahiptir. Buz Mızrakları Şemsiyeler tarafından çekilmez ve isabet ettiğinde 5 saniye boyunca Susturma uygular.</color>"
         },
         {
             "theZombieType": 52,
-            "name": "Chronoporter Zombie",
-            "introduce": "<align=justified><size=36><color=black>What exactly is behind the portal held by the Chronoporter Zombie? No zombie really knows — nor do they care to find out. But when their old pals start crawling out one after another, they're more than happy to step up and ask if there's any fresh brains inside.</color>",
-            "info": "<size=36>A force beyond time and space, drawn from the edges of reality itself.\n\n<color=black>Damage: </color><color=#4B0082>20 / 1.5 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Fires chrono peas at your defense. Every 6 seconds, randomly summons a regular, Conehead, Buckethead, or Screen Door zombie from the portal. Drops a Chrono Core upon death.</color>"
+            "name": "Kronotaşıyıcı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Kronotaşıyıcı Zombi'nin tuttuğu portalın arkasında tam olarak ne var? Hiçbir zombi gerçekten bilmiyor, bilmekle de ilgilenmiyor. Ama eski dostları birer birer dışarı çıkmaya başladığında, öne çıkıp içeride taze beyin olup olmadığını sormaktan fazlasıyla mutlu oluyorlar.</color>",
+            "info": "<size=36>Gerçekliğin sınırlarından çekilen, zaman ve uzayın ötesinde bir güç.\n\n<color=black>Hasar: </color><color=#4B0082>20 / 1.5 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 200 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Savunmanıza krono-bezelyeler fırlatır. Her 6 saniyede bir portaldan rastgele bir normal, Koni Kafalı, Kova Kafalı veya Sineklik Kapılı zombi çağırır. Öldüğünde bir Krono Çekirdeği düşürür.</color>"
         },
         {
             "theZombieType": 53,
-            "name": "Frost Legion Floating Disk",
-            "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Floating Disk spends half an hour clearing snow and ice — and dragging out the Blizzardsnatches hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
-            "info": "<size=36>It’s snowing! This chilly guest drifts in with flurries, silences plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, silencing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
+            "name": "Don Lejyonu Uçan Disk",
+            "introduce": "<align=justified><size=36><color=black>Her havalanmadan önce, Uçan Disk mürettebatı kar ve buzu temizlemek—ve köşelerde saklanan Blizzard-kapanlarını dışarı atmak—için yarım saat harcıyor. Pilot, \"Bu donmuş yığını yerden kaldırmak gülünç miktarda yakıt tüketiyor,\" diye söyleniyor.</color>",
+            "info": "<size=36>Kar yağıyor! Bu soğuk misafir kar fırtınalarıyla süzülür, bitkileri susturur ve destek kuvvetle ayrılır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Esinti Çiçeklerine karşı bağışıklıdır. Hareket ederken kar taneleri oluşturarak altındaki bitkileri susturur. Zamanla yavaşlar; hızı sıfıra ulaştığında yön değiştirir. Çıkışta bir Don Lejyonu Mangası çağırır: birer adet Kalkan Taşıyıcı, Kartopu Atıcı ve Mızrak Atıcı Zombi.</color>"
         },
         {
             "theZombieType": 100,
-            "name": "Peashooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>The ability of Peashooter Zombie to engage from a distance often frightens the plants. However, the real panic lies with the zombies, who fear that those fighting in front of him will be targeted from behind.</color>",
-            "info": "<size=36>Shoots peas to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>20 / 1.5 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "name": "Bezelye Atan Zombi",
+            "introduce": "<align=justified><size=36><color=black>Bezelye Atan Zombi'nin uzaktan çatışmaya girme yeteneği genellikle bitkileri korkutur. Ancak asıl panik, onun önünde savaşanların arkadan vurulmaktan korkan zombilerdedir.</color>",
+            "info": "<size=36>Bitkilerinize saldırmak için bezelye fırlatır.\n\n<color=black>Hasar: </color><color=#4B0082>20 / 1.5 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 101,
-            "name": "Cherryshooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Cherryshooter Zombie is a 17-year-old high school student with a plant head growing from his neck. His favorite fruit is cherries, and due to his papal family background, the zombies affectionately refer to him as the \"Leaf King.\"</color>",
-            "info": "<size=36>Shoots cherry bullets to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>60 / 1.5 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
+            "name": "Kiraz Atıcı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Kiraz Atıcı Zombi, boynundan bir bitki başı çıkan 17 yaşında bir lise öğrencisidir. En sevdiği meyve kirazdır ve ailesinin geçmişi nedeniyle zombiler ona sevgiyle \"Yaprak Kral\" derler.</color>",
+            "info": "<size=36>Bitkilerinize saldırmak için kiraz mermileri fırlatır.\n\n<color=black>Hasar: </color><color=#4B0082>60 / 1.5 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 102,
-            "name": "Explod-o-shooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Explod-o-shooter Zombie loves listening to \"Cherry Bomb\" by The Runaways, which might explain his fiery passion. However, no one knows how he learned to ignite fireworks with his mouth.</color>",
-            "info": "<size=36>Shoots explosive cherries to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>1000 / 10 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
+            "name": "Patlar Atıcı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Patlar Atıcı Zombi, The Runaways'den \"Cherry Bomb\" dinlemeyi sever, bu da onun ateşli tutkusunu açıklayabilir. Ancak ağzıyla nasıl havai fişek yakacağını nasıl öğrendiğini kimse bilmiyor.</color>",
+            "info": "<size=36>Bitkilerinize saldırmak için patlayıcı kirazlar fırlatır.\n\n<color=black>Hasar: </color><color=#4B0082>1000 / 10 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 103,
-            "name": "Wall-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Following an assault by the plants, Wall-nut Zombie displayed bite marks on his head instead of bullet holes. When interviewed, he said, \"Perhaps my comrades were simply hungry.\"</color>",
-            "info": "<size=36>It's a moving nut.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
+            "name": "Ceviz Zombi",
+            "introduce": "<align=justified><size=36><color=black>Bitkilerin saldırısının ardından Ceviz Zombi, kafasında mermi delikleri yerine ısırık izleri gösterdi. Röportaj yapıldığında, \"Belki de yoldaşlarım sadece açtı,\" dedi.</color>",
+            "info": "<size=36>Hareket eden bir ceviz.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 1100 (Tip 1)</color>"
         },
         {
             "theZombieType": 104,
-            "name": "<size=30>Cherryshooter Newspaper Zombie",
-            "introduce": "<align=justified><size=36><color=black>This zombie's favorite fruit is cherries, and even his newspaper is cherry-flavored. The newspaper he holds is the only thing that can temper his rage.</color>",
-            "info": "<size=36>Goes into an explosive cherry barrage when his newspaper is broken.\n\n<color=black>Toughness: </color><color=#4B0082>1500 + 200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Becomes temporarily invincible after its newspaper's broken, then proceeds to shoot explosive cherries every 0.75 seconds.</color>\n<color=black>Explosion Range: </color><color=#4B0082>Cross Splash, can be absorbed by Wall-nuts and Pumpkins at Difficulty 4 or lower.</color>"
+            "name": "<size=30>Kiraz Atıcı Gazeteli Zombi",
+            "introduce": "<align=justified><size=36><color=black>Bu zombinin en sevdiği meyve kirazdır ve gazetesi bile kiraz aromalıdır. Tuttuğu gazete, öfkesini dindirebilen tek şeydir.</color>",
+            "info": "<size=36>Gazetesi parçalandığında patlayıcı bir kiraz yaylım ateşine başlar.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1500 + 200 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Gazetesi parçalandıktan sonra geçici olarak yenilmez olur, ardından her 0.75 saniyede bir patlayıcı kiraz fırlatmaya başlar.</color>\n<color=black>Patlama Menzili: </color><color=#4B0082>Artı şeklinde (Cross) alan hasarı, Zorluk 4 veya altında Cevizler ve Kabaklar tarafından emilebilir.</color>"
         },
         {
             "theZombieType": 105,
-            "name": "Mystery-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>？？？</color>",
-            "info": "<size=36>No one knows what's hiding inside the box.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After the box falls off, spawns a random zombie with 20%/40%/60%/80%/100% of the original zombie's Toughness.\n<color=black>•</color> There is a 1% chance that a random Odyssey Modifier will drop when its box is dropped, up to 1 per minute.</color>"
+            "name": "Gizemli Kutu Zombisi",
+            "introduce": "<align=justified><size=36><color=black>???</color>",
+            "info": "<size=36>Kutunun içinde ne saklandığını kimse bilmiyor.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 370 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Kutu düştükten sonra, orijinal zombinin Dayanıklılığının %20/%40/%60/%80/%100'üne sahip rastgele bir zombi çıkarır.\n<color=black>•</color> Kutusu düştüğünde %1 ihtimalle rastgele bir Odyssey Düzenleyicisi düşürür (dakikada en fazla 1 adet).</color>"
         },
         {
             "theZombieType": 106,
-            "name": "Buck-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Why is Buck-nut Zombie's head made of iron? It's because everyone said that eating walnuts nourishes the brain, but he didn't realize that the walnuts he consumed were packed with too much iron. However, it might not be so bad—at least now he has developed an iron head.</color>",
-            "info": "<size=36>It's a moving Buck-nut.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Drops a Bucket when killed by projectiles.</color>"
+            "name": "Kova-Ceviz Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Kova-Ceviz Zombisi'nin kafası neden demirden yapılmış? Çünkü herkes ceviz yemenin beyni beslediğini söylüyordu ama tükettiği cevizlerin çok fazla demir içerdiğini fark etmedi. Ancak o kadar da kötü olmayabilir; en azından şimdi demir bir kafa geliştirdi.</color>",
+            "info": "<size=36>Hareket eden bir Kova-Ceviz.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 2200 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Mermilerle öldürüldüğünde bir Kova düşürür.</color>"
         },
         {
             "theZombieType": 107,
-            "name": "Cherry-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Real men never turn around to watch explosions, and Cherry-nut Zombie certainly fits the bill, as he often catches bombs with his face.</color>",
-            "info": "<size=36>Has a slight resistance against explosive bullets.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Takes 150 maximum damage from Cherry Bombs, and receives half the damage from explosive cherry projectiles.</color>"
+            "name": "Kiraz-Ceviz Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Gerçek adamlar asla arkasına dönüp patlamalara bakmazlar ve Kiraz-Ceviz Zombisi buna kesinlikle uyuyor, çünkü bombaları sık sık yüzüyle yakalar.</color>",
+            "info": "<size=36>Patlayıcı mermilere karşı hafif bir direnci vardır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 1100 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Kiraz Bombalarından maksimum 150 hasar alır ve patlayıcı kiraz mermilerinden yarı hasar alır.</color>"
         },
         {
             "theZombieType": 108,
-            "name": "Buckshooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Last year, Buckshooter Zombie drew a tarot card that read \"The Emperor.\" Since then, he has been able to shoot iron peas at will.</color>",
-            "info": "<size=36>Fires high-damaging bullets.\n\n<color=black>Damage: </color><color=#4B0082>80 / 1.5 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Drops a Bucket when killed by projectiles.</color>"
+            "name": "Kova Atıcı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Geçen yıl Kova Atıcı Zombi, \"İmparator\" yazan bir tarot kartı çekti. O zamandan beri, istediği zaman demir bezelyeler atabiliyor.</color>",
+            "info": "<size=36>Yüksek hasarlı mermiler atar.\n\n<color=black>Hasar: </color><color=#4B0082>80 / 1.5 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>1350</color>\n<color=black>Özellikler: </color><color=#4B0082>Mermilerle öldürüldüğünde bir Kova düşürür.</color>"
         },
         {
             "theZombieType": 109,
-            "name": "Football-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Football-nut Zombie was once just an ordinary Football Zombie, until one day he collided with a nut that was spreading fertilizer. \"I don't know how this guy ended up on my head; it's suffocating me!\" lamented Football-nut Zombie.</color>",
-            "info": "<size=36>High-armor zombie that can also run very fast.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Drops a Football Helmet when killed by projectiles.</color>"
+            "name": "Futbol-Ceviz Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Futbol-Ceviz Zombisi bir zamanlar sıradan bir Futbolcu Zombiydi, ta ki bir gün gübre yayan bir cevizle çarpışana kadar. \"Bu adamın kafama nasıl geldiğini bilmiyorum; beni boğuyor!\" diye yakındı Futbol-Ceviz Zombisi.</color>",
+            "info": "<size=36>Aynı zamanda çok hızlı koşabilen yüksek zırhlı zombi.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 4400 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Mermilerle öldürüldüğünde bir Futbol Kaskı düşürür.</color>"
         },
         {
             "theZombieType": 110,
-            "name": "Golden Mystery-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>？？！</color>",
-            "info": "<size=36>A golden one!? I wonder what's inside this Mystery-box...\n\n<color=black>Toughness: </color><color=#4B0082>270 + 720 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>After the box falls off, spawns a random zombie with full Toughness. Also has a chance to unlock an Odyssey Modifier when defeated up to 1 per minute.</color>"
+            "name": "Altın Gizemli Kutu Zombisi",
+            "introduce": "<align=justified><size=36><color=black>??!</color>",
+            "info": "<size=36>Altın olanı mı!? Bu Gizemli Kutu'nun içinde ne olduğunu merak ediyorum...\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 720 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Kutu düştükten sonra, tam Dayanıklılığa sahip rastgele bir zombi çıkarır. Ayrıca yenildiğinde bir Odyssey Düzenleyicisi açma şansı vardır (dakikada en fazla 1 adet).</color>"
         },
         {
             "theZombieType": 111,
-            "name": "Frost-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Frost-nut Zombie's head has sparked numerous opinions in the zombie world. Some say he aims to distance himself from the cold world, while others suspect it relates to Dr. Edgar's wild experiments. Yet, only he knows that this headgear appeared after he ate a specific blue mushroom.</color>",
-            "info": "<size=36>A sturdy zombie that can also nullify damage from ice projectiles.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and freeze.</color>"
+            "name": "Buz-Ceviz Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Buz-Ceviz Zombisi'nin kafası zombi dünyasında sayısız görüşe neden oldu. Bazıları onun soğuk dünyadan uzaklaşmayı hedeflediğini söylerken, diğerleri bunun Dr. Edgar'ın çılgın deneyleriyle ilgili olduğundan şüpheleniyor. Oysa sadece kendisi bu başlığın belirli bir mavi mantarı yedikten sonra ortaya çıktığını biliyor.</color>",
+            "info": "<size=36>Buz mermilerinden gelen hasarı da geçersiz kılabilen sağlam bir zombi.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 2200 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Serinlik ve donmaya karşı bağışıklıdır.</color>"
         },
         {
             "theZombieType": 112,
-            "name": "Explod-o-pult Zombie",
-            "introduce": "<align=justified><size=36><color=black>Warning: If you see him running low on basketballs, it's already too late! His explosive shots aren’t just for scoring points—they’re for total chaos! Better start running!</color>",
-            "info": "<size=36>Throws explosive basketballs to destroy your defenses!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Throws 5 basketballs, then launches explosive basketballs (every 3 seconds, has 20 in total). Explosions deal 100 damage to Umbrella plants.</color>"
+            "name": "Patlayıcı Mancınık Zombi",
+            "introduce": "<align=justified><size=36><color=black>Uyarı: Basketbol toplarının azaldığını görürseniz, zaten çok geçtir! Patlayıcı atışları sadece sayı yapmak için değil; tam bir kaos için! Koşmaya başlasanız iyi olur!</color>",
+            "info": "<size=36>Savunmalarınızı yok etmek için patlayıcı basketbol topları fırlatır!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1350</color>\n<color=black>Özellikler: </color><color=#4B0082>5 basketbol topu fırlatır, ardından patlayıcı basketbol topları fırlatır (her 3 saniyede bir, toplamda 20 adet). Patlamalar Şemsiye bitkilerine 100 hasar verir.</color>"
         },
         {
             "theZombieType": 113,
-            "name": "Pea Rider Zombie",
-            "introduce": "<align=justified><size=36><size=36><color=black>When asked what sets him apart from the Whale Rider Yeti, Pea Rider simply shrugs and grins. \"Oh, nothing much. I just really, really love playing Boomerang.\"</color>",
-            "info": "<size=36>A variant of the Whale Rider Yeti!\n\n<color=black>Damage: </color><color=#4B0082>20 / 0.75 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Shoots peas at your plants before and after jumping.</color>"
+            "name": "Bezelye Binicisi Zombi",
+            "introduce": "<align=justified><size=36><size=36><color=black>Balina Binicisi Yeti'den farkı sorulduğunda, Bezelye Binicisi sadece omuz silkip sırıtır. \"Oh, pek bir şey yok. Sadece Bumerang oynamayı gerçekten, gerçekten çok seviyorum.\"</color>",
+            "info": "<size=36>Balina Binicisi Yeti'nin bir varyantı!\n\n<color=black>Hasar: </color><color=#4B0082>20 / 0.75 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>720</color>\n<color=black>Özellikler: </color><color=#4B0082>Zıplamadan önce ve sonra bitkilerinize bezelye atar.</color>"
         },
         {
             "theZombieType": 114,
-            "name": "<size=30>Screen Door Buckshooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Screen Door Buckshooter Zombie loves piling on layers of iron gear, much to the confusion of his fellow zombies. \"If Magnet-shrooms can yank off our helmets, why not just wear MORE metal?\" he reasoned. His logic seemed sound—until he met the Magblover and learned that sometimes, less is more.</color>",
-            "info": "<size=36>The Buckshooter Zombie has acquired the equipment: a Screen Door!\n\n<color=black>Damage: </color><color=#4B0082>80 / 1.5 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>1350 + 1100 (Type 1) + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Cosntantly shoots iron peas at your plants whilst having decent defense.</color>"
+            "name": "<size=30>Sineklik Kapılı Kova Atıcı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Sineklik Kapılı Kova Atıcı Zombi, demir teçhizatları üst üste yığmaya bayılıyor, bu da diğer zombilerin kafasını karıştırıyor. \"Eğer Mıknatıs Mantarlar kasklarımızı sökebiliyorsa, neden DAHA FAZLA metal takmıyoruz?\" diye düşündü. Mantığı sağlam görünüyordu; ta ki Magblover ile tanışıp bazen azın daha çok olduğunu öğrenene kadar.</color>",
+            "info": "<size=36>Kova Atıcı Zombi yeni bir ekipman edindi: Bir Sineklik Kapı!\n\n<color=black>Hasar: </color><color=#4B0082>80 / 1.5 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>1350 + 1100 (Tip 1) + 1100 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>İyi bir savunmaya sahipken bitkilerinize sürekli demir bezelyeler atar.</color>"
         },
         {
             "theZombieType": 115,
-            "name": "Squash Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"Hmm? Hmm!\" That’s all the warning you get before the Squash Zombies charge forward, flattening everything in their path. Other zombies admire their dedication, mistaking it for selfless bravery. In truth, they’re just die-hard fans of Neko Squash—and after watching her crush the Endoflame, they couldn’t resist copying their idol.</color>",
-            "info": "<size=36>Crushes the first plant nearby and dies.\n\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Crushes the first plants it encounters. Converts to a Spicy Squash Zombie when affected by the explosion of a Jalapeno Zombie.</color>"
+            "name": "Ezme Zombi",
+            "introduce": "<align=justified><size=36><color=black>\"Hmm? Hmm!\" Ezme Zombileri ileri atılıp yollarındaki her şeyi düzlemeden önce alacağınız tek uyarı budur. Diğer zombiler onların adanmışlığına hayran kalıp bunu fedakarca bir cesaret sanıyorlar. İşin aslı, onlar sadece Neko Squash'ın sadık hayranları ve onun Endoflame'i ezmesini izledikten sonra idollerini kopyalamaktan kendilerini alamadılar.</color>",
+            "info": "<size=36>Yakındaki ilk bitkiyi ezer ve ölür.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>500</color>\n<color=black>Özellikler: </color><color=#4B0082>Karşılaştığı ilk bitkileri ezer. Bir Jalapeno Zombi'nin patlamasından etkilendiğinde Acılı Ezme Zombi'ye dönüşür.</color>"
         },
         {
             "theZombieType": 116,
-            "name": "Spicy Squash Zombie",
-            "introduce": "<align=justified><size=36><color=black>No zombie is as hot-headed as Spicy Squash Zombie—literally. The second he stomps onto the scene, he shoves others aside, ready to stand tall and declare, \"Ashes to ashes!\" Unfortunately, his head had other plans… and launched itself off before he could finish.</color>",
-            "info": "<size=36>Leaps and destroys a whole lane of plants!\n\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>Crushes the first plant it encounters and sets the whole lane on fire, destroying all plants affected. Does not set fire if chilled. Does not damage hypnotized zombies or clear ice trails.</color>"
+            "name": "Acılı Ezme Zombi",
+            "introduce": "<align=justified><size=36><color=black>Hiçbir zombi Acılı Ezme Zombi kadar asabi değildir—kelimenin tam anlamıyla. Sahneye adım attığı an, başkalarını kenara iter, dik durmaya hazırlanır ve \"Küller küllere!\" diye ilan eder. Ne yazık ki, kafasının başka planları vardı… ve o bitiremeden kendini fırlattı.</color>",
+            "info": "<size=36>Zıplar ve tüm bir bitki şeridini yok eder!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1500</color>\n<color=black>Özellikler: </color><color=#4B0082>Karşılaştığı ilk bitkiyi ezer ve tüm şeridi ateşe vererek etkilenen tüm bitkileri yok eder. Serinlemişse ateşe vermez. Hipnotize edilmiş zombilere hasar vermez veya buz izlerini temizlemez.</color>"
         },
         {
             "theZombieType": 117,
-            "name": "Jalapeno Zombie",
-            "introduce": "<align=justified><size=36><color=black>With a fiery leap, Jalapeño Zombie cannonballs into the pool, sizzling on impact. The other zombies groan. \"Fantastic. Now we're marinating in spicy broth.\"</color>",
-            "info": "<size=36>This zombie explodes and destroys a whole lane of plants after a while.\n\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Explodes and destroys a whole lane of plants after a while (1 million Damage). Does not damage hypnotized zombies or clear ice trails.</color>"
+            "name": "Jalapeno Zombi",
+            "introduce": "<align=justified><size=36><color=black>Ateşli bir sıçrayışla Jalapeño Zombi havuza dalar, temas anında cızırdar. Diğer zombiler inler. \"Harika. Şimdi baharatlı suyun içinde marine oluyoruz.\"</color>",
+            "info": "<size=36>Bu zombi bir süre sonra patlar ve tüm bir bitki şeridini yok eder.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>500</color>\n<color=black>Özellikler: </color><color=#4B0082>Bir süre sonra patlar ve tüm bir bitki şeridini yok eder (1 milyon hasar). Hipnotize edilmiş zombilere hasar vermez veya buz izlerini temizlemez.</color>"
         },
         {
             "theZombieType": 118,
-            "name": "Pea Commando Football",
-            "introduce": "<align=justified><size=36><color=black>They say fate is unpredictable, and Pea Commando Football would have to agree. One second, he's in a vegetarian batting cage. The next? He's accidentally ingested a high-powered pitching machine. Now, his new un-life is just one endless round of rapid-fire peas.</color>",
-            "info": "<size=36>Relentlessly unleashes barrages of peas at your defenses!\n\n<color=black>Damage: </color><color=#4B0082>20 / 0.1 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Constantly shoots volleys of peas at your plants.</color>"
+            "name": "Bezelye Komandosu Futbolcu",
+            "introduce": "<align=justified><size=36><color=black>Kaderin tahmin edilemez olduğunu söylerler ve Bezelye Komandosu Futbolcu buna katılıyor. Bir saniye vejetaryen bir vuruş kafesinde. Bir sonraki? Kazara yüksek güçlü bir top fırlatma makinesini yutmuş. Şimdi, yeni ölümsüz hayatı sadece bitmek bilmeyen seri bezelye atışlarından ibaret.</color>",
+            "info": "<size=36>Savunmanıza amansızca bezelye yaylım ateşi açar!\n\n<color=black>Hasar: </color><color=#4B0082>20 / 0.1 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 1400 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Bitkilerinize sürekli bezelye yaylım ateşi açar.</color>"
         },
         {
             "theZombieType": 119,
-            "name": "Buckshoot-copter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Faced with doubts from fellow zombies, Buckshoot-copter tried to prove his veteran status with an old group photo. \"But… where are you in this?\" they asked. He stared at the black-and-white film, just as puzzled.</color>",
-            "info": "<size=36>Buckshooter Zombie on rotor.\n\n<color=black>Damage: </color><color=#4B0082>80 / 1.5 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>1350 + 500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Fires buckshot peas at your defense, these can knock back hypnotized zombies. </color>"
+            "name": "Kova Atıcı Helikopter Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Diğer zombilerin şüpheleriyle karşılaşan Kova Atıcı Helikopter, eski bir grup fotoğrafıyla gazi statüsünü kanıtlamaya çalıştı. \"Ama... sen bunun neresindesin?\" diye sordular. En az onlar kadar şaşkın bir halde siyah-beyaz filme bakakaldı.</color>",
+            "info": "<size=36>Pervane üzerindeki Kova Atıcı Zombi.\n\n<color=black>Hasar: </color><color=#4B0082>80 / 1.5 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>1350 + 500 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Esinti Çiçeklerine karşı bağışıklıdır. Savunmanıza şaçma bezelyeler atar, bunlar hipnotize edilmiş zombileri geri itebilir.</color>"
         },
         {
             "theZombieType": 200,
-            "name": "Sharkmarine",
-            "introduce": "<align=justified><size=36><color=black>\"An excellent diver should not only be able to dive but also drive a super submarine!\" declared Sharkmarine Zombie as he increased the submarine's horsepower by one gear.</color>",
-            "info": "<size=36>Gfishtus Corps proudly presents...\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Charges at a fast speed through your pool defenses, instantly crushing plants that are not immune to it, dealing 500 Damage to anti-crush plants.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Zombarines and Sharkmarines now have double the movement speed.\n2.  Zombarines and Sharkmarines now gain a 50% Damage reduction.</color>"
+            "name": "Köpekbalığı-marin",
+            "introduce": "<align=justified><size=36><color=black>\"Mükemmel bir dalgıç sadece dalabilmekle kalmamalı, aynı zamanda süper bir denizaltı sürebilmeli!\" dedi Köpekbalığı-marin Zombisi, denizaltının beygir gücünü bir vites artırırken.</color>",
+            "info": "<size=36>Gfishtus Kolordusu gururla sunar...\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>Havuz savunmanız boyunca hızlı bir şekilde hücum eder, buna bağışıklığı olmayan bitkileri anında ezer, ezilme karşıtı bitkilere 500 hasar verir.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Zombarinler ve Köpekbalığı-marinler artık iki kat hareket hızına sahip.\n2. Zombarinler ve Köpekbalığı-marinler artık %50 hasar azaltma kazanıyor.</color>"
         },
         {
             "theZombieType": 201,
             "name": "Michael Zomboni",
-            "introduce": "<align=justified><size=36><color=black>Michael Zomboni isn't just a one-zombie act—it takes a whole team to put on the show! Zomboni preps the stage, Bobsled Zombie brings the flashy visuals, and Michael Zombie? Well, he had to step out of the car since he technically didn't have a driver's license. He wanted to greet his adoring plant fans, but... the peas looked a little too enthusiastic.</color>",
-            "info": "<size=36>Extremely high defense and immunity to slow.\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>Upon death, automatically spawns a Michael Zombie, Zomboni, and Bobsled Zomboni.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Michael Zomboni now appears in every wave and spawns an extra Superstar Zombie on death.\n2.  Michael Zombonis and Jackson Worldwides have their movement speed doubled.</color>"
+            "introduce": "<align=justified><size=36><color=black>Michael Zomboni sadece tek kişilik bir gösteri değil; gösteriyi sahnelemek için koca bir ekip gerekiyor! Zomboni sahneyi hazırlar, Buz Kızağı Zombisi gösterişli görselleri getirir ve Michael Zombi? Şey, teknik olarak ehliyeti olmadığı için arabadan inmek zorunda kaldı. Hayranı olan bitki takipçilerini selamlamak istedi ama... bezelyeler biraz fazla hevesli görünüyordu.</color>",
+            "info": "<size=36>Son derece yüksek savunma ve yavaşlamaya karşı bağışıklık.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>12000</color>\n<color=black>Özellikler: </color><color=#4B0082>Öldüğünde otomatik olarak bir Michael Zombi, Zomboni ve Buz Kızağı Zomboni çıkarır.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Michael Zomboni artık her dalgada görünür ve öldüğünde ekstra bir Süperstar Zombi çıkarır.\n2. Michael Zomboniler ve Jackson Worldwide'ların hareket hızı iki katına çıkar.</color>"
         },
         {
             "theZombieType": 202,
-            "name": "Giga-trident Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"Giga-trident Zombie is a skilled fisherman known for his exceptional accuracy with the four tridents he throws, earning him the title of the king of fishermen.\" \"In fact, I used to be a part-time javelin thrower...\" Giga-trident Zombie admitted.</color>",
-            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Throws 4 tridents, each causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Trident Damage x5.\n2. Now targets random plants outside of minimum range.</color>"
+            "name": "Giga-Mızraklı Zombi",
+            "introduce": "<align=justified><size=36><color=black>\"Giga-Mızraklı Zombi, fırlattığı dört mızrakla gösterdiği olağanüstü isabetliliğiyle tanınan ve balıkçıların kralı unvanını kazanan yetenekli bir balıkçıdır.\" \"Aslında eskiden yarı zamanlı bir cirit atıcıydım...\" diye itiraf etti Giga-Mızraklı Zombi.</color>",
+            "info": "<size=36>Bitkilerinize aynı anda çok sayıda mızrak fırlatır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>270 + 7500 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Her biri bitkilerin mevcut Dayanıklılığının %20'sine (en az 60) eşit hasar veren 4 mızrak fırlatır.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Mızrak Hasarı x5.\n2. Artık minimum menzilin dışındaki rastgele bitkileri hedef alır.</color>"
         },
         {
             "theZombieType": 203,
-            "name": "<size=30>Gatling Cherry Newspaper Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"I'm getting old...\" Gatling Cherry Newspaper Zombie lamented while walking through the street. Despite containing his pressure, it was enough to keep both plants and zombies down. \"Only that guy can still inspire me to fight...\" he muttered as he put away the newspaper and ambled on.</color>",
-            "info": "<size=36>Deals immense damage.\n\n<color=black>Damage:</color><color=#4B0082>400 → 1000 (Enraged)</color>\n<color=black>Toughness: </color><color=#4B0082>1500 + 1500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Becomes temporarily invincible after its newspaper's broken, proceeding to shoot explosive cherries every 0.125 seconds.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now ignores plants when enraged.\n2. Now immune to status effects.</color>"
+            "name": "<size=30>Gatling Kirazlı Gazeteli Zombi",
+            "introduce": "<align=justified><size=36><color=black>\"Yaşlanıyorum...\" diye yakındı Gatling Kirazlı Gazeteli Zombi sokakta yürürken. Baskısını dizginlemesine rağmen, hem bitkileri hem de zombileri aşağıda tutmaya yetiyordu. \"Sadece o adam beni hala savaşmaya teşvik edebilir...\" diye mırıldandı, gazeteyi bir kenara koyup ağır ağır yürüdü.</color>",
+            "info": "<size=36>Muazzam hasar verir.\n\n<color=black>Hasar:</color><color=#4B0082>400 → 1000 (Öfkeli)</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>1500 + 1500 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Gazetesi parçalandıktan sonra geçici olarak yenilmez olur ve her 0.125 saniyede bir patlayıcı kiraz fırlatır.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Öfkelendiğinde artık bitkileri görmezden gelir.\n2. Artık durum etkilerine karşı bağışıklıdır.</color>"
         },
         {
             "theZombieType": 204,
-            "name": "Giga Football-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Stepping out of the shadows, the Giga Football-nut Zombie radiates power, coldness, and a sinister vibe. He adamantly keeps the secret of his strength to himself, asserting that only the darkest darkness can create a being as formidable as he. \"Where is my paint?\" Dr. Edgar asked, looking perplexed in his laboratory.</color>",
-            "info": "<size=36>An old friend? Maybe, perhaps we have met him before.\n\n<color=black>Damage: </color><color=#4B0082>100</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 12000 (Type 1)</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Plants bitten by Giga Football-nut Zombies and Giga Football Strikers cannot regenerate HP for 1 second.\n2. Plants bitten by Giga Football-nut Zombies and Giga Football Strikers receive triple the damage for 1 second.</color>"
+            "name": "Giga Futbol-Ceviz Zombisi",
+            "introduce": "<align=justified><size=36><color=black>Gölgelerden çıkan Giga Futbol-Ceviz Zombisi güç, soğukluk ve sinsi bir hava yayıyor. Gücünün sırrını kesinlikle kendisine saklıyor ve sadece en karanlık karanlığın kendisi kadar zorlu bir varlık yaratabileceğini iddia ediyor. Dr. Edgar laboratuvarında şaşkın bir halde \"Boyam nerede?\" diye sordu.</color>",
+            "info": "<size=36>Eski bir dost mu? Belki, belki de onunla daha önce tanışmışızdır.\n\n<color=black>Hasar: </color><color=#4B0082>100</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>3000 + 12000 (Tip 1)</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Giga Futbol-Ceviz Zombileri ve Giga Futbol Forvetleri tarafından ısırılan bitkiler 1 saniye boyunca can (HP) yenileyemez.\n2. Giga Futbol-Ceviz Zombileri ve Giga Futbol Forvetleri tarafından ısırılan bitkiler 1 saniye boyunca üç kat hasar alır.</color>"
         },
         {
             "theZombieType": 205,
             "name": "Kirov Zomppelin",
-            "introduce": "<align=justified><size=36><color=black>Was that a huge flying object? No, it was actually a gigantic airship, featuring a sturdy shell and the ability to release a squadron of fighters. Even when destroyed, the airship could still wreak havoc on surrounding creatures, causing other zombies to keep their distance, fearing that a crash might send them to their demise.</color>",
-            "info": "<size=36>An aircraft carrier being developed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Summons a Kirov Drone into action every second. Crashlands upon death, dealing immense damage to plants on impact.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Zomppelins, Kirov Zomppelins and Skystrider Mechas now have 5x their movement speed and are immune to Blovers.\n2. Each Kirov Drone Toughness increased to 25000.</color>"
+            "introduce": "<align=justified><size=36><color=black>O devasa uçan bir nesne miydi? Hayır, aslında sağlam bir gövdeye ve bir avcı uçağı filosu salma yeteneğine sahip devasa bir zeplindi. Yok edildiğinde bile zeplin çevredeki varlıklara büyük zarar verebilir; bu da diğer zombilerin, bir kazanın onları ölüme göndermesinden korkarak mesafelerini korumalarına neden olur.</color>",
+            "info": "<size=36>Gfishtus Kolordusu tarafından geliştirilmekte olan bir uçak gemisi.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>Her saniye bir Kirov Dronu harekete geçirir. Öldüğünde çakılır ve çarpma anında bitkilere muazzam hasar verir.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Zomppelinler, Kirov Zomppelinler ve Skystrider Mekanikleri artık 5 kat hareket hızına sahip ve Esinti Çiçeklerine karşı bağışıklılar.\n2. Her Kirov Dronunun Dayanıklılığı 25000'e çıkarıldı.</color>"
         },
         {
             "theZombieType": 206,
-            "name": "Kirov Drone",
-            "introduce": "<align=justified><size=36><color=black>This is no ordinary aircraft; it is a special plane that has been compressed through water pressure. While the exact method of compression remains a mystery, its battlefield strength rivals that of conventional bombers.</color>",
-            "info": "<size=36>Kirov drones fly faster, releasing bombs over the plants they fly over.\n\n<color=black>Bomb Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and Blovers. Drops Jack-in-the-Box Bombs to the plants directly below every 3 seconds.</color>"
+            "name": "Kirov Dronu",
+            "introduce": "<align=justified><size=36><color=black>Bu sıradan bir uçak değil; su basıncıyla sıkıştırılmış özel bir uçaktır. Sıkıştırmanın kesin yöntemi bir gizem olarak kalsa da, savaş alanındaki gücü geleneksel bombardıman uçaklarıyla rekabet eder.</color>",
+            "info": "<size=36>Kirov dronları daha hızlı uçar ve üzerinden geçtikleri bitkilerin üzerine bombalar bırakır.\n\n<color=black>Bomba Hasarı: </color><color=#4B0082>1000</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>500</color>\n<color=black>Özellikler: </color><color=#4B0082>Serinliğe ve Esinti Çiçeklerine karşı bağışıklıdır. Her 3 saniyede bir doğrudan altındaki bitkilere Kutulu Bomba bırakır.</color>"
         },
         {
             "theZombieType": 207,
-            "name": "Superstar Zombie",
-            "introduce": "<align=justified><size=36><color=black>Superstar Zombie, a legendary idol in the zombie world, has extremely high standards for himself. After completing his studies at Edgar's Dance Academy, he mastered the Super Moonwalk, which was named \"The Sixth Wonder of the Zombie World,\" earning him a large fanbase.</color>",
-            "info": "<size=36>A fast-moving zombie that slides into your defense, a tough opponent to face.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Slips into the battlefield, reduces damage by 90% while sliding, then summons 4 Dancing Zombies.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Michael Zombies and Superstar Zombies now ignore plants when entering the lawn.\n2. Now summons 4 Super Dancing Zombies instead.</color>"
+            "name": "Süperstar Zombi",
+            "introduce": "<align=justified><size=36><color=black>Zombi dünyasında efsanevi bir idol olan Süperstar Zombi, kendisi için son derece yüksek standartlara sahiptir. Edgar'ın Dans Akademisi'ndeki çalışmalarını tamamladıktan sonra, \"Zombi Dünyasının Altıncı Harikası\" olarak adlandırılan ve ona büyük bir hayran kitlesi kazandıran Süper Ay Yürüyüşü'nde ustalaştı.</color>",
+            "info": "<size=36>Savunmanıza kayarak giren hızlı hareket eden bir zombi, yüzleşmesi zor bir rakip.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>Savaş alanına kayarak girer, kayarken hasarı %90 azaltır, ardından 4 Dansçı Zombi çağırır.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Michael Zombileri ve Süperstar Zombileri artık bahçeye girerken bitkileri görmezden gelir.\n2. Artık bunun yerine 4 Süper Dansçı Zombi çağırır.</color>"
         },
         {
             "theZombieType": 208,
-            "name": "Undying Wraith",
-            "introduce": "<align=justified><size=36><color=black>This monster survived the harshest conditions and possesses enormous strength. It avoids brains and roams the world in search of a secluded place.</color>",
-            "info": "<size=36>A wraith from a thousand years ago, with immense strength.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Damage: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Occasionally dashes forward 1.5 Tiles, dealing 500 damage to plants in its path and again when exiting. Upon death, deals 500 Jack-in-the-Box explosion damage to plants in a 3×3 area, excluding Pumpkin-protected plants.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion now deals physical damage (cannot be immunitized against).\n2. Dash CD reduced to 1/3, base Attack Damage x3.</color>"
+            "name": "Ölümsüz Hortlak",
+            "introduce": "<align=justified><size=36><color=black>Bu canavar en zorlu koşullarda hayatta kaldı ve muazzam bir güce sahip. Beyinlerden kaçınır ve dünyayı tenha bir yer arayışıyla dolaşır.</color>",
+            "info": "<size=36>Bin yıl öncesinden gelen, muazzam güce sahip bir hortlak.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Hasar: </color><color=#4B0082>500</color>\n<color=black>Özellikler: </color><color=#4B0082>Zaman zaman 1.5 kare ileri fırlar, yolundaki bitkilere 500 hasar verir ve çıkarken tekrar hasar verir. Öldüğünde, Kabak korumalı bitkiler hariç, 3x3 bir alandaki bitkilere 500 Kutulu patlama hasarı verir.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Ölüm anındaki patlama artık fiziksel hasar verir (bağışıklık kazanılamaz).\n2. Atılma bekleme süresi 1/3'e indirildi, temel Saldırı Hasarı x3.</color>"
         },
         {
             "theZombieType": 209,
-            "name": "Pogo King Jack-in-the-Box</size>",
-            "introduce": "<align=justified><size=36><color=black>\"What, this? Just fashion, my friend,\" Pogo King Jack-in-the-Box smirks whenever his appearance is brought up. But those who've known him long enough don't buy it. His look isn't just about style—it's a quiet, unspoken tribute to a love that once meant everything. Some trends fade, but some memories never do.</color></size>",
-            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while hopping, he'll explode and transform into a King Jack-in-the-Box Zombie.</color></size>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Pogo King Jack-in-the-Boxes have their charge time reduced to 0.75 Seconds.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Pogo King Clowns.</color>"
+            "name": "Pogo Kralı Kutuda Sürpriz</size>",
+            "introduce": "<align=justified><size=36><color=black>\"Ne, bu mu? Sadece moda, dostum,\" Pogo Kralı Kutuda Sürpriz, görünüşü gündeme geldiğinde sırıtır. Ama onu yeterince uzun süredir tanıyanlar buna kanmaz. Görünüşü sadece tarzla ilgili değil; bir zamanlar her şey demek olan bir aşka sessiz, dile getirilmemiş bir saygı duruşu. Bazı trendler solar ama bazı anılar asla solmaz.</color></size>",
+            "info": "<size=36>Bomba, pogo çubuğunda gizli.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>720 + 4400 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Pogo Kavun Zombisi'nin özelliklerine sahiptir. Zıplarken ölürse patlar ve bir Kral Kutulu Zombi'ye dönüşür.</color></size>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Ölüm anındaki patlama artık garantidir | Pogo Kavun Zombileri ve Pogo Kralı Kutuda Sürprizlerin şarj süresi 0.75 saniyeye indirildi.\n2. Patlamadan etkilenen Kutulu Sürpriz Zombileri Pogo Kralı Palyaçolara dönüşür.</color>"
         },
         {
             "theZombieType": 210,
-            "name": "Giga Mecha-nut</size>",
-            "introduce": "<align=justified><size=36><color=black>\"Fish balls? Mecha armor? That's all that matters,\" says Giga Mecha-nut. Sporting an impressive mechanical suit, he feels that's all he really needs.</color></size>",
-            "info": "<size=36>The new electric steam roller robot designed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Mecha-nut Zombies. Super fast. Drops a Giga Mecha-nut Fragment upon defeat.</color></size>"
+            "name": "Giga Mekanik-Ceviz</size>",
+            "introduce": "<align=justified><size=36><color=black>\"Balık köfteleri mi? Mekanik zırh mı? Önemli olan tek şey bu,\" diyor Giga Mekanik-Ceviz. Etkileyici bir mekanik giysi kuşanmış olarak, gerçekten ihtiyacı olanın tek şeyin bu olduğunu hissediyor.</color></size>",
+            "info": "<size=36>Gfishtus Kolordusu tarafından tasarlanan yeni elektrikli buharlı silindir robot.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>Mekanik-Ceviz Zombilerinin özelliklerine sahiptir. Süper hızlıdır. Yenildiğinde bir Giga Mekanik-Ceviz Parçası düşürür.</color></size>"
         },
         {
             "theZombieType": 211,
-            "name": "Terrestrial Sharkmarine</size>",
-            "introduce": "<align=justified><size=36><color=black>Why is it here? Did it emerge from the groud? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
-            "info": "<size=36>A failed example of a Sharkmarine test.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Sharkmarine, but on land and immobile.</color></size>"
+            "name": "Karada Köpekbalığı-marin</size>",
+            "introduce": "<align=justified><size=36><color=black>Neden burada? Yerden mi çıktı? Yoksa gökten mi düştü? Kimse gerçekten bilmiyor. Kesin olan şu ki, o yerinden oynamış toprak görünümlü şeyler kesinlikle kamuflaj.</color></size>",
+            "info": "<size=36>Başarısız bir Köpekbalığı-marin testi örneği.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>Köpekbalığı-marin, ama karada ve hareketsiz.</color></size>"
         },
         {
             "theZombieType": 212,
-            "name": "Abyssal Gargantuar",
-            "introduce": "<align=justified><size=36><color=black>By ancient writ, it is recorded that the abyssal obsidian armor may only be borne by a body tempered through trials of bitter frost and searing flame. When the kin of zombies art plunged into utmost peril, his visage may yet appear at the heart of the dreadest battlefield. 'Stir not great commotion, lest ye rouse the giant that slumbereth beneath the earth.' A warning to the plants.</color>",
-            "info": "<size=36>An ancient, eldritch and insidious threat.\n\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Provides a 90% damage reduction to all zombies on screen, spawns Abyssal Imps when he smashes the ground, and inherits other traits of the Armored Gargantuar.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Summons Dr. Zomboss on death.\n2. Spawns with a selected Mini-boss.</color>"
+            "name": "Dipsiz Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Kadim yazılarda, dipsiz obsidyen zırhın ancak acı dondurucu soğuk ve kavurucu alev denemeleriyle terbiye edilmiş bir beden tarafından taşınabileceği kayıtlıdır. Zombi soyu en büyük tehlikeye atıldığında, onun silüeti en korkunç savaş alanının kalbinde belirebilir. 'Büyük bir kargaşa çıkarmayın, yoksa yerin altında uyuyan devi uyandırırsınız.' Bitkilere bir uyarı.</color>",
+            "info": "<size=36>Kadim, tekinsiz ve sinsi bir tehdit.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>8000 + 24000 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Ekrandaki tüm zombilere %90 hasar azaltma sağlar, yere vurduğunda Dipsiz Cüceler çıkarır ve Zırhlı Gargantuar'ın diğer özelliklerine sahiptir.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Öldüğünde Dr. Zomboss çağırır.\n2. Seçili bir Mini-bölüm sonu canavarıyla birlikte belirir.</color>"
         },
         {
             "theZombieType": 213,
-            "name": "Abyssal Imp",
-            "introduce": "<align=justified><size=36><color=black>Blades whirling, wings flaring, Abyssal Imp delivered a death-defying stunt straight out of Hollytomb's next big hit, Jurassic Zombies. Critics called it \"a masterpiece of aerial choreography.\" The truth? He had been flung out by mistake and was just rolling with it. Literally.</color>",
-            "info": "<size=36>Abyssal Imp can easily infiltrate your defense.\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>Charges forward 2.7 Tiles on appearing, cannot be targeted during the charge but can be flung away by Utimates moves from Umbrellas.</color>"
+            "name": "Dipsiz Cüce",
+            "introduce": "<align=justified><size=36><color=black>Bıçaklar dönüyor, kanatlar açılıyor; Dipsiz Cüce, Hollytomb'un sıradaki büyük hiti Jurassic Zombies'ten fırlamış, ölüme meydan okuyan bir akrobasi sergiledi. Eleştirmenler buna \"havada koreografi şaheseri\" dedi. Gerçek mi? Yanlışlıkla fırlatılmıştı ve sadece akışına bırakıyordu. Kelimenin tam anlamıyla.</color>",
+            "info": "<size=36>Dipsiz Cüce savunmanıza kolayca sızabilir.\n\n<color=black>Hasar: </color><color=#4B0082>200</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>1500</color>\n<color=black>Özellikler: </color><color=#4B0082>Belirdiğinde 2.7 kare ileri hücum eder, hücum sırasında hedef alınamaz ancak Şemsiyelerin Özel Hareketleri ile savrulabilir.</color>"
         },
         {
             "theZombieType": 214,
-            "name": "<size=34>Gatling Explod-o-rider Zombie",
-            "introduce": "<align=justified><size=36><color=black>Gatling Explod-o-rider Zombie always wakes up in a terrible mood — especially when a whale riding colleague drags him to work. Fueled by rage, he's ready to blow away any plants in his path before heading back for a nap.</color>",
-            "info": "<size=36>Jumps into and demolishes from behind your defense by shooting explosive cherries!\n\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>Starts shooting explosive cherries every 0.375 seconds 3 seconds after entering your lawn.</color>"
+            "name": "<size=34>Gatling Patlar Binici Zombi",
+            "introduce": "<align=justified><size=36><color=black>Gatling Patlar Binici Zombi her zaman berbat bir ruh haliyle uyanır — özellikle de balina binen bir meslektaşı onu işe sürüklediğinde. Öfkeyle dolmuş bir halde, şekerleme yapmak için geri dönmeden önce yolundaki tüm bitkileri uçurmaya hazırdır.</color>",
+            "info": "<size=36>Patlayıcı kirazlar atarak savunmanızın arkasına atlar ve orayı yerle bir eder!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1500</color>\n<color=black>Özellikler: </color><color=#4B0082>Bahçenize girdikten 3 saniye sonra her 0.375 saniyede bir patlayıcı kiraz atmaya başlar.</color>"
         },
         {
             "theZombieType": 215,
-            "name": "<size=34>Diamond Mystery-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>！！！</color>",
-            "info": "<size=36>Randomly spawns one of your worst nightmares, or a blessing perhaps?.\n\n<color=black>Toughness: </color><color=#4B0082>20000 + 1100 (Type 1)</color>"
+            "name": "<size=34>Elmas Gizemli Kutu Zombisi",
+            "introduce": "<align=justified><size=36><color=black>!!!</color>",
+            "info": "<size=36>Rastgele en kötü kabuslarınızdan birini çıkarır, ya da belki bir lütuf?\n\n<color=black>Dayanıklılık: </color><color=#4B0082>20000 + 1100 (Tip 1)</color>"
         },
         {
             "theZombieType": 216,
-            "name": "Trident Hwacha",
-            "introduce": "<align=justified><size=36><color=black>The Trident Hwacha Zombie is a \"perfectionist\" of the undead. He thinks his vehicle is a bit shabby, so he starts loading it up with tridents. But true to his perfectionist nature, he won't stop until every slot is filled.</color>",
-            "info": "<size=36>Launches a salvo of tridents at your defense each volley!\n\n<color=black>Toughness: </color><color=#4B0082>1350 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Each attack launches 4 tridents in quick succession, then after a brief pause, he fires another 4 tridents, for a total of two volleys. The tridents don't target plants directly; instead, they are launched at a fixed angle and speed, dealing damage to any plants they hit.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Immune to status effects, now fires x4 the amount of Tridents.\n2. Can now launch Tridents from off-screen.</color>"
+            "name": "Mızrak Hwacha",
+            "introduce": "<align=justified><size=36><color=black>Mızrak Hwacha Zombisi, ölümsüzlerin bir \"mükemmeliyetçisidir\". Aracının biraz hırpani olduğunu düşünüyor, bu yüzden onu mızraklarla doldurmaya başlıyor. Ama mükemmeliyetçi doğasına sadık kalarak, her yuva dolana kadar durmayacak.</color>",
+            "info": "<size=36>Her yaylım ateşinde savunmanıza bir mızrak salvosu fırlatır!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1350 + 4400 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Her saldırıda hızlıca 4 mızrak fırlatır, ardından kısa bir duraklamadan sonra toplam iki salvo için bir 4 mızrak daha fırlatır. Mızraklar bitkileri doğrudan hedef almaz; bunun yerine sabit bir açı ve hızla fırlatılır, çarptıkları tüm bitkilere hasar verir.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Durum etkilerine karşı bağışıklıdır, artık 4 kat mızrak fırlatır.\n2. Artık ekran dışından mızrak fırlatabilir.</color>"
         },
         {
             "theZombieType": 217,
-            "name": "Super Dancing Zombie",
-            "introduce": "<align=justified><size=36><color=black>The zombies cheer as Super Dancing Zombie defies gravity yet again. \"Oh, you know, just talent,\" he winks. But behind that effortless showmanship? He's clocking in two shifts a day, training until even his undead legs ache. The secret to greatness? \"Twice the grind, twice the air time!\"</color>",
-            "info": "<size=36>Can jump over two tiles.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>Traits: </color><color=#4B0082>Inherits all other traits from Michael Zombie.</color>"
+            "name": "Süper Dansçı Zombi",
+            "introduce": "<align=justified><size=36><color=black>Zombiler, Süper Dansçı Zombi bir kez daha yerçekimine meydan okurken tezahürat yapıyor. \"Oh, bilirsin, sadece yetenek,\" diye göz kırpıyor. Ama o zahmetsiz şovmenliğin arkasında mı? Günde iki vites çalışıyor, ölümsüz bacakları ağrıyana kadar antrenman yapıyor. Başarının sırrı mı? \"İki kat hırs, iki kat hava süresi!\"</color>",
+            "info": "<size=36>İki karenin üzerinden atlayabilir.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>3000</color>\n<color=black>Özellikler: </color><color=#4B0082>Michael Zombi'nin diğer tüm özelliklerine sahiptir.</color>"
         },
         {
             "theZombieType": 218,
             "name": "<color=#4B0082><u>Pozeidon</u>",
-            "introduce": "<align=justified><size=36><color=black>The sea splits apart as Pozeidon ascends, water cascading from his mighty form. His trident, crackling with the fury of the deep, is already poised to strike. \"The tides are mine to command,\" he roars, his voice carrying over the howling winds. With a swift motion, the weapon hurtles forward, crashing into enemy lines like a tidal wave. \"Run if you wish—but no one outruns the sea.\"</color>",
-            "info": "<size=36>Throws his divine trident at your defense!\n\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in Purgatory mode after selecting its corresponding modifier.\n<color=black>•</color> Immune to being hypnotized or devoured.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Summons Giga-trident Zombies on all lanes upon its appearance.\n<color=black>•</color> While present, all Giga-trident Zombies will continuously attack. Buffs all tridents to deal 5 times more damage than normal.\n<color=black>•</color> His tridents are thrown at a fixed angle, instantly killing most plants. It can still be redirected to plants that mitigate damage.\n<color=black>•</color>When it lands, blocks upto a maximum of 300 projectiles. If it's not destroyed, it will explode after 30 seconds and kill all nearby plants.</color>"
+            "introduce": "<align=justified><size=36><color=black>Deniz ikiye bölünürken Pozeidon yükseliyor, görkemli bedeninden sular süzülüyor. Derinlerin öfkesiyle çatırtıyan mızrağı şimdiden saldırmaya hazır. \"Dalgalar benim emrimde,\" diye kükrüyor, sesi uğuldayan rüzgarların üzerinde yankılanıyor. Hızlı bir hareketle silah ileri atılıyor, bir gelgit dalgası gibi düşman hatlarına çarpıyor. \"İsterseniz kaçın—ama kimse denizden kaçamaz.\"</color>",
+            "info": "<size=36>Savunmanıza ilahi mızrağını fırlatır!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>8000 + 24000 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Sadece karşılık gelen düzenleyici seçildikten sonra Araf (Purgatory) modunda görünür.\n<color=black>•</color> Hipnotize edilmeye veya yutulmaya karşı bağışıklıdır.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 5000 hasar alır.\n<color=black>•</color> Göründüğünde tüm şeritlerde Giga-Mızraklı Zombiler çağırır.\n<color=black>•</color> O varken tüm Giga-Mızraklı Zombiler sürekli saldıracaktır. Tüm mızrakları normalden 5 kat daha fazla hasar verecek şekilde güçlendirir.\n<color=black>•</color> Mızrakları sabit bir açıyla fırlatılır ve çoğu bitkiyi anında öldürür. Yine de hasarı hafifleten bitkilere yönlendirilebilir.\n<color=black>•</color> Yere indiğinde en fazla 300 mermiyi engeller. Yok edilmezse 30 saniye sonra patlar ve yakındaki tüm bitkileri öldürür.</color>"
         },
         {
             "theZombieType": 219,
-            "name": "<color=#4B0082><u>Ultra Mecha-nut</u>",
-            "introduce": "<align=justified><size=36><color=black>The Ultra Mecha-Nut was meant to be a smaller, precise Giga Mecha-Nut, but a blueprint mix-up made it much bigger. The engineers noticed too late—so they just <i>rolled</i> with it.</color>",
-            "info": "<size=36>Secret Artifact of the Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>64000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in Purgatory mode after selecting its corresponding modifier.\n<color=black>•</color> Immune to being hypnotized or devoured.\n<color=black>•</color> Takes a maximum of 100 damage per hit before damage reduction calculations.\n<color=black>•</color> The Ultra Mecha-Nut Zombie soaks the damage for all zombies (except Mystery-box Zombies).</color>"
+            "name": "<color=#4B0082><u>Ultra Mekanik-Ceviz</u>",
+            "introduce": "<align=justified><size=36><color=black>Ultra Mekanik-Ceviz'in daha küçük, hassas bir Giga Mekanik-Ceviz olması planlanmıştı ancak bir plan karışıklığı onu çok daha büyük yaptı. Mühendisler bunu çok geç fark etti—onlar da durumu <i>yuvarına</i> bıraktılar.</color>",
+            "info": "<size=36>Gfishtus Kolordusu'nun Gizli Yapıtı.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>64000</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Sadece karşılık gelen düzenleyici seçildikten sonra Araf modunda görünür.\n<color=black>•</color> Hipnotize edilmeye veya yutulmaya karşı bağışıklıdır.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 100 hasar alır.\n<color=black>•</color> Ultra Mekanik-Ceviz Zombisi tüm zombiler için (Gizemli Kutu Zombileri hariç) hasarı üstlenir.</color>"
         },
         {
             "theZombieType": 220,
-            "name": "<color=#4B0082><u>Giga Football Striker</u>",
-            "introduce": "<align=justified><size=36><color=black>There was no escaping him. Giga Football Striker moved with unnatural precision, his unblinking eyes scanning for the next victim. He wasn't just a destroyer—he was a harvester, a nightmare that took more than just life. Every plant he touched became part of him, twisted and corrupted. And as he advanced, his presence whispered the same terrifying truth: \"No matter where you run, I will find you.\"</color>",
-            "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in Purgatory mode after selecting its corresponding modifier.\n<color=black>•</color> Immune to being knocked back, hypnotized or devoured.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Disables plant healing, converting it to 0.1x damage against him.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3 seconds, it doubles its damage(stackable), restores 6000 armor health, and increases speed by 0.3 (max 3)(initial fixed speed range for zombies is 0.9 ~ 1.8).</color>"
+            "name": "<color=#4B0082><u>Giga Futbol Forveti</u>",
+            "introduce": "<align=justified><size=36><color=black>Ondan kaçış yoktu. Giga Futbol Forveti doğal olmayan bir hassasiyetle hareket ediyor, gözlerini kırpmadan sıradaki kurbanını arıyordu. O sadece bir yok edici değildi—bir hasatçıydı, sadece candan fazlasını alan bir kabustu. Dokunduğu her bitki onun bir parçası haline geliyor, bükülüyor ve yozlaşıyordu. Ve o ilerledikçe varlığı aynı korkunç gerçeği fısıldıyordu: \"Nereye kaçarsan kaç, seni bulacağım.\"</color>",
+            "info": "<size=36>Giga Futbol Forveti savunmanızı kolayca yıkabilir!\n\n<color=black>Hasar: </color><color=#4B0082>200</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>8000 + 24000 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Sadece karşılık gelen düzenleyici seçildikten sonra Araf modunda görünür.\n<color=black>•</color> Geri itilmeye, hipnotize edilmeye veya yutulmaya karşı bağışıklıdır.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 5000 hasar alır.\n<color=black>•</color> Bitki iyileştirmesini devre dışı bırakır ve bunu kendisine karşı 0.1 kat hasara dönüştürür.\n<color=black>•</color> Savunma amaçlı olmayan bitkileri ısırdığında anında öldürür ve onları Giga Futbol-Ceviz Zombilerine dönüştürür.\n<color=black>•</color> Her 3 saniyede bir hasarını ikiye katlar (birikir), 6000 zırh canı yeniler ve hızını 0.3 artırır (maks 3) (zombiler için başlangıç sabit hız aralığı 0.9 ~ 1.8'dir).</color>"
         },
         {
             "theZombieType": 221,
-            "name": "<color=#4B0082><u>Skystrider Mecha</u>",
-            "introduce": "<align=justified><size=36><color=black>The battlefield trembled as Skystrider Mecha rolled in, its mechanical frame gleaming under the dim light. \"Engaging ground assault,\" it announced, crushing plants like twigs. But the true horror began when it took to the skies. \"Aerial dominance achieved,\" it declared, summoning Kirov Zomppelins and dropping bombs with surgical precision. \"Your defenses are obsolete.\"</color>",
-            "info": "<size=36>Lift off! We have a lift off!\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in Purgatory mode after selecting its corresponding modifier.\n<color=black>•</color> Immune to being knocked back, hypnotized, devoured, or downed by Magnethorn's special traits.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> On land it charges forward, crushing plants like a Zomboni.\n<color=black>•</color> At 2/3 Toughness, it briefly becomes invincible then takes off, summoning a Kirov Zomppelin every 3 seconds and dropping Jack-in-the-Box bombs.</color>"
+            "name": "<color=#4B0082><u>Gökgezgin Mekanik</u>",
+            "introduce": "<align=justified><size=36><color=black>Mekanik iskeleti loş ışıkta parlarken Gökgezgin Mekanik içeri süzüldüğünde savaş alanı titredi. \"Yer saldırısı başlatılıyor,\" diye duyurdu, bitkileri ince dallar gibi ezerek. Ama asıl dehşet göklere yükseldiğinde başladı. \"Hava hakimiyeti sağlandı,\" diye ilan etti, Kirov Zomppelinleri çağırırken ve cerrahi hassasiyetle bombalar bırakırken. \"Savunmalarınız artık hükümsüz.\"</color>",
+            "info": "<size=36>Kalkış! Kalkış gerçekleşti!\n\n<color=black>Dayanıklılık: </color><color=#4B0082>12000</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Sadece karşılık gelen düzenleyici seçildikten sonra Araf modunda görünür.\n<color=black>•</color> Geri itilmeye, hipnotize edilmeye, yutulmaya veya Mıknatıs Diken'in özel yetenekleriyle düşürülmeye karşı bağışıklıdır.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 5000 hasar alır.\n<color=black>•</color> Karada bir Zomboni gibi bitkileri ezerek ileri atılır.\n<color=black>•</color> 2/3 Dayanıklılıkta kısa süreliğine yenilmez olur, ardından havalanır; her 3 saniyede bir Kirov Zomppelin çağırır ve Kutulu bombalar bırakır.</color>"
         },
         {
             "theZombieType": 222,
-            "name": "<color=#4B0082><u>Jackson Worldwide</u>",
-            "introduce": "<align=justified><size=36><color=black>The spotlight flickered as Jackson Worldwide stepped forward, his grin sharp and his voice low. \"You think this is a game?\" he said, snapping his fingers. Superstar Zombies materialized, their instruments screeching. \"This garden's my stage now. Let's see how long you last.\"",
-            "info": "<size=36>Jackson Worldwide has dedicated its entire life to the passion of stage performance and touring.\n\n<color=black>Toughness: </color><color=#4B0082>32000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in Purgatory mode after selecting its corresponding modifier.\n<color=black>•</color> Immune to being hypnotized or devoured.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Grants cryo-immunity to zombies nearby and summons 4 Superstar Zombies periodically.\n<color=black>•</color> Spawns 2 Michael Zombonis and a Superstar Zombie upon death.</color>"
+            "name": "<color=#4B0082><u>Dünya Çapında Jackson</u>",
+            "introduce": "<align=justified><size=36><color=black>Dünya Çapında Jackson öne çıktığında spot ışığı titredi, gülümsemesi keskin ve sesi kısıktı. \"Bunun bir oyun mu olduğunu sanıyorsun?\" dedi parmaklarını şıklatarak. Süperstar Zombiler enstrümanları çığlık atarak belirdi. \"Bu bahçe artık benim sahnem. Bakalım ne kadar dayanabileceksiniz.\"</color>",
+            "info": "<size=36>Dünya Çapında Jackson tüm hayatını sahne performansı ve turne tutkusuna adamıştır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>32000</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Sadece karşılık gelen düzenleyici seçildikten sonra Araf modunda görünür.\n<color=black>•</color> Hipnotize edilmeye veya yutulmaya karşı bağışıklıdır.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 5000 hasar alır.\n<color=black>•</color> Yakındaki zombilere buzlanma bağışıklığı sağlar ve periyodik olarak 4 Süperstar Zombi çağırır.\n<color=black>•</color> Öldüğünde 2 Michael Zomboni ve bir Süperstar Zombi çıkarır.</color>"
         },
         {
             "theZombieType": 223,
-            "name": "<color=#4B0082><u>Professor Cherryz</u>",
-            "introduce": "<align=justified><size=36><color=black>Professor Cherryz burst onto the scene, his hair wild and his newspaper clutched like a lifeline. \"CHAOS! GLORIOUS CHAOS!\" he screamed, flailing his arms. \"Do you know how many cherries it takes to blow up a garden? Neither do I, but let's find out together!\" With a maniacal laugh, he unleashed a storm of explosive cherries, leaving nothing but destruction in his wake.</color>",
-            "info": "<size=36>Prof. Cherryz is obsessed with the studying of scientific artefacts, especially explosives; rumors has it that Cherrizilla was originally his creation...\n\n<color=black>Toughness: </color><color=#4B0082>1200 + 12000 (Type 1) + 1500 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in Purgatory mode after selecting its corresponding modifier.\n<color=black>•</color> Immune to being hypnotized or devoured.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Invulnerable until his newspaper is destroyed. Upon losing it, he briefly becomes invincible and converts up to 30 zombies into enraged Cherryshooter Newspaper Zombies. He then fires a cherry barrage, catapulting cherries to the last column while accelerating forward.\n<color=black>•</color> He stops only upon encountering Spikeweed, which instantly destroys his newspaper.</color>"
+            "name": "<color=#4B0082><u>Profesör Kirazz</u>",
+            "introduce": "<align=justified><size=36><color=black>Profesör Kirazz sahneye fırladı, saçları darmadağın ve gazetesi bir can simidi gibi sımsıkı tutulmuş halde. \"KAOS! MUHTEŞEM KAOS!\" diye çığlık attı kollarını savurarak. \"Bir bahçeyi havaya uçurmak için kaç kiraz gerektiğini biliyor musunuz? Ben de bilmiyorum ama hadi birlikte öğrenelim!\" Manyakça bir kahkahayla arkasında yıkımdan başka bir şey bırakmayarak patlayıcı bir kiraz fırtınası kopardı.</color>",
+            "info": "<size=36>Prof. Kirazz, bilimsel eserleri, özellikle de patlayıcıları incelemeye takıntılıdır; söylentilere göre Cherrizilla aslında onun icadıydı...\n\n<color=black>Dayanıklılık: </color><color=#4B0082>1200 + 12000 (Tip 1) + 1500 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Sadece karşılık gelen düzenleyici seçildikten sonra Araf modunda görünür.\n<color=black>•</color> Hipnotize edilmeye veya yutulmaya karşı bağışıklıdır.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 5000 hasar alır.\n<color=black>•</color> Gazetesi yok edilene kadar zarar görmez. Onu kaybettiğinde kısa süreliğine yenilmez olur ve 30'a kadar zombiyi öfkeli Kiraz Atıcı Gazeteli Zombilere dönüştürür. Ardından ileri doğru hızlanırken son sütuna kirazlar fırlatarak bir kiraz yaylım ateşi açar.\n<color=black>•</color> Sadece gazetesini anında yok eden Dikenli Ot ile karşılaştığında durur.</color>"
         },
         {
             "theZombieType": 224,
-            "name": "<color=#4B0082><u>Queen Jill-in-the-Box</u>",
-            "introduce": "<align=justified><size=36><color=black>The Queen's gaze alone is enough to make her servants tremble. None dare defy her. But power is not her only delight—she loves to give. Within her ornate gift box, toys and trinkets await young hands... along with bombs primed to surprise. And oh, how she loves surprises.</color>",
-            "info": "<size=36>Queen Jill-in-the-Box is very keen on creating \"explosive scenes.\"\n\n<color=black>Toughness: </color><color=#4B0082>32000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in Purgatory mode after selecting its corresponding modifier.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Immune to being hypnotized or devoured.\n<color=black>•</color> Can crush plants upon touching them.\n<color=black>•</color> Recovers 3000 Toughness every time it is hit by a clown explosion.\n<color=black>•</color>Explodes on death, dealing physical damage.\n<color=black>•</color> Emerges from its box at regular intervals, displaying one of the following effects at random:\n1. Summons King Jack-in-the-Box zombies from the 5th column onwards.\n2. Summons Pogo King Jack-in-the-Box zombies from the 5th column onwards.\n3. Release an explosion on all the tiles of the column she's in, dealing physical damage.</color>"
+            "name": "<color=#4B0082><u>Kraliçe Jill Kutuda</u>",
+            "introduce": "<align=justified><size=36><color=black>Kraliçe'nin tek bir bakışı bile hizmetçilerini titretmeye yeter. Kimse ona karşı gelmeye cesaret edemez. Ama güç onun tek zevki değil—vermeyi de seviyor. Süslü hediye kutusunun içinde oyuncaklar ve ıvır zıvırlar genç elleri bekliyor... şaşırtmaya hazır bombalarla birlikte. Ve ah, sürprizleri ne kadar da sever.</color>",
+            "info": "<size=36>Kraliçe Jill Kutuda \"patlayıcı sahneler\" yaratmaya çok meraklıdır.\n\n<color=black>Dayanıklılık: </color><color=#4B0082>32000</color>\n<color=black>Özellikler: </color><color=#4B0082>\n<color=black>•</color> Sadece karşılık gelen düzenleyici seçildikten sonra Araf modunda görünür.\n<color=black>•</color> Hasar azaltma hesaplamalarından önce vuruş başına maksimum 5000 hasar alır.\n<color=black>•</color> Hipnotize edilmeye veya yutulmaya karşı bağışıklıdır.\n<color=black>•</color> Bitkilere dokunduğunda onları ezebilir.\n<color=black>•</color> Bir palyaço patlamasından her darbe aldığında 3000 Dayanıklılık yeniler.\n<color=black>•</color> Öldüğünde patlayarak fiziksel hasar verir.\n<color=black>•</color> Düzenli aralıklarla kutusundan çıkarak şu etkilerden birini rastgele sergiler:\n1. 5. sütundan itibaren Kral Kutulu Zombiler çağırır.\n2. 5. sütundan itibaren Pogo Kralı Kutulu Zombiler çağırır.\n3. Bulunduğu sütunun tüm karelerinde fiziksel hasar veren bir patlama yapar.</color>"
         },
         {
             "theZombieType": 225,
-            "name": "Giga Buckshot Commando",
-            "introduce": "<align=justified><size=36><color=black>Giga Buckshot Commando is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
-            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80 / 0.1 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires buckshot peas at your defense at a ridiculous rate, these can knock back hypnotized zombies. </color>"
+            "name": "Giga Saçma Komandosu",
+            "introduce": "<align=justified><size=36><color=black>Giga Saçma Komandosu demirden yapılmış bir savaşçıdır; demir vücut, demir irade, demir mermiler ve meslektaşlarından gelen şikayetlere karşı ironik bir tavır. Mermileri tarafından geri itilen zombilerin sadece kendisinin geçtiği türden bir demir arıtma eğitiminden yoksun olduklarına yürekten inanıyor.</color>",
+            "info": "<size=36>Durdurulamaz bir savaşçı. Korkusuz ve eşsiz.\n\n<color=black>Hasar: </color><color=#4B0082>80 / 0.1 Saniye</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>3000 + 3000 (Tip 1)</color>\n<color=black>Özellikler: </color><color=#4B0082>Geri itilmelere karşı bağışıklıdır. Savunmanıza inanılmaz bir hızla saçma bezelyeler fırlatır, bunlar hipnotize edilmiş zombileri geri itebilir.</color>"
         },
         {
             "theZombieType": 226,
-            "name": "Alpha Assassin Squad",
-            "introduce": "<align=justified><size=36><color=black>The Alpha Assassin Squad moves like shadows, striking faster than a breath and leaving no trace behind—except for the occasional zombie body, of course. They never miss a target, and they never leave anyone alive to tell the tale.</color>",
-            "info": "<size=36>Typically operating in pairs, with elite members deploying as a full squad when necessary.\n\n<color=black>Damage: </color><color=#4B0082>500 x 2</color>\n<color=black>Toughness: </color><color=#4B0082>6000 + 6000 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to being hypnotized. Usually appear in pairs. When appearing as a miniboss, 5 spawn in one lane at once, with their health increased by 5x. If they take fatal damage while any member of the group is still alive, they become incapacitated. Otherwise, the whole squad dies simultaneously. While incapacitated, they're immune to damage and knockback (only for the first occasion), block projectiles, but won't be targeted by plants. After 10 seconds of incapacitation, they revive with full health, charge forward 2.5 tiles, dealing 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion. If killed by Chompers or other insta-kill methods, both they and their squad immediately perish.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now always invincible when incapacitated.\n2. Can now appear as a Mini-boss.</color>"
+            "name": "Alfa Suikastçı Mangası",
+            "introduce": "<align=justified><size=36><color=black>Alfa Suikastçı Mangası gölgeler gibi hareket eder, nefesten daha hızlı saldırır ve arkalarında hiçbir iz bırakmaz—elbette arada bir zombi cesedi hariç. Bir hedefi asla ıskalamazlar ve hikayeyi anlatacak kimseyi asla hayatta bırakmazlar.</color>",
+            "info": "<size=36>Tipik olarak çiftler halinde çalışırlar, gerektiğinde seçkin üyeler tam bir manga olarak konuşlandırılır.\n\n<color=black>Hasar: </color><color=#4B0082>500 x 2</color>\n<color=black>Dayanıklılık: </color><color=#4B0082>6000 + 6000 (Tip 2)</color>\n<color=black>Özellikler: </color><color=#4B0082>Hipnotize edilmeye karşı bağışıklıdır. Genellikle çiftler halinde görünürler. Bir mini-patron olarak göründüklerinde, bir şeritte aynı anda 5 tanesi belirir ve sağlıkları 5 kat artar. Grubun herhangi bir üyesi hayattayken ölümcül hasar alırlarsa iş göremez hale gelirler. Aksi takdirde, tüm manga aynı anda ölür. İş göremez haldeyken hasara ve geri itilmeye bağışıklıdırlar (sadece ilk olay için), mermileri engellerler ancak bitkiler tarafından hedef alınmazlar. 10 saniyelik iş göremezlikten sonra tam sağlıkla dirilirler, 2.5 kare ileri atılırlar, çarptıkları tüm bitkilere 500 hasar verirler ve bir Kutulu Patlama tetiklerler. Çomparlar (Chompers) veya diğer anında öldürme yöntemleriyle öldürülürlerse hem kendileri hem de mangaları anında yok olur.</color>\n<color=black>Odyssey Düzenleyicileri:\n</color><color=#4B0082>1. Artık iş göremezken her zaman yenilmezdir.\n2. Artık bir Mini-bölüm sonu canavarı olarak görünebilir.</color>"
         }
     ]
 }
