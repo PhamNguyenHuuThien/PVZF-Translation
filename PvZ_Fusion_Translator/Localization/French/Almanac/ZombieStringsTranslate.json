@@ -171,8 +171,8 @@
         {
             "theZombieType": 29,
             "name": "Zombie Seau-licopter",
-            "introduce": "<size=34><color=black>\"Amis, connaissiez-vous le dirigeable de Berlin ? Il a inspiré mon design...\" Tous les zombies veulent se cacher de Buckecopter Zombie, non seulement parce qu'il parle trop du dirigeable, mais aussi car le bruit de l'hélice de son ballon est insupportable.</color>",
-            "info": "<size=34>Buckecopter Zombie n'a pas peur de Troufle !\n\n<color=black>Robustesse : </color><color=#4B0082>270+2200+500</color>\n<color=black>Spécial : </color><color=#4B0082>L'hélice sur le dessus peut compenser les vents de Troufle.</color>"
+            "introduce": "<size=34><color=black>\"Amis, connaissiez-vous le dirigeable de Berlin ? Il a inspiré mon design...\" Tous les zombies veulent se cacher du Zombie Seau-licopter, non seulement parce qu'il parle trop du dirigeable, mais aussi car le bruit de l'hélice de son ballon est insupportable.</color>",
+            "info": "<size=34>Zombie Seau-licopter n'a pas peur de Troufle !\n\n<color=black>Robustesse : </color><color=#4B0082>270+2200+500</color>\n<color=black>Spécial : </color><color=#4B0082>L'hélice sur le dessus peut compenser les vents de Troufle.</color>"
         },
         {
             "theZombieType": 30,
@@ -183,7 +183,7 @@
         {
             "theZombieType": 31,
             "name": "Zombie Catapulte",
-            "introduce": "<size=36><color=black>Personne ne sait comment Catapult Zombie parvient à lancer avec une telle précision, mais une chose est sûre : si vous le voyez, couvrez-vous rapidement la tête !</color>",
+            "introduce": "<size=36><color=black>Personne ne sait comment Zombie Catapult parvient à lancer avec une telle précision, mais une chose est sûre : si vous le voyez, couvrez-vous rapidement la tête !</color>",
             "info": "<size=36>Catapulte des ballons de basket pour attaquer vos plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>850</color>\n<color=black>Spécial : </color><color=#4B0082>Lance des ballons de basket qui infligent 60 dégâts.</color>"
         },
         {
@@ -236,9 +236,9 @@
         },
         {
             "theZombieType": 40,
-            "name": "Zombie Mecha-bowling",
-            "introduce": "<taille=32>",
-            "info": "<size=29.5>Une boule de bowling qui roule du côté des zombies.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Change de direction en heurtant les plantes, accélère dans les pentes. Écrase les plantes ayant moins de 1 000 points de vie, inflige 1 000 dégâts aux plantes les plus résistantes et ralentit après avoir tourné. Peut être arrêté par Umbrella-fusions. Génère 5 Diablotins à la mort.</color>\n<color=black>Gouttes : </color><color=#4B0082>1/3 de chance d'obtenir une boule de glace, une boule de feu ou un fragment de Mecha.</color>\n\n<color=black>Les balles écrasent les plantes, bloquent jusqu'à 30 balles ou durent 30 secondes. Peut être contré par des fusions de plantes basées sur la glace et le feu.</color>"
+            "name": "Noix-mecha Zombie",
+            "introduce": "<align=justified><size=36><color=black>La Noix-mecha Zombie n’a pas de temps à perdre pour les bavardages — littéralement. À chaque virage, collision et sprint propulsé par la pente, tout est une question d’élan.\"Faut continuer à rouler, faut continuer à écraser\" marmonne-t-il d’une voix métallique et robotique, tandis que de la vapeur s’échappe au niveau des vis. Les plantes assez malchanceuses pour se trouver sur son passage ? Écrasées. Mais même les machines ont leurs limites — lorsqu’il finit par s’immobiliser en grinçant, les Diablotins à l’intérieur jaillissent, prêts à reprendre le combat là où leur forteresse roulante s’est arrêtée.</color></size>",
+            "info": "<size=36>Une boule de bowling roulante du côté des zombies.\n\n<color=black>Robustesse: </color><color=#4B0082>1350</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Change de ligne lorsqu’il heurte des plantes et accélère dans les pentes. Ralentit après avoir changé de ligne.\n<color=black>•</color>Écrase les plantes ayant une Résistance inférieure ou égale à 1000, et inflige 1000 dégâts aux plantes plus Robuste.\n<color=black>•</color> Fait apparaître 5 Diablotins à sa mort.\n<color=black>•</color> A des probabilités égales de lâcher une boule de glace, une boule de feu ou un Fragment Mécha.\n<color=black>•</color>Les boules peuvent écraser les plantes, bloquer jusqu’à 30 projectiles et durent 30 secondes. Peuvent être contrées par des fusions de plantes basées sur la glace ou le feu.\n<color=black>Faiblesse: </color><color=#4B0082>Fusions d'Ombrelle</color>"
         },
         {
             "theZombieType": 100,
@@ -506,9 +506,9 @@
         },
         {
             "theZombieType": 47,
-            "name": "Zombie Yéti",
-            "introduce": "<size=36>",
-            "info": "<size=36>Les zombies Yeti peuvent parfois s'enfuir.\n\n<color=black>Résistance : </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Suspends/gele les plantes dans une zone de 3x3 autour de lui.</color>"
+            "name": "Yéti Zombie",
+            "introduce": "<align=justified><size=36><color=black>De nombreux détails concernant le Zombie Yéti restent enveloppés de mystère. Son passé ? Classifié. Ses motivations ? Inconnues. Les seules informations enregistrées ? Son nom, sa date de naissance, son numéro de sécurité sociale, ses formations, son parcours professionnel… et une passion inébranlable pour les sandwichs au rôti de bœuf.",
+            "info": "<size=36>Les zombies Yeti peuvent parfois s'enfuir.\n\n<color=black>Robustesse: </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Suspend/gel les plantes dans une zone de 3×3 autour de lui. Jalapeño, Torche et Champi-glace sont immunisés contre cet effet. Peut transporter sur lui une pièce de puzzle dans le mode Odyssey : Évolué.</color>"
         },
         {
             "theZombieType": 48,
