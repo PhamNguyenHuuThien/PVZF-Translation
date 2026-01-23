@@ -576,6 +576,27 @@
       "info": "<size=36>Rối loạn không-thời gian, sự kết hợp giữa 2 dạng.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Phiên bản giới hạn của Thời Không Thần Hồ Đào\n<color=#4A2900>Điều Kiện Sử Dụng: Chế độ Du Lịch\n<color=#3D1400>Máu: </color><color=red>16000</color>.\n<color=#3D1400>Khả Năng:<color=red> \n<color=black>•</color><color=red> Thừa hượng mọi khả năng và buff của Thời Không Thần Hồ Đào.\n<color=black>•</color> Có thể dùng Óc Chó để ghép lại thành Thời Không Thần Hồ Đào.\n<color=black>•</color> Sau khi nhận 2000 sát thương thì sẽ trở về trạng thái 3 giây trước đó và bất tử trong 2 giây.\n<color=black>•</color> Khi bị Zombie cắn, Zombie đó sẽ bị bơ trong 2 giây, và có thể dịch chuyển Zombie về phía bên phải sân mỗi 3 giây.</color>",
       "cost": "\n<size=36><color=#3D1400>Chỉ xuất hiện với tỉ lệ 2% khi ghép Thời Không Thần Hồ Đào</color>"
     },
+    {
+      "seedType": 1944,
+      "name": "Nhật Thực Bạch Cải",
+      "introduce": "<align=justified><size=36><color=#3D1400>Sự sống và cái chết trong từng giây tích tắc. Nhân loại bám lấy nỗi nhớ đã đi qua. Liệu họ có bao giờ trốn thoát khỏi xiềng xích của thời gian? Chỉ có thời gian mới có thể trả lời....</color></color>\n\n<size=36><color=#3D1400>Chỉ xuất hiện với tỉ lệ 2% khi ghép Thái Dương Bạch Cải</color>",
+      "info": "<size=36>Kẻ mang lại sự tận thế của vạn vật.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Phiên bản giới hạn của Thời Không Thần Hồ Đào\n<color=#4A2900>Điều Kiện Sử Dụng: Chế độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300*5/2 giây</color>.\n<color=#3D1400>Khả Năng:<color=red> \n<color=black>•</color><color=red> Thừa hượng mọi khả năng và buff của Thái Dương Bạch Cải.\n<color=black>•</color> Có thể dùng Hoa Hướng Dương để ghép lại thành Thái Dương Bạch Cải.\n<color=black>•</color> Mỗi 30 giây sẽ tạo ra Nhật Thực; Nhật Thực sẽ thay thế cho Mặt Trời Nhỏ và tồn tại trong 15 giây. Khi Nhật Thực trên sân, toàn bộ cây trên sân tăng 50% sát thương.\n<color=black>•</color> Khi số mặt trời trên 15000, mỗi giây sẽ tốn 200 mặt trời và sát thương của toàn bộ cây trên sân x3.\n<color=#3D1400>Tuyệt Kĩ: </color><color=red>1000 xu; tạo ra Nhật Thực; nếu Nhật Thực đã ở trên sân, kèo dài nó thêm 15 giây.\n<color=#3D1400>Buff Du Lịch: </color><color=red>\n<color=#3D1400>Huyết Nguyệt Song Thần: </color><color=red>Chỉ kích hoạt nếu Nhật Thực Bạch Cải và Nguyệt Thực Bạch Cải ở trên sân, khi đó hiệu ứng của Nhật Thực sẽ x3, Zombie tạo ra từ Nguyệt Thực x3 sức mạnh. Và cả Nhật Thực lẫn Nguyệt Thực sẽ tồn tại vĩnh viễn, đồng thời sẽ triệu hồi thiên thạch lớn và nhỏ liên tục trên sân.</color>",
+      "cost": ""
+    },
+  {
+      "seedType": 1945,
+      "name": "Lan Tử Linh Siêu Tốc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Với khả năng nã đạn siêu tốc, Lan Tử Linh Siêu Tốc mệnh danh là bệ gattling di động. Đặc biệt thiết kế của cậu ta lại là đứng đầu trong số các thiết kế về cây nữa!</color></color>\n\n<size=36><color=#3D1400>Chỉ xuất hiện với tỉ lệ 2% khi ghép Thái Dương Bạch Cải</color>",
+      "info": "<size=36>Hỏa lực áp đảo trong thời gian ngắn.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Phiên bản giới hạn của Tử Cơ Thương Linh\n<color=#4A2900>Điều Kiện Sử Dụng: Chế độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300/0.5 giây</color>.\n<color=#3D1400>Khả Năng:<color=red> \n<color=black>•</color><color=red> Phân loài của Lan Tử Đinh Siêu Tốc, chuyển đổi qua lại bằng Nấm Nhút Nhát và Đậu Hà Lan.\n<color=black>•</color><color=red> Khi phát hiện mục tiêu, nó sẽ nạp trong 1 giây trước khi tấn công.\n<color=black>•</color> Mỗi lần bắn sẽ giảm 0.02 giây, tối thiểu còn 0.1 giây.\n<color=black>•</color> Mỗi phát có tỉ lệ 5% bắn đạn siêu nguyên tử, mỗi 16 phát bắn đều luôn bắn đạn siêu nguyên tử.\n<color=black>•</color> Nếu bắn trúng Zombie bị hiệu ứng nguyên tử, kích nổ Nấm Nguyên Tử lên Zombie đó.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1951,
+      "name": "Hỏa Bộc Nhiệt Hạch",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta có 1 gu thời trang rất riêng, rất dị biệt, và cậu ta cũng là nhà tạo mẫu tốc nổi tiếng trong khu, có điều, khách của cậu ta toàn là đậu hà lan.</color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Gốc Lửa Anh Đào + Bom Anh Đào Nhiệt Hạch</color>",
+      "info": "<size=36>Biến anh đào và nấm nguyên tử thành bom nhiệt hạch\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#3D1400>Sát Thương: </color><color=red>1200/0.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Miễn nhiễm với mọi sát thương anh đào.\n<color=black>•</color> Tỏa vùng phóng xạ xung quanh nó 3x3 ô, x3 sát thương lên Zombie không giáp cấp 1.\n<color=black>•</color> Có thể đốt đạn đậu tương tự như của Gốc Lửa Địa Ngục. \n<color=black>•</color> Nếu đốt đạn anh đào, sao anh đào, bí anh đào và đạn nguyên tử, toàn bộ sẽ x4 sát thương trước khi đốt thành đạn nhiệt hạch anh đào. Đạn nhiệt hạch anh đào có khả năng xuyên 2 mục tiêu và luôn gây vụ nổ hạt nhân ở phạm vi 5x5 ô gây thêm 1200 sát thương.\n<color=black>•</color> Nếu chết hoặc bị xẻng, kích hoạt hiệu ứng của Bom Anh Đào Nhiệt Hạch.\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Siêu Bức Xạ:</color><color=red> Đạn nhiệt hạch anh đào x3 sát thương.\n<color=#3D1400>Rò Rỉ Phóng Xạ:</color> Phạm vi vùng phóng xạ của Hỏa Bộc Nhiệt Hạch tăng lên thành 5x5 ô.</color>",
+      "cost": ""
+    },
 {"PvZ Sniper DLC": "" },
      {
       "seedType": 800,
@@ -997,7 +1018,7 @@
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Đại Đạn Đạo + Bom Anh Đào"
     },
     {
-      "seedType": 2001,
+      "seedType": 2001000,
       "name": "Pháo Đài Nguyên Tử (2001)",
       "introduce": "<align=justified><size=36><color=#3D1400>Quên những gì mà các cây khác có thể làm đi, Pháo Đài Nguyên Tử là hiện thân của địa ngục thực sự, sức mạnh áp đảo cùng với khả năng ban phát bom hạt nhân tới mọi nơi ngay trên sân. ",
       "info": "<size=36>Sát thương cao nhất game.\n\n<color=blue>Từ PvZ Niejo Mod</color>\n<color=#3D1400>Máu:</color><color=red> 40000</color>\n<color=#3D1400>Sát Thương: </color><color=red>500*3*2.25/0.5 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Mỗi lần bắn 3 viên đạn nguyên tử, có tỉ lệ khoảng 25-40% bắn đạn siêu nguyên tử phát nổ gây tới 99999 sát thương lên toàn sân. \n<color=black>•</color> Tốc độ bắn tăng theo thời gian, sau 100 lần bắn thì tốc độ bắn x1.5 và sau 300 lần bắn thì tốc độ bắn x2.25 và sẽ đặt lại từ đầu khi ngừng bắn.</color>",

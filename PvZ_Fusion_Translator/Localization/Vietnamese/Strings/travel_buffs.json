@@ -34,11 +34,11 @@
     "Bách Bộ Xuyên Dương: Đạn của Hoả Bộc Phượng Lan xuyên thấu vô hạn, và đạn gây hiệu ứng nổ nhiệt | Mở khoá công thức: Drone Phượng Hoàng",
     "Nhân Bản Vô Tính: Thời gian hồi của Cây Sao Chép giảm đáng kể, từ 5 phút còn 50 giây",
     "Đôi Bạn Cùng Tiến: Hai cây giống nhau nhận 50% sát thương gây ra và giảm 50% sát thương nhận vào khi đặt trên cùng cột",
-    "Đạn Đặc Chế: Sát thương của Drone Mộng Mơ x3",
-    "Nhất Châm Kiến Huyết: Sát thương cơ bản của Mộng Miêu x5",
+    "Đạn Đặc Chế: Sát thương của Drone Mộng Mơ x3 | Drone Mộng Mơ của Thỏ Nguyệt Mộng sẽ có đầy đủ sức mạnh",
+    "Nhất Châm Kiến Huyết: Sát thương cơ bản của Mộng Miêu x5 | Thỏ Nguyệt Mộng x3 sát thương | Mở khóa công thức: Thỏ Nguyệt Mộng",
     "Thực Anh Bom: Đạn Siêu Anh Đào sẽ gây thêm Vụ Nổ Bom Anh Đào trong 3 đợt tiếp theo",
     "Thực Diệt Linh: Đạn Nguyên Tử nâng cấp thành Vụ Nổ Nấm Nguyên Tử trong 3 đợt tiếp theo",
-    "Khống Chế Biến Số: Các vụ nổ Nguyên Tử không còn để lại hố|Mở khóa Công Thức: Nấm Tham Lam",
+    "Khống Chế Biến Số: Các vụ nổ Nguyên Tử không còn để lại hố | Mở khóa Công Thức: Nấm Tham Lam",
     "Nhân Đa Thế Chúng: Khi Nấm Phóng Xạ phát nổ, triệu hồi 3 Khổng Nhân Vũ Trang và Xe Trượt Tuyết cho mỗi Zombie mà nó thôi miên",
     "Ta Là Truyền Kì: Khi có Anh Long Đại Đế và Hắc Tảng (hoặc biến thể của 2 cây) trên sân, Anh Long Đại Đế không còn giới hạn máu, và Hắc Tảng giảm 90% sát thương nhận vào",
     "Có Tiền Có Quyền: Đạn của Đuốc Tài Lộc tăng 1% sát thương với mỗi 1000 xu",
@@ -52,8 +52,8 @@
     "Headshot: Tất cả đòn đánh của Thiết Đậu Tiểu Đội đều gây Headshot, có tỉ lệ tiếp tục tấn công, nhưng tốc độ tấn công còn 7.5 giây",
     "Khai Pháo: Tăng x3 sát thương và x2 đẩy lùi của pháo phòng không của Thiết Đậu Tiểu Đội | Mở Khoá Công Thức: Thiết Đậu Không Binh",
     "Hoả Lực Áp Đảo: Liên Pháo Anh Đào bắn x3 đạn, tấn công 2 hàng bên cạnh theo vòng cung cosin. Hoả Bộc Bí Đao sẽ đốt cả sân nếu không có ô trống.",
-    "Tua Bin Điện Tử: Bán kính hấp dẫn của Từ Quang Đào tăng gấp đôi",
-    "Vạn Từ Vương: Từ Quang Đào có thể hấp thụ 3 vật sắt cùng lúc và gây x3 sát thương cho Zombie Khổng Hạch Phi Thương và Zombie Hắc Khổng Hạch Bầu Dục",
+    "Tua Bin Điện Tử: Bán kính hấp dẫn của Từ Quang Đào tăng gấp đôi | x2 hiệu suất tạo sắt vụn của Từ Quang Nhật | Mở khóa Công Thức: Từ Quang Nhật",
+    "Vạn Từ Vương: Từ Quang Đào có thể hấp thụ 3 vật sắt cùng lúc và gây x3 sát thương cho Zombie Khổng Hạch Phi Thương và Zombie Hắc Khổng Hạch Bầu Dục | Từ Quang Nhật x3 hiệu suất hồi máu, tăng số lượng sắt vụn tạo ra từ khả năng Sản Xuất Hàng Loạt",
     "Cải Tiến: Có thể nâng cấp 1 Buff Tối Thượng trong phần tổng quan Buff",
     "Sát Khổng Nhân: Boss nhận thêm 100% sát thương",
     "Lời Nguyền Sức Mạnh: Với mỗi Debuff, các cây của bạn nhận thêm 5% sát thương",
@@ -74,13 +74,15 @@
     "Cải Tử Hoàn Sinh: Cây bị cạp bởi Thực Thần Thập Tử sẽ luôn rớt ra thẻ",
     "Giải Phóng Cái Chết: Cây tối thượng bị cạp bởi Thực Thần Thập Tử sẽ luôn kích hoạt hiệu ứng khi chết nhưng sẽ không bị tiêu diệt. Hiệu ứng này sẽ được tăng sức mạnh gấp 4 lần",
     "Tia Nhiệt Hạch: Tăng thời gian tồn tại của vùng phóng xạ lên 10 giây",
-    "Phản Ứng Hạt Nhân: Khi đạn nguyên tử/siêu anh đào, đạn bí anh đào, đạn sao anh đào bắn trúng Zombie, có tỉ lệ nhỏ kích nổ hiệu ứng Bom Anh Đào Nhiệt Hạch|Mở khóa công thức: Bí Nhiệt Hạch",
+    "Phản Ứng Hạt Nhân: Khi đạn nguyên tử/siêu anh đào, đạn bí anh đào, đạn sao anh đào bắn trúng Zombie, có tỉ lệ nhỏ kích nổ hiệu ứng Bom Anh Đào Nhiệt Hạch | Mở khóa công thức: Bí Nhiệt Hạch",
     "Hàn Không Tinh Vũ: Dưa cực hàn từ Mưa Sao Băng của Thời Không Cực Hàn x6 sát thương và luôn tạo ra hố đen mini, Thời Không Thần Ngọc Mễ sẽ luôn ném hố đen; khi hố đen phát nổ, toàn bộ hó đen mini đồng loạt phát nổ theo, tăng sát thương gây ra",
     "Tia Thu Nhỏ: Triệu hồi Tiểu Hắc Diện. Tiểu Hắc Diện tấn công lên cả cây và Zombie, cây sẽ giảm sát thương nhận vào còn Zombie nhận thêm sát thương dựa theo lượng máu của cây. Có thể lên cấp.",
     "Tia Thu Nhỏ II: Triệu hồi Tiểu Hắc Thiết. Tiểu Hắc Thiết sẽ hồi máu cho cây mỗi 3 giây và khiến Zombie nhận thêm sát thương gần nó. Có thể lên cấp.",
     "Hỏa Ngục Tận Thế: Chỉ kích hoạt khi có tối thiểu 8 Hỏa Bộc Luân trên sân; khi đó có thể dùng Găng Tay di chuyển Hỏa Hạch Thiên Đế vào Hỏa Bộc Luân đã nạp đạn, sau đó toàn bộ Hỏa Bộc Luân trên sân sẽ khai hỏa và kích nổ toàn sân gây x80 sát thương và thiêu đốt toàn sân 11 lần liên tiếp",
     "Con Đường Bơ: Thời gian bơ của Zombie từ Gai Bơ Ngô x3",
-    "Bơ Bôi Trơn: Gai Bơ Ngô sẽ liên tục khiến Zombie trượt về bên phải sân"
+    "Bơ Bôi Trơn: Gai Bơ Ngô sẽ liên tục khiến Zombie trượt về bên phải sân",
+    "Hoả Lực Vô Hạn: Khi Drone Anh Đào được đặt trên Tử Thần Diệt Linh. Mỗi khi tấn công sẽ tăng năng lượng còn khihi dừng tấn công sẽ giảm năng lượng; với mỗi năng lượng, bắn thêm đạn; nếu có nhiều năng lượng, mỗi năng lượng dư sẽ tăng 100% sát thương cho phát bắn tiếp theo",
+    "Tia Thu Nhỏ III: Triệu hồi Tiểu Băng Nữ. Tiểu Băng Nũ sẽ tấn công bằng cầu tuyết và vô số đạn tia băng, đồng thời cường hóa đạn tia băng trên sân."
   ],
   "ultimateUpgrades": [
     "Thị Huyết Như Mệnh: Anh Long Đại Đế hồi máu x3",
@@ -197,6 +199,9 @@
     "Tàu UFO Xung Kích ưu tiên tấn công cây xa nhất trong phạm vi bắn",
     "Phạm vi sát thương của tia từ trường tăng lên thành 3x3 ô",
     "Vũ Trang Khổng Nhân Cường Hóa có khả năng miễn nhiễm của cả 4 dạng",
-    "Vũ Trang Khổng Nhân Cường Hóa có khả năng đặc biệt của cả 4 dạng"
+    "Vũ Trang Khổng Nhân Cường Hóa có khả năng đặc biệt của cả 4 dạng",
+    "Tăng tốc độ hồi đinh ba của Hạch Khổng Nhân",
+    "Hoàng Kim Vũ Trang Khổng Nhân sẽ tham chiến",
+    "Liên Báo Hủy Diệt sẽ tham chiến"
   ]
 }

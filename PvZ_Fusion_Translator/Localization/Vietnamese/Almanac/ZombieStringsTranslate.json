@@ -436,7 +436,13 @@
             "theZombieType": 76,
             "name": "Zombie Đinh Ba Khổng Nhân",
             "introduce": "<align=justified><size=36><color=black>Zombie thường không biết bơi, nhưng mà Đinh Ba Khổng Nhân vì tin mình là truyền nhân của Hải Vương mà quyết định bơi dưới nước. Cậu ta tưởng mình có phước lành của biển cả, nhưng thật ra tại cậu ta to xác quá nên không bị chìm.</color>",
-            "info": "<size=36>Ném 1 tá đinh ba cùng lúc\n\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với rong biển.\n<color=black>•</color>Nếu máu dưới 50%, ném 4 đinh ba theo 1 góc cố định cùng 1 lúc.</color>"
+            "info": "<size=36>Ném 1 tá đinh ba cùng lúc\n\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với rong biển.\n<color=black>•</color> Nếu máu dưới 50%, ném 4 đinh ba theo 1 góc cố định cùng 1 lúc.</color>"
+        },
+        {
+            "theZombieType": 77,
+            "name": "Zombie Nhảy Xào Marathon",
+            "introduce": "<align=justified><size=36><color=black>Sức bật cực khỏe chính là bí quyết chiến thắng của Zombie Nhảy Sào Marathon. Chỉ cần chạy đà đủ nhanh, lúc bật nhảy cậu ta có thể nhảy xa hơn rất nhiều, nhưng có vẻ cậu ta quên rằng nhảy sào là so ai nhảy cao hơn chứ không ai nhảy xa hơn.</color>",
+            "info": "<size=36>Nhảy cực xa\n\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Sau khi ra sân, nó sẽ lấy đà chạy. Khi nhảy, nó sẽ nhảy qua cây 3 ô.\n<color=black>•</color> Sau khi lấy đà trong 8 giây, khi nhảy nó có thể nhảy qua cây cao.</color>"
         },
         {
             "theZombieType": 100,
@@ -508,7 +514,7 @@
             "theZombieType": 111,
             "name": "<size=26>Zombie Óc Chó Cao Băng Giá",
             "introduce": "<size=36><color=black>Về cái đầu của Zombie óc chó cao băng giá, trong lũ zombie có nhiều ý kiến ​​​​khác nhau. Một số con cho rằng nó đang cố gắng cô lập bản thân khỏi thế giới lạnh lẽo này, trong khi những con khác cho rằng nó liên quan đến thí nghiệm điên rồ của tiến sĩ Zomboss. Tuy nhiên, chỉ có anh ta biết rằng cây óc chó cao này xuất hiện khi nó vừa ăn một cây nấm xanh.</color>",
-            "info": "<size=36>Miễn nhiễm với đóng băng.\n\n<color=black>Máu: </color><color=#4B0082>270+2200 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Miễn nhiễm với đóng băng</color>"
+            "info": "<size=36>Miễn nhiễm với đóng băng.\n\n<color=black>Máu: </color><color=#4B0082>270+2200 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Miễn nhiễm với đóng băng. Khi bị hiệu ứng từ Ớt, mất 34% máu tối đa.</color>"
         },
         {
             "theZombieType": 112,
@@ -593,6 +599,30 @@
             "name": "<size=28>Zombie Dân Chơi",
             "introduce": "<size=36><color=black>Hắn nổi tiếng khắp thế giới nhờ những động tác ngầu lòi và kỹ thuật điêu luyện, nhưng với hắn thì tất cả những thứ đó chẳng quan trọng chút nào. Dù sao thì, chỉ có loài 'Zombie' mới có cái thói hám danh thôi. Chứ liên quan gì đến một con Zombie như hắn chứ?</color>",
             "info": "<size=36>Trùm parkout trong giới Zombie\n\n<color=black>Máu: </color><color=#4B0082>9527</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Chỉ xuất hiện ở chế độ: Đập Bình. Nếu máu dưới 2/3, x3 tốc độ và có thể di chuyển sang hàng khác.</color>"
+        },
+        {
+            "theZombieType": 126,
+            "name": "<size=26>Zombie Óc Chó Cao Lửa",
+            "introduce": "<size=36><color=black>Zombie Óc Chó Cao Lửa luôn hầm hực, và cậu ta ghét nhất là Zombie Óc Chó Cao Băng. Lý do là vì cậu ta thích ăn đồ chín còn Óc Chó Cao Băng thích ăn đồ đông lạnh.</color>",
+            "info": "<size=36>Miễn nhiễm với lửa.\n\n<color=black>Máu: </color><color=#4B0082>270 + 2200 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Miễn nhiễm với bơ, Chịu Nhiệt. Khi bị hiệu ứng từ Ớt hoặc Nấm Băng, mất 34% máu tối đa. Sau khi ra sân, di chuyển dần nhanh hơn, tối đa x2 tốc độ hiện tại.</color>"
+        },
+        {
+            "theZombieType": 127,
+            "name": "<size=26>Zombie Hắc Tảng",
+            "introduce": "<size=36><color=black>Với cái đầu được tôi luyện từ nhiệt độ nóng chảy và áp lực khủng khiếp, cái đầu mới này có thể chống chịu mọi thứ, trừ khi nhiệt độ thay đổi đột ngột.</color>",
+            "info": "<size=36>Chịu sát thương tốt hơn.\n\n<color=black>Sát thương:</color><color=#4B0082> 200</color>\n<color=black>Máu: </color><color=#4B0082>1500 + 4500 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với bơ, làm chậm, đóng băng, Chịu Nhiệt.\n<color=black>•</color> Giảm 90% sát thương nhận vào \n<color=black>•</color> Khi bị hiệu ứng từ Ớt hoặc Nấm Băng, mất 34% máu tối đa. \n<color=black>•</color> Chỉ xuất hiện khi cả 2 Zombie Óc Chó Cao lửa và Zombie Óc Chó Cao Băng đứng chung 1 ô. Khi đó cả 2 sẽ kết hợp thành Zombie Hắc Tảng.</color>"
+        },
+        {
+            "theZombieType": 128,
+            "name": "<size=26>Zombie Óc Chó Mặt Trời",
+            "introduce": "<size=36><color=black>Zombie Óc Chó Mặt Trời thật ra chỉ cần phơi nắng là khỏe re ấy mà, nhưng nó vẫn muốn ăn não vì đó là mục tiêu của cả đời cho bọn Zombie.</color>",
+            "info": "<size=36>Nó là Zombie Hoa Hướng Dương, nhưng trâu hơn.\n\n<color=black>Máu: </color><color=#4B0082>270 + 1100 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Mỗi 25 giây sẽ hút 25 mặt trời của người chơi./color>"
+        },
+        {
+            "theZombieType": 129,
+            "name": "<size=26>Zombie Quang Hạch Vương",
+            "introduce": "<size=36><color=black>Zombie Quang Hạch Vương không chỉ lỗng lẫy hơn mà còn bắt mắt hơn. Tất cả đều nhờ việc nó có 4 con mắt.</color>",
+            "info": "<size=36>Chuyển đổi sát thương thành mặt trời.\n\n<color=black>Máu: </color><color=#4B0082>270 + 1100 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Giới hạn sát thương nhận vào là 20.\n<color=black>•</color> Mỗi lần bị sát thương sẽ hút 5 mặt trời của người chơi. \n<color=black>•</color> Chỉ xuất hiện khi cả 2 Zombie Óc Chó và Zombie Óc Chó Mặt Trời đứng chung 1 ô. Khi đó cả 2 sẽ kết hợp thành Zombie Quang Hạch Vương.</color>"
         },
         {
             "theZombieType": 200,
@@ -712,7 +742,7 @@
             "theZombieType": 219,
             "name": "<u>Cỗ Máy Huỷ Diệt<u>",
             "introduce": "<size=36><color=black>Cỗ Máy Huỷ Diệt được cho là một Thuỷ Quái Cơ Khí nhỏ hơn và chính xác hơn, nhưng một bản thiết kế bị nhầm lẫn đã làm cho nó lớn hơn nhiều. Các kỹ sư đã nhận ra quá muộn—vậy nên họ đã <i>lăn</i> cùng với nó.</color>",
-            "info": "<size=36>Lăn về phía trước\n\n<color=black>Máu: </color><color=#4B0082>90000</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên và nuốt chửng.\n<color=black>•</color> Chỉ nhận tối đa 100 sát thương mỗi lần.\n<color=black>•</color> Chịu sát thương cho toàn bộ Zombie. \n<color=black>•</color> Khi bị tiêu diệt thì sẽ rớt ra Mảnh Vỡ Cao Cấp</color>"
+            "info": "<size=36>Lăn về phía trước\n\n<color=black>Máu: </color><color=#4B0082>300000</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên và nuốt chửng.\n<color=black>•</color> Chỉ nhận tối đa 300 sát thương mỗi lần.\n<color=black>•</color> Chịu sát thương cho toàn bộ Zombie. \n<color=black>•</color> Khi bị tiêu diệt thì sẽ rớt ra Mảnh Vỡ Cao Cấp</color>"
         },
         {
             "theZombieType": 220,
@@ -835,10 +865,28 @@
             "info": "<size=36>Phóng nhanh vượt ẩu.\n\n<color=black>Máu:</color><color=#4B0082> 6000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Di chuyển cực nhanh.\n<color=black>•</color> Một khi tông vào cây, phát nổ và sẽ bắn ra số bom hề tương đương với (số cây bị ảnh hưởng bởi bom hề/số hàng trên sân) lên mọi hàng ở vị trí ngẫu nhiên.\n<color=black>•</color> Nếu chết sẽ luôn nổ bom hề.</color></size>"
         },
         {
+            "theZombieType": 240,
+            "name": "Zombie Hạch Khổng Nhân Đinh Ba",
+            "introduce": "<size=36><color=black>Khi các Khổng Nhân gặp nhau, chúng thường chỉ gừ với nhau. Với Hạch Khổng Nhân thì khác, hắn ta tự hào, với cái đầu là chiến tích đập nát vô số óc chó.”</color></color>",
+            "info": "<size=36>Bậc thầy ném lao\n\n<color=black>Máu:</color><color=#4B0082> 18000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với rong biển.\n<color=black>•</color> Số đinh ba mang theo là 7. Khi máu dưới 50% và số đinh ba đã đầy, ném đinh ba vào 1 hướng cố định.\n<color=black>•</color> Hồi 1 đinh ba mỗi 1 giây.\n<color=black>•</color> Cho mỗi loại Khổng Nhân trên sân, giảm thêm 10% sát thương nhận vào.\n<color=black>Buff Luyện Ngục: </color><color=#4B0082>Tốc độ nạp đinh ba của Hạch Khổng Nhân x3</color></size>"
+        },
+        {
+            "theZombieType": 241,
+            "name": "<u>Hoàng Kim Vũ Trang Khổng Nhân<u>",
+            "introduce": "<size=36><color=black>Hoàng Kim Vũ Trang Khổng Nhân rất ghét giáp chiến đấu tiêu chuẩn. Hắn cho rằng mình cần gì đó nổi bật để thể hiện địa vị với các Khổng Nhân Vũ Trang khác.\n“Không.” Tiến sĩ Edgar thẳng thừng từ chối. “Giáp tiêu chuẩn không chỉ dễ sản xuất mà còn giúp ngăn các ngươi trở nên béo như heo.”",
+            "info": "<size=36>Đệ nhất chiến tướng của Zombie, chỉ huy quân đoàn Garg.\n\n<color=black>Sát thương:</color><color=#4B0082> 4800</color>\n<color=black>Máu: </color><color=#4B0082>18000+18000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với đẩy lùi và thôi miên.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương từ hành quyết.\n<color=black>•</color> Nếu máu dưới 50%, kích hoạt khả năng Thanh Tẩy, khi đó sẽ loại bỏ và miễn nhiễm mọi hiệu ứng debuff, cho mỗi hiệu ứng debuff sẽ hồi 10% máu tối đa.\n<color=black>•</color> Đồng thời khi kích hoạt khả năng Thanh Tẩy, triệu hồi 1 Vũ Trang Khổng Nhân Cường Hóa trên mỗi hàng với máu và giáp bằng 1/3 Hoàng Kim Vũ Trang Khổng Nhân. Khi Vũ Trang Khổng Nhân Cường Hóa ở trên sân, Hoàng Kim Vũ Trang Khổng Nhân hoàn toàn bất tử.\n<color=black>•</color> Sau 15 giây kích hoạt hiệu ứng Thanh Tẩy mà ít nhất 1 Vũ Trang Khổng Nhân Cường Hóa còn sống, kích hoạt Tuyệt Kĩ.\n<color=black>Tuyệt Kĩ:</color> Máu và sát thương x2 đồng thời hấp thụ toàn bộ Vũ Trang Khổng Nhân Cường Hóa mà nó tạo ra; giờ đây mỗi lần đập sẽ gây sát thương toàn sân, sát thương gây ra bằng 20% sát thương gốc*số Vũ Trang Khổng Nhân trên sân.\n<color=black>•</color> Nếu nhận sát thương chí mạng, kích hoạt khả năng Từ Chối Gục Ngã, ngay lập tức hồi 10% máu tối đa, chỉ kích hoạt 1 lần duy nhất.</color></size>"
+        },
+        {
+            "theZombieType": 242,
+            "name": "Liên Báo Hủy Diệt",
+            "introduce": "<size=36><color=black>Liên Báo Hủy Diệt có kiến thức chuyên ngành về chất nổ và vật lý hạt nhân. Sau nửa đời cống hiến cho khoa học, giờ đây hắn chọn ẩn danh và chỉ muốn yên tĩnh chơi Sudoku. Nhưng nếu ai đó dám làm phiền giờ nghỉ ngơi của hắn thì hắn cũng không ngại phô diễn tí nấm đâu.</color>",
+            "info": "<size=36>Khả năng siêu phục hồi cùng với sát thương cực mạnh.\n\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị bất kì sát thương xuyên giáp nào.\n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn nguyên tử mỗi 0.5 giây.\n<color=black>•</color> Mỗi lần gây sát thương, hồi máu bằng lượng sát thương gây ra, nhưng máu tối đa giảm 1%.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+        },
+        {
             "theZombieType": 300,
             "name": "Liên Báo Anh Đào",
             "introduce": "<size=36><color=black>Luôn có những thứ còn quan trong hơn cái trò chơi này, từ những thành phố đông đúc cho tới bầu trời đêm đầy sao. Nhưng trước hết phải giải quyết cho xong cái trò Sudoku này đã.</color>",
-            "info": "<size=36>Mở đầu cho cơn ác mộng không hồi kết.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị bất kì sát thương xuyên giáp nào.\n<color=black>•</color>  Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+            "info": "<size=36>Mở đầu cho cơn ác mộng không hồi kết.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị bất kì sát thương xuyên giáp nào.\n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
         },
         {
             "theZombieType": 301,
