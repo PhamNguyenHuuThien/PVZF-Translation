@@ -1088,7 +1088,7 @@
         {
             "seedType": 1002,
             "name": "Solar Bomb",
-            "introduce": "<align=justified><size=36><color=black>\"So… it's obvious… we are pretty cute, aren't we?\" The two Sunflower sisters tried to suppress their excitement. \"The world needs us to save it!\" Their passion bubbled over as they shouted together, \"Flash!\"</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\"So… it's obvious… we are Pretty Cure, aren't we?\" The two Sunflower sisters tried to suppress their excitement. \"The world needs us to save it!\" Their passion bubbled over as they shouted together, \"Flash!\"</color></size>",
             "info": "<size=36>Solar Bomb can produce Sun after killing zombies.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Produces 25 Sun for each zombie killed in the explosion.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Cherry Bomb</color>"
         },
