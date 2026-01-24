@@ -290,7 +290,7 @@
         {
             "seedType": 224,
             "name": "Bucket",
-            "introduce": "<align=justified><size=36><color=black>Ever since the first bucket was made, it has found many unusual uses: armor, fusion materials, road block, and more. Yet despite all that, it has never once been used as an actual bucket.</color>",
+            "introduce": "<align=justified><size=36><color=black>Ever since the first bucket was made, it has found many unusual uses: armor, fusion materials, roadblocks, and more. Yet despite all that, it has never once been used as an actual bucket.</color>",
             "info": "<size=36>Can fuse with certain plants, making them hard as iron.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Can be placed (planted) on the ground like a normal plant, or used as a fusion ingredient.\n<color=black>•</color> Plants with Bucket in their recipe have higher toughness and take half damage from explosive cherries.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>30s</color>"
         },
@@ -410,7 +410,7 @@
             "seedType": 241,
             "name": "Coldsnap Bean",
             "introduce": "<align=justified><size=36><color=black>The plants couldn't figure out how such a tiny bean could chill the air so effectively. But Coldsnap Bean just grinned mischievously. \"You know why Cattail sneezes when she washes clothes? Because she washes 'cat' clothes.\" Maybe the real magic was in his sense of humor.</color>",
-            "info": "<size=36>Hey↑ Yeh↓!\n\n<color=#4A2900>Unlock Conditions: Complete Wall-nut Billards 1</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hovering plant.\n<color=black>•</color> Strengthens snow pea shooters in a 3×3 surrounding area to launch polar ice peas, increasing the damage and Cryo points inflicted on the zombie by 2 times.</color>",
+            "info": "<size=36>Hey↑ Yeh↓!\n\n<color=#4A2900>Unlock Conditions: Complete Wall-nut Billiards 1</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hovering plant.\n<color=black>•</color> Strengthens snow pea shooters in a 3×3 surrounding area to launch polar ice peas, increasing the damage and Cryo points inflicted on the zombie by 2 times.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
