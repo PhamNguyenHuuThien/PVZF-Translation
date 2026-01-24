@@ -17,7 +17,7 @@ The download links for the Multi-language Mod and the translation files of the M
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
 **Multi-Language 3.3.1 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.3.1_beta)
-**English 3.3.1 Beta by Joseph Franci** | Android | [MEGA](https://mega.nz/file/hA82gSDS#XMt5M_FwjdEZOv_XqmDktsVZCy2sVHsjAJzqv7D1p3I)
+**English 3.3.1 Beta by Joseph Franci** | Android | [MEGA](https://mega.nz/file/hA82gSDS#XMt5M_FwjdEZOv_XqmDktsVZCy2sVHsjAJzqv7D1p3I) [Google Drive](https://drive.google.com/file/d/1trz_Tzh70pIa3udSe5IGkICU4yYf7MW7/view)
 **Chinese 3.3.1** | PC | [MEGA](https://mega.nz/file/2ARFyJiQ#kIwsSq6_73owM97-mMVz5X4ZrAAG1zA42VIJUMIVy5I) [Google Drive](https://drive.google.com/file/d/156fYlSjoajtvb6ybcob9DPM1Ts-Nb0Le/view?usp=sharing)
 **Chinese 3.3.1** | Android | [MEGA](https://mega.nz/file/aRR1TRqR#zp6pgpXfmIPE3lqe6cuq-azgDRZWM_GsitclYDx8Ocw) [Google Drive](https://drive.google.com/file/d/1zx6AoAxjM5egIZ2ppz_Uv-AbD0CuYi1C/view?usp=sharing)
 **Chinese 3.2.1** | PC | [MEGA](https://mega.nz/file/NicBzagR#Ju2A-56e_bUf0BhmtEIC37XKCHyq0h1OsHOBZVb_V34)
