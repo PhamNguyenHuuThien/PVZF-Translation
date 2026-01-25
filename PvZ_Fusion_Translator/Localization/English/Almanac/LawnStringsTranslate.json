@@ -361,7 +361,7 @@
             "seedType": 234,
             "name": "Diamond Mine",
             "introduce": "<align=justified><size=36><color=black>\"I was always a weakling growing up, no match for zombies, and nobody wanted to play with me,\" said Diamond Mine. \"But now, wrapped in diamond, I'm strong—and ready to fight back.\" He really needs to, though—he's already racked up quite the tab with Marigold.</color>",
-            "info": "<size=36>Mine-nut that's as hard and as rare as diamonds.\n\n<color=#4A2900>Usage Condition: Odyssey: Randomized | Easter Egg plant with very rare chance of appearing</color>\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Anti-crush, takes no more than 200 damage per hit.\n<color=black>•</color> Produces 500 points on damage phase transitions and on death.</color>",
+            "info": "<size=36>A Mine that's as hard and as rare as diamonds.\n\n<color=#4A2900>Usage Condition: Odyssey: Randomized | Easter Egg plant with very rare chance of appearing</color>\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Anti-crush, takes no more than 200 damage per hit.\n<color=black>•</color> Produces 500 points on damage phase transitions and on death.</color>",
             "cost": ""
         },
         {
