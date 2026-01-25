@@ -393,8 +393,8 @@
         {
             "theZombieType": 43,
             "name": "Gargantua Gladiateur",
-            "introduce": "<size=26><color=black>Le Gargantuar en armure est un grand fan d'un skin appelé « Cavalier » de son jeu préféré. Il a donc dépensé une fortune pour commander un ensemble d’armures médiévales spécialement conçues pour lui. Cependant, lorsqu'il a essayé de l'enlever, il s'est rendu compte qu'il était définitivement coincé... Et c'est ainsi qu'il s'est retrouvé avec un skin 'Cadavelier' permanent.</color>",
-            "info": "<size=28>Faire apparaître des diablotins à chaque fois qu'il écrase avec sa masse !\n\n<color=black>Robustesse : </color><color=#4B0082>8000+24000</color>\n<color=black>Spécial : </color><color=#4B0082>Se déplace à la moitié de la vitesse des gargs normaux, ne subit pas plus de 5000 dégâts d'un seul coup, les effets de charme durent moitié moins longtemps sur lui, lance un Mecha- une boule de noix à mi-HP et génère 1 à 3 diablotins à chaque fois qu'il frappe le sol avec sa masse.</color>"
+            "introduce": "<align=justified><size=36><color=black>Le Gargantuar Gladiateur est un grand fan de l’armure \"Sahn-Uzal\"de son jeu préféré. Il a donc dépensé une fortune pour commander un ensemble d’armure de l’Antiquité spécialement conçu pour lui. Cependant, lorsqu’il a essayé de l’enlever, il s’est rendu compte qu’il était définitivement coincé… Dû à un défaut de fabrication, car il s’agissait en fait d’une contrefaçon. C’est ainsi qu’il s’est retrouvé avec une armure de \"Gladiateur\" permanente, qu’il n’aime même pas.</color>",
+            "info": "<size=36>Fait apparaître des Diablotins à chaque fois qu’il fracasse le sol avec sa masse !\n\n<color=black>Robustesse: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color>Se déplace à la moitié de la vitesse des Gargantuas normaux.\n<color=black>•</color> Subit un maximum de 5000 dégâts par coup avant le calcul de la réduction des dégâts.\n<color=black>•</color> Immunisé contre l’hypnose, la dévoration et le repoussement ; les autres Altérations durent seulement la moitié du temps.\n<color=black>•</color> Lance une Noix-mécha Zombie lorsque sa Robustesse atteint la moitié, faisant apparaître 5 Diablotins lorsqu’elle se brise.\n<color=black>•</color> Fait apparaître 1 à 3 Diablotins à chaque fois qu’il frappe le sol avec sa masse.</color>"
         },
         {
             "theZombieType": 212,
@@ -422,9 +422,9 @@
         },
         {
             "theZombieType": 45,
-            "name": "Bungee Zombie",
-            "introduce": "<color=black>Bungee Zombie adore prendre des risques. Après tout, à quoi ça sert d'être mort si on ne vit pas un peu ?</color>",
-            "info": "Descend du ciel et vole une plante\n\n<color=black>Résistance : </color><color=#4B0082>720</color>"
+            "name": "Zombie Kidnappeur",
+            "introduce": "<color=black>Zombie Kidnappeur adore prendre des risques. Après tout, à quoi ça sert d'être mort-vivant si on ne s'amuse pas un peu ?</color>",
+            "info": "<size=36>Descend du ciel et vole une plante\n\n<color=black>Résistance : </color><color=#4B0082>720</color>\n<color=black>Faiblesse: </color><color=#4B0082>Ombrelle</color>\n<color=black>Modificateur Odyssée:\n</color><color=#4B0082>Bénéficie d’une réduction de dégâts de 90 % et peut désormais faire apparaître des zombies Ultimes jusqu’à la colonne 4 (à l’exception des Zombies Surprise de Diamant et des Mini-boss).</color>"
         },
         {
             "theZombieType": 114,
@@ -512,9 +512,9 @@
         },
         {
             "theZombieType": 48,
-            "name": "Yéti Dragon",
-            "introduce": "<size=36>",
-            "info": "<size=36>Les zombies Nian ont des armures robustes.\n\n<color=black>Résistance : </color><color=#4B0082>8888+8888</color>\n<color=black>Faiblesse : </color><color=#4B0082>Bambooms</color>"
+            "name": "Yéti Huo-Long",
+            "introduce": "<align=justified><size=36><color=black>Pour célébrer le Nouvel An, les zombies envoie le Yéti Huo-Long, incarnation même de l’esprit festif.\n\n\"Regardez mes nouveaux vêtements ! Vous ne trouvez pas que je ressemble à un vrai dragon ? Plutôt réussi, non ? Bon, il est temps d’adresser mes vœux du Nouvel An aux plantes !\"\n\nMalheureusement pour lui, les plantes n'étaient pas du même avis. Après une avalanche de \"joyeuse fin d'année\" par les plantes, le Yéti Huo-Long se retrouva rapidement envoyé valser, qu’il le veuille ou non.",
+            "info": "<size=36>Le Yéti Huo-Long possède une armure très robuste.\n\n<color=black>Robustesse: </color><color=#4B0082>8888 + 8888 (Type 1)</color>\n<color=black>Faiblesse: </color><color=#4B0082>Le Piment d'Espelette inflige 15× plus de dégâts au Yéti Huo-Long.</color>"
         },
         {
             "theZombieType": 49,
@@ -527,6 +527,24 @@
             "name": "Porte-bouclier de la Légion",
             "introduce": "<align=justified><size=36><color=black>Le Porte-bouclier de la Légion était autrefois un soldat d'élite sur le champ de bataille. Désormais à la retraite, il est le champion incontesté du tournoi de bataille de boules de neige du cimetière. Il chérit le bouclier qui lui a apporté tant de gloire, le vérifiant constamment pour déceler d'éventuelles égratignures – bien que certains disent que cette habitude pourrait être la cause de sa blessure et de sa retraite.</color>",
             "info": "<size=36>Porte-bouclier des plaines enneigées, il dévie les projectiles tirés en ligne droite et les renvoie sous forme de boules de neige.\n\n<color=black>Robustesse :</color><color=#4B0082>720 + 2200 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Immunisé contre le gel et le froid. Vulnérable au froid intense.\n<color=black>•</color> Lève son bouclier toutes les 1,5 s pour renvoyer les projectiles tirés en ligne droite sous forme de boules de neige. Subit 20 points de dégâts lors de la renvoi et ne bloque pas le projectile. Donne des coups de bouclier au lieu de mordre lorsqu'il tient le bouclier, infligeant 50 points de dégâts.</color>"
+        },
+        {
+            "theZombieType": 63,
+            "name": "Zombie Cambrioleur",
+            "introduce": "<align=justified><size=36><color=black>Profitant pleinement de la vie après un récent casse, le Zombie Cambrioleur s’est offert un nouveau costume pour étaler sa richesse. Tous les cambriolages ne sont pas une réussite, mais lorsqu’un coup échoue, le Zombie cambrioleur laisse un \"cadeau\" sur les pelouses des imprudents qui pensent qu’une seule Ombrelle suffit à sauver la situation.\n\n-Écris par Hazy</color>",
+            "info": "<size=36>Transporte des objets de valeur, mais aussi des boîtes mystères ou d'autres surprises..\n\n<color=black>Robustesse: </color><color=#4B0082>1350</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Apparaît uniquement lors des manches à drapeau.\n<color=black>•</color> S’il est repoussé par une Ombrelle, il revient peu après pour larguer un Gargantua-mystère sur le côté droit de la pelouse. Peut être repoussé à nouveau et ne reviendra pas une seconde fois.\n<color=black>•</color> Laisse tomber 3 Diamants et 200 Soleil lorsqu’il est vaincu.</color>"
+        },
+        {
+            "theZombieType": 64,
+            "name": "Michael des Tropiques",
+            "introduce": "<align=justified><size=36><color=black>Michael des Tropiques est inégalé lorsqu’il s’agit de déterrer des reliques cachées. Arrivant toujours premier en compétition, de nombreux autres zombies admirent son talent. Seul le Dr Edgar Zomboss trouve que chaque relique ressemble de façon inquiétante à des figurants de Michael des Tropiques, le plus troublant étant que ces figurants deviennent comme Michael des Tropiques. À surveiller..</color>",
+            "info": "<size=36>Michael est en vacances avec une nouvelle passion pour déterrer des statues de pierre provenant de civilisations côtières perdues !\n\n<color=black>Robustesse: </color><color=#4B0082>720</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Déterre 4 Statues Dansantes avec 500 Robustesse chacune. Si elles ne sont pas détruites après 15 s, chaque statue se brise et fait apparaître un Michael des Tropiques avec une Robustesse égal au Robustesse restant de la statue avant transformation.\n<color=black>•</color> En dehors du mode TD, les statues apparaissent aux mêmes emplacements où un Michael normal invoquerait les Danseur à la perche.</color>"
+        },
+        {
+            "theZombieType": 66,
+            "name": "Zombie Capitaine-quarterback",
+            "introduce": "<align=justified><size=36><color=black>\"Nous portons tous les deux des uniformes de rugby et nous courons très vite. Mais moi, je peux rouler, et lui ne le peut pas.\" Le Zombie Capitaine-quarterback s’est sérieusement comparé au Giga-noix Quarterback et a conclu avec confiance qu’il était plus fort. Cette confiance l’aide: désormais, il court plus vite pour échapper à la poursuite du Giga-noix Quarterback, mais aussi pour envahir les gazons des malheureux qui oseraient se dresser sur son passage.</color>",
+            "info": "<size=36>Peut effectuer des roulades d’ésquive.\n\n<color=black>Robustesse: </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082> Au premier contact avec une plante, roule de deux cases vers l’avant en ignorant les obstacles.</color>"
         }
     ]
 }
