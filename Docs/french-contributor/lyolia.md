@@ -8,7 +8,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Lyolia** au
 
 * **Contributeur** : Lyolia
 * **Rôle** : Traducteur
-* **Période d’activité** : `27/10/25 → En poste`
+* **Période d’activité** : `27/10/25 → 04/01/26`
 
 ---
 

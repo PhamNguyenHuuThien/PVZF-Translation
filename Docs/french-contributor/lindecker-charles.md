@@ -28,15 +28,116 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **187**
+* Nouvelles traductions : **195**
 * Traductions ajustées : **113**
-* Reviews effectuées : **197**
+* Reviews effectuées : **243**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `19/01/26 → 24/01/26`
+> [PR#70](https://github.com/Teyliu/PVZF-Translation/pull/70) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **8**
+* Reviews effectuées : **46**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Sauveteur Boréal** (`seedType: 958`)
+* **Queue du Lion de Prométhée** (`seedType: 947`)
+* **Feuille Flottante** (`seedType: 1204`)
+* **Tyran Luminescent** (`seedType: 951`)
+* **Léviathan Scylla** (`seedType: 960`)
+* **Princesse Nova-Solaire** (`seedType: 954`)
+* **Double Noix-infernale** (`seedType: 968`)
+* **Citrouille de Capture** (`seedType: 967`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Translations**
+[Hubtech](./hubtech.md) :
+* **Écraseur Maudit** (`seedType: 1345`)
+* **Lance-courge** (`seedType: 1343`)
+* **Écraseur Cerise** (`seedType: 1344`)
+* **Écraseur Solaire** (`seedType: 1351`)
+* **Écrase-patate** (`seedType: 1353`)
+* **Purée de Patate** (`seedType: 1354`)
+
+[Same-ael](./same_el.md) :
+* **Planterne Ultraviolet** (`seedType: 1341`)
+* **Ail de mort** (`seedType: 1355`)
+* **Algue Séchée** (`seedType: 1238`)
+* **Capitaine Algue-d'or** (`seedType: 941`)
+
+[Oarlina](./oarlina.md) :
+* **Champi-trouille** (`seedType: 1349`)
+* **Champi-lumière: lumière du soleil** (`seedType: 230`)
+* **Champi-lumière: lumière de l’esprit** (`seedType: 231`)
+* **Champi-lumière: explosion de lumière** (`seedType: 232`)
+* **Champi-étoile filante** (`seedType: 1356`)
+* **Barrage de Chou** (`seedType: 1342`)
+* **Cratère en éruption** (`seedType: 966`)
+* **Pastèque du Chaos** (`seedType: 964`)
+
+
+### 🧩 **Modified Plants**
+[Same-ael](./same_el.md) :
+* **Écraseur Pimenté** (`seedType: 1054`)
+* **Écras-torche** (`seedType: 1059`)
+* **Lance-chou puant** (`seedType: 1118`)
+* **Ombrelle Chou** (`seedType: 1128`)
+* **Lance-chou Argenté** (`seedType: 1134`)
+* **Lance-pastèque Dumara** (`seedType: 1124`)
+
+[Oarlina](./oarlina.md) :
+* **Pot de Chou** (`seedType: 1112`)
+* **Lance-taco** (`seedType: 1113`)
+
+### 🧟‍♂️ **Newly Added Zombie Translations**
+
+[Capitain Artex](./artex2000.md) :
+* **Lance-neige de la Légion** (`theZombieType: 49`)
+* **Porte-bouclier de la Légion** (`theZombieType: 50`)
+
+[Same-ael](./same_el.md) :
+* **Zombie Cambrioleur** (`theZombieType: 63`)
+* **Michael des Tropiques** (`theZombieType: 64`)
+* **Zombie Capitaine-quarterback** (`theZombieType: 66`)
+
+### 🛠️ **Modified Zombies**
+
+[Hubtech](./hubtech.md) :
+* **Zombie Échelle** (`theZombieType: 33`)
+* **Méga Gargantua** (`theZombieType: 36`)
+* **Diablotin** (`theZombieType: 37`)
+* **Méga Gargantua Mecha** (`theZombieType: 39`)
+* **Zombie Pogo Pastèque** (`theZombieType: 34`)
+* **Gargantua** (`theZombieType: 35`)
+* **Gargantua Mecha** (`theZombieType: 38`)
+
+[Capitain Artex](./artex2000.md) :
+* **Zombie Seau-licopter** (`theZombieType: 29`)
+* **Zombie Catapulte** (`theZombieType: 31`)
+* **Zombie Diable à ressort** (`theZombieType: 24`)
+
+[Same-ael](./same_el.md) :
+* **Noix-mecha Zombie** (`theZombieType: 40`)
+* **Yéti Zombie** (`theZombieType: 47`)
+* **Yéti Huo-Long** (`theZombieType: 48`)
+* **Zombie Kidnappeur** (`theZombieType: 45`)
+* **Gargantua Gladiateur** (`theZombieType: 43`)
+
+
 
 ---
 

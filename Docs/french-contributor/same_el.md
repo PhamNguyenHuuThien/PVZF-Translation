@@ -21,14 +21,54 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **10**
-* Traductions ajustées : **76**
+* Nouvelles traductions : **17**
+* Traductions ajustées : **87**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `19/01/26 → 24/01/26`
+> [PR#70](https://github.com/Teyliu/PVZF-Translation/pull/70) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **7**
+* Traductions ajustées : **11**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Planterne Ultraviolet** (`seedType: 1341`)
+* **Ail de mort** (`seedType: 1355`)
+* **Algue Séchée** (`seedType: 1238`)
+* **Capitaine Algue-d'or** (`seedType: 941`)
+
+## 🧩 **Modified Plants**
+* **Écraseur Pimenté** (`seedType: 1054`)
+* **Écras-torche** (`seedType: 1059`)
+* **Lance-chou puant** (`seedType: 1118`)
+* **Ombrelle Chou** (`seedType: 1128`)
+* **Lance-chou Argenté** (`seedType: 1134`)
+* **Lance-pastèque Dumara** (`seedType: 1124`)
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Zombie Cambrioleur** (`theZombieType: 63`)
+* **Michael des Tropiques** (`theZombieType: 64`)
+* **Zombie Capitaine-quarterback** (`theZombieType: 66`)
+
+## 🛠️ **Modified Zombies**
+* **Noix-mecha Zombie** (`theZombieType: 40`)
+* **Yéti Zombie** (`theZombieType: 47`)
+* **Yéti Huo-Long** (`theZombieType: 48`)
+* **Zombie Kidnappeur** (`theZombieType: 45`)
+* **Gargantua Gladiateur** (`theZombieType: 43`)
 
 ---
 
