@@ -22,14 +22,42 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **3**
-* Traductions ajustées : **18**
+* Nouvelles traductions : **11**
+* Traductions ajustées : **20**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `19/01/26 → 24/01/26`
+> [PR#70](https://github.com/Teyliu/PVZF-Translation/pull/70) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **8**
+* Traductions ajustées : **2**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Champi-trouille** (`seedType: 1349`)
+* **Champi-lumière: lumière du soleil** (`seedType: 230`)
+* **Champi-lumière: lumière de l’esprit** (`seedType: 231`)
+* **Champi-lumière: explosion de lumière** (`seedType: 232`)
+* **Champi-étoile filante** (`seedType: 1356`)
+* **Barrage de Chou** (`seedType: 1342`)
+* **Cratère en éruption** (`seedType: 966`)
+* **Pastèque du Chaos** (`seedType: 964`)
+
+## 🧩 **Modified Plants**
+* **Pot de Chou** (`seedType: 1112`)
+* **Lance-taco** (`seedType: 1113`)
 
 ---
 

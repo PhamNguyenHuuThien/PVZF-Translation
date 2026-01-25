@@ -8,7 +8,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Ink Stolas*
 
 * **Contributeur** : ItGourmand
 * **Rôle** : Traducteur
-* **Période d’activité** : `22/12/25 → En poste`
+* **Période d’activité** : `22/12/25 → 04/01/26`
 
 
 **Réseaux & contacts**

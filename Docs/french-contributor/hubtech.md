@@ -21,8 +21,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **14**
-* Traductions ajustées : **33**
+* Nouvelles traductions : **20**
+* Traductions ajustées : **40**
 
 
 ---
@@ -30,6 +30,37 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `19/01/26 → 24/01/26`
+> [PR#70](https://github.com/Teyliu/PVZF-Translation/pull/70) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **6**
+* Traductions ajustées : **7**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Écraseur Maudit** (`seedType: 1345`)
+* **Lance-courge** (`seedType: 1343`)
+* **Écraseur Cerise** (`seedType: 1344`)
+* **Écraseur Solaire** (`seedType: 1351`)
+* **Écrase-patate** (`seedType: 1353`)
+* **Purée de Patate** (`seedType: 1354`)
+
+## 🛠️ **Modified Zombies**
+* **Zombie Échelle** (`theZombieType: 33`)
+* **Méga Gargantua** (`theZombieType: 36`)
+* **Diablotin** (`theZombieType: 37`)
+* **Méga Gargantua Mecha** (`theZombieType: 39`)
+* **Zombie Pogo Pastèque** (`theZombieType: 34`)
+* **Gargantua** (`theZombieType: 35`)
+* **Gargantua Mecha** (`theZombieType: 38`)
 
 ---
 

@@ -8,7 +8,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Ink Stolas*
 
 * **Contributeur** : Ink Stolas
 * **Rôle** : Traducteur
-* **Période d’activité** : `15/12/25 → En poste`
+* **Période d’activité** : `15/12/25 → 21/12/25`
 
 
 **Réseaux & contacts**

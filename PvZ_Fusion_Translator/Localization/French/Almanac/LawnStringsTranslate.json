@@ -849,10 +849,10 @@
         },
         {
             "seedType": 1054,
-            "name": "Écraseur Épicé",
-            "introduce": "<size=36><color=black>\"Je ne suis pas aussi impatient que mon frère\", déclara calmement l'Écraseur Épicé. \"Il se précipite dans tout, mais j'ai appris que le véritable succès vient de la patience et d'une observation attentive. Parfois, il vaut mieux attendre et laisser le feu mijoter.\"</color></size>",
-            "info": "<size=36>L'Écraseur Épicé peut bruler toute une rangée de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000> 1800 (Tuile simple) + 1800 (Allée + Crémateur)</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Jalapeño</color></size>",
-            "cost": ""
+            "name": "Écraseur Pimenté",
+            "introduce": "<align=justified><size=36><color=black>\"Je ne suis pas aussi impatient que mon frère,\" déclare calmement l'Écraseur Pimenté. \"Lui fonce dans tout, mais j'ai appris que le vrai succès vient de la patience et de l'observation attentive. Parfois, il vaut mieux attendre et laisser le feu mijoter.\"</color></size>",
+            "info": "<size=36>L'Écraseur Pimenté peut brûler toute une rangée de zombies.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Case unique) + 1800 (Rangée + Crémateur)</color>\n<color=black>Spécial: </color><color=#8B0000>Libère l'effet Jalapeño en écrasant les zombies.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Jalapeño</color></size>"
         },
         {
             "seedType": 1055,
@@ -885,9 +885,9 @@
         {
             "seedType": 1059,
             "name": "Écras-torche",
-            "introduce": "<size=36><color=black>\"Il fait beaucoup trop chaud ! Trop chaud !\" Cria Écraseur, piégé dans les flammes de Torche. \"Qui m'a mis ici ? Je devrais être en train d'écraser des zombies, pas d'être la punchline d'un barbecue !\" La chaleur était accablante et alors qu'il atteignait son point de rupture, il s'enflamma, jaillissant de la torche pour rejoindre la bataille contre les zombies.</color></size>",
-            "info": "<size=36>Produit un écraseur devant lui pour chaque 60 pois qui lui passe à travers\n<color=black>Spécial : </color><color=#8B0000>A chaque fois que 60 petits pois seront allumés, un Écraseur sera planté devant.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Torche</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Il fait beaucoup trop chaud ! AU FEU !\" Cria Écraseur, piégé dans les flammes de Torche. \"Qui m'a mis ici ? Je devrais être en train d'écraser des zombies, pas d'etre de la garniture dans un barbecue !\" La chaleur était accablante et alors qu'il atteignait son point de rupture, il s'enflamma, jaillissant de la torche pour rejoindre la bataille contre les zombies.</color></size>",
+            "info": "<size=36>Produit un écraseur devant lui pour chaque 51 pois qui lui passe à travers\n<color=black>Spécial : </color><color=#8B0000>A chaque fois que 51 pois seront allumés, un Écraseur Incandescent sera planté devant.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Écraseur + Torche</color>"
         },
         {
             "seedType": 1060,
@@ -1256,16 +1256,16 @@
         {
             "seedType": 1112,
             "name": "Pot de Chou",
-            "introduce": "<size=36><color=black>\"Je ne suis pas seulement un pot pour contenir des choux, et Lance-chou n'est pas la plante la plus faible ! Lance-chou et moi sommes les meilleurs amis\", dit Cabbage Pot avec assurance. Leur amitié est peut-être née parce que... l'un d'eux est chauve et l'autre est déjà chauve.</color>",
-            "info": "<size=36>Donne un bonus de vitesse d'attaque de 50% pour n'imorte quelle plante de type choux en haut d'elle.\n\n<color=black>Spécial : </color><color=#8B0000>Accorde une augmentation de vitesse d'attaque de 50 % aux plantes de type Chou.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Pot de Fleur</color>",
-            "cost": "<size=36>"
+            "introduce": "<align=justified><size=36><color=black>\"Je ne suis pas seulement un pot pour contenir des choux, et Lance-chou n'est pas la plante la plus fragile ! Lance-chou et moi sommes les meilleurs amis,\" dit fièrement Pot de Chou. Leur amitié a peut-être commencé parce que... l'un d'eux perd ses cheveux, et l'autre est déjà chauve.</color>",
+            "info": "<size=36>Confère un bonus de vitesse d'attaque aux plantes de type Chou au-dessus de lui.\n\n<color=black>Spécial: </color><color=#8B0000>Réduit l'intervalle d'attaque de Lance-fléau et Chou Sol au-dessus de lui à 1.5 secondes, et diminue l'intervalle d'attaque des autres plantes de type Chou de 33 %.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Pot de Fleur</color>"
         },
         {
             "seedType": 1113,
-            "name": "Cata-taco",
-            "introduce": "<size=36><color=black>Taco-pult se demande toujours pourquoi, malgré l'apprentissage des compétences de Lance-maïs et ses bonnes performances sur le champ de bataille, Dave a du mal à le regarder et l'évite même. En vérité, c'est parce que Taco-pult ressemble trop à un taco, et chaque fois que Dave le voit, il a juste envie de le prendre dans ses bras et de le manger.</color>",
-            "info": "<size=36>Lance des tacos qui peuvent rebondir une fois et peut aussi lancer du beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles rebondissent une fois. A 1/4 de chance de lancer du beurre, infligeant 80 dégâts et immobilisant les zombies pendant 4 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-maïs</color>",
-            "cost": "<size=36>"
+            "name": "Lance-taco",
+            "introduce": "<align=justified><size=36><color=black>Lance-taco se demande toujours pourquoi, malgré ses compétences apprises de Lance-maïs et ses performances au combat, Dave a du mal à le regarder et l'évite même. En réalité, c'est parce que Lance-taco ressemble trop à un taco, et chaque fois que Dave le voit, il a juste envie de le prendre et de le manger.</color>",
+            "info": "<size=36>Lance des tacos qui peuvent rebondir une fois et peut aussi lancer du beurre.\n\n<color=black>Dégâts: </color><color=#8B0000>40/3 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Les projectiles rebondissent une fois. Possède 1 chance sur 4 de lancer du beurre, infligeant 60 dégâts et immobilisant les zombies pendant 4 secondes.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Lance-maïs</color>"
         },
         {
             "seedType": 1114,
@@ -1292,15 +1292,15 @@
             "seedType": 1117,
             "name": "Lance-girofle",
             "introduce": "<align=justified><size=36><color=black>\"Dans les années 90, les gens croyaient largement que la meilleure façon de lutter contre les zombies était de la semoule de maïs et du sang de chien noir. Pour nous, les plantes, l’ail est une ressource stratégique bien trop importante pour être utilisée à tout va ! Nous avons des clous de girofle ! C’est pour cela que j'en lance !\", explique Lance-girofle avec une attitude sage.</color>",
-            "info": "<size=36>Lance de petits clous de girofle sur les zombies; Parfois, ce sont des mottes de beurre aux clous de girofle (beurk).\n\n<color=black>Dégâts: </color><color=#8B0000>40/3s</color>\n<color=black>Système Poison : </color><color=#8B0000>Chaque attaque accumule 1 point de Poison, avec un maximum de 5. À 5 points, l'Altération Empoisonné est appliquée. A 1/4 de chance de lancer du beurre aux clous de girofle, qui immobilise pour 4 s et inflige 60 dégâts, obligeant le zombie à changer de ligne. Le beurre au clou de girofle Empoisonne également le zombie pour 9 s. La motte de beurre augmente également le plafond des points de Poison (30 points maximum). Les zombies perdent 20 PV par secondes et par points de Poison cumulés.</color>",
+            "info": "<size=36>Lance de petits clous de girofle sur les zombies; Parfois, ce sont des mottes de beurre aux clous de girofle (beurk).\n\n<color=black>Dégâts: </color><color=#8B0000>40/3s</color>\n<color=#5E1675>Système Poison : </color><color=#8B0000>Chaque attaque accumule 1 point de Poison, avec un maximum de 5. À 5 points, l'Altération Empoisonné est appliquée. A 1/4 de chance de lancer du beurre aux clous de girofle, qui immobilise pour 4 s et inflige 60 dégâts, obligeant le zombie à changer de ligne. Le beurre au clou de girofle Empoisonne également le zombie pour 9 s. La motte de beurre augmente également le plafond des points de Poison (30 points maximum). Les zombies perdent 20 PV par secondes et par points de Poison cumulés.</color>",
             "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Lance-maïs + Ail</color>"
         },
         {
             "seedType": 1118,
-            "name": "Cata-oignon",
-            "introduce": "<size=36><color=black>\"La combinaison de chou et d'Ail est fraîche, délicieuse et saine, et elle est simple à préparer. Ajouter quelques gousses d'Ail avant de servir rehausse la saveur\", explique le chef Ail. Manger Ail aurait également un effet sur la prévention de la chute des cheveux.</color>",
-            "info": "<size=36>Lance un projectile qui rebondit une fois, et chaque fois qu'il touche un zombie avec des points de poison supérieurs à 0, il peut rebondir à nouveau. Il n'y a pas de limite aux temps de rebond et chaque coup ajoute 1 point de poison.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque coup de zombie ajoute 1 point de poison. Voir Pulte de clou de girofle pour plus de détails.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Ail</color>",
-            "cost": "<size=36>"
+            "name": "Lance-chou puant",
+            "introduce": "<align=justified><size=36><color=black>\"La combinaison de chou et d'ail est fraîche, délicieuse et saine, et elle est simple à préparer. Ajouter quelques gousses d'ail avant de servir rehausse la saveur,\" explique Chef cuisto Ail. Manger de l'ail est également réputé pour avoir un effet contre la perte de cheveux.</color></size>",
+            "info": "<size=36>Lance des choux puants et des restent pourris sur les zombies.\n\n<color=black>Dégâts: </color><color=#8B0000>40/3s</color>\n<color=#5E1675>Système de Poison: </color><color=#8B0000>\n<color=black>•</color> Voir Lance-girofle pour les détails sur le système de Poison.\n<color=black>•</color> Chaque fois qu'il touche un zombie ayant des points de Poison supérieur à 0, il peut rebondir à nouveau. Aucun nombre limite de rebonds.\n<color=black>•</color> Chaque coup reçoit des dégâts bonus proportionnels à la valeur de Poison du zombie, puis ajoute 1 point de Poison.\n<color=black>Spécial: </color><color=#8B0000>Lance un projectile qui rebondit une fois.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Ail</color></size>"
         },
         {
             "seedType": 1119,
@@ -1339,10 +1339,10 @@
         },
         {
             "seedType": 1124,
-            "name": "Cata-pastèque",
-            "introduce": "<size=36><color=black>\"Enlevez l'extérieur vert et vous trouverez un cœur de roses à l'intérieur.\" Cette phrase signifie ne pas entrer au hasard dans un salon de coiffure inconnu : ce serait une décision époustouflante.\n\nMelon Pot : \"Après avoir fini une pastèque, porter l'écorce sur la tête est quelque chose que tout le monde faisait quand on était enfant.\" Pot de Fleur remarque : \"Honnêtement, c'est un peu idiot.\"</color>",
-            "info": "<size=36>Tire des melons qui rebondissent une fois.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Lance-pastèque</color>",
-            "cost": "<size=36>"
+            "name": "Lance-pastèque Dumara",
+            "introduce": "<align=justified><size=36><color=black>\"Retirez l'extérieur vert, et vous trouverez un cœur de roses à l'intérieur.\" Cette phrase signifie : ne vous aventurez pas au hasard dans un salon de coiffure inconnu, ce serait une décision que vous pourriez regretter.\" Pot de Pastèque remarque, \"Après avoir fini une pastèque, mettre la peau de pastèque sur la tête est quelque chose que tout le monde faisait enfant.\" Pot de Pastèque ajoute : \"Honnêtement, c'était un peu ridicule quand on y pense.\"</color></size>",
+            "info": "<size=36>Tire des pastèques qui rebondissent une fois.\n\n<color=black>Dégâts: </color><color=#8B0000>80/3s</color>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Lance-pastèque</color></size>"
         },
         {
             "seedType": 1125,
@@ -1367,10 +1367,10 @@
         },
         {
             "seedType": 1128,
-            "name": "Parapluie de Chou",
-            "introduce": "<size=36><color=black>Quand on lui a demandé quel était son secret pour réussir, Umbrella Kale a répondu : \"En fait, j'aime vraiment laisser les couilles reposer sur ma tête.\" Elle fit une pause, \"Mais les autres plantes me félicitent toutes comme étant une protectrice de premier ordre.\"</color>",
-            "info": "<size=36>Peut faire rebondir des projectiles de type catapulte. S'il n'y a pas de zombies, il peut stocker des projectiles pendant un certain temps et augmenter considérablement leurs dégâts.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Priorité aux catapultes pour le ciblage et augmente les dégâts des projectiles de 80 %, repousse les zombies qui s'approchent et perd de l'Endurance à chaque fois. Voir Coque de parapluie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-chou + Ombrelle</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle Chou",
+            "introduce": "<align=justified><size=36><color=black>Quand on demande qu'elle est son secret pour réussir, Ombrelle Chou répond, \"En fait, j'aime juste vraiment laisser les balles se reposer sur ma tête.\" Elle fait une pause, \"Mais les autres plantes me considèrent toutes comme une protectrice hors pair.\"</color></size>",
+            "info": "<size=36>Peut renvoyer les projectiles de type catapulte pour augmenter leurs dégâts.\n\n<color=black>Robustesse: </color><color=#8B0000>1000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Priorisée par les catapultes pour le ciblage. Augmente les dégâts des projectiles de 75%.\n<color=black>•</color> Si aucun zombie n'est présent, elle peut stocker des projectiles temporairement.\n<color=black>•</color> Repousse les zombies au prix de sa Robustesse. Voir Ombrelle Beurrée pour s'informer sur la consommation de Robustesse lors de repousse.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Lance-chou + Ombrelle</color></size>"
         },
         {
             "seedType": 1129,
@@ -1409,10 +1409,10 @@
         },
         {
             "seedType": 1134,
-            "name": "Chou Argenté",
-            "introduce": "<size=36><color=black>En plus d'un extérieur argenté brillant, Silver Cabbage a également un cœur argenté. Silver Cabbage rêve de devenir enseignant et a déjà un slogan en tête : \"Instructeur Silver Cabbage, à votre service.\"</color>",
-            "info": "<size=36>Lance des choux argentés pour attaquer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Souci + Lance-chou</color>",
-            "cost": "<size=36>"
+            "name": "Lance-chou Argenté",
+            "introduce": "<align=justified><size=36><color=black>En plus d'un extérieur argenté brillant, Lance-chou Argenté a également un cœur en argent. Il rêve de devenir enseignant et a déjà une phrase fétiche en tête : \"Si le combat est sûr d’aboutir à la victoire, alors vous devez combattre !\" Par Soldat TF2</color></size>",
+            "info": "<size=36>Lance des choux argentés pour attaquer les zombies.\n\n<color=black>Dégâts: </color><color=#8B0000>60/3s</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Souci + Lance-chou</color></size>"
         },
         {
             "seedType": 1135,
@@ -1607,7 +1607,7 @@
             "seedType": 242,
             "name": "Reine Endoflame",
             "introduce": "<align=justified><size=36><color=black>La petite fleur autrefois fougueuse est devenue une maîtresse dans l’art de la production de lumière solaire après avoir enduré de nombreuses épreuves. Reine Endoflame n’a plus besoin de se blesser pour briller. La torche sur sa tête est devenue l’essence de son pouvoir, flamboyante comme le soleil. Les flammes lumineuses continuent de flamboyer, créant une Endoflamme après l’autre.</color>",
-            "info": "<size=36>Réduit les zombies en poussière avec des éruptions solaires.\n\n<color=blue>Plante de la collaboration avec Barley Edition S6 (jeu non officiel PVZ)</color>\n<color=#4A2900>Conditions d’utilisation : Mode Odyssey</color>\n<color=#4A2900>Conditions de déverrouillage : Terminer l’Odyssey classique</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>50x8/3s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Augmente les dégâts de 50 % pour chaque type unique de Plante d’Odyssey présent sur le terrain.\n<color=black>•</color>Cible les zombies sur tout le champ de bataille.\n<color=black>•</color>Les projectiles rendent 8 petits soleils à l’impact d'une valeur de 5 soleil et peuvent être améliorés en traversant la Torche Infernale / Écras-torche Infernale, infligeant alors x4 dégâts et rendant 15 soleil chacun (avec le modificateur Odyssey d’augmentation de soleil, ils rendent 15 et 25 soleils à la place).<color=#8B0000></color>",
+            "info": "<size=36>Réduit les zombies en poussière avec des éruptions solaires.\n\n<color=blue>Plante de la collaboration avec Barley Edition S6 (jeu non officiel PVZ)</color>\n<color=#4A2900>Conditions d’utilisation : Mode Odyssée</color>\n<color=#4A2900>Conditions de déverrouillage : Terminer l’Odyssée classique</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>50x8/3s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Augmente les dégâts de 50 % pour chaque type unique de Plante d’Odyssey présent sur le terrain.\n<color=black>•</color>Cible les zombies sur tout le champ de bataille.\n<color=black>•</color>Les projectiles rendent 8 petits soleils à l’impact d'une valeur de 5 soleil et peuvent être améliorés en traversant la Torche Infernale / Écras-torche Infernale, infligeant alors x4 dégâts et rendant 15 soleil chacun (avec le modificateur Odyssey d’augmentation de soleil, ils rendent 15 et 25 soleils à la place).<color=#8B0000></color>",
             "cost": "<size=36>Coût :<color=#8B0000>200</color>\nRecharge : <color=#8B0000>30s</color>"
         },
         {
@@ -3282,6 +3282,188 @@
             "introduce": "<align=justified><size=36><color=black>Les Écraseurs Incandescent sautent une par une hors d'Écras-torche : \" Ça chauffe ici ; tout notre corps grille, nous ne voulont pas finir en aliment pour Dave le dingo ! \" déclarent-ils.</color></size>",
             "info": "<size=36>Juste un Écraseur brulant et enrobé d’un glaçage avec une délicieuse sève.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Portée de Détection: </color><color=#8B0000>0,5 tuile à gauche ; 1 tuile à droite</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être utilisée pour des fusions.\n<color=black>•</color> Peut être convertie en un Écraseur normale à l’aide d’un Pot de glace.</color></size>",
             "cost": "\n<size=36>Coût : <color=#8B0000>Apparait pour 51 pois enflammés par Écras-torche.</color></size>"
+        },
+        {
+            "seedType": 1349,
+            "name": "Champi-trouille",
+            "introduce": "<align=justified><size=36><color=black>Les trois frères Champi-gnon Citrouille sont des enfants très aimés et bien élevés : calmes, ordonnés et jamais querelleurs. Leur seul passe-temps consiste à essayer d'assembler le puzzle de citrouille qui se trouve sur leur tête, mais malheureusement, ils n'y sont jamais tout à fait parvenus. .</color>",
+            "info": "<size=36>Plus il y a de Champi-gnon dans la Champi-trouille, plus la protection est forte!\n\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Plante courte (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Restaure 50 pv toutes les 3 secondes. Commence avec 1/4 de ces pv max.\n<color=black>•</color> A 1/3 max des PV ou plus, réduit les dégâts subis de 50 %.\n<color=black>•</color> À 2/3 des PV max ou plus, absorbe les dégâts pour la plante à l'intérieur.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-gnon + Citrouille</color>"
+        },
+        {
+            "seedType": 230,
+            "name": "Champi-lumière: lumière du soleil",
+            "introduce": "<align=justified><size=36><color=black>La première fois que Champi-lumière a vu une luciole quand il était enfant, il était captivée. Les lumières vacillantes dans l'herbe: Une vie si belle et pourtant si éphémère, comme les lampes ou les étoiles, qui peignent le ciel nocturne de rêves. Peut-être est-ce pour cela qu'il regarde les soleils qu'elle produit avec joie plutôt qu'avec dégoût.</color>",
+            "info": "<size=36>Champi-lumière: lumière du soleil vit en symbiose avec les lucioles.\n\n<color=blue>PvZ: Plante symbiotique collaborative</color>\n<color=black>Production de soleil: </color><color=#8B0000>20→35/25 secondes\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Les Champi-soleil se transforment en Champi-lumière, obtiennent la compétence <u>Champi-solaire</u> après 150 secondes si le niveau Lumos de leur case est supérieur ou égal à 1. Chaque niveau Lumos supplémentaire accélère la conversion de 100 %.\n<color=black>•</color></color> Lumo-solaire : produit des soleil, qui valent 20 chacun (35 à maturité).</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-solaire + Lumos level</color>"
+        },
+        {
+            "seedType": 231,
+            "name": "Champi-lumière: lumière de l’esprit",
+            "introduce": "<align=justified><size=36><color=black>Ce n'est qu'après avoir entendu l'histoire de \"l'herbe pourrie donnant naissance à des lucioles\" que Champi-lumière comprenait pourquoi ses amis ne semblaient jamais tristes lorsqu'ils se séparaient. Pour eux, chaque cycle était une grande réunion, et non la fin de la vie. \" Nous sommes destinés à nous séparer, mais nous sommes également destinés à nous retrouver. \"</color>",
+            "info": "<size=36>Deuxième forme de Champi-lumière.\n\n<color=blue>PvZ: Plante symbiotique collaborative</color>\n<color=black>Production solaire: </color><color=#8B0000>20→35/25 secondes\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Après 150 secondes supplémentaires sous Lumos, les Champi-lumière acquièrent la capacité <u>lumière de l’esprit</u>. Chaque niveau Lumos supplémentaire accélère la vitesse des mises à niveau de 100 %.\n<color=black>•</color> Lumière de l’esprit: Quand un zombie mord un Champi-lumière, 1 lumière de l’esprit commence à suivre ce zombie (2 s'il est adulte). Chaque fois qu'un zombie suivi subit des dégâts, 1 lumière de l’esprit s'envole et produit un petit lumière du soleil. Lorsque le zombie meurt, tous les lumière de l’esprit qui le suivaient sont libérés, laissant tomber un nombre égal de soleil. Un zombie peut avoir jusqu'à 20 lumière de l’esprit qui le suivent à la fois.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-lumière + Lumos Level</color>"
+        },
+        {
+            "seedType": 232,
+            "name": "Champi-lumière: explosion de lumière",
+            "introduce": "<align=justified><size=36><color=black>\"Si tu lèves les yeux et que tu vois les lucioles virevolter, c'est moi, de retour à tes côtés.\" Champi-lumière n'a jamais craint la mort. Née de l'herbe fanée, brillant à la fin de l'été, elle embrasse une dernière et résolue splendeur pour déclencher la symphonie de la renaissance. À la tombée de la nuit, le silence s'installe, la roue du yin et du yang tourne, et le cycle se perpétue à l'infini.</color>",
+            "info": "<size=36>Troisième forme de Champi-lumière.\n\n<color=blue>PvZ: Plante symbiotique collaborative</color>\n<color=black>Production solaire: </color><color=#8B0000>20→35/25 secondes\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Après 150 secondes supplémentaires sous Lumos, les Champi-lumières acquièrent la capacité<u>explosion de lumière</u>.Chaque niveau Lumos supplémentaire accélère la vitesse des mises à niveau de 100 %.\n<color=black>•</color> Explosion de lumière: Quand un Champi-lumière meurt, tous les zombies dans un petit rayon sont suivis par cinq Lumo-flies (portée augmentée à maturité).</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-lumière + Lumos Level</color>"
+        },
+        {
+            "seedType": 1356,
+            "name": "Champi-étoile filante",
+            "introduce": "<align=justified><size=36><color=black>Lorsque le chapeau en forme d'étoile du Champi-étoile filante touche un zombie, il libère des projectiles en forme d'étoiles, ce qui améliore considérablement l'efficacité des projectiles. \"En fait, si l'étoile à propulsion arrière était également optimisée, le rendement pourrait être encore plus élevé.\" L'un de ses camarades fit remarquer tout en esquivant le projectile qui revenait.</color>",
+            "info": "<size=36>Des feux transperçant des étoiles qui se divisent en cinq étoiles au contact.\n\n<color=black>Dégat: </color><color=#8B0000>0 + 20×5×(0-3)/1.5 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>La casquette étoilée ne cause aucun dégât et peut transpercer deux fois. Chaque fois qu'elle entre en contact avec un zombie, elle libère 1 projectile étoilé dans chacune des 5 directions, chacun infligeant 20 points de dégâts.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-fumée + Carambole</color>"
+        },
+        {
+            "seedType": 1341,
+            "name": "Planterne Ultraviolet",
+            "introduce": "<align=justified><size=36><color=black> Les Planternes Ultraviolet ne consomment pas l’obscurité pour créer de la lumière. Leurs lumières est alimentée par leurs mépris pour les Zombies, et quelques grammes de plutonium. \"Il n’y a pas d’échappatoire face à la lumière. Brûlez tous les trompeurs !\"\n\n-Par Kayle la vertueuse</color>",
+            "info": "<size=36>Sa lumière UV rallume les braises et confère aux lasers des effets explosifs.\n\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Toutes les 3 s, fournit 3 points de braise (valeur de Braise) aux Torche Maudites dans une zone de 3×3.\n<color=black>•</color>Le laser du Cactus Lumineux devient violet et acquiert la capacité de déclencher une explosion sur 1 tuile, infligeant 10 points de dégâts à l’impact après avoir traversés les zombies.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mort + Planterne</color>"
+        },
+        {
+            "seedType": 1345,
+            "name": "Écraseur Maudit",
+            "introduce": "<align=justified><size=36><color=black>Écraseur Maudit parle rarement à quiconque sur la pelouse. Il se déplace silencieusement d’un endroit à l’autre, ne laissant derrière lui que des cratères. La rumeur raconte qu’il devait à l’origine être déployé uniquement en \"circonstances désespérées\", mais qu’il aurait d’une manière ou d’une autre échappé au confinement.\n\n- SCP-682</color>",
+            "info": "<size=36>Un Écraseur extrêmement explosif, avec une forte propension aux dégâts collatéraux.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur) + 1800 (zone 5×5, Crémateur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche ; 3 cases à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l’atterrissage, déclenche une explosion de Champi-mort, laissant un cratère à l’endroit de l’impact et détruisant également toutes les plantes présentes sur cette case.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Champi-mort</color>"
+        },
+        {
+            "seedType": 1343,
+            "name": "Lance-courge",
+            "introduce": "<align=justified><size=36><color=black>L’Écraseur est lourd, mais trop mou. Les pastèques sont lourdes aussi, mais trop fragiles. Désormais, ces problèmes sont résolus. Ou peut-être simplement combinés.</color>",
+            "info": "<size=36>Les projectiles écrasent les zombies comme un Écraseur, puis se brisent comme une Pastèque, infligeant des dégâts de zone.\n\n<color=black>Dégâts : </color><color=#8B0000>120 (Écraseur) / 3 s</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles infligent des dégâts d’écrasement en zone à l’atterrissage, puis se brisent peu après, infligeant des dégâts de zone avec atténuation, similaires à Lance-pastèque.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1344,
+            "name": "Écraseur Cerise",
+            "introduce": "<align=justified><size=36><color=black>Même parmi les Écraseurs, Écraseur Cerise est réputé pour son caractère explosif et son tempérament très court. \"Essaie donc de porter quelque chose d’aussi lourd sur ton dos\", grogne-t-il. Les autres Écraseurs se soucient moins de son humeur que de la façon dont il parvient à sauter si haut et si loin avec un tel poids.</color>",
+            "info": "<size=36>Un Écraseur extrêmement explosif.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur) + 1800 (3×3, Crémateur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche ; 3 cases à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l’atterrissage, déclenche une explosion de Cerise explosive.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Cerise explosive</color>"
+        },
+        {
+            "seedType": 1351,
+            "name": "Écraseur Solaire",
+            "introduce": "<align=justified><size=36><color=black>L’activité préférée d’Écraseur Solaire consiste à tapoter délicatement les pétales sur sa tête avec sa feuille, puis à se vanter fièrement auprès des autres Écraseurs : \"Voilà ce que donne un shampoing alimenté au Soleil. Regardez comme mes cheveux sont soyeux.\" Heureusement pour lui, les autres Écraseurs sont tous très sérieux et ne se moquent jamais, si bien qu’il ignore toujours qu’il arbore une calvitie naissante tout à fait classique.</color>",
+            "info": "<size=36>Peut consommer du Soleil pour rester sur la pelouse après avoir écrasé un zombie.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l’atterrissage ou à la mort, consomme 50 + (nombre de résurrections précédentes) Soleil pour rester sur la case d’atterrissage / de résurrection. En cas d’échec, 50 Soleil sont remboursés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Écraseur</color>"
+        },
+        {
+            "seedType": 1353,
+            "name": "Écrase-patate",
+            "introduce": "<align=justified><size=36><color=black>Vous avez déjà vu des Écraseurs pousser sur des lianes, mais en avez-vous déjà vu un surgir directement du sol ? Ne vous laissez pas tromper : Écrase-patate n’est en réalité qu’une purée de pommes de terre façonnée en forme d’Écraseur. Mais ne vous avisez surtout pas de vous moquer de sa petite taille. S’il vous entend, il fera en sorte que vous soyez encore plus petit que lui.</color>",
+            "info": "<size=36>Produit des Purées de Patate capables d’écraser les zombies.\n\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles à tir direct).\n<color=black>•</color> Commence armé par défaut. Lorsqu’un zombie entre dans sa zone de détection, génère immédiatement une Purée de Patate à l’emplacement ciblé, puis s’enterre pendant 15 secondes afin de se réarmer.\n<color=black>•</color> La Purée de Patate possède le même effet et les mêmes dégâts qu’un Écraseur, mais avec une portée de détection plus large.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Écraseur</color>"
+        },
+        {
+            "seedType": 1354,
+            "name": "Purée de Patate",
+            "introduce": "<align=justified><size=36><color=black>Ne vous fiez pas à sa petite taille : ses ambitions sont tout sauf modestes. \"Je ne vivrai pas éternellement sous la protection de l’Écrase-patate. Je pars trouver ma propre voie.\" Sur ces mots, il bondit en avant et écrase le zombie sur son passage. Peut-être qu’un jour, lui aussi trouvera son propre cratère, tout comme l’Écrase-patate avant lui.</color>",
+            "info": "<size=36>Similaire à un Écraseur, mais bien plus facile à déclencher.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>1,5 case à gauche ; 2,5 cases à droite</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1355,
+            "name": "Ail de mort",
+            "introduce": "<align=justified><size=36><color=black> Lors d'un championnat de zombies mangeurs d’Ail, l'Ail de mort fut servi comme plat final. Le résultat : trois des dix concurrents abandonnèrent, cinq furent transportés d’urgence à l’hôpital, et les deux restants explosèrent sur place. Faute de concurrents restants, Ail de mort lui-même fut déclaré champion de l’édition de cette année.</color>",
+            "info": "<size=36>Fait exploser les zombies qui le mordent à leur mort.\n\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Inflige l'Altération Braise aux zombies qui le mordent. Les zombies maudits par la Braise explosent à leur mort dans un rayon de 1,5 tuile, infligeant 300 points de dégâts.\n<color=black>•</color> Inflige l'Altération Poison et 1 point de Poison aux zombies qui le mordent.\n<color=black>•</color> Lorsque l'Altération Braise et Poison sont actifs simultanément sur un zombie, la durée du Poison devient infinie.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mort + Ail</color>"
+        },
+        {
+            "seedType": 1238,
+            "name": "Algue Séchée",
+            "introduce": "<align=justified><size=36><color=black>Fondateur de l’entreprise désormais célèbre de massages aquatiques pour les pieds, Algue Séchée a redéfini la thérapie spa. Avec des établissements dans tous les biomes et une nouvelle gamme de voies de massage pour véhicules, les affaires sont florissantes — surtout avec une clientèle zombifiée de masse.</color>",
+            "info": "<size=36>Algue Séchée entrave les zombies même sur la terre ferme.\n\n<color=black>Dégâts: </color><color=#8B0000>20/1s</color>\n<color=black>Spécial: </color><color=#8B0000>Les attaques ajoutent 1 point de Valeur d’Entrave terrestre (1/3 de l’efficacité de la Valeur d’Entrave aquatique).</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Ortie + Algue</color>"
+        },
+        {
+            "seedType": 941,
+            "name": "Capitaine Algue-d'or",
+            "introduce": "<align=justified><size=36><color=black>Depuis son retour de la bataille de l’Abîme du Maelstrom, le Capitaine Algue-d’Or est devenu une bête transformée — plus féroce, plus avide et deux fois plus courageux. Aujourd’hui, en tant que capitaine du maudit Hollandais Volant, lié par deux cœurs — l’un arraché de sa propre poitrine, l’autre volé au rival tombé — la fureur du Capitaine Algue-d’Or règne sur les Sept Mers. Osez poser la main sur ses cœurs, et vous verrez votre navire sombrer tout droit au cimetière des navires fantômes, là où votre nom appartiendra au passé, condamné à périr sous les flots salés.</color>",
+            "info": "<size=36>Seigneur avide des Sept Mers, capable d’extraire jusqu’à la dernière goutte de valeur des zombies.\n\n<color=#4A2900>Condition d'Utilisation: Mode Odyssée | Déverouillage</color>\n<color=black>Dégâts: </color><color=#8B0000>40×3/1.5s + mort instantanée (Noie les zombies) × ∞</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Conserve tous les traits de l'Algue Hydre, mais peut noyer les zombies sous l’eau un nombre infini de fois (jusqu’à une fois par seconde).\n<color=black>•</color> Les zombies touchés par ses projectiles deviennent dorés — lorsqu’ils meurent, ils accordent ×3 points Odyssée. Bonus maximum : +2000 points par vague.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Les plantes infligent 5 % de dégâts supplémentaires pour chaque total de 1000 points possédés (jusqu’à +300 %), 2. La boutique Odyssée offre désormais une réduction de 30 % sur les modificateurs</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Double Souci + Algue Hydre</color>"
+        },
+        {
+            "seedType": 958,
+            "name": "Queue du Lion de Prométhée",
+            "introduce": "<align=justified><size=36><color=black>La rivière est sa scène soigneusement orchestrée, chaque ondulation une corde de son instrument. Lorsque les zombies s’aventurent dans l’eau, la Queue du Lion de Prométhée entame sa représentation : des boules de feu en prélude, des rayons de chaleur en apogée, et des cendres pour le final, composant un requiem pour ses ennemis.</color></size>",
+            "info": "<size=36>Détient le pouvoir du feu éternel, allumant boules de feu et rayons brûlants pour réduire les zombies en cendres.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable (Route Rivière)</color>\n<color=black>Dégâts : </color><color=#8B0000>300×2/0,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les attaques sont à tête chercheuse sur tout l’écran et priorisent les zombies volants.\n<color=black>•</color> Les attaques appliquent l’altération Enflammé, puis provoquent un recul monocible suivi d’explosions de Cerise Explosive.\n<color=black>•</color> Gagne 1 charge d’énergie par cycle d’attaque. Gagne 60 PV et 60 charges d’énergie lorsqu’affectée par un Jalapeño ou une Cerise Explosive.\n<color=black>•</color> À 240 charges d’énergie, consomme toute l’énergie pour tirer des rayons de chaleur perforants à ±15°, infligeant des dégâts toutes les 0,15 s. Chaque impact applique les mêmes effets que les tirs à tête chercheuse, avec des dégâts ×6 et un recul réduit de moitié. Dure 3 s ; ne peut pas gagner d’énergie pendant cette durée.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Fréquence des dégâts des rayons de chaleur ×2\n2. Dégâts des tirs normaux ×3</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Piment d'Espelette > Nénu-chat Enflammé</color></size>"
+        },
+        {
+            "seedType": 947,
+            "name": "Sauveteur Boréal",
+            "introduce": "<align=justified><size=36><color=black>Au cœur de la toundra se dresse le Sauveteur Boréal, gardien des étendues gelées. Depuis des années, il endure des hivers implacables, ses branches chargées de givre et couronnées de délicats lotus. Même lorsque de jeunes intrus gravent des runes sur son écorce, il demeure inébranlable, fidèle à sa mission.</color></size>",
+            "info": "<size=36>Le froid s’accumule sur les aiguilles d’épicéa, et des lotus fleurissent dans les arbres.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Dégâts : </color><color=#8B0000>60/0,02 s (pendant 5 s)</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 / 1 / 15 / 60 charges de glace lorsqu’affecté respectivement par une boule de neige / un trident de neige / un Champi-glace / une tempête de neige. Gagne passivement 1 charge de glace toutes les 5 s.\n<color=black>•</color> Tire toutes les 1,5 s une lame boréale faucheuse qui se transforme en projectile à tête chercheuse à l’impact. Chaque instance d’attaque applique Gel Profond, ajoute 1 point de Cryo et confère 1 charge de glace.\n<color=black>•</color> Lorsque le nombre de charges de glace dépasse 50, celles-ci sont consommées intégralement toutes les 5 s afin de soigner toutes les plantes dans une zone de 3×3 pour un montant égal à : (charges de glace ÷ nombre de plantes) × (0,3 × bouclier + 0,7 × PV).\n<color=black>Spécial : </color><color=#8B0000>Insensible au gel provoqué par les Boules de Neige et les Tempêtes de Neige.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Les lames boréales faucheuses durent désormais 15 s\n2. Les soins ne sont plus répartis entre les plantes</color></size>",
+            "cost": "<size=36>Formule de fusion : <color=#8B0000>Épicéa Tireur d’exception + Épicéa en Fleur</color></size>"
+        },
+        {
+            "seedType": 1204,
+            "name": "Feuille Flottante",
+            "introduce": "<align=justified><size=36><color=black>Après avoir démissionné, Feuille flottante est parti faire le tour du monde. \" Se laisser porter par le vent vers les endroits que désire ton cœur, n’est-ce pas terriblement romantique ? \" Ses voyages ont donné naissance à un livre salué par des lecteurs de tous horizons.</color></size>",
+            "info": "<size=36>Une Ombrelle miniaturisée, capable de flotter et de ne protéger qu’une seule case.\n\n<color=black>Spécial : </color><color=#8B0000>Plante flottante. Hérite des propriétés de l’Ombrelle, mais ne protège que la plante directement en dessous.</color></size>",
+            "cost": "<size=36>Formule de fusion : <color=#8B0000>Ombrelle + Troufle</color></size>"
+        },
+        {
+            "seedType": 951,
+            "name": "Tyran Luminescent",
+            "introduce": "<align=justified><size=36><color=black>Tyran Luminescent ignore comment il a fini échoué sur la terre ferme après une remontée des abysses, mais il s’y est très vite senti chez lui. \" Pourquoi retourner dans les profondeurs sombres et désertes quand les zombies sont toujours au menu ? \" gronde-t-il. La légende raconte que son appétit est si colossal que les concours gastronomiques ont dû arrêter — incapables de payer la facture d’électricité. Il serait désormais leur source d’énergie d’urgence.</color></size>",
+            "info": "<size=36>Un Mordeur géant qui attire les zombies grâce à la lumière — maître de l’appât, de la dévoration et de la digestion.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>5 + (Somme de la robustesse des zombies)^0,33 s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Chaque niveau de Lumos réduit le temps de digestion de 10 s, jusqu’à un minimum de 5 s.</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Anti-écrasement.\n<color=black>•</color> Peut avaler tous les zombies non mini-boss dans un rayon de 1,5 case.\n<color=black>•</color> Utiliser un sachet de graines de Mordeur réduit le temps de digestion de 10 s.\n<color=black>•</color> Après une digestion réussie, attire les zombies proches des lignes adjacentes vers sa ligne et se soigne intégralement.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Portée d’attaque ×2\n2. Confère 2 niveaux de Lumos dans une zone de 5×5 pendant la digestion</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pêcheur Lumineux > Gueule Géante</color></size>"
+        },
+        {
+            "seedType": 960,
+            "name": "Léviathan Scylla",
+            "introduce": "<align=justified><size=36><color=black>Il surgit des abysses sans fond et fait remonter les marées à la surface. Ses fidèles arpentent le ciel, la terre et la mer. Les plantes le vénèrent comme le souverain du champ de bataille ; les zombies murmurent qu’il entraînera le monde dans les ténèbres. Quant à ses propres pensées, elles demeurent impénétrables.</color></size>",
+            "info": "<size=36>Un seigneur océanique résilient dont les serviteurs invoqués entraînent les zombies dans les profondeurs.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable (Route Rivière)</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Dégâts : </color><color=#8B0000>300/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Anti-écrasement, les dégâts subis sont plafonnés à 200.\n<color=black>•</color> Gagne 1 charge d’énergie par projectile reçu. En gagne 5 lorsqu’il est nourri avec un Champi-mer.\n<color=black>•</color> Consomme 1 charge d’énergie lorsqu’il subit des dégâts, réduisant ceux-ci à 1.\n<color=black>•</color> Toutes les 15 s, repousse les zombies proches et inflige 1 point d’Entrave.\n<color=black>•</color> Toutes les 15 s, invoque 1 serviteur Entraveur qui agrippe les zombies et les noie instantanément ; contre les mini-boss, inflige des dégâts équivalents à (5 % des PV max × prises restantes).\n<color=black>•</color> Change de forme lorsque certains sachets de graines sont utilisés sur lui, restaurant 1000 PV et gagnant 5 charges d’énergie ; après 2 s, invoque les serviteurs correspondants :\n<color=#0077b6>\t- Forme Champi-glacé :</color> le plafond de dégâts de base passe à 20. Chaque attaque de base / chaque effet de Champi-glacé confère un bouclier de 300 PV à toutes les autres plantes de sa ligne.\n<color=black>\t- Forme Champi-mort :</color> usage unique. Invoque un Entraveur Apocalyptique qui frappe le zombie ayant le plus de PV et lui inflige 50 % de ses PV max, puis déclenche une explosion de Champi-doom sans cratère.\n<color=#ff10f0>\t- Forme Champi-hypno :</color> les zombies hypnotisés sur le terrain absorbent désormais les dégâts à sa place. Invoque des Entraveurs Hypno qui ciblent uniquement les zombies hypnotisés, les noient et les transforment en Bombélugas Hypnotisés.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Les serviteurs Entraveurs peuvent saisir et noyer jusqu’à 3 zombies (ou infliger ×3 dégâts) et octroient 10 charges d’énergie par zombie noyé\n2. Tire 3 projectiles d’attaque de base simultanément</color></size>",
+            "cost": "<size=36>Formule de fusion : <color=#8B0000>Champi-alevin+ Champi-kraken</color></size>"
+        },
+        {
+            "seedType": 954,
+            "name": "Princesse Nova-Solaire",
+            "introduce": "<align=justified><size=36><color=black>Princesse Nova-Solaire est la princesse du royaume de Solaria et une idole pop mondialement connue. Son tube Danse du Soleil Ardent est si populaire que même le Dr Edgar en posséderait un exemplaire. Malgré sa célébrité, elle reste proche de son peuple et de ses fans — mais attention à ne pas trop s’approcher, sa chaleur pourrait bien vous consumer.</color></size>",
+            "info": "<size=36>Génère du Soleil à une vitesse extrême tout en faisant fondre les projectiles à proximité. Lorsqu’elle est active (yeux ouverts), elle déchaîne de violentes éruptions solaires ; lorsqu’elle est inactive (clin d’œil), elle emmagasine l’énergie radieuse pour la libérer plus tard.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Production de Soleil : </color><color=#8B0000>50/3 s</color>\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Génère du Soleil et consomme les projectiles des plantes à proximité pour absorber leur énergie (1 point de dégâts = 1 point d’énergie). L’énergie est plafonnée à 4× les dégâts d’attaque ; l’excédent est converti en Soleil (1 projectile = 5 Soleil).\n<color=black>•</color> Lorsque l’énergie dépasse les dégâts d’attaque, tire un tir solaire qui explose à l’impact et inflige 100 % des dégâts dans une petite zone.\n<color=black>•</color> L’utilisation d’un Grain de Café permet d’alterner entre les modes actif et inactif. N’attaque pas en mode inactif.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Lorsqu’un tir solaire touche un zombie, les projectiles proches explosent également et infligent 10 % des dégâts d’attaque\n2. Plafond d’énergie ×3, capacité de stockage de Soleil ×3</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Tournesol Torche + Tournesol Doré</color></size>"
+        },
+        {
+            "seedType": 968,
+            "name": "Double Noix-infernale",
+            "introduce": "<align=justified><size=36><color=black>\" L’héliologie est morte ! \" hurle la Double Noix-infernale, si furieuse qu’elle manque de renverser son propre laboratoire. \" Ils m’ont tous menti — Tournesol, Champi-soleil, même Endoflame ! \" Chou Sol songe à intervenir pour demander ce qui s’est passé, mais en voyant le laboratoire en ruines et d’innombrables noix de bowling rouler au sol, il juge plus sage d’attendre que la Double Noix-infernale se calme.</color></size>",
+            "info": "<size=36>Lorsqu’elle subit des dégâts, consomme du Soleil pour récupérer des PV. Dépense des PV pour créer des Noix-Infernales Géantes capables de pulvériser les zombies Enflammés.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable avec le modificateur de Double Noix-Solaire</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Double Noix-solaire.\n<color=black>•</color> Les PV peuvent dépasser la Robustesse sans limite supérieure. Les PV excédentaires se dissipent à hauteur de 10 % des PV totaux par seconde.\n<color=black>•</color> Lorsqu’elle subit des dégâts non écrasants, peut consommer 15 Soleil pour annuler les dégâts et récupérer 50 PV.\n<color=black>•</color> Renvoie 20 dégâts lorsqu’elle est mordue et applique l’altération Enflammé.\n<color=black>•</color> Gagne 3000 PV lorsqu’elle est affectée par un Jalapeno (y compris à l’apparition).\n<color=black>•</color> Cliquer permet de dépenser 500 PV pour invoquer une Noix-Infernale Géante sur la case devant elle. Elle commence à rouler 1 s après le dernier clic. Des clics supplémentaires avant son départ augmentent sa taille et ses dégâts. Les dégâts toutes les 0,02 s sont de 600 / 1200 / 1644 pour 1 / 2 / 3 clics respectivement. La Noix-Infernale Géante inflige ×2 dégâts aux zombies Enflammés.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Soins ×2 | Effets appliqués également aux variantes Épiques\n2. Double Noix-infernale : coût du clic 500 → 200 PV | Sous-espèce déverrouillée | Effets appliqués également aux variantes Épiques</color></size>",
+            "cost": "<size=36>Formule de conversion : <color=#8B0000>Tournesol <-> Jalapeno</color></size>"
+        },
+        {
+            "seedType": 967,
+            "name": "Citrouille de Capture",
+            "introduce": "<align=justified><size=36><color=black>À mesure que le nombre de zombies augmentait, la question de rester populaire auprès d’eux devint brûlante. \" Se reposer uniquement sur les moyens de communication traditionnels ne suffit plus \", affirme la Citrouille de Capture. \" J’utiliserai un tout nouveau micro à ondes radio pour transmettre ma musique et mes émotions à un public zombie bien plus large. \" Par cette initiative, elle lança une nouvelle tendance dans la culture zombie.</color></size>",
+            "info": "<size=36>Charisme éternel.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable avec Champi-charisme</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Champi-charisme.\n<color=black>•</color> Les zombies qui tentent de la mordre sont hypnotisés à la place.\n<color=black>•</color> Capture un zombie hypnotisé non volant et non mini-boss qui la traverse, l’empêchant de quitter la case et le forçant à absorber les dégâts à la place de la Citrouille de Capture.\n<color=black>•</color> Inflige au zombie hypnotisé capturé des dégâts équivalents à 0,1× ses PV max par seconde et gagne 4 charges d’énergie.\n<color=black>•</color> Lorsque les charges d’énergie atteignent ≥0 / 50 / 100, le Niveau de Charge passe à 1 / 2 / 3, consommant respectivement 1 / 2 / 2 charges par seconde. Le Niveau de Charge est verrouillé derrière un modificateur.\n<color=black>•</color> Aux niveaux de charge 1 / 2 / 3, toutes les 15 / 10 / 6 s, hypnotise un zombie non volant et non mini-boss dans un rayon de 1,5 case. En cas de succès, la plante à l’intérieur de la citrouille obtient un bonus de dégâts de (60 % × Niveau de Charge) pendant 1 s. Les Citrouilles-laser et Citrouilles-grenade du même système Magnétique entrent en résonance et déclenchent cet effet simultanément.\n<color=black>•</color> Tant qu’un Champi-charisme se trouve à l’intérieur, il bénéficie en permanence du même bonus de dégâts de (60 % × Niveau de Charge).</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Dégâts infligés aux zombies hypnotisés capturés divisés par deux</color>\n<color=#8B0000>2. Niveau de Charge 3 déverrouillé</color></size>",
+            "cost": "<size=36>Formule de conversion : <color=#8B0000>Pelle <-> Placer Champi-charisme sur une Citrouille</color></size>"
+        },
+        {
+            "seedType": 1342,
+            "name": "Barrage de Chou",
+            "introduce": "<align=justified><size=36><color=black>Dans un grondement assourdissant, des obus vert vif s'élancent dans le ciel. \"Un cadeau d'adieu,\" dit Barrage de Chou en hochant la tête. \"Que leur dernier repas soit copieux. Même s'il ne s'agit pas de cerveaux. Tout le monde en aura sa part.\"</color>",
+            "info": "<size=36>Bombarde une large zone devant lui avec des choux.\n\n<color=black>Résistance: </color><color=#8B0000>1000</color>\n<color=black>Dégâts: </color><color=#8B0000>40/0.75 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Lorsqu'il attaque, il lance un chou sur chaque zombie situé devant lui et sur les deux voies adjacentes.\n<color=black>•</color> Parapluie de Chou ou Parapluie d'Émeraude devant sa ligne peut également intercepter les choux qui auraient été lancés vers les lignes adjacentes et les propulser.</color>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Lance-chou ∞ [Lance-chou] ∞ Lance-chou + Tuberfuse (Placé au millieu)</color>"
+        },
+        {
+            "seedType": 966,
+            "name": "Cratère en éruption",
+            "introduce": "<align=justified><size=36><color=black>Cratère en éruption est un  cosmologiste.Contrairement à ses collègues, il pense que l'univers n'est pas un feu qui finit par s'éteindre et s'effondrer, mais une existence toujours active. Pour prouver cette théorie, il a créé des choux résistants à la chaleur qui peuvent être conservés longtemps sur des Ombrelle Chou. Le modèle n'a pas convaincu ses pairs, mais a connu un succès inattendu sur le champ de bataille contre les zombies.</color>",
+            "info": "<size=36>Lance des choux pour causer des dégâts explosifs et incendiaires.\n\n<color=#4A2900>Conditions d'utilisation: Mode Odyssey | Déblocable avec Canon Volcanique</color>\n<color=black>Dégâts: </color><color=#8B0000>300×n/0.75 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Sous-espèces de Canon Volcanique.\n<color=black>•</color> La conversion en Canon Volcanique réinitialise le temps de rechargement restant à 36 secondes.\n<color=black>•</color> Lorsqu'il attaque, lance un chou enflammé sur chaque zombie (jusqu'à 10) situé dans la zone avant de sa voie et des 2 voies adjacentes.\n<color=black>•</color> Les choux enflammés infligent l'altération Enflammé lorsqu'ils touchent leur cible, puis déclenchent une explosion dans un rayon d'une case, identique à celle des cerises explosives.\n<color=black>•</color> Ombrelle Chou ou Parapluie d'Émeraude placé devant sa voie peut également intercepter les choux enflammés qui auraient été lancés vers les voies adjacentes et les propulser.</color>\n<color=black>Modificateurs Odyssey :</color>\n<color=#8B0000>1. Choux enflammés Dégâts ×3\n2. Les attaques ont 10 % de chances de déclencher les effets Cerise explosive et Jalapeño à l'emplacement du canon et ignorent la limite de 10 cibles.</color>",
+            "cost": "<size=36>Formule de conversion : <color=#8B0000>Lance-maïs <-> Lance-chou</color>"
+        },
+        {
+            "seedType": 964,
+            "name": "Pastèque du Chaos",
+            "introduce": "<align=justified><size=36><color=black>Pastèque du Chaos représente le summum de la conception d'armes froides : ogives distribuées, escortes guidées et feu glacial implacable. Il avance sans précipitation, mettant fin aux combats non pas avec fureur, mais avec le zéro absolu.</color>",
+            "info": "<size=36>Lance des bombes à fragmentation glaçantes pour un bombardement intensif.\n\n<color=#4A2900>Conditions d'utilisation: Mode Odyssey | Débloquable avec Canon Apocalyptique</color>\n<color=black>Dégâts: </color><color=#8B0000>1800 (Crématoire) ×40</color>\n<color=black>Temps de rechargement: </color><color=#8B0000>36 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Canon Apocalyptique.\n<color=black>•</color> Les conversions entre Pastèque du Chaos et Canon Apocalyptique réinitialisent le temps de rechargement restant des deux à 36 secondes.\n<color=black>•</color> Cliquez manuellement pour lancer 4 bombes à fragmentation Oblivion qui génèrent 36 mini-obus supplémentaires. Les mini-obus ciblent en priorité les zombies présents sur le terrain, avec une probabilité plus élevée de frapper les zombies situés près de la position visée.\n<color=black>•</color> Les bombes à fragmentation Oblivion endommagent tout l'écran ; le rayon d'action des mini-obus est de 1,5 tuile. Lorsqu'elles touchent leur cible, elles provoquent un gel pendant 5 secondes avant d'infliger des dégâts, et réduisent de manière permanente la vitesse des zombies de 0,005×, jusqu'à une réduction maximale de 0,9×.</color>\n<color=black>Modificateurs Odyssey:\n<color=#8B0000>1. Dégâts ×4\n2. Temps de rechargement → 12 secondes</color>",
+            "cost": "\n<size=36>Formule de conversion: <color=#8B0000>Lance-maïs <-> Lance-pastèque</color>"
         }
     ]
 }
