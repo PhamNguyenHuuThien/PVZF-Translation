@@ -140,9 +140,9 @@
         },
         {
             "theZombieType": 24,
-            "name": "Zombie Diable",
-            "introduce": "<size=36><color=black>Bien que Jack-in-the-Box Zombie soit un malade mental, le cirque a accueilli favorablement sa candidature. Méfiez-vous de ce qu'il y a dans son coffre à jouets ; ça va sûrement vous faire peur.</color>",
-            "info": "<size=36>Ce zombie porte une surprise explosive.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Le diable à ressort explose.</color>"
+            "name": "Zombie Diable à ressort",
+            "introduce": "<size=36><color=black>Bien que Le Zombie Diable à ressort puisse être quelques fois dérangé, le cirque a accueilli favorablement sa candidature. Méfiez-vous de ce qu'il y a dans sa boite a musique ; ça va sûrement vous faire peur.</color>",
+            "info": "<size=36>Ce zombie porte une surprise explosive.\n\n<color=black>Dégâts d'explosion :</color><color=#4B0082>1 million</color>\n<color=black>Rayon d'explosion :</color><color=#4B0082>1,375 cases (≈ 3×3)</color>\n<color=black>Résistance :</color><color=#4B0082>720</color>\n<color=black>Spécial :</color><color=#4B0082>Explose parfois et tue instantanément les plantes environnantes.</color>"
         },
         {
             "theZombieType": 25,
@@ -521,6 +521,12 @@
             "name": "Lance-neige de la Légion",
             "introduce": "<align=justified><size=36><color=black>\" Bataille de boules de neige ! \" Le Lance-neige de la legion se réveille de son sommeil glacé, projetant des boules de neige dans toutes les directions.\n\n\" On devrait lui dire ? \"\n\" Nah, voyons combien de temps il lui faudra pour s’en rendre compte. \"\n\nSMACK ! — Une nouvelle boule de neige atteint sa cible.\n\n\" Ça fait quatorze. \"</color>",
             "info": "<size=36>Le Lance-neige de la légion peut attaquer vos plantes avec des boules de neige et les geler.\n\n<color=black>Endurance : </color><color=#4B0082>720</color>\n<color=black>Dégâts : </color><color=#4B0082>20 / 2 s</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Immunisé contre le Refroidissement et le Gel. Vulnérable au Gel profond.\n<color=black>•</color> Après son apparition, il lance continuellement des boules de neige sur les plantes. Celles-ci infligent 20 dégâts et explosent à l’impact, neutralisant les plantes pendant 5 s dans une zone de 3 × 3. Les boules de neige infligent 10 points de Cryo aux zombies hypnotisés affectés.</color>\n<color=black>Faiblesse : </color><color=#4B0082>Ombrelle Pastèque</color>"
+        },
+        {
+            "theZombieType": 50,
+            "name": "Porte-bouclier de la Légion",
+            "introduce": "<align=justified><size=36><color=black>Le Porte-bouclier de la Légion était autrefois un soldat d'élite sur le champ de bataille. Désormais à la retraite, il est le champion incontesté du tournoi de bataille de boules de neige du cimetière. Il chérit le bouclier qui lui a apporté tant de gloire, le vérifiant constamment pour déceler d'éventuelles égratignures – bien que certains disent que cette habitude pourrait être la cause de sa blessure et de sa retraite.</color>",
+            "info": "<size=36>Porte-bouclier des plaines enneigées, il dévie les projectiles tirés en ligne droite et les renvoie sous forme de boules de neige.\n\n<color=black>Robustesse :</color><color=#4B0082>720 + 2200 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Immunisé contre le gel et le froid. Vulnérable au froid intense.\n<color=black>•</color> Lève son bouclier toutes les 1,5 s pour renvoyer les projectiles tirés en ligne droite sous forme de boules de neige. Subit 20 points de dégâts lors de la renvoi et ne bloque pas le projectile. Donne des coups de bouclier au lieu de mordre lorsqu'il tient le bouclier, infligeant 50 points de dégâts.</color>"
         }
     ]
 }
