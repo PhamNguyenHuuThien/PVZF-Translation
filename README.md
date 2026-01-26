@@ -56,7 +56,7 @@ The Multi-Language version supports the following languages: **English**, **Fren
 ### The Online English Almanac
 ***
 The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
-![The Online English Almanac](https://i.imgur.com/5xipoXB.png)
+![The Online English Almanac](https://i.imgur.com/R1iqavy.png)
 
 ### Fusion Addons
 ***
