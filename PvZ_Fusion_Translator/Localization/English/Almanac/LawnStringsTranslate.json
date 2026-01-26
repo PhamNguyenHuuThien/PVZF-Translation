@@ -2825,7 +2825,7 @@
             "seedType": 1250,
             "name": "Squash-nut",
             "introduce": "<align=justified><size=36><color=black>Dragged from a kids' playground by his stem and dumped on the lawn, Squash-nut was rejected for being a deformed rubber ball. Now, furious and bumpy, he bounces wildly, yelling: \"I'm gonna play all I want! ALL I WANT!\"</color>",
-            "info": "<size=36>A bouncy nut who's all tantrum and impact.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s  (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Bounces in his tile when a zombie gets close, dealing splash damage on each landing. Does not block zombies while airborne.</color>",
+            "info": "<size=36>A bouncy nut who's all tantrum and impact.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Bounces in his tile when a zombie gets close, dealing splash damage on each landing. Does not block zombies while airborne.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Squash</color>"
         },
         {
@@ -3111,7 +3111,7 @@
         {
             "seedType": 1291,
             "name": "Shark-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"I come from the vast ocean,\"  Shark-shroom boasts. \"With this shark mimicry, I can scare off any predator. It's an evolution only possible in the deep sea.\" He loves telling tales of his past to Sea-shrooms, but never reveals why he left the ocean: the disguise often attracts real sharks.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I come from the vast ocean,\" Shark-shroom boasts. \"With this shark mimicry, I can scare off any predator. It's an evolution only possible in the deep sea.\" He loves telling tales of his past to Sea-shrooms, but never reveals why he left the ocean: the disguise often attracts real sharks.</color>",
             "info": "<size=36>A cannibalistic Fume-shroom that \"feeds\" on Sea-shrooms, borrowing the menace of Kraken-shroom to drive away enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Using a Sea-shroom seed packet on him extends his range to the full lane for 10s.\n<color=black>•</color> Knocks back zombies knocked back by Kraken-shroom within the last 3s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom > Sea-shroom</color>"
         },
