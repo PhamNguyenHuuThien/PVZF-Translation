@@ -243,26 +243,26 @@
         {
             "theZombieType": 100,
             "name": "Zombie Pisto-pois",
-            "introduce": "<size=36><color=black>La capacité du Pisto-pois Zombie à s'engager à distance effraie souvent les plantes. Cependant, la véritable panique vient des zombies, qui craignent que ceux qui combattent devant lui ne soient pris pour cible par derrière.</color>",
-            "info": "<size=36>Pousse des pois pour attaquer vos plantes.\n\n<color=black>Dégâts : </color><color=#4B0082>20</color>\n<color=black>Robustesse : </color><color=#4B0082>270</color>"
+            "introduce": "<align=justified><size=36><color=black>La capacité du Pisto-pois Zombie à s'engager à distance effraie souvent les plantes. Cependant, la véritable panique vient des zombies, qui craignent que ceux qui combattent devant lui ne soient pris pour cible par derrière.</color>",
+            "info": "<size=36>Tire des pois pour attaquer vos plantes.\n\n<color=black>Dégâts: </color><color=#4B0082>20/1.5 secondes</color>\n<color=black>Robustesse: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 101,
             "name": "Zombie Pisto-cerise",
-            "introduce": "<size=36><color=black>Cherryshooter Zombie est un lycéen de 17 ans avec une tête de plante qui pousse de son cou. Son fruit préféré est la cerise, et en raison de ses origines papales, les zombies l'appellent affectueusement le « Roi des Feuilles ».</color>",
-            "info": "<size=36>Tire des balles de cerisier pour attaquer vos plantes.\n\n<color=black>Dégâts : </color><color=#4B0082>60</color>\n<color=black>Robustesse : </color><color=#4B0082>500</color>"
+            "introduce": "<align=justified><size=36><color=black>Zombie Pisto-cerise est un lycéen de 17 ans avec une tête de plante qui pousse de son cou. Son fruit préféré est la cerise, et en raison de ses origines nobles, les zombies l'appellent affectueusement \"Roi des feuilles.\"</color>",
+            "info": "<size=36>Tire des cerise pour attaquer vos plantes.\n\n<color=black>Dégâts: </color><color=#4B0082>60/1.5 secondes</color>\n<color=black>Robustesse: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 102,
             "name": "Zombie Pisto-grenade",
-            "introduce": "<size=36><color=black>Pisto-grenade Zombie adore écouter \"Bombe Cerise\" de The Runaways, ce qui pourrait expliquer sa fougue. Cependant, personne ne sait comment il a appris à allumer des feux d'artifice avec sa bouche.</color>",
-            "info": "<size=36>Pousse des cerises explosives pour attaquer vos plantes.\n\n<color=black>Dégâts : </color><color=#4B0082>1000</color>\n<color=black>Robustesse : </color><color=#4B0082>500</color>"
+            "introduce": "<align=justified><size=36><color=black>Zombie Pisto-grenade adore écouter \"Cherry Bomb\" de The Runaways, ce qui pourrait expliquer sa passion ardente pour les cerises. Cependant, personne ne sait comment il a appris à allumer des feux d'artifices avec sa bouche.</color>",
+            "info": "<size=36>Tire des cerises explosives pour attaquer vos plantes.\n\n<color=black>Dégâts: </color><color=#4B0082>1000/10 secondes</color>\n<color=black>Robustesse: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 103,
             "name": "Zombie Noix",
-            "introduce": "<size=36><color=black>Suite à un assaut des plantes, Noix Zombie affichait des marques de morsure sur la tête au lieu d'impacts de balle. Interrogé, il a déclaré : « Peut-être que mes camarades avaient simplement faim. »</color>",
-            "info": "<size=36>C'est un écrou mobile.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1100</color>"
+            "introduce": "<align=justified><size=36><color=black>Après avoir été attaqué par les plantes, Zombie Noix présentait des marques de morsures sur sa tête à la place des impacts de balles. Lorsqu'on l'a interrogé, il a déclaré, \"Peut-être que mes camarades avaient simplement faim.\"</color>",
+            "info": "<size=36>C'est une noix mobile.\n\n<color=black>Robustesse: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
         },
         {
             "theZombieType": 104,
@@ -545,6 +545,12 @@
             "name": "Zombie Capitaine-quarterback",
             "introduce": "<align=justified><size=36><color=black>\"Nous portons tous les deux des uniformes de rugby et nous courons très vite. Mais moi, je peux rouler, et lui ne le peut pas.\" Le Zombie Capitaine-quarterback s’est sérieusement comparé au Giga-noix Quarterback et a conclu avec confiance qu’il était plus fort. Cette confiance l’aide: désormais, il court plus vite pour échapper à la poursuite du Giga-noix Quarterback, mais aussi pour envahir les gazons des malheureux qui oseraient se dresser sur son passage.</color>",
             "info": "<size=36>Peut effectuer des roulades d’ésquive.\n\n<color=black>Robustesse: </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082> Au premier contact avec une plante, roule de deux cases vers l’avant en ignorant les obstacles.</color>"
+        },
+        {
+            "theZombieType": 74,
+            "name": "Zombie Piment Hypnotique",
+            "introduce": "<align=justified><size=36><color=black>Lors de sa toute première apparition au concours de beauté de Zombies Hypnotisés, Zombie Piment Hypnotique a reçu les éloges unanimes de tous les juges et a remporté la première place haut la main. Juges plantes comme juges zombies l’ont qualifiée de \"Charmant\" et de \"Piquant\". Mis à part quelques candidats mystérieusement disparus, l’événement fut irréprochable.</color>",
+            "info": "<size=36>Brûle les zombies hypnotisés dans sa voie.\n\n<color=black>Robustesse: </color><color=#4B0082>720</color>\n<color=black>Spécial: </color><color=#4B0082> Immunisée contre les étourdissements. S’autodétruit après un certain temps, libérant une rangée de flammes qui inflige 1800 points de dégâts uniquement aux zombies hypnotisés sur son chemin.</color>"
         }
     ]
 }
