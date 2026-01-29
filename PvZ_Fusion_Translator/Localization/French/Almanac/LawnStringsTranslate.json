@@ -241,9 +241,9 @@
         {
             "seedType": 248,
             "name": "Chacrabouille",
-            "introduce": "<size=36><color=black>La grâce d'un chat et la maladresse d'un Écraseur font une beauté unique, murmure Chat-Écraseur. Une fois que je maîtriserai les deux, je ferai bouger les choses sur cette pelouse. Elle ajuste son chapeau et croise les yeux sur un zombie sans méfiance à proximité.</color>",
-            "info": "<size=36>Super Nyanko, Écrasement Neko !\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Se déposer si elle ne touche rien. À chaque zombie écrasé, un Paquet de Graines d'Écraseur est lâché, jusqu'à 3. Écraser 3 zombies ou plus fait lâcher un Paquet de Graines d'Écraseur Épicé.</color>",
-            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>30 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>\" La grâce d’un chat et la maladresse d’une courge créent une beauté bien à part \", murmure Chacrabouille. \" Quand je maîtriserai les deux, ce jardin va trembler. \" Elle ajuste son chapeau et fixe un zombie imprudent non loin.</color></size>",
+            "info": "<size=36>Super Neko, Chacrabouille !\n\n<color=#4A2900>Conditions de déblocage : Vaincre le Défi Écraseur</color>\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Spécial : </color><color=#8B0000>Se laisse retomber si elle ne touche aucune cible. Pour chaque zombie écrasé, un paquet de graines d'Écraseur est généré, jusqu’à un maximum de 3. Écraser 3 zombies ou plus génère en plus un paquet de graines d'Écraseur Épicé. Ne se déclenche pas sur les lignes aquatiques.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>30 s</color>"
         },
         {
             "seedType": 249,
@@ -1696,10 +1696,10 @@
         },
         {
             "seedType": 1165,
-            "name": "Commando Geleur",
-            "introduce": "<size=36><color=#3D1400>En tant que commandant général de la famille Pea, le Commando Geleur possède une aura qui fait frémir les plantes et les zombies même à des kilomètres de distance. Mais en ce qui concerne sa fière capacité à geler, Super Ice Machine Gunner reste toujours silencieux, jusqu'au jour où un petit pois ouvre accidentellement son journal : \" Si j'avais su, je n'aurais pas parié contre le tireur d'élite. Je suis mort de froid dans les champs de glace, mais je me suis aussi transformé en cette façon. Ce soir, je vais faire manger à ce type trois gros bols de chili—\"</color>",
-            "info": "<size=36>Tire des pois mange-tout sur des zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes</color>\n<color=#3D1400></color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Pois Commando + Champi-glace</color>",
-            "cost": ""
+            "name": "Commando Glacial",
+            "introduce": "<align=justified><size=36><color=black>Commandant général de la famille des Pois, le Commando Glacial dégage une aura qui fait frissonner plantes et zombies, même à des kilomètres. Pourtant, lorsqu’il s’agit de son talent pour le gel, il reste toujours discret… jusqu’au jour où un petit pois ouvrit son journal par accident : \" Si j’avais su, je n’aurais jamais parié contre Pois-sniper Brasier. Non seulement j’ai failli mourir gelé dans les champs de glace, mais en plus j’ai fini comme ça. Ce soir, je lui ferai avaler trois grands bols de piment — \"</color></size>",
+            "info": "<size=36>Tire des pois de glace sur les zombies, avec une faible chance de déclencher un barrage massif.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20×6 / 1,5 s</color>\n<color=black>Ultime : </color><color=#8B0000>20×3 / 0,02 s</color>\n<color=black>Spécial : </color><color=#8B0000>2 % de chance à chaque attaque de déclencher un barrage de pois de glace pendant 5 s.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pois Commando + Champi-glace</color>"
         },
         {
             "seedType": 1166,
@@ -3499,6 +3499,27 @@
             "introduce": "<align=justified><size=36><color=black>Lors du 5ᵉ Championnat annuel de Tir éclair du Jardin, le Commando Explosif révéla le secret de sa victoire : \" J’utilise des munitions spéciales à base de cerises. Leur petite taille me permet d’en stocker un grand nombre, et leur texture collante les aide à se regrouper pour des rafales rapides. Bien sûr, garder le canon correctement lubrifié est absolument indispensable. \"</color></size>",
             "info": "<size=36>Tire des cerises à demi mûres sur les zombies, avec une faible chance de déclencher un barrage massif !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20×6 / 1,5 s</color>\n<color=black>Ultime : </color><color=#8B0000>20×3 / 0,02 s</color>\n<color=black>Spécial : </color><color=#8B0000>2 % de chance à chaque attaque de déclencher un barrage de cerises à demi mûres pendant 5 s. Celles-ci explosent instantanément et fixent une cerise à demi mûre sur tous les zombies dans la zone de dégâts.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive + Pois Commando</color>"
+        },
+        {
+            "seedType": 1292,
+            "name": "Commando Hypnotique",
+            "introduce": "<align=justified><size=36><color=black>Le Commando Hypnotique est éperdument fascinée par les zombies. Il peint minutieusement chaque pois en rose et admire l’éclair brillant lorsqu’ils s’enflamment. \" C’est un cadeau pour les zombies \", dit-il, impatient d’en envoyer le plus possible.</color></size>",
+            "info": "<size=36>Tire en continu de grandes quantités de pois hypnotiques.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>30×6 / 1,5 s</color>\n<color=black>Ultime : </color><color=#8B0000>30×3 / 0,02 s</color>\n<color=black>Spécial : </color><color=#8B0000>2 % de chance à chaque attaque de déclencher un barrage de pois hypnotiques pendant 5 s.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pois Commando + Champi-hypno</color>"
+        },
+        {
+            "seedType": 1329,
+            "name": "Sniper Porteur de Peste",
+            "introduce": "<align=justified><size=36><color=black>Il ne transporte pas réellement de virus, mais tout le monde l’évite — l’odeur d’ail est déjà bien suffisante. \" Cette odeur empêche justement les virus \", insiste-t-il. Les zombies, eux, n’y croient pas une seconde.</color></size>",
+            "info": "<size=36>Élimine des cibles à distance afin de propager un Nuage Infectieux se multipliant comme un virus.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Crée un Nuage Infectieux à l’emplacement de la cible. Les tirs en pleine tête créent à la place un Nuage Virulent.</color>\n<color=#5E1675>Nuages Infectieux :</color><color=#8B0000>\n<color=black>•</color> Se déplacent aléatoirement sur la pelouse.\n<color=black>•</color> Durent 15 s. Chaque seconde, infligent Beurre d’Ail et 1 point d’Ail aux zombies à l’intérieur (les Nuages Virulents ont un rayon et une fréquence doublés).\n<color=black>•</color> Lorsqu’un point d’Ail est infligé, inflige (20 × points d’Ail) dégâts. Si la cible est immunisée au poison, inflige 300 dégâts à la place.\n<color=black>•</color> Les cibles décapitées (PV sous le seuil) meurent instantanément, générant un nouveau Nuage Infectieux à leur position.\n<color=black>•</color> Si 30 Nuages Infectieux existent déjà, aucun nouveau nuage n’est créé : le nuage le plus proche voit à la place son rayon augmenté et ses dégâts accrus de 10 %.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pois-sniper + Ail</color>"
+        },
+        {
+            "seedType": 1271,
+            "name": "Commando Tri-phon",
+            "introduce": "<align=justified><size=36><color=black>Ce trio s’est particulièrement illustré au camp d’entraînement de l’Escouade Pois : tirs parfaitement synchronisés, disputes réglées en un temps record. Ils ont ainsi décroché le titre de Premier Commando Tri-phon, partageant fièrement les trois étoiles sur leurs casques.\n\n— Rédigé par M. Etc.</color></size>",
+            "info": "<size=36>Arrose trois lignes de projectiles en continu.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>(20×6)×3/1,5 s</color>\n<color=black>Ultime : </color><color=#8B0000>60×3/0,02 s</color>\n<color=black>Spécial : </color><color=#8B0000>6 % de chances de déclencher un déluge de pois à chaque attaque pendant 5 s.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois + Pois Commando</color>"
         }
     ]
 }
