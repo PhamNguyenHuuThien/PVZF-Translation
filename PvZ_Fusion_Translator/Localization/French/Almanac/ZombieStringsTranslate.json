@@ -296,9 +296,9 @@
         },
         {
             "theZombieType": 109,
-            "name": "Zombie Noix Quarterback",
-            "introduce": "<size=35><color=black>Le zombie rugby-nut n'était autrefois qu'un zombie de football ordinaire, jusqu'au jour où il entre en collision avec une noix qui répandait de l'engrais. \"Je ne sais pas comment ce type s'est retrouvé sur ma tête, il m'étouffe !\" » déplora le Zombie Rugby-nut.</color>",
-            "info": "<size=35>Zombie à haute armure qui peut également courir très vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270+4400</color>\n<color=black>Spécial : </color><color=#4B0082>Un casque de rugby tombera lorsqu'il sera tué par des balles.</color>"
+            "name": "Grande-noix Quarterback",
+            "introduce": "<align=justified><size=36><color=black>La Grande-noix Quarterback n'était autrefois qu'un zombie de rugby ordinaire, jusqu'au jour où il entre en collision avec une noix qui recevait de l'engrais. \"Je ne sais pas ce qu'il se passe, mais Je ne vois plus la peur. C’est comme ça que je sais que je gagne !\" déplora la Grande-noix Quarterback.</color>",
+            "info": "<size=36>Zombie à l'armure robuste qui peut également courir très vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 4400</color>\n<color=black>Spécial : </color><color=#4B0082>Un casque de rugby tombera lorsqu'il sera tué par les plantes.</color>"
         },
         {
             "theZombieType": 110,
