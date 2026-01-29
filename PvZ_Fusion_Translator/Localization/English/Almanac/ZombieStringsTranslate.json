@@ -854,15 +854,15 @@
         },
         {
             "theZombieType": 234,
-            "name": "<u>Imperator's Ark of the Duck</u>",
+            "name": "<u>Imperor's Ark of the Duck</u>",
             "introduce": "<align=justified><size=36><color=black>As the boss of all Imps, he reigns supreme in their world. No need to be as knowledgeable as Scholar Zombie, nor as elegant as Michael Zombie - he just does what delights him: riding his beloved golden speedboat nicknamed Ark of the Duck and causing major trouble for those pesky plants. There's no need for explanation: let's set sail and embrace the adventure!</color>",
-            "info": "<size=36>Final Imp at the end of your Odyssey. Pilots the luxurious Ark of the Duck, leading the undead fleet.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and tangle.\n<color=black>•</color> Crushes plants rapidly.\n<color=black>•</color> Has an inherent 80% incoming damage reduction for himself.\n<color=black>•</color> When present, all zombies gain a 20% movement speed boost and a 20% chance to reduce incoming damage to 1.\n<color=black>•</color> Upon death, ejects the Imperator onto nearby land.</color>"
+            "info": "<size=36>Final Imp at the end of your Odyssey. Pilots the luxurious Ark of the Duck, leading the undead fleet.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and tangle.\n<color=black>•</color> Crushes plants rapidly.\n<color=black>•</color> Has an inherent 80% incoming damage reduction for himself.\n<color=black>•</color> When present, all zombies gain a 20% movement speed boost and a 20% chance to reduce incoming damage to 1.\n<color=black>•</color> Upon death, ejects the Imperor onto nearby land.</color>"
         },
         {
             "theZombieType": 235,
-            "name": "Imperator",
-            "introduce": "<align=justified><size=36><color=black>Even amidst fierce battles, Imperator still wishes for some leisure time: no brains to chase, no plants to fight, just a quiet walk, pondering over what trick to perform on his subjects at Halloween. But the call of duty as a member of royalty always brings him back to the throne, ready to lead the next charge.</color>",
-            "info": "<size=36>Imperator in retreat, but once he escapes, he'll surely return.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and knockback but loses the damage reduction buff.\n<color=black>•</color> For every other mini-boss present, gains a 20% incoming damage reduction.\n<color=black>•</color> Upon landing, turns around and retreats, ignoring plants.\n<color=black>•</color> Upon exiting the lawn, he re-enters on a new Ark of the Duck.</color>"
+            "name": "Imperor",
+            "introduce": "<align=justified><size=36><color=black>Even amidst fierce battles, Imperor still wishes for some leisure time: no brains to chase, no plants to fight, just a quiet walk, pondering over what trick to perform on his subjects at Halloween. But the call of duty as a member of royalty always brings him back to the throne, ready to lead the next charge.</color>",
+            "info": "<size=36>Imperor in retreat, but once he escapes, he'll surely return.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and knockback but loses the damage reduction buff.\n<color=black>•</color> For every other mini-boss present, gains a 20% incoming damage reduction.\n<color=black>•</color> Upon landing, turns around and retreats, ignoring plants.\n<color=black>•</color> Upon exiting the lawn, he re-enters on a new Ark of the Duck.</color>"
         },
         {
             "theZombieType": 236,
