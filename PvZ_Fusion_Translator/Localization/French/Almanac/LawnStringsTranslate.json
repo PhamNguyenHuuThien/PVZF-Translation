@@ -3534,6 +3534,27 @@
             "introduce": "<align=justified><size=36><color=black>Comme le dit l’Escouade Champi-sniper : \" Dans les grandes marées de l’Histoire, ce qui fut longtemps divisé doit s’unir, et ce qui fut longtemps uni doit se diviser… toi compris. \" Pendant leurs temps morts, ils adorent lire *Les Trois Royaumes*. \" Le passé n’est qu’un vieux récit. Ici et maintenant, nous sommes les tireurs les plus précis qui soient ! \"</color></size>",
             "info": "<size=36>Se sépare pour des tirs de précision extrême, se regroupe pour un contrôle de foule explosif.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500×3/3 s (Séparé), 1500/0,5 s (Fusionné)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> En mode séparé, chaque 6ᵉ tir est un tir à la tête infligeant 1M de dégâts.\n<color=black>•</color> Après 15 tirs, fusionne pendant 15 s avant de se séparer à nouveau.\n<color=black>•</color> En mode fusionné, les attaques infligent des dégâts de zone dans un rayon d’1 case.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pois-sniper > Champi-gnon ×3</color>"
+        },
+        {
+            "seedType": 224,
+            "name": "Seau",
+            "introduce": "<align=justified><size=36><color=black>Depuis la création du tout premier seau, celui-ci a connu d’innombrables usages improbables : armure, matériau de fusion, obstacle routier, et bien plus encore. Pourtant, malgré tout cela, il n’a jamais servi une seule fois… à transporter de l’eau.</color></size>",
+            "info": "<size=36>Peut fusionner avec certaines plantes pour les rendre dures comme le fer.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Peut être posé au sol comme une plante classique ou utilisé comme ingrédient de fusion.\n<color=black>•</color> Les plantes dont la recette inclut un Seau bénéficient d’une robustesse accrue et subissent moitié moins de dégâts des cerises explosives.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>30 s</color></size>"
+        },
+        {
+            "seedType": 225,
+            "name": "Casque de Football",
+            "introduce": "<align=justified><size=36><color=black>\" On trouve ce genre de casque partout sur un terrain de football \", disent les plantes. Mais la Sulfateuse Quarterback répond solennellement : \" Celui-ci est spécial, car son ancien propriétaire comprenait vraiment le football. \"</color></size>",
+            "info": "<size=36>Peut fusionner avec certaines plantes pour les rendre dures comme l’acier.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Peut être posé au sol comme une plante classique ou utilisé comme ingrédient de fusion.\n<color=black>•</color> Les plantes dont la recette inclut un Casque de Football bénéficient d’une robustesse accrue et subissent moitié moins de dégâts des cerises explosives.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 226,
+            "name": "Pot XXS",
+            "introduce": "<align=justified><size=36><color=black>À bien y réfléchir, c’est plutôt troublant : qu’est-ce qui peut bien faire pousser les plantes ici avec une telle vigueur ?</color></size>",
+            "info": "<size=36>Un Pot de fleurs à la terre particulièrement riche, qui augmente les dégâts de la plante cultivée dessus.\n\n<color=blue>Plante de collaboration Xiaoxiaosu, exclusive aux modes Casse-vases et Gacha</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Permet de planter des plantes sur le sol nu ou les toits.\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Augmente les dégâts d’attaque des plantes présentes sur sa case de +10 %.</color>",
+            "cost": ""
         }
     ]
 }
