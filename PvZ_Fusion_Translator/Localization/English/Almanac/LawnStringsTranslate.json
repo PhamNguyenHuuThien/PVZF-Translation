@@ -3182,7 +3182,7 @@
             "seedType": 1301,
             "name": "Umbrella Cap",
             "introduce": "<align=justified><size=36><color=black>Like other Umbrellas, Umbrella Caps have great ambitions and are willing to sacrifice themselves to protect the world. Though not tall enough to protect other plants, they have found something else to protect, the land they live on and love so deeply.</color>",
-            "info": "<size=36>Uses their small body to desperately fend off enemies.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Umbrella Cap in his tile every 30s.</color>",
+            "info": "<size=36>Uses their small body to desperately fend off enemies.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Umbrella Cap in his tile every 30s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf > Puff-shroom</color>"
         },
         {
@@ -3448,14 +3448,14 @@
             "seedType": 1339,
             "name": "Land-mine",
             "introduce": "<align=justified><size=36><color=black>After lying in wait for a long time, Land-mine has drawn sufficient strength from sunlight and moisture, gaining power comparable to a Cherry Bomb. \"Spudow!\" he shouted, but the zombies were only surprised.</color>",
-            "info": "<size=36>Can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed stated. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
+            "info": "<size=36>Can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed state. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Potato Mine</color>"
         },
         {
             "seedType": 1340,
             "name": "Sea-mine",
             "introduce": "<align=justified><size=36><color=black>The moment he enters the pool, Sea-mine absorbs water like a little water baby, convinced this will greatly amplify his explosive power. While this does turn out to be true, he still cannot understand how it all works, just as he cannot understand why the pool is never completely filled with dead zombies either.</color>",
-            "info": "<size=36>Aquatic and can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed stated. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
+            "info": "<size=36>Aquatic and can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed state. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine > Sea-shroom</color>"
         },
         {
