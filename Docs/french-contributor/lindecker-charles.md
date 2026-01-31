@@ -28,15 +28,92 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **195**
-* Traductions ajustées : **113**
-* Reviews effectuées : **243**
+* Nouvelles traductions : **208**
+* Traductions ajustées : **115**
+* Reviews effectuées : **265**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `26/01/26 → 01/02/26`
+> [PR#94](https://github.com/Teyliu/PVZF-Translation/pull/94) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **13**
+* Traductions ajustées : **2**
+* Reviews effectuées : **22**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Double Noix-infernal Épique** (`seedType: 969`)
+* **Double Noix-solaire Épique** (`seedType: 963`)
+* **Troufle Chanceux** (`seedType: 229`)
+* **Carambole Sage Épéiste** (`seedType: 300`)
+* **Commando Explosif** (`seedType: 1331`)
+* **Commando Hypnotique** (`seedType: 1292`)
+* **Sniper Porteur de Peste** (`seedType: 1329`)
+* **Commando Tri-phon** (`seedType: 1271`)
+* **Snipeur Faucheur** (`seedType: 1272`)
+* **Escouade Champi-sniper** (`seedType: 1290`)
+* **Seau** (`seedType: 224`)
+* **Casque de Football** (`seedType: 225`)
+* **Pot XXS** (`seedType: 226`)
+
+## 🧩 **Modified Plants**
+* **Chacrabouille** (`seedType: 248`)
+* **Commando Glacial** (`seedType: 1165`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Translations**
+[Hubtech](./hubtech.md) :
+* **Cerise Big Bang** (`seedType: 959`)
+* **Aimant Tesla** (`seedType: 944`)
+* **Aimant Dyson** (`seedType: 974`)
+
+### 🧟‍♂️ **Newly Added Zombie Translations**
+
+[Same-ael](./same_el.md) :
+* **Zombie Piment Hypnotique** (`theZombieType: 74`)
+* **Mineur Jala-hypno** (`theZombieType: 75`)
+
+### 🛠️ **Modified Zombies**
+
+[Oarlina](./oarlina.md) :
+* **Zombie Pisto-pois** (`theZombieType: 100`)
+* **Zombie Pisto-cerise** (`theZombieType: 101`)
+* **Zombie Pisto-grenade** (`theZombieType: 102`)
+* **Zombie Noix** (`theZombieType: 103`)
+* **Zombie Mystère** (`theZombieType: 105`)
+* **Zombie Noix-renforcée** (`theZombieType: 106`)
+* **Zombie Pois Renforcé** (`theZombieType: 108`)
+* **Zombie Journal Pisto-cerise** (`theZombieType: 108`)
+
+[Same-ael](./same_el.md) :
+* **Grande-noix Quarterback** (`theZombieType: 109`)
+* **Zombie Mystère Doré** (`theZombieType: 110`)
+* **Zombie Écraseur** (`theZombieType: 115`)
+* **Zombie Noix Glacée** (`theZombieType: 111`)
+* **Zombie Lance-grenade** (`theZombieType: 112`)
+
+[Shrimpnos Prime](./dead130000.md) : 
+* **Requin-marine** (`theZombieType: 200`)
+
+### 🔧 **Modified Achievements**
+
+[Oarlina](./oarlina.md) : 
+* **Il est temps de voyager.** (`achievement: 1001`)
+* **Avons-nous trouvé le paradis.** (`achievement: 1003`)
+* **Lieux touristiques populaires.** (`achievement: 1002`)
 
 ---
 

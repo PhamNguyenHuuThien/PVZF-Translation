@@ -21,7 +21,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **20**
+* Nouvelles traductions : **23**
 * Traductions ajustées : **40**
 
 
@@ -30,6 +30,25 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `26/01/26 → 01/02/26`
+> [PR#94](https://github.com/Teyliu/PVZF-Translation/pull/94) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **3**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Cerise Big Bang** (`seedType: 959`)
+* **Aimant Tesla** (`seedType: 944`)
+* **Aimant Dyson** (`seedType: 974`)
+
 
 ---
 

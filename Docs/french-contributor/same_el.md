@@ -21,14 +21,39 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **17**
-* Traductions ajustées : **87**
+* Nouvelles traductions : **19**
+* Traductions ajustées : **92**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `26/01/26 → 01/02/26`
+> [PR#94](https://github.com/Teyliu/PVZF-Translation/pull/94) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **2**
+* Traductions ajustées : **5**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Zombie Piment Hypnotique** (`theZombieType: 74`)
+* **Mineur Jala-hypno** (`theZombieType: 75`)
+
+## 🛠️ **Modified Zombies**
+* **Grande-noix Quarterback** (`theZombieType: 109`)
+* **Zombie Mystère Doré** (`theZombieType: 110`)
+* **Zombie Écraseur** (`theZombieType: 115`)
+* **Zombie Noix Glacée** (`theZombieType: 111`)
+* **Zombie Lance-grenade** (`theZombieType: 112`)
 
 ---
 

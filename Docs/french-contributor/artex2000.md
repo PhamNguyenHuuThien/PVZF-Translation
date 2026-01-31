@@ -1,6 +1,6 @@
-# 📊 Détail des contributions — Ink Stolas
+# 📊 Détail des contributions — Capitain Artex
 
-Ce document retrace l’ensemble des contributions effectuées par **Ink Stolas** au sein du pôle francophone. Il a vocation à fournir une vision claire, chronologique et transparente de son implication dans le projet.
+Ce document retrace l’ensemble des contributions effectuées par **Capitain Artex** au sein du pôle francophone. Il a vocation à fournir une vision claire, chronologique et transparente de son implication dans le projet.
 
 ---
 

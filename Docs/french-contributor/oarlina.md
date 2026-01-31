@@ -23,13 +23,41 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **11**
-* Traductions ajustées : **20**
+* Traductions ajustées : **31**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `26/01/26 → 01/02/26`
+> [PR#94](https://github.com/Teyliu/PVZF-Translation/pull/94) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **11**
+
+---
+
+#### Détail
+
+## 🛠️ **Modified Zombies**
+* **Zombie Pisto-pois** (`theZombieType: 100`)
+* **Zombie Pisto-cerise** (`theZombieType: 101`)
+* **Zombie Pisto-grenade** (`theZombieType: 102`)
+* **Zombie Noix** (`theZombieType: 103`)
+* **Zombie Mystère** (`theZombieType: 105`)
+* **Zombie Noix-renforcée** (`theZombieType: 106`)
+* **Zombie Pois Renforcé** (`theZombieType: 108`)
+* **Zombie Journal Pisto-cerise** (`theZombieType: 108`)
+
+## 🔧 **Modified Achievements**
+* **Il est temps de voyager.** (`achievement: 1001`)
+* **Avons-nous trouvé le paradis.** (`achievement: 1003`)
+* **Lieux touristiques populaires.** (`achievement: 1002`)
 
 ---
 
