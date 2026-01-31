@@ -341,18 +341,18 @@
     },
     "Travel": {
         "achievement": 1001,
-        "Name": "Terminer Odyssée : Survie.",
-        "Text": "Il est temps de voyager"
+        "Name": "Terminer Odyssée : Classiques.",
+        "Text": "Il est temps de voyager."
     },
     "Travel2": {
         "achievement": 1002,
-        "Name": "Terminer Odyssée : Last Stand.",
-        "Text": "Attractions populaires"
+        "Name": "Terminer l'Odyssée : Dernier Combat.",
+        "Text": "Lieux touristiques populaires."
     },
     "Travel3": {
         "achievement": 1003,
         "Name": "Terminer Odyssée : Purgatoire.",
-        "Text": "Un cheveu près de la mort."
+        "Text": "Avons-nous trouvé le paradis."
     },
     "Travel_noBuff": {
         "achievement": 1004,
