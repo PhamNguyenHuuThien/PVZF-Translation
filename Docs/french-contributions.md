@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **195**
-* Traductions ajustées : **113**
-* Reviews effectuées : **243**
+* Nouvelles traductions : **208**
+* Traductions ajustées : **115**
+* Reviews effectuées : **265**
 
 **Réseaux & contacts**
 
@@ -36,8 +36,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **17**
-* Traductions ajustées : **87**
+* Nouvelles traductions : **19**
+* Traductions ajustées : **92**
 
 **Réseaux & contacts**
 
@@ -49,7 +49,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **20**
+* Nouvelles traductions : **23**
 * Traductions ajustées : **40**
 
 **Réseaux & contacts**
@@ -63,12 +63,25 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 **Statistiques de contribution**
 
 * Nouvelles traductions : **11**
-* Traductions ajustées : **20**
+* Traductions ajustées : **31**
 
 **Réseaux & contacts**
 
 * **GitHub** : [Oarlina](https://github.com/Oarlina) 
 * **LinkedIn** : [Rachel Marquant](https://www.linkedin.com/in/rachel-marquant-98bb4536a/)
+
+---
+
+### [Shrimpnos Prime](./french-contributor/dead130000.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **1**
+
+**Réseaux & contacts**
+
+* **Discord** : *dead130000*
 
 ---
 

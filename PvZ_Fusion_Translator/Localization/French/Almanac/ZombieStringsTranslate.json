@@ -243,44 +243,44 @@
         {
             "theZombieType": 100,
             "name": "Zombie Pisto-pois",
-            "introduce": "<size=36><color=black>La capacité du Pisto-pois Zombie à s'engager à distance effraie souvent les plantes. Cependant, la véritable panique vient des zombies, qui craignent que ceux qui combattent devant lui ne soient pris pour cible par derrière.</color>",
-            "info": "<size=36>Pousse des pois pour attaquer vos plantes.\n\n<color=black>Dégâts : </color><color=#4B0082>20</color>\n<color=black>Robustesse : </color><color=#4B0082>270</color>"
+            "introduce": "<align=justified><size=36><color=black>La capacité du Pisto-pois Zombie à s'engager à distance effraie souvent les plantes. Cependant, la véritable panique vient des zombies, qui craignent que ceux qui combattent devant lui ne soient pris pour cible par derrière.</color>",
+            "info": "<size=36>Tire des pois pour attaquer vos plantes.\n\n<color=black>Dégâts: </color><color=#4B0082>20/1.5 secondes</color>\n<color=black>Robustesse: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 101,
             "name": "Zombie Pisto-cerise",
-            "introduce": "<size=36><color=black>Cherryshooter Zombie est un lycéen de 17 ans avec une tête de plante qui pousse de son cou. Son fruit préféré est la cerise, et en raison de ses origines papales, les zombies l'appellent affectueusement le « Roi des Feuilles ».</color>",
-            "info": "<size=36>Tire des balles de cerisier pour attaquer vos plantes.\n\n<color=black>Dégâts : </color><color=#4B0082>60</color>\n<color=black>Robustesse : </color><color=#4B0082>500</color>"
+            "introduce": "<align=justified><size=36><color=black>Zombie Pisto-cerise est un lycéen de 17 ans avec une tête de plante qui pousse de son cou. Son fruit préféré est la cerise, et en raison de ses origines nobles, les zombies l'appellent affectueusement \"Roi des feuilles.\"</color>",
+            "info": "<size=36>Tire des cerise pour attaquer vos plantes.\n\n<color=black>Dégâts: </color><color=#4B0082>60/1.5 secondes</color>\n<color=black>Robustesse: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 102,
             "name": "Zombie Pisto-grenade",
-            "introduce": "<size=36><color=black>Pisto-grenade Zombie adore écouter \"Bombe Cerise\" de The Runaways, ce qui pourrait expliquer sa fougue. Cependant, personne ne sait comment il a appris à allumer des feux d'artifice avec sa bouche.</color>",
-            "info": "<size=36>Pousse des cerises explosives pour attaquer vos plantes.\n\n<color=black>Dégâts : </color><color=#4B0082>1000</color>\n<color=black>Robustesse : </color><color=#4B0082>500</color>"
+            "introduce": "<align=justified><size=36><color=black>Zombie Pisto-grenade adore écouter \"Cherry Bomb\" de The Runaways, ce qui pourrait expliquer sa passion ardente pour les cerises. Cependant, personne ne sait comment il a appris à allumer des feux d'artifices avec sa bouche.</color>",
+            "info": "<size=36>Tire des cerises explosives pour attaquer vos plantes.\n\n<color=black>Dégâts: </color><color=#4B0082>1000/10 secondes</color>\n<color=black>Robustesse: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 103,
             "name": "Zombie Noix",
-            "introduce": "<size=36><color=black>Suite à un assaut des plantes, Noix Zombie affichait des marques de morsure sur la tête au lieu d'impacts de balle. Interrogé, il a déclaré : « Peut-être que mes camarades avaient simplement faim. »</color>",
-            "info": "<size=36>C'est un écrou mobile.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1100</color>"
+            "introduce": "<align=justified><size=36><color=black>Après avoir été attaqué par les plantes, Zombie Noix présentait des marques de morsures sur sa tête à la place des impacts de balles. Lorsqu'on l'a interrogé, il a déclaré, \"Peut-être que mes camarades avaient simplement faim.\"</color>",
+            "info": "<size=36>C'est une noix mobile.\n\n<color=black>Robustesse: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
         },
         {
             "theZombieType": 104,
-            "name": "Zombie Journal Pisto-cerise",
-            "introduce": "<size=30><color=black>Le fruit préféré de ce zombie est la cerise, et même son journal a un goût de cerise. Le journal qu'il tient est la seule chose qui puisse tempérer sa rage.</color>",
-            "info": "<size=30>Se lance dans un barrage de cerises explosif lorsque son journal est cassé.\n\n<color=black>Robustesse : </color><color=#4B0082>1500+720</color>\n<color=black>Spécial : </color><color=#4B0082>Devient temporairement invincible après que son journal soit cassé, puis se met à tirer des cerises explosives toutes les 0,75 secondes après que le journal soit cassé.</color>\n<color=black>Portée d'explosion : </color><color=#4B0082>Cross Splash, peut être absorbé par les noix.</color>"
+            "name": "<size=30>Zombie Journal Pisto-cerise",
+            "introduce": "<align=justified><size=36><color=black>Le fruit préféré de ce zombie est la cerise, et même son journal a un goût de cerise.Le journal qu'il tient est la seule chose qui puisse tempérer sa rage.</color>",
+            "info": "<size=36>Lance une série explosive de cerises lorsque son journal est cassé.\n\n<color=black>Dégâts: </color><color=#4B0082>1000 (cerises explosives)</color>\n<color=black>Robustesse: </color><color=#4B0082>1500 + 200 (Type 2)</color>\n<color=black>Spécial: </color><color=#4B0082>Devient temporairement invincible après que son journal soit cassé, puis se met à tirer des cerises explosives toutes les 0,75 secondes.</color>\n<color=black>Portée d'explosion: </color><color=#4B0082>Les dégâts de zones, peuvent être absorbé par les Grande Noix et les Citrouilles en difficulté 4 ou inférieure.</color>"
         },
         {
             "theZombieType": 105,
-            "name": "Zombie Boîte-mystère",
-            "introduce": "<size=36><color=black>？？？</color>",
-            "info": "<size=36>Personne ne sait ce qui se cache à l'intérieur de la boîte.\n\n<color=black>Robustesse : </color><color=#4B0082>270+370</color>\n<color=black>Spécial : </color><color=#4B0082>Une fois la boîte tombée, génère un zombie aléatoire avec 20%/40%/60%/80%/100% de la Robustesse du zombie d'origine.</ couleur>"
+            "name": "Zombie Mystère",
+            "introduce": "<align=justified><size=36><color=black>Est né lorsqu'un zombie sans prétention a enfilé une boîte en carton déchirée. Il s'est rapidement rendu compte qu'il y avait des vêtements qui attendaient d'être utilisés, mais il ne pouvait pas vraiment les enfiler car la boîte n'avait pas de trous pour les yeux.\n\n- Ecrit par Hazy/color>",
+            "info": "<size=36>Personne ne sait ce qui se cache à l'intérieur de la boîte.\n\n<color=black>Robustesse: </color><color=#4B0082>270 + 370 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color>Une fois la boîte tombée, génère un zombie aléatoire avec 20%/40%/60%/80%/100% de la Robustesse du zombie d'origine.\n<color=black>•</color> Il y a 1 % de chances qu'un modificateur Odyssey aléatoire apparaisse lorsque sa boîte est lâchée, jusqu'à 1 par minute.</color>"
         },
         {
             "theZombieType": 106,
-            "name": "Zombie Noix-seau",
-            "introduce": "<size=35><color=black>Pourquoi la tête de Buck-nut Zombie est-elle en fer ? C'est parce que tout le monde disait que manger des noix nourrissait le cerveau, mais il ne réalisait pas que les noix qu'il consommait contenaient trop de fer. Cependant, ce n'est peut-être pas si grave : au moins, il a maintenant développé une tête de fer.</color>",
-            "info": "<size=35>C'est un Buck-nut en mouvement.\n\n<color=black>Robustesse : </color><color=#4B0082>270+2200</color>\n<color=black>Spécial : </color><color=#4B0082>Un fer tombera lorsqu'il sera tué par des balles.</color>"
+            "name": "Zombie Noix-renforcée",
+            "introduce": "<align=justified><size=36><color=black>Pourquoi la tête de Zombie Noix-renforcée est-elle en fer ? C'est parce que tout le monde disait que manger des noix nourrissait le cerveau, mais il ne réalisait pas que les noix qu'il consommait contenaient trop de fer. Cependant, ce n'est peut-être pas si grave : au moins, il a maintenant développé une tête de fer.</color>",
+            "info": "<size=36>C'est une Noix-renforcée en mouvement.\n\n<color=black>Robustesse: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Laisse tomber un seau lorsqu'il est tué par des projectiles.</color>"
         },
         {
             "theZombieType": 107,
@@ -290,33 +290,33 @@
         },
         {
             "theZombieType": 108,
-            "name": "Zombie Fusil-pois",
-            "introduce": "<size=36><color=black>L'année dernière, Buckshooter Zombie a tiré une carte de tarot sur laquelle on pouvait lire \"L'Empereur\". Depuis, il est capable de tirer des balles de fer à volonté.</color>",
-            "info": "<size=36>Tire des balles très dommageables.\n\n<color=black>Dégâts : </color><color=#4B0082>80</color>\n<color=black>Robustesse : </color><color=#4B0082>270+1350</color>\n<color=black>Spécial : </color><color=#4B0082>Un fer tombera lorsqu'il sera tué par des balles.</color>"
+            "name": "Zombie Pois Renforcé",
+            "introduce": "<size=36><color=black>L'année dernière, Zombie Pois Renforcé a tiré une carte de tarot sur laquelle on pouvait lire \"L'Empereur\". Depuis, il est capable de tirer des pois de fer à volonté.</color>",
+            "info": "<size=36>Tire des pois très dommageables.\n\n<color=black>Dégâts : </color><color=#4B0082>80/1.5 secondes</color>\n<color=black>Robustesse : </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Tire des pois en fer sur vos défenseurs, ce qui peut repousser les zombies hypnotisés. Lâche un seau lorsqu'il est tué par des projectiles.</color>"
         },
         {
             "theZombieType": 109,
-            "name": "Zombie Noix Quarterback",
-            "introduce": "<size=35><color=black>Le zombie rugby-nut n'était autrefois qu'un zombie de football ordinaire, jusqu'au jour où il entre en collision avec une noix qui répandait de l'engrais. \"Je ne sais pas comment ce type s'est retrouvé sur ma tête, il m'étouffe !\" » déplora le Zombie Rugby-nut.</color>",
-            "info": "<size=35>Zombie à haute armure qui peut également courir très vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270+4400</color>\n<color=black>Spécial : </color><color=#4B0082>Un casque de rugby tombera lorsqu'il sera tué par des balles.</color>"
+            "name": "Grande-noix Quarterback",
+            "introduce": "<align=justified><size=36><color=black>La Grande-noix Quarterback n'était autrefois qu'un zombie de rugby ordinaire, jusqu'au jour où il entre en collision avec une noix qui recevait de l'engrais. \"Je ne sais pas ce qu'il se passe, mais Je ne vois plus la peur. C’est comme ça que je sais que je gagne !\" déplora la Grande-noix Quarterback.</color>",
+            "info": "<size=36>Zombie à l'armure robuste qui peut également courir très vite.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 4400</color>\n<color=black>Spécial : </color><color=#4B0082>Un casque de rugby tombera lorsqu'il sera tué par les plantes.</color>"
         },
         {
             "theZombieType": 110,
-            "name": "Zombie Boîte-mystère Doré",
-            "introduce": "<size=36><color=black>？？！</color>",
-            "info": "<size=36>Un doré !? Je me demande ce qu'il y a à l'intérieur de cette Mystery-box...\n\n<color=black>Robustesse : </color><color=#4B0082>270+720</color>\n<color=black>Spécial : </color><color=#4B0082>Une fois la boîte tombée, apparaît un zombie aléatoire avec une Robustesse complète.</color>"
+            "name": "Zombie Mystère Doré",
+            "introduce": "<align=justified><size=36><color=black>Le Zombie Mystère Doré n'arrive tout simplement pas à se décider. Un instant, il veut se déguiser en Zombie Noix-sceau. L’instant d’après, il se passionne pour la lecture, comme le Zombie Érudit. Peut-être qu’en lui faisant tomber cette boîte de la tête, il réussira enfin à prendre une décision…</color>",
+            "info": "<size=36>Un Zombie Mystère Doré !? Je me demande ce qu'il y a à l'intérieur de cette boite...\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 720 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>Une fois la boîte tombée, fait apparaître un zombie aléatoire avec une Robustesse complète.</color>"
         },
         {
             "theZombieType": 111,
             "name": "Zombie Noix Glacée",
-            "introduce": "<size=32><color=black>La tête du zombie Frost-nut a suscité de nombreuses opinions dans le monde des zombies. Certains disent qu'il cherche à se distancer du monde froid, tandis que d'autres soupçonnent que cela est lié aux expériences folles du Dr Edgar. Pourtant, lui seul sait que ce couvre-chef est apparu après avoir mangé un champignon bleu spécifique.</color>",
-            "info": "<size=32>Un zombie robuste qui peut également annuler les dégâts des projectiles de glace.\n\n<color=black>Robustesse : </color><color=#4B0082>270+2200</color>\n<color=black>Spécial : </color><color=#4B0082>Immunité aux projectiles gelés ou glacés.</color>"
+            "introduce": "<align=justified><size=36><color=black>La tête du Zombie Noix Glacée a suscité de nombreuses opinions dans le monde des zombies. Certains disent qu'il cherche à se distancer de ses confrères, tandis que d'autres soupçonnent que cela est lié aux expériences folles du Dr Edgar. Pourtant, lui seul sait que ca tête est devenu comme ça après avoir mangé de Fu Ling.</color>",
+            "info": "<size=36>Un zombie robuste qui peut également annuler les dégâts des projectiles de glace.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>Immunité aux projectiles glacés ou l'Altération gèle. Subit des pure dégâts équivalents à 1/3 de sa Robustesse max lorsqu’il est touché par un Jalapeño.</color>"
         },
         {
             "theZombieType": 112,
-            "name": "Zombie Cata-grenade",
-            "introduce": "<size=35><color=black>Attention : avant qu'il n'utilise tous ses ballons de basket, assurez-vous de courir, car ses ballons de basket explosifs provoqueront le chaos !</color>",
-            "info": "<size=35>Lance des ballons de basket explosifs pour détruire vos défenses !\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Lance 5 ballons de basket, puis lance des ballons de basket explosifs. Le ballon de basket explosif inflige 100 dégâts aux plantes Umbrella.</color>"
+            "name": "Zombie Lance-grenade",
+            "introduce": "<align=justified><size=36><color=black>Attention : Si vous remarquez qu'il ne lui reste plus aucun ballons de basket, c'est qu'il est déjà trop tard, car ses ballons de basket explosifs provoqueront le chaos ! FUYEZ !!!</color>",
+            "info": "<size=36>Lance des ballons de basket explosifs pour détruire vos défenses !\n\n<color=black>Dégâts: </color><color=#4B0082>60/3s (ballons de basket), 1000/3s (Ballons cerises)</color>\n<color=black>Robustesse : </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Lance 5 ballons de basket, puis lance 20 ballons de cerises. Le ballon cerise inflige 100 dégâts aux plantes Ombrelles (excepté Bombrelle qui ne recois pas de dégâts).</color>"
         },
         {
             "theZombieType": 113,
@@ -326,9 +326,9 @@
         },
         {
             "theZombieType": 200,
-            "name": "Requinmarine",
-            "introduce": "<size=36><color=black>\"Un excellent plongeur doit non seulement être capable de plonger mais aussi de conduire un super sous-marin !\" » déclara Sharkmarine Zombie en augmentant la puissance du sous-marin d'un rapport.</color>",
-            "info": "<size=36>J'ai entendu dire que ce zombie est lié à un certain poisson robot.\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>"
+            "name": "Requin-marine",
+            "introduce": "<align=justified><size=36><color=black>\"Un excellent plongeur doit non seulement être capable de plonger mais aussi de conduire un super sous-marin !\" déclara le Zombie Requin-marine en passant une vitesse.</color>",
+            "info": "<size=36>L'entreprise Gfishtus présente fièrement...\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Charge a une vitesse phénoménale a travers les défenses de la piscine, écrasant instantanément toutes les plantes qui ne sont pas immunisées à l'écrasement, infligeant 500 dégâts aux plantes anti-écrasement.</color>\n<color=black>Modificateurs Odyssée:\n</color><color=#4B0082>1. Les Zombarines et Requin-marines ont désormais le double de vitesse de déplacement.\n2.  Les Requin-marines et les Zombarines gagnent désormais 50% de réduction des dégâts.</color>"
         },
         {
             "theZombieType": 201,
@@ -434,9 +434,9 @@
         },
         {
             "theZombieType": 115,
-            "name": "Écraseur Zombie",
-            "introduce": "<color=black>\"Hmm ? Hmm !\" Les Zombies Écraseurs chargent toujours sans hésitation, écrasant toutes les plantes sur leur passage, et tous les zombies sont émus par leur altruisme. Mais les Zombies Écraseur sont tout simplement fans de la Neko Écraseur, et lorsqu'ils l'ont vue écraser l'Endoflame, ils n'ont pas pu résister à l'envie d'imiter et d'écraser les plantes.</color>",
-            "info": "Écrase la première plante à proximité et meurt.\n\n<color=black>Résistance : </color><color=#4B0082>500</color>\n<color=black>Spécial : </color><color=#4B0082>Écrase les premières plantes qu'il rencontre.</color>"
+            "name": "Zombie Écraseur",
+            "introduce": "<align=justified><size=36><color=black>\"Hmm ? Hmm !\" Les Zombies Écraseurs chargent toujours sans hésitation, écrasant toutes les plantes sur leur passage, tous les zombies sont émus par leur altruisme. Mais les Zombies Écraseurs sont tout simplement fans de Chacrabouille, lorsqu'ils l'ont vue écraser Endoflame, ils n'ont pas pu résister à l'envie d'imiter et d'écraser les plantes.</color>",
+            "info": "<size=36>Écrase la première plante à proximité et meurt.\n\n<color=black>Robustesse : </color><color=#4B0082>500</color>\n<color=black>Spécial : </color><color=#4B0082>Écrase les premières plantes qu'il rencontre. Devient Zombie Écraseur Pimenté lorsqu’il est touché par les flammes d’un Zombie Jalapeño.</color>"
         },
         {
             "theZombieType": 116,
@@ -545,6 +545,18 @@
             "name": "Zombie Capitaine-quarterback",
             "introduce": "<align=justified><size=36><color=black>\"Nous portons tous les deux des uniformes de rugby et nous courons très vite. Mais moi, je peux rouler, et lui ne le peut pas.\" Le Zombie Capitaine-quarterback s’est sérieusement comparé au Giga-noix Quarterback et a conclu avec confiance qu’il était plus fort. Cette confiance l’aide: désormais, il court plus vite pour échapper à la poursuite du Giga-noix Quarterback, mais aussi pour envahir les gazons des malheureux qui oseraient se dresser sur son passage.</color>",
             "info": "<size=36>Peut effectuer des roulades d’ésquive.\n\n<color=black>Robustesse: </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082> Au premier contact avec une plante, roule de deux cases vers l’avant en ignorant les obstacles.</color>"
+        },
+        {
+            "theZombieType": 74,
+            "name": "Zombie Piment Hypnotique",
+            "introduce": "<align=justified><size=36><color=black>Lors de sa toute première apparition au concours de beauté de Zombies Hypnotisés, Zombie Piment Hypnotique a reçu les éloges unanimes de tous les juges et a remporté la première place haut la main. Juges plantes comme juges zombies l’ont qualifiée de \"Charmant\" et de \"Piquant\". Mis à part quelques candidats mystérieusement disparus, l’événement fut irréprochable.</color>",
+            "info": "<size=36>Brûle les zombies hypnotisés dans sa voie.\n\n<color=black>Robustesse: </color><color=#4B0082>720</color>\n<color=black>Spécial: </color><color=#4B0082> Immunisée contre les étourdissements. S’autodétruit après un certain temps, libérant une rangée de flammes qui inflige 1800 points de dégâts uniquement aux zombies hypnotisés sur son chemin.</color>"
+        },
+        {
+            "theZombieType": 75,
+            "name": "Mineur Jala-hypno",
+            "introduce": "<align=justified><size=36><color=black> Le Mineur Jala-hypno excelle dans l’art de se faufiler derrière les défenses ennemis, utilisant sa pioche imprégnée de magie pour transformer les plantes en zombies. Mais ces zombies fraîchement créés ont le cœur droit : ils détestent les tactiques d’embuscade et se retourneront contre L'embusqueur… sans se rendre compte qu’ils sont eux-mêmes en train de \"prendre en embuscade l’embusqueur\".</color>",
+            "info": "<size=36>Utilise sa pioche pour transformer les plantes en Zombies Hypnotisés, puis les brûle avec une flamme auto destructrice.\n\n<color=black>Robustesse: </color><color=#4B0082>1500</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Immunisée contre les étourdissements. Tant que la pioche n’a pas été retirée, ses attaques transforment les plantes offensive en zombotanies hypnotisées aléatoires, ou appliquent 500 points de progression de minage aux plantes défensives.\n<color=black>•</color>Lorsqu’il atteint l’arrière-ligne et en émerge, il s’autodétruit après un délai de 20s, à la manière du Zombie Piment Hypnotique, libérant une rangée de flammes qui inflige 1800 points de dégâts uniquement aux Zombies Hypnotisés dans sa ligne.</color>"
         }
     ]
 }
