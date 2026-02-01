@@ -877,8 +877,8 @@
         },
         {
             "seedType": 947,
-            "name": "Boreal Lifereaver",
-            "introduce": "<align=justified><size=36><color=black>At the heart of the tundra stands the Boreal Lifereaver, guardian of the frozen wilds. For years, it has endured unyielding winters, its branches heavy with frost, crowned with delicate lotus blooms. Even when playful newcomers etch runes across its bark, it remains steadfast and unshaken.</color>",
+            "name": "Lifereaver Spruce",
+            "introduce": "<align=justified><size=36><color=black>At the heart of the tundra stands the Lifereaver Spruce, guardian of the frozen wilds. For years, it has endured unyielding winters, its branches heavy with frost, crowned with delicate lotus blooms. Even when playful newcomers etch runes across its bark, it remains steadfast and unshaken.</color>",
             "info": "<size=36>Cold gathers on spruce leaves, and lotuses bloom in the trees.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>60/0.02s (lasts 5s)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15/60 ice charges when affected by snowball/snow trident/Ice-shroom/blizzard respectively. Passively gains 1 ice charge every 5s.\n<color=black>•</color> Fires a boreal reaper saw every 1.5s that turns into a homing shot on hit, with each instance of attack applying Deep Chill, adding 1 Cryo Point, and granting 1 ice charge.\n<color=black>•</color> When ice charge exceeds 50, it depletes to 0 every 5s to heal all plants in a 3×3 area for (ice charge ÷ number of plants)×(0.3×shield + 0.7×HP).\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs and Blizzards.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Boreal reaper saws now last for 15s\n2. Healing is no longer split among plants</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Spruce Supershooter + Snowbloom Spruce</color>"
         },
