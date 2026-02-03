@@ -158,7 +158,7 @@
             "seedType": 22,
             "name": "Blover",
             "introduce": "<align=justified><size=36><color=black>When Blover was five he got a shiny new birthday cake. Blover made his wish, huffed and puffed, but was able to extinguish only 60% of the candles. Instead of giving up, though, he's used that early defeat as a catalyst to push himself harder ever since.</color></size>",
-            "info": "<size=36>Blovers blow away all balloon zombies and fog, except Bucket-copter Zombies and Zomppelins.\n\n<color=black>Special: </color><color=#8B0000>Blows away fog for 30s, Balloon Zombies and Boomer Sharkmarine missiles. Pushes back Zomppelins slightly.</color></size>",
+            "info": "<size=36>Blovers blow away all balloon zombies and fog, except Bucket-copter Zombies and Zomppelins.\n\n<color=black>Special: </color><color=#8B0000>Clears fog for 30s. Blows away Balloon Zombies and Boomer Sharkmarine missiles. Pushes back Zomppelins slightly.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>15s</color></size>"
         },
         {
@@ -877,8 +877,8 @@
         },
         {
             "seedType": 947,
-            "name": "Boreal Lifereaver",
-            "introduce": "<align=justified><size=36><color=black>At the heart of the tundra stands the Boreal Lifereaver, guardian of the frozen wilds. For years, it has endured unyielding winters, its branches heavy with frost, crowned with delicate lotus blooms. Even when playful newcomers etch runes across its bark, it remains steadfast and unshaken.</color>",
+            "name": "Lifereaver Spruce",
+            "introduce": "<align=justified><size=36><color=black>At the heart of the tundra stands the Lifereaver Spruce, guardian of the frozen wilds. For years, it has endured unyielding winters, its branches heavy with frost, crowned with delicate lotus blooms. Even when playful newcomers etch runes across its bark, it remains steadfast and unshaken.</color>",
             "info": "<size=36>Cold gathers on spruce leaves, and lotuses bloom in the trees.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>60/0.02s (lasts 5s)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15/60 ice charges when affected by snowball/snow trident/Ice-shroom/blizzard respectively. Passively gains 1 ice charge every 5s.\n<color=black>•</color> Fires a boreal reaper saw every 1.5s that turns into a homing shot on hit, with each instance of attack applying Deep Chill, adding 1 Cryo Point, and granting 1 ice charge.\n<color=black>•</color> When ice charge exceeds 50, it depletes to 0 every 5s to heal all plants in a 3×3 area for (ice charge ÷ number of plants)×(0.3×shield + 0.7×HP).\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs and Blizzards.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Boreal reaper saws now last for 15s\n2. Healing is no longer split among plants</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Spruce Supershooter + Snowbloom Spruce</color>"
         },
@@ -886,7 +886,7 @@
             "seedType": 948,
             "name": "Infernal Sparkwood",
             "introduce": "<align=justified><size=36><color=black>Infernal Sparkwood may burn brighter than any flame, but it was futuristic cuisine that truly lit up the competition. At the Culinary Clash's grand finale, he shared his trophy with Astro-nut, whose time-travel snacks left the judges starstruck. Even the judge McCornics called it \"out of this world.\"</color>",
-            "info": "<size=36>A Torchwood blazing with Starfruit flames, boasting extreme ignition power and granting star projectiles homing capabilities.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Infernal Squashwood</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Infernal Squashwood.\n<color=black>•</color> No longer spawns Spicy Squashes. Every 51 projectiles affected spawns a Spicy Starfruit in front.\n<color=black>•</color> Ignites star projectiles (except spicy stars) for ×2 damage, but with original traits removed (except Magnetar stars), granting global homing with anti-air priority.\n<color=black>•</color> Explosive cherries become Explode-o-Stars: ×2 damage, global homing with anti-air priority.\n<color=black>•</color> Affects other projectiles like Infernal Squashwood. Triggers Jalapeno effect on death.</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Projectiles required to spawn a Spicy plant are halved\n2. Ignites the lane immediately when spawning a Spicy plant is not possible</color>",
+            "info": "<size=36>A Torchwood blazing with Starfruit flames, boasting extreme ignition power and granting star projectiles homing capabilities.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Infernal Squashwood</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Infernal Squashwood.\n<color=black>•</color> No longer spawns Spicy Squashes. Every 51 projectiles affected spawns a Spicy Starfruit in front.\n<color=black>•</color> Ignites star projectiles (except spicy stars) for ×2 damage, but with original traits removed (except Magnetar stars' aircraft downing ability), granting global homing with anti-air priority.\n<color=black>•</color> Explosive cherries become Explode-o-Stars: ×2 damage, global homing with anti-air priority.\n<color=black>•</color> Affects other projectiles like Infernal Squashwood. Triggers Jalapeno effect on death.</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Projectiles required to spawn a Spicy plant are halved\n2. Ignites the lane immediately when spawning a Spicy plant is not possible</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Squash <-> Starfruit</color>"
         },
         {
@@ -1348,7 +1348,7 @@
             "seedType": 1039,
             "name": "Frost Tall-nut",
             "introduce": "<align=justified><size=36><color=black>Frost Tall-nut raised his icy spikes high, ready to confront the zombies. Others remarked on how \"cold\" and \"silent\" he seemed. Yet, his expression remained unchanged, resolute in his defense against the undead. The truth was his face had simply frozen in place.</color></size>",
-            "info": "<size=36>Tall-nuts with a minty taste. They slow down zombies that bite them.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Zombies that bite it are chilled and accumulate 10 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. When affected by the Ice-shroom, heals 1000 Toughness.</color></size>",
+            "info": "<size=36>Tall-nuts with a minty taste. They slow down zombies that bite them.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Zombies that bite it are chilled and accumulate 10 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. When affected by Ice-shrooms, heals 1000 Toughness.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Tall-nut</color>"
         },
         {
@@ -2825,7 +2825,7 @@
             "seedType": 1250,
             "name": "Squash-nut",
             "introduce": "<align=justified><size=36><color=black>Dragged from a kids' playground by his stem and dumped on the lawn, Squash-nut was rejected for being a deformed rubber ball. Now, furious and bumpy, he bounces wildly, yelling: \"I'm gonna play all I want! ALL I WANT!\"</color>",
-            "info": "<size=36>A bouncy nut who's all tantrum and impact.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s  (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Bounces in his tile when a zombie gets close, dealing splash damage on each landing. Does not block zombies while airborne.</color>",
+            "info": "<size=36>A bouncy nut who's all tantrum and impact.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Bounces in his tile when a zombie gets close, dealing splash damage on each landing. Does not block zombies while airborne.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Squash</color>"
         },
         {
@@ -3111,7 +3111,7 @@
         {
             "seedType": 1291,
             "name": "Shark-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"I come from the vast ocean,\"  Shark-shroom boasts. \"With this shark mimicry, I can scare off any predator. It's an evolution only possible in the deep sea.\" He loves telling tales of his past to Sea-shrooms, but never reveals why he left the ocean: the disguise often attracts real sharks.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I come from the vast ocean,\" Shark-shroom boasts. \"With this shark mimicry, I can scare off any predator. It's an evolution only possible in the deep sea.\" He loves telling tales of his past to Sea-shrooms, but never reveals why he left the ocean: the disguise often attracts real sharks.</color>",
             "info": "<size=36>A cannibalistic Fume-shroom that \"feeds\" on Sea-shrooms, borrowing the menace of Kraken-shroom to drive away enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Using a Sea-shroom seed packet on him extends his range to the full lane for 10s.\n<color=black>•</color> Knocks back zombies knocked back by Kraken-shroom within the last 3s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom > Sea-shroom</color>"
         },
@@ -3182,7 +3182,7 @@
             "seedType": 1301,
             "name": "Umbrella Cap",
             "introduce": "<align=justified><size=36><color=black>Like other Umbrellas, Umbrella Caps have great ambitions and are willing to sacrifice themselves to protect the world. Though not tall enough to protect other plants, they have found something else to protect, the land they live on and love so deeply.</color>",
-            "info": "<size=36>Uses their small body to desperately fend off enemies.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Umbrella Cap in his tile every 30s.</color>",
+            "info": "<size=36>Uses their small body to desperately fend off enemies.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Umbrella Cap in his tile every 30s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf > Puff-shroom</color>"
         },
         {
@@ -3448,14 +3448,14 @@
             "seedType": 1339,
             "name": "Land-mine",
             "introduce": "<align=justified><size=36><color=black>After lying in wait for a long time, Land-mine has drawn sufficient strength from sunlight and moisture, gaining power comparable to a Cherry Bomb. \"Spudow!\" he shouted, but the zombies were only surprised.</color>",
-            "info": "<size=36>Can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed stated. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
+            "info": "<size=36>Can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed state. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Potato Mine</color>"
         },
         {
             "seedType": 1340,
             "name": "Sea-mine",
             "introduce": "<align=justified><size=36><color=black>The moment he enters the pool, Sea-mine absorbs water like a little water baby, convinced this will greatly amplify his explosive power. While this does turn out to be true, he still cannot understand how it all works, just as he cannot understand why the pool is never completely filled with dead zombies either.</color>",
-            "info": "<size=36>Aquatic and can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed stated. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
+            "info": "<size=36>Aquatic and can grow twice.\n\n<color=black>Damage: </color><color=#8B0000>900 (Initial)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts in an armed state. Grows 30s after appearance, doubling its damage.\n<color=black>•</color> After another 30s, grows again and increases explosion radius to 1.5 tiles across lanes.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine > Sea-shroom</color>"
         },
         {
@@ -3532,7 +3532,7 @@
             "seedType": 1351,
             "name": "Solar Squash",
             "introduce": "<align=justified><size=36><color=black>Solar Squash's favorite thing to do is gently pat the petals on his head with his leaf, then boast proudly to other Squashes: \"This is what Sun-powered shampoo does. Just look how smooth my hair is.\" Luckily for him, the other Squashes are all very serious and never tease him, so he still doesn't know he's sporting a classic receding hairline.</color>",
-            "info": "<size=36>Can consume Sun to remain on the lawn after squashing.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>0.5 tiles to the left; 1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>Upon landing or dying, consumes 50 + (Number of previous revivals) Sun to remain on the tile of the landing spot/revive. If this fails, 50 Sun is refunded.</color>",
+            "info": "<size=36>Can consume Sun to remain on the lawn after squashing.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>0.5 tiles to the left; 1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>Upon landing or dying, consumes 50 + 25 * (Number of previous revivals) Sun to remain on the tile of the landing spot/revive. If this fails, 50 Sun is refunded.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Squash</color>"
         },
         {
