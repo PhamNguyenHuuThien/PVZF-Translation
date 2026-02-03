@@ -285,8 +285,8 @@
         {
             "theZombieType": 107,
             "name": "Zombie Noix-cerise",
-            "introduce": "<size=36><color=black>Les vrais hommes ne se retournent jamais pour regarder les explosions, et Cherry-nut Zombie fait certainement l'affaire, car il attrape souvent des bombes avec son visage.</color>",
-            "info": "<size=36>A une légère résistance aux balles explosives.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1100</color>\n<color=black>Spécial : </color><color=#4B0082>Prend 150 dégâts maximum des explosions.</color>"
+            "introduce": "<size=36><color=black>Les vrais hommes ne se retournent jamais pour regarder les explosions, et Zombie Noix-cerise fait certainement l'affaire, car il attrape souvent des bombes avec son visage.</color>",
+            "info": "<size=36>A une légère résistance aux pois explosives.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1100</color>\n<color=black>Spécial : </color><color=#4B0082>Recoit 150 points de dégâts maximum des bombes cerises et ne subit que la moitié des dégâts des projectiles explosifs cerises. Immunisé contre le gel à la mort des cerises gelées.</color>"
         },
         {
             "theZombieType": 108,
