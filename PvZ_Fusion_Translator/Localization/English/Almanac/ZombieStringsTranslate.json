@@ -549,7 +549,7 @@
         {
             "theZombieType": 113,
             "name": "Pea Rider Yeti",
-            "introduce": "<align=justified><size=36><size=36><color=black>When asked what sets him apart from the Whale Rider Yeti, Pea Rider simply shrugs and grins. \"Oh, nothing much. I just really, really love playing Boomerang.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>When asked what sets him apart from the Whale Rider Yeti, Pea Rider simply shrugs and grins. \"Oh, nothing much. I just really, really love playing Boomerang.\"</color>",
             "info": "<size=36>A variant of the Whale Rider Yeti!\n\n<color=black>Damage: </color><color=#4B0082>20/0.75s</color>\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Shoots peas at your plants before and after jumping.</color>"
         },
         {
