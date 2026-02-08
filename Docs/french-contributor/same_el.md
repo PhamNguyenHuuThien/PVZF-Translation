@@ -21,14 +21,45 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **19**
-* Traductions ajustées : **92**
+* Nouvelles traductions : **23**
+* Traductions ajustées : **101**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/02/26 → 08/02/26`
+> [PR#96](https://github.com/Teyliu/PVZF-Translation/pull/96) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **4**
+* Traductions ajustées : **9**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Pois Renforcé-coptère** (`theZombieType: 119`)
+* **Zombie Champi-mort** (`theZombieType: 120`)
+* **Gargantua Hyperactift** (`theZombieType: 122`)
+* **Gargantua Invocateur** (`theZombieType: 123`)
+
+## 🛠️ **Modified Zombies**
+* **Pisto-pois Seau Moustiquaire** (`theZombieType: 114`)
+* **Zombie Écraseur Épicé** (`theZombieType: 116`)
+* **Zombie Jalapeño** (`theZombieType: 117`)
+* **Commando Pois QB** (`theZombieType: 118`)
+* **Diablotin Abyssal** (`theZombieType: 213`)
+* **Zombie Mystère Diamant** (`theZombieType: 215`)
+* **Yéti Pisto-pois Béluga** (`theZombieType: 113`)
+* **Zombie Cétologue** (`theZombieType: 19`)
+* **Yéti Béluga** (`theZombieType: 27`)
 
 ---
 

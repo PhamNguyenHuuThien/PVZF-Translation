@@ -21,8 +21,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **23**
-* Traductions ajustées : **40**
+* Nouvelles traductions : **28**
+* Traductions ajustées : **42**
 
 
 ---
@@ -30,6 +30,33 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/02/26 → 08/02/26`
+> [PR#96](https://github.com/Teyliu/PVZF-Translation/pull/96) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **5**
+* Traductions ajustées : **2**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Écraseur Big Bang** (`seedType: 965`)
+* **Sulfateuse Mortelle Épique** (`seedType: 971`)
+* **Champi-sulfateuse Furieux Épique** (`seedType: 972`)
+
+## 🧩 **Modified Plants**
+* **Sulfateuse Mortelle** (`seedType: 907`)
+* **Champi-sulfateuse Furieux** (`seedType: 930`)
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Roulourson** (`theZombieType: 62`)
+* **Roulisable** (`theZombieType: 67`)
 
 ---
 
