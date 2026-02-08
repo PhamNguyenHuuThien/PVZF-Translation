@@ -110,9 +110,9 @@
         },
         {
             "theZombieType": 19,
-            "name": "Zombie Dauphin",
-            "introduce": "<size=36><color=black>Le zombie Dauphin est artiste à temps partiel il est gardien de dauphins dans un aquarium. Le dauphin qu'il chevauche est un zombie, mais contrairement aux zombies typiques, ce \"dauphin zombie\" n'a aucun désir de cervelle.</color>",
-            "info": "<size=36>Les zombies dauphins utilisent les dauphins pour exploiter les faiblesses de votre défense aquatique.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saute au-dessus de la première plante qu'il rencontre, à part les plantes qui sont catégorisées comme des grandes Plantes.</color>"
+            "name": "Zombie Cétologue",
+            "introduce": "<align=justified><size=36><color=black>Le Zombie Cétologue est artiste à temps partiel, il est aussi gardien de dauphins dans un aquarium. Le dauphin qu'il chevauche est un zombie, mais contrairement aux zombies typiques, ce \"zombie dauphin\" n'a aucun désir de cervelle.</color>",
+            "info": "<size=36>Les zombies Cétologues utilisent les dauphins pour exploiter les faiblesses de votre défense aquatique.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saute au-dessus de la première plante qu'il rencontre, à part les plantes qui sont catégorisées comme des grandes Plantes.</color>"
         },
         {
             "theZombieType": 20,
@@ -158,9 +158,9 @@
         },
         {
             "theZombieType": 27,
-            "name": "Yeti Baleine",
-            "introduce": "<size=30><color=black>La baleine blanche que monte le Zombie Yeti possède des capacités de saut impressionnantes. Le Zombie chevaucheur de dauphin est assez envieux et a toujours voulu l'emprunter pour une balade, mais le Zombie Yeti refuse à chaque fois. \"Zombie Yeti n'a aucun contrôle sur sa baleine blanche\", a déclaré le Dr Edgar. \"Il veut toujours se cacher derrière moi, mais la baleine blanche finit par faire le chemin inverse.\"</color>",
-            "info": "<size=30>Saute de trois tuiles en avant et fait demi-tour, attaquant vos plantes par derrière.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être bloqué par les Grandes-Noix.</color>"
+            "name": "Yéti Béluga",
+            "introduce": "<align=justified><size=36><color=black>Le Béluga que monte le Zombie Yéti possède des capacités de saut impressionnantes. Le Zombie Cétologue est assez envieux et a toujours voulu faire une balade avec, mais le Zombie Yéti refuse à chaque fois. \"Je n'ai aucun contrôle sur mon Béluga\", a déclaré le zombie Yéti. \"Il veut toujours faire le chemin inverse, mais le Béluga finit par se perdre et partir sans moi.\"</color>",
+            "info": "<size=36>Saute de trois tuiles en avant et fait demi-tour, attaquant vos plantes par derrière.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Ne peut pas être bloqué par les Grandes-Noix.</color>"
         },
         {
             "theZombieType": 28,
@@ -320,9 +320,9 @@
         },
         {
             "theZombieType": 113,
-            "name": "Yeti Baleine Pisto-pois",
-            "introduce": "<size=36><color=black>Qu'est-ce qui rend ce type spécial par rapport au yéti cavalier-baleine ? Pea Rider répond : J'aime vraiment jouer à Boomerang.</color>",
-            "info": "<size=36>Une variante du Whale Rider Yeti !\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Tire des pois sur vos plantes avant et après avoir sauté.</color>"
+            "name": "Yéti Pisto-pois Béluga",
+            "introduce": "<align=justified><size=36><color=black>Qu'est-ce qui rend ce Yéti Pisto-pois Béluga si spécial par rapport au Yéti Béluga ? Yéti Pisto-pois Béluga se contente de hausser les épaules et de sourire en répondant : \"Je ne sais pas, à vous de me le dire.\" Tout en vous regardant d’un air jugeur.</color>",
+            "info": "<size=36>Une variante du Yéti Béluga !\n\n<color=black>Dégâts : </color><color=#4B0082>20/0,75 s</color>\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Tire des pois sur vos plantes avant et après avoir sauté.</color>"
         },
         {
             "theZombieType": 200,
@@ -375,14 +375,14 @@
         {
             "theZombieType": 208,
             "name": "Spectre Immortel",
-            "introduce": "<size=30><color=black>Ce monstre a survécu aux conditions les plus difficiles et possède une force énorme. Il évite les cerveaux et parcourt le monde à la recherche d'un endroit isolé.</color>",
-            "info": "<size=30>Un spectre d'il y a mille ans, doté d'une force immense.\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Dégâts : </color><color=#4B0082>500</color>\n<color=black>Spécial : </color><color=#4B0082>Se précipite occasionnellement sur une courte distance, infligeant 500 dégâts aux plantes sur son passage et à nouveau en sortant. À sa mort, inflige 500 dégâts aux plantes dans une zone 3×3, hors plantes protégées par Citrouille.</color>"
+            "introduce": "<align=justified><size=36><color=black>Ce monstre a survécu aux conditions les plus difficiles et possède une force énorme. Il évite les cerveaux et parcourt le monde à la recherche d'un endroit isolé.</color>",
+            "info": "<size=36>Un spectre d'il y a mille ans, doté d'une force immense.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Dégâts: </color><color=#4B0082>500</color>\n<color=black>Spécial: </color><color=#4B0082>Toutes les 8 à 14 secondes, bondit vers l'avant de 2 cases, infligeant 500 points de dégâts aux plantes sur son passage (le premier bond est deux fois plus rapide). À sa mort, inflige 500 points de dégâts d'explosion Jack-in-the-Box aux plantes dans une zone de 3×3, à l'exception des plantes protégées par une citrouille.</color>\n<color=black>Modificateurs Odyssey:\n</color><color=#4B0082>1. L'explosion à la mort inflige désormais des dégâts physiques (ne peut pas être immunisée).\n2. Temp de récupération du Dash réduit à 1/3, dégâts d'attaque de base x3.</color>"
         },
         {
             "theZombieType": 209,
             "name": "Clown Pogo",
-            "introduce": "<size=36><color=black>\"Je voulais juste suivre la tendance avec ce look\", dit Pogo King Clown en haussant les épaules chaque fois que son apparence cool apparaît. Mais tout le monde sait qu'il a eu une histoire d'amour qui l'a profondément marqué.</color></size>",
-            "info": "<size=36>La bombe est cachée dans son pogo stick.\n\n<color=black>Robustesse : </color><color=#4B0082>270+4400</color>\n<color=black>Spécial : </color><color=#4B0082>S'il meurt en sautillant, il explosera et se transformera en Roi Clown-in-the-Box Zombie.</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Quoi, ça ? C'est juste une question de mode, mon ami,\" sourit Clown Pogo chaque fois que l'on évoque son apparence. Mais ceux qui le connaissent depuis longtemps n'y croient pas. Son look n'est pas seulement une question de style, c'est un hommage discret et tacite à un amour qui signifiait autrefois tout pour lui. Certaines tendances disparaissent, mais certains souvenirs restent à jamais gravés dans les mémoires.</color></size>",
+            "info": "<size=36>La bombe est cachée dans son pogo stick.\n\n<color=black>Robustesse : </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Hérite des caractéristiques du Zombie Pogo Pastèque. S'il meurt alors qu'il tient son bâton sauteur, il explose et se transforme en Roi Zombie Diable à ressort.</color>\n<color=black> Modificateurs Odyssey:\n</color><color=#4B0082>1. L'explosion à la mort est désormais garantie | Le temps de recharge de Zombie Pogo Pastèque et Clown Pogo est réduit à 0,5 secondes.\n2. Le Diable à ressort zombie touché par l'explosion se transformera en Clown Pogo.\n<color=black>Faiblesse: </color>Fusions d'Ombrelle</color>"
         },
         {
             "theZombieType": 210,
@@ -575,6 +575,30 @@
             "name": "Roulisable",
             "introduce": "<align=justified><size=36><color=black>Roulisable était autrefois un Roulourson. Un jour, il est allé jouer à la plage et s’est retrouvé couvert de sable, se transformant en Roulisable. \"Parfois les plantes m’ignorent parce que j’utilise le sable comme camouflage !\" se dit-il.</color></size>",
             "info": "<size=36>Se déplace comme une boule de ronces ; sa petite taille le rend plus difficile à toucher.\n\n<color=black>Robustesse: </color><color=#4B0082>300</color>\n<color=black>Spécial: </color><color=#4B0082>Roule vers l’avant, ignorant les plantes 2 fois sur 3 (chaque Roulisable peut ignorer un maximum de 3 plantes). Lorsqu’il entre en collision avec une plante, inflige des dégâts équivalents à ses propres PV puis meurt. Possède 1 chance sur 3 d’esquiver n’importe quel dégât.</color>"
+        },
+        {
+            "theZombieType": 119,
+            "name": "Pois Renforcé-coptère",
+            "introduce": "<align=justified><size=36><color=black>Face aux doutes des autres zombies, Pois Renforcé-coptère a essayé de prouver son statut de vétéran avec une vieille photo de groupe. \"Mais… où es-tu dessus ?\" ont-ils demandé. Il regarde le cliché en noir et blanc, tout aussi perplexe.</color>",
+            "info": "<size=36>Pois Renforcé-coptère suspendu à un drone métallique\n\n<color=black>Dégâts: </color><color=#4B0082>80/1.5s</color>\n<color=black>Robustesse: </color><color=#4B0082>1350 + 500 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Immunisé au Troufle. Tire des pois métallique sur vos défenses, ses pois métallique peuvent faire reculer les zombie hypnotisés. </color>"
+        },
+        {
+            "theZombieType": 120,
+            "name": "Zombie Champi-mort",
+            "introduce": "<align=justified><size=36><color=black>Les zombies en ont assez d’être réduits en cendres par des explosions apocalyptiques. Ils ont décidés de construitre une arme de contre-attaque pour faire souffrir les plantes, cette fois. Même si le corps d’un zombie ne peut transporter qu’un tiers de la charge complète du Champi-mort, c’est toujours mieux que rien, non ?</color>",
+            "info": "<size=36>Zombie Champi-mort? Aw man!\n\n<color=black>Robustesse: </color><color=#4B0082>1350</color>\n<color=black>Spécial: </color><color=#4B0082>Immunisé contre les effets d’étourdissement. S’autodétruit après un certain temps et déclenche une explosion de Champi-mort qui inflige 1800 dégâts aux plantes dans une zone de 3 × 3.\n<color=black>Faiblesse: </color><color=#4B0082>Noix Maudite</color>"
+        },
+        {
+            "theZombieType": 122,
+            "name": "Gargantua Hyperactif",
+            "introduce": "<align=justified><size=36><color=black>Le Gargantua hyperactif est toujours en première ligne à la poursuite de cerveaux bien frais. Grâce à son palmarès remarquable, le Dr Edgar lui a un jour remis en personne la Médaille de Pierre Tombale de deuxième classe. Hélas, en tant que guerrier exemplaire, il ne participe jamais à la parade des zombies, car ses pas ne s’accorde tout simplement jamais avec celui des autres.</color>",
+            "info": "<size=36>Gargantua rapide.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Possède ×2 la vitesse d’attaque, la vitesse de déplacement et la vitesse de lancer d’un Gargantua normal.</color>"
+        },
+        {
+            "theZombieType": 123,
+            "name": "Gargantua Invocateur",
+            "introduce": "<align=justified><size=36><color=black>Le Gargantua Invocateur brandit son panneau de signalisation MAGIC !, et des diablotins surgissent du sol en essaim. Ces petits fauteurs de troubles apportent beaucoup d’amusement — mais aussi bien des maux de tête — à la vie de leur maître… surtout juste après qu’il a fracassé une Noix.</color>",
+            "info": "<size=36>Un Gargantua qui invoque des diablotins à chaque coup.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Chaque fois qu’il écrase avec succès une plante, un diablotin est invoqué.</color>"
         }
     ]
 }

@@ -2116,10 +2116,10 @@
         },
         {
             "seedType": 1196,
-            "name": "Melon à Ressort",
-            "introduce": "<align=justified><size=36><color=black>\" Retenir son souffle, se concentrer… et frapper avec précision ! \" Le Melon à Ressort est d’une patience exemplaire, toujours à l’affût du moment parfait pour agir. Si vous lui demandez comment il reste aussi calme, il citera toujours son mentor : l’Imitateur.</color>",
-            "info": "<size=36>Un grand champignon doté de vrilles spiralées qui lancent des pastèques après une charge.\n\n<color=black>Dégâts : </color><color=#8B0000>120/4 s</color>\n<color=black>Portée : </color><color=#8B0000>4 cases devant</color>\n<color=black>Spécial : </color><color=#8B0000>Se charge lorsqu’il n’attaque pas pendant au moins 4,5 s, augmentant ses dégâts à (1 + temps de charge × 0,5) fois les dégâts de base. Temps de charge maximal : 30 s.</color>",
-            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Lance-pastèque</color>"
+            "name": "Pastèque à Ressort",
+            "introduce": "<align=justified><size=36><color=black>\" Retenir son souffle, se concentrer… et frapper avec précision ! \" La Pastèque à Ressort est d’une patience exemplaire, toujours à l’affût du moment parfait pour agir. Si vous lui demandez comment elle reste aussi calme, elle citera toujours son mentor : l’Imitateur.</color>",
+            "info": "<size=36>Un grand champignon doté de vrilles spiralées qui lancent des pastèques après une charge.\n\n<color=black>Dégâts : </color><color=#8B0000>120/4 s</color>\n<color=black>Portée : </color><color=#8B0000>4 cases devant</color>\n<color=black>Spécial : </color><color=#8B0000>Se charge lorsqu’elle n’attaque pas pendant au moins 4,5 s, augmentant ses dégâts à (1 + temps de charge × 0,5) fois les dégâts de base. Temps de charge maximal : 30 s.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Champi-fumée + Lance-pastèque</color>"
         },
         {
             "seedType": 239,
