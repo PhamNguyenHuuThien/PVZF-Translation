@@ -23,13 +23,32 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **11**
-* Traductions ajustées : **31**
+* Traductions ajustées : **35**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/02/26 → 08/02/26`
+> [PR#96](https://github.com/Teyliu/PVZF-Translation/pull/96) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **4**
+
+---
+
+#### Détail
+
+## 🛠️ **Modified Zombies**
+* **Zombie Noix-cerise** (`theZombieType: 107`)
+* **Zombie Parcours** (`theZombieType: 125`)
+* **Spectre Immortel** (`theZombieType: 208`)
+* **Clown Pogo** (`theZombieType: 209`)
 
 ---
 

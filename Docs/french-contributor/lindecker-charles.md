@@ -28,15 +28,82 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **208**
-* Traductions ajustées : **115**
-* Reviews effectuées : **265**
+* Nouvelles traductions : **209**
+* Traductions ajustées : **116**
+* Reviews effectuées : **289**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/02/26 → 08/02/26`
+> [PR#96](https://github.com/Teyliu/PVZF-Translation/pull/96) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+* Traductions ajustées : **1**
+* Reviews effectuées : **24**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Tronc-richissime** (`seedType: 932`)
+
+## 🧩 **Modified Plants**
+* **Pastèque à Ressort** (`seedType: 1196`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Translations**
+
+[Hubtech](./hubtech.md) :
+* **Écraseur Big Bang** (`seedType: 965`)
+* **Sulfateuse Mortelle Épique** (`seedType: 971`)
+* **Champi-sulfateuse Furieux Épique** (`seedType: 972`)
+
+## 🧩 **Modified Plants**
+
+[Hubtech](./hubtech.md) :
+* **Sulfateuse Mortelle** (`seedType: 907`)
+* **Champi-sulfateuse Furieux** (`seedType: 930`)
+
+### 🧟‍♂️ **Newly Added Zombie Translations**
+
+[Same-ael](./same_el.md) :
+* **Pois Renforcé-coptère** (`theZombieType: 119`)
+* **Zombie Champi-mort** (`theZombieType: 120`)
+* **Gargantua Hyperactift** (`theZombieType: 122`)
+* **Gargantua Invocateur** (`theZombieType: 123`)
+
+[Hubtech](./hubtech.md) :
+* **Roulourson** (`theZombieType: 62`)
+* **Roulisable** (`theZombieType: 67`)
+
+### 🛠️ **Modified Zombies**
+
+[Oarlina](./oarlina.md) :
+* **Zombie Noix-cerise** (`theZombieType: 107`)
+* **Zombie Parcours** (`theZombieType: 125`)
+* **Spectre Immortel** (`theZombieType: 208`)
+* **Clown Pogo** (`theZombieType: 209`)
+
+[Same-ael](./same_el.md) :
+* **Pisto-pois Seau Moustiquaire** (`theZombieType: 114`)
+* **Zombie Écraseur Épicé** (`theZombieType: 116`)
+* **Zombie Jalapeño** (`theZombieType: 117`)
+* **Commando Pois QB** (`theZombieType: 118`)
+* **Diablotin Abyssal** (`theZombieType: 213`)
+* **Zombie Mystère Diamant** (`theZombieType: 215`)
+* **Yéti Pisto-pois Béluga** (`theZombieType: 113`)
+* **Zombie Cétologue** (`theZombieType: 19`)
+* **Yéti Béluga** (`theZombieType: 27`)
 
 ---
 
