@@ -490,7 +490,7 @@
             "theZombieType": 101,
             "name": "Cherryshooter Zombie",
             "introduce": "<align=justified><size=36><color=black>Cherryshooter Zombie is a 17-year-old high school student with a plant head growing from his neck. His favorite fruit is cherries, and due to his papal family background, the zombies affectionately refer to him as the \"Leaf King.\"</color>",
-            "info": "<size=36>Shoots cherry bullets to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>60/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
+            "info": "<size=36>Shoots cherry bullets to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>40/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 102,

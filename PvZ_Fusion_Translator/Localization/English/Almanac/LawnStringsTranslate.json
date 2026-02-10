@@ -1747,56 +1747,56 @@
             "seedType": 1092,
             "name": "Pumpkin Morph",
             "introduce": "<align=justified><size=36><color=black>Dining out sends shivers down Pumpkin Morph's spine. He's always fearful that the iron cutlery will magically stick to his face, turning an enjoyable meal into an awkward experience.</color></size>",
-            "info": "<size=36>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#666699>Magnetic System: </color><color=#8B0000>This plant will deal:\n(20 * Amount of Magnetic Plants in System * Zombie Speed) to specific zombies every 6s. Only Zombies with magnetable materials OR mechanical vehicles can be damaged this way. Also, they must not be on the sky or underground. This trait carries into further fusions.</color>\n<color=black>Special: </color><color=#8B0000>Metal plant.</color></size>",
+            "info": "<size=36>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#666699>Magnetic System: </color><color=#8B0000>This plant will deal:\n(20 * Amount of Magnetic Plants in System * Zombie Speed) to specific zombies every 6s. Only Zombies with magnetable materials OR mechanical vehicles can be damaged this way. Also, they must not be on the sky or underground. This trait carries into further fusions.</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can fuse with Bucket, Pickaxe and Jack-in-the-Box.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Magnet-shroom > Pumpkin</color>"
         },
         {
             "seedType": 1093,
             "name": "Starmorph",
             "introduce": "<align=justified><size=36><color=black>Starmorph harbors a lifelong dream: to suck the stars from the sky. He spends every night staring at the starry heavens, imagining the day when his dream becomes reality.</color></size>",
-            "info": "<size=36>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Deals double damage to iron zombies.</color></size>",
+            "info": "<size=36>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Deals double damage to iron zombies. Can fuse with Bucket, Pickaxe and Jack-in-the-Box.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit + Magnet-shroom</color>"
         },
         {
             "seedType": 1094,
             "name": "Jokestar",
             "introduce": "<align=justified><size=36><color=black>Jokestar often bore the burden of being seen as a circus clown, which left him feeling discontented. \"I may appear comical, but I am, in fact, a superhero,\" he declared. \"I commandeered the zombie's Jack-in-the-Box and put on the hero suit inside!\" Perhaps the Magnet-shroom who aided him in the heist never mentioned where the box came from.</color></size>",
-            "info": "<size=36>Shoots out stars that explode on contact.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Stars explode on contact, dealing low splash damage with no falloff.</color></size>",
+            "info": "<size=36>Shoots out stars that explode on contact.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Stars explode on contact, dealing splash damage in 1 tile with no falloff. You can use metal objects on it to heal it by 500.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Starmorph</color>"
         },
         {
             "seedType": 1095,
             "name": "Starpick",
             "introduce": "<align=justified><size=36><color=black>\"It's remarkably pickaxe-like,\" Starpick commented, a hint of amusement in his tone. \"I can feel part of myself nestled in the ground, and it's quite pleasant—unless you're bothered by insects like centipedes.\" With a cheeky smile, he challenged, \"Why not take off my hat? You'll find I'm even more pickaxe-like than you!\"</color></size>",
-            "info": "<size=36>Starpick hides underground: zombies will not attack it.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be attacked and does not block zombies.</color></size>",
+            "info": "<size=36>Starpick hides underground: zombies will not attack it.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be attacked and does not block zombies. You can use metal objects on it to heal it by 500.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pickaxe > Starmorph</color>"
         },
         {
             "seedType": 1096,
             "name": "Iron Star",
             "introduce": "<align=justified><size=36><color=black>People often use the headshots of Iron Star and Starmorph to hype up their relationship, which greatly troubles both of them. In fact, Iron Star just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
-            "info": "<size=36>Fires stars lined with a metallic coating.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Breaks Type 2 armor instantly (before damage reduction).</color></size>",
+            "info": "<size=36>Fires stars lined with a metallic coating.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Breaks Type 2 armor instantly (before damage reduction). You can use metal objects on it to heal it by 500.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Starmorph</color>"
         },
         {
             "seedType": 1097,
             "name": "Steel Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"I wish I were stronger,\" Steel Pumpkin muses. \"Maybe if I were made of diamond...\" Iron Star smirks and replies, \"Even that wouldn't be enough! You'd need to be netherite!\" In their spirited banter, they forget a vital truth: they can enchant their own strengths.</color></size>",
-            "info": "<size=36>Protects your plants with sturdy iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed corresponding metal objects to restore 500 Toughness. Receives half the damage from explosive cherries.</color></size>",
+            "info": "<size=36>Protects your plants with sturdy iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed metal objects to restore 500 HP. Receives half the damage from explosive cherries.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Pumpkin Morph</color>"
         },
         {
             "seedType": 1098,
             "name": "Joker Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"Whenever I emerge, it signals the arrival of the clown. Everyone wonders what lies within his box, but the outcome remains a mystery. I caught a glimpse once, and that moment changed everything for me.\"</color></size>",
-            "info": "<size=36>Can block explosions caused by Jack-in-the-Box zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Nullifies Jack-in-the-Box explosion damage, protecting the plant inside.</color></size>",
+            "info": "<size=36>Can block explosions caused by Jack-in-the-Box zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Nullifies Jack-in-the-Box explosion damage, protecting the plant inside. Can be fed metal objects to restore 500 HP.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Pumpkin Morph</color>"
         },
         {
             "seedType": 1099,
             "name": "Miner Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Pumpkin is frequently used to protect the plants in the back from being attacked by miners. Curious about stopping the miners from drilling into the ground, he picked up their pickaxes and studied them. Ultimately, he developed new technology that forces miners to dig their way out of the ground in advance.</color></size>",
-            "info": "<size=36>Can block mining attempts by Digger Zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Forces Digger Zombies to unearth prematurely.</color></size>",
+            "info": "<size=36>Can block mining attempts by Digger Zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Forces Digger Zombies to unearth prematurely. Can be fed metal objects to restore 500 HP.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pickaxe > Pumpkin Morph</color>"
         },
         {
@@ -2160,7 +2160,7 @@
             "seedType": 1151,
             "name": "Giga Mecha-nut",
             "introduce": "<align=justified><size=36><color=black>Giga Mecha-nut has always been passionate about environmental protection. 'I have a love-hate relationship with zombies—they pollute the environment, but they also bring me wealth. Isn't owning property and a trailer the hallmark of success? The lawn is clean all thanks to me!'</color>",
-            "info": "<size=36>Can store up Toughness and protect your plants.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Anti-crush. Max damage received is capped at 8k.\n<color=black>•</color> Healing can exceed maximum Toughness without any cap. Spawns with 80× Toughness as initial HP.\n<color=black>•</color> Redirects damage to itself in a 3×3 area.\n<color=black>•</color> Recovers 4.8k HP when fed metal objects. When metal objects on the lawn disappear, every Giga Mecha-nut restores (4.8k / total number of Giga Mecha-nuts) HP.\n<color=black>•</color> Using a Wall-nut on it restores 8k HP instantly and summons a Sharkmarine (stationary if on land with 1/3 the HP of the Giga Mecha-nut).</color>",
+            "info": "<size=36>Can store up Toughness and protect your plants.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Anti-crush. Max damage received is capped at 8k.\n<color=black>•</color> Healing can exceed maximum Toughness without any cap. Spawns with 80× Toughness as initial HP.\n<color=black>•</color> Redirects damage to itself in a 3×3 area.\n<color=black>•</color> Recovers 4.8k HP when fed metal objects. When metal objects on the lawn disappear, every Giga Mecha-nut restores (4.8k / total number of Giga Mecha-nuts) HP.\n<color=black>•</color> Using a Wall-nut on it restores 8k HP instantly and summons a Sharkmarine (stationary if on land with 1/3 the HP of the Giga Mecha-nut).\n<color=black>•</color> At most 10M HP can be restored per round; this cap is affected by healing-reducing effects accordingly.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Giga Mecha Fragments > Wall-nut</color>"
         },
         {
@@ -2566,7 +2566,7 @@
             "seedType": 1209,
             "name": "Kernel Morph",
             "introduce": "<align=justified><size=36><color=black>\"The elderly also need to learn to keep up with the times,\" the Kernel Morph said, \"This new force of magnetism has truly opened my eyes.\" Of course, there is a small problem; it always makes the neighbors think he's a scrap collector.</color>",
-            "info": "<size=36>The Kernel Morph can fuse with metal objects and changes into the corresponding form based on the type.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a magnetic butter with 80 damage, and stuns the target for 4 seconds.</color>",
+            "info": "<size=36>The Kernel Morph can fuse with metal objects and changes into the corresponding form based on the type.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a magnetic butter with 80 damage, and stuns the target for 4s. Can fuse with Bucket and Chrono Core.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Kernel-pult + Magnet-shroom</color>"
         },
         {
@@ -3273,7 +3273,7 @@
             "seedType": 1310,
             "name": "Sturdy-shroom",
             "introduce": "<align=justified><size=36><color=black>Sturdy-shroom was originally shy like other Scaredy-shrooms, until seeing distant relatives with \"Mushroom Power\" on TV — unafraid of zombies. He decided to learn from them, nicknamed himself \"Mushroom Lee,\" and trained day and night to face zombies without fear.</color>",
-            "info": "<size=36>Very slim defender, but will fight back when cornered.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> After cowering for 10s, immediately stands up and knocks back nearby zombies, dealing 20 damage. For the next 5s, he will not hide himself again. While cowering, takes 50% reduced damage.</color>",
+            "info": "<size=36>Very slim defender, but will fight back when cornered.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> After cowering for 10s, immediately stands up and knocks back nearby zombies, dealing 20 damage to the zombie's body, its Type 1 armor and Type 2 armor simultaneously. For the next 5s, he will not hide himself again. While cowering, takes 50% reduced damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Scaredy-shroom</color>"
         },
         {
@@ -3301,7 +3301,7 @@
             "seedType": 1314,
             "name": "Melon Morph",
             "introduce": "<align=justified><size=36><color=black>Melon Morph used to work at the Electromagnetics Research Institute and once proposed a conjectured model of magnetic poles, suggesting that magnetic poles are distributed like watermelon seeds embedded in a watermelon. However, his theory was ignored, because he was only the institute's watermelon supplier.</color>",
-            "info": "<size=36>Stepping stone for other Metal Melon fusions, also deals heavy damage to helmeted zombies.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000> Deals 2× damage to zombies with Type 1 Armor.</color>",
+            "info": "<size=36>Stepping stone for other Metal Melon fusions, also deals heavy damage to helmeted zombies.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000> Deals 2× damage to zombies with Type 1 Armor. Can fuse with Bucket and Chrono Core.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Magnet-shroom</color>"
         },
         {
@@ -3427,7 +3427,7 @@
             "seedType": 1332,
             "name": "Black Cherry",
             "introduce": "<align=justified><size=36><color=black>\"You can't host a party in the garden without a permit.\" Black Cherry casually tells the unregistered zombies off. \"The first time's just a warning. If they still don't leave after that, I'll take action. Well, some can't even handle the warning.\"</color>",
-            "info": "<size=36>Unleashes a Cherry Bomb blast, then uses the resulting ash to trigger an even stronger Doom-shroom explosion.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Triggers a Cherry Bomb explosion on fusion, and explodes like a Doom-shroom after 1.5s.\n<color=black>•</color> The Doom-shroom blast deals 1800 base Cremator damage, increasing by 300 for each zombie caught in the initial Cherry Bomb explosion.</color>",
+            "info": "<size=36>Unleashes a Cherry Bomb blast, then uses the resulting ash to trigger an even stronger Doom-shroom explosion.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Triggers a Cherry Bomb explosion on fusion, and explodes like a Doom-shroom after 1.5s.\n<color=black>•</color> The Doom-shroom blast deals 1800 base Cremator damage, increasing by 20% for each zombie caught in the initial Cherry Bomb explosion.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Doom-shroom</color>"
         },
         {
@@ -3644,7 +3644,7 @@
             "seedType": 1363,
             "name": "Butternut-pult",
             "introduce": "<align=justified><size=36><color=black>Butternut-pult was never good at biology. He's always believed that the idea of \"apical dominance\" is wrong, but he's learned to keep that opinion to himself, not because he's embarrassed about his grades, but because he doesn’t want anyone to realize he's a corn with an underdeveloped tip.</color>",
-            "info": "<size=36>Thrown projectiles slam zombies like a Squash, with a chance to butter the ones that get crushed.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Projectiles deal area squash damage when they land. Has a 25% chance to throw a Butter Squash, applying 4s of Butter stun to up to 3 damaged targets.</color>",
+            "info": "<size=36>Thrown projectiles slam zombies like a Squash, with a chance to butter the ones that get crushed.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Projectiles deal area squash damage when they land. Has a 25% chance to throw a Butter Squash, dealing 60 damage and applying 4s of Butter stun to up to 3 damaged targets.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Squash + Kernel-pult</color>"
         },
         {
@@ -3681,6 +3681,55 @@
             "introduce": "<align=justified><size=36><color=black>A monopolist of the cold-chain logistics industry, Golden Ice-shroom can sway the temperature of the market with just a light sprinkle of coins. After years in the business, his wealth and fame are beyond counting, and his life is complete… except for the fact that he still can't cure his facial paralysis.</color>",
             "info": "<size=36>A stable, gold-plated Ice-shroom that brings extreme cold through money.\n\n<color=black>Special: </color><color=#8B0000>Triggers an Ice-shroom effect once on appearance (does not disappear afterwards).</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 2s; repeats the following effects 4 times on targets within a 2.2-tile radius:\n\t-Deals 200 damage, applies Chill and 25 Cryo point, and reduces the target's Cryo cap by 100.\n\t-Fires an icicle at each target dealing 20 damage. Icicles deal 2× damage to Chilled zombies and 4× damage to frozen zombies.</color>",
             "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>3000 Coins</color>"
+        },
+        {
+            "seedType": 1369,
+            "name": "Rebound-shroom",
+            "introduce": "<align=justified><size=36><color=black>Table tennis is a shared passion of both plants and zombies, and Rebound Shroom is a household name in the zombie world, having defeated countless graveyard champions. By reporting opponents for the foul of returning the ball with their heads, he has claimed gold medals in over a dozen Plant-Zombie Table Tennis Championships, while his not-too-bright opponents have never noticed that he commits the very same foul himself.</color>",
+            "info": "<size=36>Treats projectiles as table tennis balls, batting them back and forth continuously toward zombies' heads.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When a lobbed projectile in the same lane hits a zombie in front, it will rebound toward Rebound-shroom and then continue bouncing back and forth between the two.\n<color=black>•</color> Only one projectile can be bounced at a time; the bounce height gradually decreases until it hits the ground.\n<color=black>•</color> Does not bounce projectiles that can already bounce on their own.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Cabbage-pult</color>"
+        },
+        {
+            "seedType": 1370,
+            "name": "Squish",
+            "introduce": "<align=justified><size=36><color=black>They're just three kids pestering you for candy. The only unusual thing is that if you refuse their request, you might feel a bit of \"pressure.\"</color>",
+            "info": "<size=36>Energetic little squashes that hop around and smash enemies.\n\n<color=black>Damage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>2 tiles to the left and right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Smashes once every 1s and does not disappear after smashing; when not targeting, jumps back to its original tile.\n<color=black>•</color> Vulnerable to zombie attack for 0.6s after each smash.\n<color=black>•</color> Immune to crush. When crushed, takes 500 damage every 0.02s. When smashed, takes damage equal to the corresponding damage a hypnotized zombie would take when smashed.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash > Puff-shroom</color>"
+        },
+        {
+            "seedType": 1371,
+            "name": "Doom Pumpkin",
+            "introduce": "<align=justified><size=36><color=black>Doom Pumpkin is always advertising his services as being great for healthier-looking skin, but plant inspectors often complain that his treatments are dangerously radioactive.</color>",
+            "info": "<size=36>Channels the power of Doom-shroom into the plants inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains 1% charge every 0.5s; enters the field with a starting charge between 80%-95% randomly.\n<color=black>•</color> When charge meter is full (100%), can consume all charge to transform one plant on his tile into a fusion of that plant and Doom-shroom (the resulting plant must not be an Odyssey fusion).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Pumpkin</color>"
+        },
+        {
+            "seedType": 1372,
+            "name": "Spike Pot",
+            "introduce": "<align=justified><size=36><color=black>Every plant that's spent time with Spike Pot complains that he's far too enthusiastic and has no sense of personal boundaries. Only Obsidian Spike-nut doesn't mind, and the reason is simple: Spike Pot is the only one willing to help de-rust Obsidian Spike-nut's razor-sharp shell.</color>",
+            "info": "<size=36>Has Spikeweed traits and enhances the defenses of Spike-nut plants.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Inherits traits from Spikeweed (ignored by biting zombies and pops tires).\n<color=black>•</color> Grants 50% damage reduction to Spike-nut and Obsidian Spike-nut on him.\n<color=black>•</color> Becomes anti-crush if the plant above is an Obsidian Spike-nut.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed > Flower Pot</color>"
+        },
+        {
+            "seedType": 1373,
+            "name": "Lumos Pea",
+            "introduce": "<align=justified><size=36><color=black>Lumos Pea started out as a kid who loved shining laser pointers at people. Later, Pharos Umbrella taught him how to use that trick on zombies instead.</color>",
+            "info": "<size=36>Fires high-frequency targeted lasers; absorbs Lumos energy to increase power.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After locking onto a target, fires a laser that deals damage once every 0.2s.\n<color=black>•</color> Every 0.5s, gains light energy equal to the current Lumos level. When dealing damage, consumes [(current light energy/10) + 1] light energy to increase that instance of damage by ×(energy consumed).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Plantern</color>"
+        },
+        {
+            "seedType": 1374,
+            "name": "Squash Drone",
+            "introduce": "<align=justified><size=36><color=black>By harnessing gravitational potential energy, floating Squashes can unleash devastating slams with ease: making the exaggerated wind-up before attacking seem unnecessary. \"Not unnecessary at all,\" explains Squash Drone. \"I'm shooing away the ladybugs resting on my leaves, so I don't hit them by accident.\"</color>",
+            "info": "<size=36>Repeatedly slams down on zombies beneath him.\n\n<color=black>Damage: </color><color=#8B0000>100/1.35s (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>Current tile</color>\n<color=black>Special: </color><color=#8B0000> Flying plant. When a zombie is in range, smashes the zombie below repeatedly.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Blover</color>"
+        },
+        {
+            "seedType": 1375,
+            "name": "Coldslaw",
+            "introduce": "<align=justified><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
+            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Cabbage-pult</color>"
         },
         {
             "seedType": 350,
@@ -3814,34 +3863,6 @@
             "introduce": "<align=justified><size=36><color=black>Threetato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
             "info": "<size=36>Threetato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> When armed, explodes on contact, dealing 3600 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Projectile Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Projectile Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Now unleashes an Ultimate move every 60s, firing 250 shots straight ahead over 5s, plus 500 more in a 0-45° spread</color>",
             "cost": "<size=36>Cost: <color=#8B0000>400</color>\nRecharge: <color=#8B0000>30s</color></size>"
-        },
-        {
-            "seedType": 1802,
-            "name": "Bomber Snipea [MODDED, DEPRECATED]",
-            "introduce": "<align=justified><size=36><color=black>A famous baker renowned for his cherry pie—though he often forgets the most essential ingredient: cherries. But fret not! Once he deals with this zombie, bam, cherry pie, complete!</color>",
-            "info": "<size=36>Create cherry explosions at the location of his targets.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Creates cherry explosions at the location of his targets every 2s.\n<color=black>•</color> Headshots every 8 attacks. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>Benefits from Gatling Cherrybomber's Modifiers</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Cherrybomber</color>"
-        },
-        {
-            "seedType": 1803,
-            "name": "Doom Snipea [MODDED, DEPRECATED]",
-            "introduce": "<align=justified><size=36><color=black>He is the guardian of the night, the stalker in the shadows. The moonlight is his veil, and the night sky his camouflage. I am grateful to fate for granting me this world-shattering power—along with the trials it brings, and the burdens it adds.</color>",
-            "info": "<size=36>His shots create doom explosions!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Unleashes a Doom-shroom explosion at his target's location every 8s.\n<color=black>•</color> Headshot every 2 attacks.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. (Gatling Doom's 1st Modifier) Attack Interval → 4s\n2. (Gatling Doom's 2nd Modifier) Now every shot headshots the target.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Doom</color>"
-        },
-        {
-            "seedType": 1804,
-            "name": "Golden Ace Snipea [MODDED, DEPRECATED]",
-            "introduce": "<align=justified><size=36><color=black>\"He's a dead man.\" When the first glint of gold arcs through the sky, even a brainless zombie knows that that is the harbinger for ultimate oblivion.</color>",
-            "info": "<size=36>Coordinate all firepower!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>1000/6s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Headshot once every 6s.\n<color=black>•</color> Active Ability: Click on Golden Ace Snipea to bring up a crosshair. Select any zombie as target, and all snipers on the field will immediately coordinate a focused attack on it. This effect has a 30s cooldown. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Attack Speed of all Snipers increased by 30%\n2. CD for Active Ability reduced to 15s</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Gold Magnet</color>"
-        },
-        {
-            "seedType": 1805,
-            "name": "Sniper Icicle-shroom [MODDED, DEPRECATED]",
-            "introduce": "<align=justified><size=36><color=black>Sniper Icicle-shroom is the shortest sniper in the squad, though he doesn't see that as a problem. \"My fellow sniper buddies, sure, they're tall and imposing, but they always need other plants to cover for them. Me? I can handle it myself just fine!\"</color>",
-            "info": "<size=36>Piercingly cold and deadly!\n\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict 100 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals splash damage in a single tile.\n<color=black>•</color> Headshots the main target every 6 attacks.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. (Gatling Icicle-shroom's 1st Modifier) Splash radius → 3×3\n2. (Gatling Icicle-shroom's 2nd Modifier) Now deals ×10 damage to frozen zombies</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Icicle-shroom</color>"
         }
     ]
 }
