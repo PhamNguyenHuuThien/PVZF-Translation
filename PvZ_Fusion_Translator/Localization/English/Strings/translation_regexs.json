@@ -117,6 +117,7 @@
   "旅行：守护 第(\\d+)轮": "Odyssey: Last Stand | Round {0}",
   "旅行：无尽 第(\\d+)轮": "Odyssey: Endless | Round {0}",
   "超级随机：无尽 第(\\d+)轮": "Odyssey Gacha: Endless | Round {0}",
+  "旅行：投资 第(\\d+)轮": "Odyssey: Investment | Round {0}",
   "^第(\\d+)轮$": "Round {0}",
   "^(\\d+)轮$": "Round {0}",
   "第(\\s+)已完成": "{0} Completed",
