@@ -312,5 +312,6 @@
   "^\n价格：(\\d+)$": "\nCost: {0} ",
   "生命值：(\\d+)\n攻击力：(\\d+)\n攻击间隔：([^\\s]+)秒\n价格：(\\d+)\n冷却：([^\\s]+)秒\n暴击率：([^\\s]+)%\n暴击伤害：([^\\s]+)%\n伤害加成：([^\\s]+)%\n赋能：([^\\s]+)": "HP: {0}\nAttack Power: {1}\nAttack Interval: {2}s\nCost: {3}\nCooldown: {4}s\nCritical DMG Chance: {5}%\nCritical DMG: {6}%\nDamage Boost: {7}%\nEmpowerment: {8}",
   "通关后随机刷新本关场景和僵尸\n并获得超进化星星(\\d+)个": "\tAfter clearing the level, you obtain {0} Evolution Stars you can use to evolve plants!\nand the stage scene and zombies are rerolled randomly.",
+  "^([^\\s]+)教程$": "{0}: Tutorial",
   "出怪等级: (\\d+)\n出怪权重: (\\d+)": "Spawn Cost: {0}\nSpawn Weight: {1}"
 }
