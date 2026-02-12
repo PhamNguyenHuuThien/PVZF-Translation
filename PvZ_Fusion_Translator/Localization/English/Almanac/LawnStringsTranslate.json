@@ -674,9 +674,9 @@
         },
         {
             "seedType": 918,
-            "name": "Ashen Threepeater",
-            "introduce": "<align=justified><size=36><color=black>The flames consume his broken body, each breath a torment, yet the Ashen Threepeater stands tall. He believes the fire within will achieve eternal glory in one final, grand explosion.</color>",
-            "info": "<size=36>Ashen Threepeater awaits his rebirth.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Loses attack capabilities after being thoroughly burnt.</color>",
+            "name": "Charred Threepeater",
+            "introduce": "<align=justified><size=36><color=black>The flames consume his broken body, each breath a torment, yet the Charred Threepeater stands tall. He believes the fire within will achieve eternal glory in one final, grand explosion.</color>",
+            "info": "<size=36>Charred Threepeater awaits his rebirth.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Loses attack capabilities after being thoroughly burnt.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scorched Threepeater + Jalapeno"
         },
         {
@@ -684,7 +684,7 @@
             "name": "Phoenix Threepeater",
             "introduce": "<align=justified><size=36><color=black>No one knows if fire truly brings rebirth to plants—it's just a legend. Those who chased it turned to ash, until he became the new legend. \"I don't know how many times I must endure the flames to succeed, but for them, I have to.\"</color>",
             "info": "<size=36>From fire reborn!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites the whole lawn upon entry.\n<color=black>•</color> Projectiles inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> Its damage is doubled after passing through an Infernal Squashwood.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage bonus 50% → 150%, and regular ignited projectiles can now inflict the debuff\n2. Phoenix peas can now pierce infinitely and cause Enflamed explosions | Phoenix Drone Subspecies Unlocked</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ashen Threepeater + Jalapeno</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Charred Threepeater + Jalapeno</color>"
         },
         {
             "seedType": 920,

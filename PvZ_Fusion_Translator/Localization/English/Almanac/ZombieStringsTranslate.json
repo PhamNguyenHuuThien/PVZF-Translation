@@ -164,7 +164,7 @@
         },
         {
             "theZombieType": 27,
-            "name": "Whale Rider Yeti",
+            "name": "Beluga Rider Yeti",
             "introduce": "<align=justified><size=36><color=black>The white whale that Yeti Zombie rides has impressive jumping skills. Dolphin Rider Zombie is quite envious and has always wanted to borrow it for a ride, but Yeti Zombie refuses each time. \"Yeti Zombie has no control over his white whale,\" Dr. Edgar said. \"He always wants to hide behind me, but the white whale ends up going the other way.\"</color>",
             "info": "<size=36>Jumps forward three tiles and turns back, attacking your plants from behind.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Cannot be blocked by tall plants.</color>"
         },
@@ -561,8 +561,8 @@
         {
             "theZombieType": 113,
             "name": "Pea Rider Yeti",
-            "introduce": "<align=justified><size=36><color=black>When asked what sets him apart from the Whale Rider Yeti, Pea Rider simply shrugs and grins. \"Oh, nothing much. I just really, really love playing Boomerang.\"</color>",
-            "info": "<size=36>A variant of the Whale Rider Yeti!\n\n<color=black>Damage: </color><color=#4B0082>20/0.75s</color>\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Shoots peas at your plants before and after jumping.</color>"
+            "introduce": "<align=justified><size=36><color=black>When asked what sets him apart from the Beluga Rider Yeti, Pea Rider simply shrugs and grins. \"Oh, nothing much. I just really, really love playing Boomerang.\"</color>",
+            "info": "<size=36>A variant of the Beluga Rider Yeti!\n\n<color=black>Damage: </color><color=#4B0082>20/0.75s</color>\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Shoots peas at your plants before and after jumping.</color>"
         },
         {
             "theZombieType": 114,
