@@ -13,8 +13,8 @@ Please visit our community for future updates and support.
 2. New Odyssey Mode - Odyssey: Investment
 - Based on Odyssey: Purgatory. Wave-spawned zombies no longer grant points, and free plant modifier draws are removed. Instead:
 - You start with a large amount of points and earn more points after each round and can open the Odyssey Shop every round.
-- Epic Odyssey Modifiers are sold at discounted prices. Collect enough to unlock Plant Bonds with extra bonuses.
-- New Investment Modifiers: Selectable once per Map. Choosing Gold or Diamond-tier Investment Modifiers increases the base damage of Bonds, but raises high-tier zombie spawn rates and grants zombies extra damage reduction.
+- Epic Odyssey Modifiers are sold at discounted prices. Collect enough to unlock Affinities with extra bonuses.
+- New Investment Modifiers: Selectable once per Map. Choosing Gold or Diamond-tier Investment Modifiers increases the base damage of Affinities, but raises high-tier zombie spawn rates and grants zombies extra damage reduction.
 
 3. Odyssey Mode Overhaul
 - Odyssey Shop now refresh with 4 Epic Odyssey Unlocks + 4 random Modifiers.
