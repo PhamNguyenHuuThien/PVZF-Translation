@@ -70,4 +70,3 @@ Please visit our community for future updates and support.
 9. Bug fixes
 - Fixed an issue where some Zombotanies couldn't be stunned by butter due to being unable to find their heads.
 - Fixed various other bugs.
-

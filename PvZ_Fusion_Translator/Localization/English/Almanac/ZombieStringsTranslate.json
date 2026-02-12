@@ -722,7 +722,7 @@
         },
         {
             "theZombieType": 210,
-            "name": "Giga Mecha-nut",
+            "name": "Giga Mecha-nut Bowling Zombie",
             "introduce": "<align=justified><size=36><color=black>\"Fish balls? Mecha armor? That's all that matters,\" says Giga Mecha-nut. Sporting an impressive mechanical suit, he feels that's all he really needs.</color></size>",
             "info": "<size=36>The new electric steam roller robot designed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Mecha-nut Zombies. Super fast. Drops a Giga Mecha-nut Fragment upon defeat.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. For the first 50 hits, all zombies take only 1 damage\n2. For the first 100 hits, zombies gain 0.1s of damage immunity after each hit\n<color=black>Weakness: </color>Umbrella fusions.</color></size>"
         },
